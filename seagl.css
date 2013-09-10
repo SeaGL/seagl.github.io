@@ -37,6 +37,7 @@ body {
 
 .hero-unit h1 {
     text-align:     center !important;
+    margin: 0 0 .25em 0;
 }
 
 li.vevent.detailed-list-item {
