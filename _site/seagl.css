@@ -1,0 +1,45 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.sidebar-nav {
+  padding: 9px 0;
+}
+
+@media (max-width: 980px) {
+  /* Enable use of floated navbar text */
+  .navbar-text.pull-right {
+    float: none;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+.lanyrd-schedule-embed h2 {
+    font-size:      1.0em !important;
+    text-align:     center !important;
+}
+
+.lanyrd-schedule-embed a:link, .lanyrd-schedule-embed a:visited {
+    font-size:      0.8em !important;
+}
+
+.lanyrd-detailed-list .opener {
+    font-size:      0.8em !important;
+    display:        block;
+    text-align:     right;
+}
+
+.nav-header {
+    font-size:      1.0em !important;
+    text-align:     center !important;
+}
+
+.hero-unit h1 {
+    text-align:     center !important;
+    margin: 0 0 .25em 0;
+}
+
+li.vevent.detailed-list-item {
+    border-bottom:  solid rgb(176, 176, 176);
+}
