@@ -5,7 +5,7 @@
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Get Involved with SeaGL" />
+    <meta name="description" content="{% if page.description %} {{ page.description }} {% elsif page.title %} {{ page.title }} {% else %} SeaGL 2013 {% endif %}" />
 
     <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" media="screen" href="seagl.css">
@@ -66,7 +66,7 @@
         </div>
         
         <hr>
-            <p>SeaGL is dedicated to a harassment-free conference experience for everyone. Our anti-harassment policy can be found <a href="/code_of_conduct.html">here</a>.</p>
+        <p>SeaGL is dedicated to a harassment-free conference experience for everyone. Our anti-harassment policy can be found <a href="/code_of_conduct.html">here</a>.</p>
 
         <div class="navbar navbar-inverse navbar-fixed-bottom">
           <div class="navbar-inner">
