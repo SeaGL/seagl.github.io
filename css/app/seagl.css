@@ -1,0 +1,255 @@
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #FFFCF7;
+  border-bottom: 12px solid #0C5A73;
+}
+.lanyrd-detailed-list .extended-detail p,
+.lanyrd-detailed-list .meta,
+.lanyrd-people-list .name {
+  font-family: 'Lato', sans-serif;
+}
+:hover {
+  -webkit-transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  -ms-transition: all .25s ease-in-out;
+  -o-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+}
+h1, h2, h3, h5, h6 {
+  font-family: 'Dosis', sans-serif;
+}
+h1 {
+  font-size: 100px;
+  text-transform: uppercase;
+  color: #FCB320;
+  text-shadow: 0 1px 1px #fff;
+}
+a, a:active {
+  color: #0C5A73;
+}
+a:visited {
+  color: #999;
+}
+a:hover {
+  color: black;
+}
+div > a, p a {
+  text-decoration: underline;
+}
+h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  color: #0C5A73;
+  text-shadow: 0 1px 1px #fff;
+}
+strong {
+  font-weight: 600;
+}
+.sidebar-nav {
+  padding: 9px 0;
+}
+#main-content {
+  margin-top: 50px;
+}
+#logo {
+  position: absolute;
+  top: 15px;
+  left: 50%;
+  margin-left:-100px;
+  -webkit-transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  -ms-transition: all .25s ease-in-out;
+  -o-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+}
+#logo:hover {
+  -webkit-transform: scale(1.1) rotate(-5deg);
+  -moz-transform: scale(1.1) rotate(-5deg);
+  -ms-transform: scale(1.1) rotate(-5deg);
+  -o-transform: scale(1.1) rotate(-5deg);
+  transform: scale(1.1) rotate(-5deg);
+}
+#main-nav {
+  position: relative;
+  height: 170px;
+  background-color: #074558;
+  border-bottom: 9px solid #FCB320;
+}
+#main-nav-container {
+  width: 900px;
+  margin: 60px auto;
+}
+#main-nav .main-nav-links li {
+  width: 160px;
+  font-size: 16px;
+  margin: 0 6px;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  text-transform: uppercase;
+}
+#main-nav .main-nav-links li a {
+  color: #fff;
+  background-color: transparent;
+  border: 1px solid #0C5A73;
+}
+#main-nav .main-nav-links li.active a {
+  border-color: #FCB320;
+  color: #FCB320;
+}
+#main-nav .main-nav-links li a:hover {
+  background-color: transparent;
+  color: #FCB320;
+}
+.main-nav-links .navbar a {
+  color: #fff;
+}
+.lead {
+  line-height: 44px;
+}
+.well {
+  background-color: #FCB320;
+  color: #fff;
+  font-family: 'Dosis', sans-serif;
+  font-size: 20px;
+  border:none;
+  line-height: 2.2em;
+  position: relative;
+}
+.well a {
+  background-color:#fff;
+  color: #0C5A73;
+  padding: 4px 10px;
+  margin: 0.2em;
+  text-decoration: none;
+  border-bottom: 3px solid #f1f1f1;
+}
+.well a:hover {
+  color: #000;
+}
+#main-nav .brand img {
+  position: absolute;
+  left: 50%;
+  margin-left: -60px;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #0C5A73;
+}
+#policy-content {
+  text-align: center;
+  margin-top: 4em;
+  height: 130px;
+}
+#policy-content img {
+  position: absolute;
+  top: -70px;
+  left: 30px;
+}
+#policy-content p {
+  margin-left: 200px;
+}
+#footer-nav {
+  margin: 6em auto 4em auto;
+}
+
+/* Lanyrd widget */
+
+.schedule-date {
+  text-align: center;
+  color: #999;
+  font-size: 20px;
+  background-color: #f1f1f1;
+  color: #999;
+  padding: 10px;
+  margin: 0 auto 1em auto;
+  width: 50%;
+  border-bottom: 1px solid #ccc;
+  text-shadow: 0 1px 1px #fff, 0 1px 1px #fff;
+}
+.lanyrd-detailed-list .detailed-list-item {
+  padding: 20px;
+  border:1px solid #f1f1f1;
+  border-right: 2px solid #ccc;
+  border-bottom: 4px solid #ccc;
+  background-color: #fff;
+  position: relative;
+}
+.detailed-list-item h3 .opener {
+  margin: 1em 0;
+  background-color: #074558;
+  padding: 10px;
+  color: #fff;
+  font-size: 16px;
+  text-shadow: none;
+  display: block;
+  position: relative;
+  width: 250px;
+  margin-left: -24px;
+  border-left: 6px solid #052E3A;
+  text-indent: 9px;
+}
+.lanyrd-detailed-list h3 {
+  width: 70%;
+}
+.detailed-list-item h3 a {
+  font-size: 28px;
+}
+.lanyrd-people-list .labels li {
+  width: 50%;
+}
+.lanyrd-detailed-list .meta {
+  margin: 1em 0;
+}
+.lanyrd-detailed-list .detailed-list-item:nth-of-type(even) {
+}
+.lanyrd-detailed-list .detailed-list-item:nth-of-type(odd) {
+}
+.dtstart, .dtend {
+  font-weight: bold;
+}
+@media (max-width: 800px) {
+  .pull-left, .pull-right {
+    float: none;
+  }
+  /* Enable use of floated navbar text */
+  .navbar-text.pull-right {
+    float: none;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  #main-nav-container {
+    width: 100%;
+  }
+  #policy-content {
+    height: auto;
+  }
+  #policy-content p {
+    margin: 0;
+  }
+  #logo {
+    margin-left: -60px;
+    width: 30%;
+  }
+  #main-nav {
+    height: 145px;
+  }
+  #policy-content img {
+    display: none;
+  }
+  #main-nav .main-nav-links li a,
+  #main-nav .main-nav-links li a:hover {
+    color: #000;
+    background-color: #FFFCF7;
+    border: 1px solid #FFFCF7;
+  }
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border:none;
+  }
+  h1 {
+    font-size: 60px;
+  }
+}
