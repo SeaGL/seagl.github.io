@@ -156,6 +156,12 @@ strong {
   margin: 6em auto 4em auto;
 }
 
+/* Page specific styles */
+
+#coc #policy-content {
+  display: none;
+}
+
 /* Lanyrd widget */
 
 .schedule-date {
