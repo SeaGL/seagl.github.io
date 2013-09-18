@@ -211,9 +211,25 @@ strong {
 .dtstart, .dtend {
   font-weight: bold;
 }
-@media (max-width: 800px) {
-  .pull-left, .pull-right {
-    float: none;
+@media (max-width: 1200px) {
+  #policy-content img {
+    display: none;
+  }
+  #policy-content p {
+    margin: 0;
+  }
+  #policy-content {
+    height: auto;
+  }
+  .well a {
+    display: block;
+    width: 100%;
+  }
+}
+@media (max-width: 910px) {
+  ul.pull-left,
+  ul.pull-right {
+    float: none!important;
   }
   /* Enable use of floated navbar text */
   .navbar-text.pull-right {
@@ -222,34 +238,47 @@ strong {
     padding-right: 5px;
   }
   #main-nav-container {
-    width: 100%;
+    width: 60%;
+    margin: 20px;
+    float: right;
   }
   #policy-content {
     height: auto;
-  }
-  #policy-content p {
-    margin: 0;
+    margin-top: 2em;
   }
   #logo {
-    margin-left: -60px;
+    margin: 0;
     width: 30%;
+    left: 35px;
+    top: 35px;
+  }
+  #main-content {
+    clear: both;
+    margin-top: 0;
   }
   #main-nav {
-    height: 145px;
+    height: 270px;
   }
-  #policy-content img {
-    display: none;
-  }
-  #main-nav .main-nav-links li a,
-  #main-nav .main-nav-links li a:hover {
-    color: #000;
-    background-color: #FFFCF7;
-    border: 1px solid #FFFCF7;
+  #main-nav .main-nav-links li {
+    width: 100%;
+    margin: 0 0 4px 0;
   }
   .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border:none;
   }
   h1 {
     font-size: 60px;
+  }
+}
+@media (max-width: 765px) {
+  #main-nav-container {
+    width: 60%;
+    margin: 48px -44px 0 0;
+    float: right;
+  }
+}
+@media (max-width: 560px) {
+  #main-nav-container {
+    width: 50%;
   }
 }
