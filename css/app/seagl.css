@@ -80,11 +80,11 @@ strong {
   border-bottom: 9px solid #FCB320;
 }
 #main-nav-container {
-  width: 900px;
+  width: 1170px;
   margin: 60px auto;
 }
 #main-nav .main-nav-links li {
-  width: 160px;
+  width: 150px;
   font-size: 16px;
   margin: 0 6px;
   text-align: center;
@@ -289,8 +289,11 @@ strong {
   }
 }
 
-
 /* Sponsorship CSS */
+
+#sponsors #main-content h1 {
+    text-align: center;
+}
 
 #sponsors h2 img.logo {
     width: 100%;
