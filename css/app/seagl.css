@@ -288,3 +288,18 @@ strong {
     width: 50%;
   }
 }
+
+
+/* Sponsorship CSS */
+
+#sponsors h2 img.logo {
+    width: 100%;
+}
+
+#sponsors #main-content a,
+#sponsors #main-content a:active,
+#sponsors #main-content a:visited
+{
+    color: #0C5A73 !important;
+    text-decoration: none !important;
+}
