@@ -306,3 +306,23 @@ strong {
     color: #0C5A73 !important;
     text-decoration: none !important;
 }
+
+/* Schedule CSS */
+
+.detailed-list-item {
+    height: 625px;
+    max-height: 625px;
+}
+
+.detailed-list-item h3 {
+    height: 220px;
+    max-height: 220px;
+    position: relative
+}
+
+
+.detailed-list-item h3 .opener {
+    position: absolute;
+    bottom: 0px;
+    top: auto;
+}
