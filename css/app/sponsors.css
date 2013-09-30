@@ -1,0 +1,61 @@
+/* Sponsorship CSS */
+
+#sponsors #main-content h1 {
+    text-align: center;
+}
+
+#sponsors #main-content a,
+#sponsors #main-content a:active,
+#sponsors #main-content a:visited
+{
+    color: #0C5A73 !important;
+    text-decoration: none !important;
+}
+
+
+/* Different max sizes for different levels */
+
+.platinum img.logo {
+    max-width: 100%;
+    max-height: 200px;
+}
+
+#sponsors #main-content .platinum h2 {
+    height: 200px;
+}
+
+.gold img.logo {
+    max-width: 100%;
+    max-height: 100px;
+}
+
+#sponsors #main-content .gold h2 {
+    height: 100px;
+}
+
+.silver img.logo {
+    max-width: 100%;
+    max-height: 75px;
+}
+
+#sponsors #main-content .silver h2 {
+    height: 75px;
+}
+
+.bronze img.logo {
+    max-width: 100%;
+    max-height: 50px;
+}
+
+#sponsors #main-content .bronze h2 {
+    height: 50px;
+}
+
+.thanks img.logo {
+    max-width: 100%;
+    max-height: 25px;
+}
+
+#sponsors #main-content .thanks h2 {
+    height: 25px;
+}
