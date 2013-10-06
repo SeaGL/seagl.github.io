@@ -4,7 +4,6 @@ nav: maps
 body_id: maps
 ---
 
-
 <div class="col-md-12">
   <div class="hero-unit">
     <h1>SeaGL 2013 Directions and Maps</h1>
@@ -13,7 +12,10 @@ body_id: maps
   <div class="row">
     <div class="col-md-12">
         <h2>SCCC Address</h2>
-        <p>1701 Broadway Seattle, WA 98122</p>
+        <p>1701 Broadway Seattle, WA 98122 - <a target="_blank" href="https://maps.google.com/maps?q=Seattle+Community+College,+Broadway,+Seattle,+WA&hl=en&ll=47.616376,-122.321348&spn=0.002839,0.005917&sll=47.616135,-122.320806&sspn=0.001427,0.002958&oq=SCCC,+&t=m&z=18">View in Google Maps</a></p>
+        <p>
+            <div id="map_canvas" style="width: 900px; height: 400px;"></div>
+        </p>
     </div>
   </div>
   
@@ -39,6 +41,7 @@ body_id: maps
     <div class="col-md-12">
         <h2>Parking</h2>
         <p>There are several private parking lots located near the front entrance at 1701 Broadway Ave. or on Harvard Avenue, which parallels Broadway behind the school. There also is metered 2-hour street parking.</p>
+        <p>Please use street parking or private parking. SCCC's lots are for teachers and students.</p>
         <p>Here's a crude map of the parking around SCCC. <a href="/img/maps/2013/Street_Parking_Map.png">Street_Parking_Map.png</a></p>
     </div>
   </div>
@@ -61,3 +64,37 @@ body_id: maps
     
 </div>
 
+<script type='text/javascript' src="//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script type='text/javascript'>
+    $(function(){
+        var mapOptions = {
+            zoom: 17,
+            center: new google.maps.LatLng(47.616248,-122.321426),
+            mapTypeId: google.maps.MapTypeId.HYBRID
+        };
+        gMap = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+        
+        var marker = new google.maps.Marker({
+            position: new google.maps.LatLng(47.616248,-122.321426),
+            map: gMap,
+            title: 'SeaGL @ SCCC'
+        });
+        
+        var contentString = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">SeaGL @ SCCC</h1>'+
+            '<div id="bodyContent">'+
+            '<p>1701 Broadway Seattle, WA 98122</p>'+
+            '</div>'+
+            '</div>';
+      
+        var infowindow = new google.maps.InfoWindow({
+            content: contentString
+        });
+        
+        google.maps.event.addListener(marker, 'click', function() {
+            infowindow.open(gMap, marker);
+        });
+    });
+</script>
