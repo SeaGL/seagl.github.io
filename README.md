@@ -17,3 +17,7 @@ This site runs using the built in Jekyll framework provided through Github Pages
 
 4. OPTIONAL: Watch files for changes, rebuild _site automatically
 ``jekyll build --watch``
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/SeaGL/seagl.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
