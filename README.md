@@ -16,7 +16,7 @@ This site runs using the built in Jekyll framework provided through Github Pages
 3. Navigate to **localhost:4000**
 
 4. OPTIONAL: Watch files for changes, rebuild _site automatically
-``jekyll build --watch``
+``jekyll serve --watch``
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/SeaGL/seagl.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
