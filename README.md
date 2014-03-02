@@ -1,7 +1,6 @@
-# SeaGL 2013
+# SeaGL
 
-Please visit <http://seagl.github.io>.
-
+Live website at <http://seagl.github.io>.
 
 ## Running locally
 
