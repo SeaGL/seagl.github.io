@@ -1,6 +1,6 @@
 # SeaGL
 
-Live website at <http://seagl.github.io>.
+Live website at <http://seagl.org>.
 
 ## Running locally
 
