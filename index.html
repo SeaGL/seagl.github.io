@@ -11,16 +11,19 @@ body_id: home
         {% for post in site.posts limit:10 %}
             <h2>{{ post.title }}<br><small>{{ post.date | date: '%B %d, %Y' }}</small></h2>
             {{ post.content }}
+            <hr>
         {% endfor %}
+        <a href="/news.html">Older News</a>
     </div>
     <div class="col-md-4">
-        <h1>2014</h1>
-        <p class="lead">
-            The 2014 Seattle GNU/Linux Conference is scheduled for October 24th
-            and 25th at <a href="http://seattlecentral.edu/sccc/">Seattle
+        <h1>About</h1>
+        <p>
+            The 2014 Seattle GNU/Linux Conference is scheduled for
+            <strong>October 24th and 25th</strong>
+            at <a href="http://seattlecentral.edu/sccc/">Seattle
             Central Community College</a> (<a href="/maps/2014.html">Maps</a>).
         </p>
-        <p class="lead">
+        <p>
             SeaGL is a grassroots technical conference dedicated to spreading
             awareness and knowledge about the GNU/Linux community and
             free/libre/open-source software/hardware. Our goal for SeaGL is to
@@ -40,13 +43,19 @@ body_id: home
     
   <div class="row">
     <div class="col-md-4">
-      <h2>Call for Participation</h2>
+      <h2>Contact</h2>
       <p>
-      We are looking for anyone interested in running a session dealing with any topic related to
-      Free/Libre and Open Source software, hardware, or technology in general. If you would like to host a
-      session please send an email to
-      <a href="mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
-      with your proposal for a 50 minute presentation, along with any reference material about your qualifications, and availability for free slots on <a href="http://lanyrd.com/2014/seagl/">our schedule</a>.</p>
+        <h3>IRC</h3>
+        <p>
+            <a href="https://webchat.freenode.net/">#seagl</a> on
+            <a href="http://freenode.net/using_the_network.shtml">Freenode</a>
+        </p>
+        <h3>Email</h3>
+        <p>
+            <a href="mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
+            or <a href="mailto:%70%72%65%73%73%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0072;&#x0065;&#x0073;&#x0073;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
+            or join the <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>.
+        </p>
       </p>
     </div><!--/span-->
     <div class="col-md-4">
