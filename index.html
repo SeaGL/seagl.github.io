@@ -8,7 +8,7 @@ body_id: home
   <div class="row">
     <div class="col-md-8">
         <h1>News</h1>
-        {% for post in site.posts limit:10 %}
+        {% for post in site.posts limit:2 %}
             <h2>{{ post.title }}<br><small>{{ post.date | date: '%B %d, %Y' }}</small></h2>
             {{ post.content }}
             <hr>
