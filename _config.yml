@@ -2,3 +2,7 @@ safe: true
 lsi: false
 pygments: true
 timezone: America/Los_Angeles
+
+name: Seattle GNU Linux Conference
+description: Seattle GNU Linux Conference
+url: http://seagl.org
