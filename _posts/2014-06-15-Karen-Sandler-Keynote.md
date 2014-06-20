@@ -4,6 +4,7 @@ title: 'Karen Sandler to Keynote SeaGL 2014!'
 status: publish
 type: post
 published: true
+categories: news
 ---
 
 We are super-excited to welcome Karen Sandler to Seattle this year to keynote
