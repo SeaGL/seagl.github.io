@@ -14,6 +14,9 @@ url:            http://seagl.org
 permalink:      /:categories/:year/:month/:day/:title.html
 
 custom:
+    year:   2014
+    dates:  October 24th and 25th
+    location: Seattle Central Community College
     url:
         survey:
             cpf:            http://survey.seagl.org/index.php/935137/lang-en
@@ -24,9 +27,11 @@ custom:
             participate:    mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;
             press:          mailto:%70%72%65%73%73%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0072;&#x0065;&#x0073;&#x0073;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;
             sponsor:        mailto:%73%70%6f%6e%73%6f%72%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0070;&#x006f;&#x006e;&#x0073;&#x006f;&#x0072;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;
+            staff:          mailto:%73%74%61%66%66%40%73%65%61%67%6c%2e%6f%72%67
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
+        location:           http://seattlecentral.edu/sccc/
     a:
         survey:
             cpf:            <a href="http://survey.seagl.org/index.php/935137/lang-en">submit your presentation</a>
@@ -37,6 +42,8 @@ custom:
             participate:    <a href="mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
             press:          <a href="mailto:%70%72%65%73%73%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0072;&#x0065;&#x0073;&#x0073;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
             sponsor:        <a href="mailto:%73%70%6f%6e%73%6f%72%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0070;&#x006f;&#x006e;&#x0073;&#x006f;&#x0072;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
+            staff:          <a href="mailto:%73%74%61%66%66%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0074;&#x0061;&#x0066;&#x0066;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
         mailing_list:
             seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
+        location:           <a href="http://seattlecentral.edu/sccc/">Seattle Central Community College</a>
