@@ -1,3 +1,7 @@
 _site
 .DS_Store
 
+# IDE stuff
+atlassian-ide-plugin.xml
+*.iml
+*.idea
