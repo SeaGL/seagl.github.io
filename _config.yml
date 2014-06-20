@@ -1,9 +1,12 @@
-safe: true
-lsi: false
-pygments: true
-timezone: America/Los_Angeles
-markdown: kramdown
+safe:           true
+lsi:            false
+pygments:       true
+timezone:       America/Los_Angeles
+markdown:       kramdown
 
-name: Seattle GNU Linux Conference
-description: Seattle GNU Linux Conference
-url: http://seagl.org
+paginate:       10
+paginate_path:  "news/page:num"
+
+name:           Seattle GNU Linux Conference
+description:    Seattle GNU Linux Conference
+url:            http://seagl.org
