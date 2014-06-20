@@ -12,3 +12,20 @@ description:    Seattle GNU Linux Conference
 url:            http://seagl.org
 
 permalink:      /:categories/:year/:month/:day/:title.html
+
+
+
+custom:
+    urls:
+        survey:
+            cpf:            <a href="http://survey.seagl.org/index.php/935137/lang-en">submit your presentation</a>
+        irc:
+            network:        <a href="http://freenode.net/using_the_network.shtml">Freenode</a>
+            channel:        <a href="http://webchat.freenode.net?randomnick=1&channels=%23seagl">#seagl</a>
+        email:
+            participate:    <a href="mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
+            press:          <a href="mailto:%70%72%65%73%73%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0072;&#x0065;&#x0073;&#x0073;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
+            sponsor:        <a href="mailto:%73%70%6f%6e%73%6f%72%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0070;&#x006f;&#x006e;&#x0073;&#x006f;&#x0072;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
+        mailing_list:
+            seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
+            seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
