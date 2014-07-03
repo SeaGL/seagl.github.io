@@ -31,7 +31,7 @@ custom:
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
-        location:           http://seattlecentral.edu/sccc/
+        location:           http://seattlecentral.edu
     a:
         survey:
             cpf:            <a href="http://survey.seagl.org/index.php/935137/lang-en">submit your presentation</a>
@@ -46,4 +46,4 @@ custom:
         mailing_list:
             seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
-        location:           <a href="http://seattlecentral.edu/sccc/">Seattle Central Community College</a>
+        location:           <a href="http://seattlecentral.edu">Seattle Central College</a>
