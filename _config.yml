@@ -16,7 +16,7 @@ permalink:      /:categories/:year/:month/:day/:title.html
 custom:
     year:   2014
     dates:  October 24th and 25th
-    location: Seattle Central Community College
+    location: Seattle Central College
     url:
         survey:
             cpf:            http://survey.seagl.org/index.php/935137/lang-en
