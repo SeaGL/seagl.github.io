@@ -23,11 +23,6 @@ custom:
         irc:
             network:        http://freenode.net/using_the_network.shtml
             channel:        http://webchat.freenode.net?randomnick=1&channels=%23seagl
-        email:
-            participate:    mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;
-            press:          mailto:%70%72%65%73%73%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0072;&#x0065;&#x0073;&#x0073;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;
-            sponsor:        mailto:%73%70%6f%6e%73%6f%72%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0070;&#x006f;&#x006e;&#x0073;&#x006f;&#x0072;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;
-            staff:          mailto:%73%74%61%66%66%40%73%65%61%67%6c%2e%6f%72%67
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
