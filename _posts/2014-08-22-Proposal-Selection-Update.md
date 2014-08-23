@@ -3,7 +3,7 @@ layout: post
 title: 'Proposal Selection Update!'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
