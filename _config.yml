@@ -38,6 +38,10 @@ custom:
             press:          <a href="mailto:%70%72%65%73%73%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0072;&#x0065;&#x0073;&#x0073;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
             sponsor:        <a href="mailto:%73%70%6f%6e%73%6f%72%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0070;&#x006f;&#x006e;&#x0073;&#x006f;&#x0072;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
             staff:          <a href="mailto:%73%74%61%66%66%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0074;&#x0061;&#x0066;&#x0066;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
+        social:
+            twitter:        <a href="https://twitter.com/seagl">Twitter</a>
+            facebook:       <a href="https://www.facebook.com/SeattleGnuLinuxConference">Facebook</a>
+            googleplus:     <a href="https://plus.google.com/+SeaglOrg/">Google+</a>
         mailing_list:
             seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
