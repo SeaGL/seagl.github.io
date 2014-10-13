@@ -1,0 +1,196 @@
+---
+
+- name: ActiveBuilding
+  url: http://activebuilding.com
+  logo:
+    banner: /img/sponsors/ActiveBuilding/old_logo.png
+    square: missing
+  description: |-
+    ActiveBuilding makes everyday apartment life easy. For owners, managers and
+    residents alike. And when a building’s happy, that’s good for relationships,
+    retention and your building’s reputation.
+  sponsorships:
+    2013: silver
+
+- name: Ansible
+  url: http://www.ansible.com
+  logo:
+    banner: /img/sponsors/Ansible/ansible_badge.png
+    square: missing
+  description: |-
+    Ansible is a powerful automation engine that makes systems and applications
+    simple to deploy. No custom scripting or custom code. No agents. All using
+    an automation language that's easy for anyone to understand and learn. Just
+    get in, get it done, and make some time for other strategic projects.
+  sponsorships:
+    2014: bronze
+
+- name: CSATS
+  url: http://www.csats.com
+  logo:
+    banner: missing
+    square: missing
+  description: |-
+    Objectively evaluate healthcare practitioners within hours.
+  sponsorships:
+    2014: thanks
+
+- name: ExtraHop
+  url: http://www.extrahop.com
+  logo:
+    banner: /img/sponsors/ExtraHop/ExtraHop logo tagline See IT Run.png
+    square: missing
+  description: |-
+    ExtraHop is the global leader in real-time wire data analytics. The ExtraHop
+    Operational Intelligence platform analyzes all L2-L7 communications,
+    including full bidirectional transactional payloads. This innovative
+    approach provides the correlated, cross-tier visibility essential for
+    application performance, availability, and security in today's complex and
+    dynamic IT environments. The winner of numerous awards from Interop and
+    others, the ExtraHop platform scales up to 20 Gbps, deploys without agents,
+    and delivers tangible value in less than 15 minutes.
+  sponsorships:
+    2013: bronze
+    2014: bronze
+
+- name: Google
+  url: http://www.google.com
+  logo:
+    banner: /img/sponsors/Google/Logo_Google_2013_Official.svg
+    square: missing
+  description: |-
+    Google's mission is to organize the world's information and make it
+    universally accessible and useful.
+  sponsorships:
+    2014: gold
+
+- name: Hewlett-Packard
+  url: http://hpcloud.com
+  logo:
+    banner: /img/sponsors/HPCloud/HP_Blue_RGB_150_MX.png
+    square: missing
+  description: |-
+    Hewlett-Packard is long term supporter of Linux and of Open Source. HP is a
+    Platinum member of the Linux Foundation and a Founding and Platinum member
+    of the OpenStack Foundation.  HP ships a new Linux server every minute, and
+    operates an OpenStack public cloud at
+    <a href="http://hpcloud.com">http://hpcloud.com</a>
+  sponsorships:
+    2013: bronze
+    2014: bronze
+
+- name: Linux Journal
+  url: http://www.linuxjournal.com
+  logo:
+    banner: /img/sponsors/LinuxJournal/ljcolor.png
+    square: missing
+  description: |-
+    Linux Journal, currently celebrating its 19th year of publication, is the
+    original magazine of the global Linux community, delivering readers the
+    advice and inspiration they need to get the most out of their Linux systems.
+  sponsorships:
+    2013: thanks
+
+- name: Pogo Linux, Inc
+  url: http://www.pogolinux.com
+  logo:
+    banner: /img/sponsors/PogoLinux/logo_pogolinux.png
+    square: missing
+  description: |-
+    Founded in 1999, Pogo Linux, Inc. is an open-source systems integrator based
+    out of Seattle, WA. With a multi-OS focus and in-house technical expertise,
+    we offer a wide range of workstations, servers and network storage solutions
+    for the technology needs of IT departments in organizations of all sizes.
+  sponsorships:
+    2013: bronze
+    2014: bronze
+
+- name: Rackspace
+  url: http://www.rackspace.com
+  logo:
+    banner: /img/sponsors/Rackspace/Rackspace_Cloud_Company_Logo_clr.png
+    square: missing
+  description: |-
+    Fanatical Support® has made Rackspace the service leader in cloud
+    computing. We deliver enterprise-class hybrid cloud infrastructures to
+    businesses of all sizes and kinds around the world. We started in 1998
+    and we host hundreds of thousands of customers worldwide. Rackspace
+    combines public cloud, private cloud, and dedicated bare metal computing
+    to provide the perfect infrastructure for each customer’s specific
+    needs. And, the Rackspace Hybrid Cloud is powered by OpenStack® and
+    backed by Fanatical Support.
+  sponsorships:
+    2013: gold
+    2014: gold
+
+- name: Schedules Direct
+  url: http://www.schedulesdirect.org
+  logo:
+    banner: /img/sponsors/SchedulesDirect/sd_long.png
+    square: missing
+  description: |-
+    Schedules Direct is a non-profit organization whose mission is to
+    educate the public about the benefits of Open Source Software and other
+    free software, provide support functions for such software, and provide
+    funding for research that facilitates the improvement or creation of
+    Open Source Software and other free software for the benefit of the
+    public at large.
+  sponsorships:
+    2013: gold
+    2014: gold
+
+- name: Seattle Central College
+  url: http://seattlecentral.edu
+  logo:
+    banner: /img/sponsors/SCC/seattle-central-college-logo.png
+    square: missing
+  description: |-
+    Seattle Central College is located on Capitol Hill, the vibrant urban
+    center of Seattle life. We are an educational home for our students, a
+    leadership incubator for our community and an economic catalyst for our
+    state and beyond. Since 1966, the college has served the higher
+    education and workforce training needs of more than 500,000 students.
+    </p><p>
+    Seattle Central is committed to creating a learning environment that is
+    accessible, diverse, responsive, and innovative.
+  sponsorships:
+    2013: platinum
+    2014: platinum
+
+- name: Silicon Mechanics
+  url: http://www.siliconmechanics.com
+  logo:
+    banner: /img/sponsors/SiliconMechanics/SiMechTrimmed.png
+    square: missing
+  description: |-
+    Silicon Mechanics is an industry-leading provider of server, storage, and
+    high-performance computing solutions. Deploying the latest innovations in
+    hardware and software technology, we work in collaboration with our
+    customers to design and build the most efficient, cost-effective technology
+    solution for their needs. Our guiding principle, "Expert included," is our
+    promise that reflects our passion for complete customer satisfaction, from
+    server and component selection to superior installation and ongoing
+    technical support.
+  sponsorships:
+    2013: platinum
+
+- name: The Greater Seattle Linux Users Group
+  url: http://www.gslug.org
+  logo:
+    banner: /img/sponsors/GSLUG/logo.png
+    square: missing
+  description: |-
+    The Greater Seattle Linux Users Group is a local organization of people in
+    the Seattle Metropolitan area that wish to collaborate on subjects
+    pertaining to Linux and Open Source Software in general. Monthly meetings
+    since 1994 and an active mailing list help to make this possible.
+    </p><p>
+    GSLUG is a Linux Users Group, which means it's mainly comprised of people
+    who use Linux on a day-to-day basis for work and fun, and it is also the
+    premier place for people to come and learn more about Linux and Open Source
+    Software, whether you've never used Linux before, or if you're a seasoned
+    kernel developer, GSLUG is an excellent place to meet new people, learn
+    things you never knew before, and share great ideas.
+  sponsorships:
+    2013: thanks
+    2014: thanks
