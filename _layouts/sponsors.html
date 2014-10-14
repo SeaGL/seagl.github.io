@@ -30,7 +30,7 @@ levels:
                     {% if sponsor.logo.banner != "missing" %}
                         <img class="logo" src="{{ sponsor.logo.banner }}" alt="{{ sponsor.name }}">
                     {% else %}
-                        {{ sponsor.name }}
+                        <div class="name">{{ sponsor.name }}</div>
                     {% endif %}
                     </a></h3>
                     <p>{{ sponsor.description }}</p>

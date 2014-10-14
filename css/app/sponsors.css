@@ -24,9 +24,17 @@
     max-height: 200px;
 }
 
+.platinum div.name {
+    height: 200px;
+}
+
 .gold img.logo {
     max-width: 100%;
     max-height: 100px;
+}
+
+.gold div.name {
+    height: 100px;
 }
 
 .silver img.logo {
@@ -34,15 +42,24 @@
     max-height: 75px;
 }
 
+.silver div.name {
+    height: 75px;
+}
+
 .bronze img.logo {
     max-width: 100%;
     max-height: 50px;
 }
 
-#sponsors #main-content .bronze h2 {}
+.silver div.name {
+    height: 50px;
+}
 
 .thanks img.logo {
     max-width: 100%;
     max-height: 50px;
 }
 
+.thanks div.name {
+    height: 50px;
+}
