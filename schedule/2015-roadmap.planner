@@ -20,15 +20,15 @@
     </calendar>
   </calendars>
   <tasks>
-    <task id="1" name="Public kickoff meeting" note="" work="1008000" start="20150525T000000Z" end="20150619T170000Z" work-start="20150525T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
-      <task id="2" name="Choose space" note="" work="432000" start="20150525T000000Z" end="20150612T170000Z" work-start="20150525T080000Z" percent-complete="10" priority="0" type="normal" scheduling="fixed-work"/>
-      <task id="3" name="Choose time/date" note="" work="288000" start="20150525T000000Z" end="20150605T170000Z" work-start="20150525T080000Z" percent-complete="10" priority="0" type="normal" scheduling="fixed-work"/>
-      <task id="4" name="Send invites" note="" work="288000" start="20150605T170000Z" end="20150619T170000Z" work-start="20150608T080000Z" percent-complete="5" priority="0" type="normal" scheduling="fixed-work">
+    <task id="1" name="Public kickoff meeting" note="" work="1008000" start="20150525T000000Z" end="20150619T170000Z" work-start="20150525T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work">
+      <task id="2" name="Choose space" note="" work="432000" start="20150525T000000Z" end="20150612T170000Z" work-start="20150525T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="3" name="Choose time/date" note="" work="288000" start="20150525T000000Z" end="20150605T170000Z" work-start="20150525T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="4" name="Send invites" note="" work="288000" start="20150605T170000Z" end="20150619T170000Z" work-start="20150608T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="3" type="FS"/>
         </predecessors>
       </task>
-      <task id="5" name="Meet!" note="" work="0" start="20150619T170000Z" end="20150619T170000Z" work-start="20150619T170000Z" percent-complete="0" priority="0" type="milestone" scheduling="fixed-work">
+      <task id="5" name="Meet!" note="" work="0" start="20150619T170000Z" end="20150619T170000Z" work-start="20150619T170000Z" percent-complete="100" priority="0" type="milestone" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="2" type="FS"/>
           <predecessor id="1" predecessor-id="4" type="FS"/>
