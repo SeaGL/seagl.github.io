@@ -3,7 +3,7 @@ layout: post
 title: 'Announcing the Cascadia Community Builder Award'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
