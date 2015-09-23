@@ -5,3 +5,4 @@ _site
 atlassian-ide-plugin.xml
 *.iml
 *.idea
+Gemfile.lock

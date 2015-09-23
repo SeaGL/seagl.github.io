@@ -47,3 +47,7 @@ custom:
             seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
         location:           <a href="http://seattlecentral.edu">Seattle Central College</a>
+
+sass:
+    sass_dir: _sass
+    style: compressed
