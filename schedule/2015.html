@@ -28,8 +28,12 @@ function create_schedule(result) {
     var schedule = result;
     var times = {};
     var rooms = [];
-    var col_size;
     var difficulty_levels = {};
+
+    var col_size_xs = 12;
+    var col_size_sm;
+    var col_size_md;
+    var col_size_lg;
 
     // Store the difficulties
     $(schedule.difficulty_levels).each(function() {
@@ -51,18 +55,22 @@ function create_schedule(result) {
     });
 
     // The Times column is always a size of 1, so the rest get to split up 11 columns
+    var col_size;
     col_size = 11/room_count;
     col_size = col_size.toFixed(2);
     col_size = String(col_size);
     col_size = col_size.replace('.', '-');
 
+    col_size_lg = col_size;
+
     // Add Times to the header
     $('#rooms_row').append(
         $('<div/>')
-        .addClass('col-xs-1')
+        .addClass('col-xs-12')
         .addClass('col-sm-1')
         .addClass('col-md-1')
         .addClass('col-lg-1')
+        .addClass('hidden-xs')
         .append($('<h3/>').text('Time'))
     );
 
@@ -88,10 +96,11 @@ function create_schedule(result) {
         // Add the header value to the row
         $('#rooms_row').append(
             $('<div/>')
-            .addClass('col-xs-'+col_size)
+            .addClass('col-xs-'+col_size_xs)
             .addClass('col-sm-'+col_size)
             .addClass('col-md-'+col_size)
-            .addClass('col-lg-'+col_size)
+            .addClass('col-lg-'+col_size_lg)
+            .addClass('hidden-xs')
             .append($('<h3/>').text(this.name))
         );
 
@@ -130,16 +139,23 @@ function create_schedule(result) {
 
         // Add a entry per room
         $(rooms).each(function () {
-            var col_size_inner = col_size;
+            var col_size_inner_xs = col_size_xs;
+            var col_size_inner_sm = col_size_sm;
+            var col_size_inner_md = col_size_md;
+            var col_size_inner_lg = col_size_lg;
+
             if (this.id_prefix == 'times') {
-                col_size_inner = 1;
+                col_size_inner_xs = 12;
+                col_size_inner_sm = 1;
+                col_size_inner_md = 1;
+                col_size_inner_lg = 1;
             }
             $('#'+time_row_id).append(
                 $('<div/>')
-                .addClass('col-xs-'+col_size_inner)
-                .addClass('col-sm-'+col_size_inner)
-                .addClass('col-md-'+col_size_inner)
-                .addClass('col-lg-'+col_size_inner)
+                .addClass('col-xs-'+col_size_inner_xs)
+                .addClass('col-sm-'+col_size_inner_sm)
+                .addClass('col-md-'+col_size_inner_md)
+                .addClass('col-lg-'+col_size_inner_lg)
                 .attr('id', this.id_prefix+'_'+timestamp)
                 );
         });
@@ -154,7 +170,9 @@ function create_schedule(result) {
 
             // Add the title and speaker names
             e.append($('<h5/>').text(this.title));
-            e.append($('<p/>').text(this.speaker_names));
+            e.append($('<p/>').text('Room ' + this.room_name).addClass('visible-xs'));
+
+            e.append($('<div/>').text(this.speaker_names));
 
             // Setup the abstract that will popup
             var abstract = $('<div/>');
@@ -183,6 +201,8 @@ function create_schedule(result) {
                                         $('<a/>').text('Read the abstract').attr('href', '#')
                                     );
             e.append(abstract_link);
+
+            e.append($('<hr/>').addClass('visible-xs'));
 
             // Build the lightbox
             e.featherlight(abstract);
