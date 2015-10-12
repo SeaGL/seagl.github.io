@@ -8,6 +8,12 @@ body_id: schedule
 
 <div class="col-md-12" id='schedule_content'>
     <h1>SeaGL 2015 Schedule</h1>
+    <noscript id="osem_link">
+        <h2>
+            The official SeaGL schedule is published
+            <a href="https://osem.seagl.org/conference/seagl2015/schedule">here</a>.
+        </h2>
+    </noscript>
     <div class="container-fluid" id="schedule_div">
         <div class="row" id="rooms_row"></div>
     </div>
@@ -188,14 +194,24 @@ function schedule_error(jqXHR, textStatus, errorThrown) {
     console.error(jqXHR);
     console.error(textStatus);
     console.error(errorThrown);
+
+    // Append the noscript context in the event of a failure.
     $('#schedule_content').append(
-        $('<h2/>')
-        .text('Schedule load failed :(')
+        $('#osem_link').text()
+    );
+
+    $('#schedule_content').append($('<hr/>'));
+
+    $('#schedule_content').append(
+        $('<h5/>')
+        .text('Javascript schedule embedding failed :(')
     );
     $('#schedule_content').append(
-        $('<h3/>')
+        $('<h5/>')
         .text('Error: ' + jqXHR.statusText)
     );
+
+    $('#schedule_content').append($('<hr/>'));
 }
 
 $(function(){
