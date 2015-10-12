@@ -6,7 +6,7 @@ nav: schedule
 body_id: schedule
 ---
 
-<div class="col-md-12">
+<div class="col-md-12" id='schedule_content'>
     <h1>SeaGL 2015 Schedule</h1>
     <div class="container-fluid" id="schedule_div">
         <div class="row" id="rooms_row"></div>
@@ -184,12 +184,32 @@ function create_schedule(result) {
     });
 }
 
+function schedule_error(jqXHR, textStatus, errorThrown) {
+    console.error(jqXHR);
+    console.error(textStatus);
+    console.error(errorThrown);
+    $('#schedule_content').append(
+        $('<h2/>')
+        .text('Schedule load failed :(')
+    );
+    $('#schedule_content').append(
+        $('<h3/>')
+        .text('Error: ' + jqXHR.statusText)
+    );
+}
+
 $(function(){
     $.ajax({
         url:        "https://osem.seagl.org/conference/seagl2015/schedule.json",
         jsonp:      "callback",
         dataType:   "jsonp",
-        success:    create_schedule
+        success:    create_schedule,
+        cache:      true,
+        // Note: This handler is not called for cross-domain script and cross-domain JSONP requests.
+        // We get around this by setting a timeout, in the event of any error, it will fire off
+        // as a timeout, but at least we can catch it.
+        error:      schedule_error,
+        timeout:    5000,
     });
 });
 </script>
