@@ -21,7 +21,7 @@ body_id: schedule
 function create_schedule(result) {
     var schedule = result;
     var times = {};
-    var rooms = new Array();
+    var rooms = [];
     var col_size;
     var difficulty_levels = {};
 
@@ -92,7 +92,7 @@ function create_schedule(result) {
         // Build the list of the talks per timeslot
         $(this.events).each(function() {
             if ($.inArray(this.start_time, Object.keys(times)) == -1) {
-                times[this.start_time] = new Array();
+                times[this.start_time] = [];
             }
 
             this.room_name = room_name;
