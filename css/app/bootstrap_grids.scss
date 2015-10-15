@@ -1,0 +1,106 @@
+---
+---
+
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+// 1 - 12
+// 2 - 6 6
+// 3 - 4 4 4
+// 4 - 3 3 3 3
+// 5 column layouts - 2.4
+// 6 - 2 2 2 2 2 2
+// 7 column layouts - 1.714285714
+// 8 column layouts - 1.5
+// 9 column layouts - 1.333333333
+// 10 column layouts - 1.2
+// 11 column layouts - 1.090909091
+// 12 - 1 1 1 1 1 1 1 1 1 1 1 1
+
+.col-xs-2-4  { @include make-xs-column( (12/5) ); }
+.col-xs-1-71 { @include make-xs-column( (12/7) ); }
+.col-xs-1-5  { @include make-xs-column( (12/8) ); }
+.col-xs-1-33 { @include make-xs-column( (12/9) ); }
+.col-xs-1-2  { @include make-xs-column( (12/10) ); }
+.col-xs-1-09 { @include make-xs-column( (12/11) ); }
+
+@media (min-width: $screen-sm-min) {
+    .col-sm-2-4  { @include make-sm-column( (12/5) ); }
+    .col-sm-1-71 { @include make-sm-column( (12/7) ); }
+    .col-sm-1-5  { @include make-sm-column( (12/8) ); }
+    .col-sm-1-33 { @include make-sm-column( (12/9) ); }
+    .col-sm-1-2  { @include make-sm-column( (12/10) ); }
+    .col-sm-1-09 { @include make-sm-column( (12/11) ); }
+}
+
+@media (min-width: $screen-md-min) {
+    .col-md-2-4  { @include make-md-column( (12/5) ); }
+    .col-md-1-71 { @include make-md-column( (12/7) ); }
+    .col-md-1-5  { @include make-md-column( (12/8) ); }
+    .col-md-1-33 { @include make-md-column( (12/9) ); }
+    .col-md-1-2  { @include make-md-column( (12/10) ); }
+    .col-md-1-09 { @include make-md-column( (12/11) ); }
+}
+
+@media (min-width: $screen-lg-min) {
+    .col-lg-2-4  { @include make-lg-column( (12/5) ); }
+    .col-lg-1-71 { @include make-lg-column( (12/7) ); }
+    .col-lg-1-5  { @include make-lg-column( (12/8) ); }
+    .col-lg-1-33 { @include make-lg-column( (12/9) ); }
+    .col-lg-1-2  { @include make-lg-column( (12/10) ); }
+    .col-lg-1-09 { @include make-lg-column( (12/11) ); }
+}
+
+
+// 11 column layouts
+
+
+.col-xs-11   { @include make-xs-column( (11/1) ); }
+.col-xs-5-50 { @include make-xs-column( (11/2) ); }
+.col-xs-3-66 { @include make-xs-column( (11/3) ); }
+.col-xs-2-75 { @include make-xs-column( (11/4) ); }
+.col-xs-2-20 { @include make-xs-column( (11/5) ); }
+.col-xs-1-83 { @include make-xs-column( (11/6) ); }
+.col-xs-1-57 { @include make-xs-column( (11/7) ); }
+.col-xs-1-37 { @include make-xs-column( (11/8) ); }
+.col-xs-1-22 { @include make-xs-column( (11/9) ); }
+.col-xs-1-10 { @include make-xs-column( (11/10) ); }
+
+@media (min-width: $screen-sm-min) {
+    .col-sm-11   { @include make-sm-column( (11/1) ); }
+    .col-sm-5-50 { @include make-sm-column( (11/2) ); }
+    .col-sm-3-66 { @include make-sm-column( (11/3) ); }
+    .col-sm-2-75 { @include make-sm-column( (11/4) ); }
+    .col-sm-2-20 { @include make-sm-column( (11/5) ); }
+    .col-sm-1-83 { @include make-sm-column( (11/6) ); }
+    .col-sm-1-57 { @include make-sm-column( (11/7) ); }
+    .col-sm-1-37 { @include make-sm-column( (11/8) ); }
+    .col-sm-1-22 { @include make-sm-column( (11/9) ); }
+    .col-sm-1-10 { @include make-sm-column( (11/10) ); }
+}
+
+@media (min-width: $screen-md-min) {
+    .col-md-110  { @include make-md-column( (11/1) ); }
+    .col-md-5-5  { @include make-md-column( (11/2) ); }
+    .col-md-3-66 { @include make-md-column( (11/3) ); }
+    .col-md-2-75 { @include make-md-column( (11/4) ); }
+    .col-md-2-20 { @include make-md-column( (11/5) ); }
+    .col-md-1-83 { @include make-md-column( (11/6) ); }
+    .col-md-1-57 { @include make-md-column( (11/7) ); }
+    .col-md-1-37 { @include make-md-column( (11/8) ); }
+    .col-md-1-22 { @include make-md-column( (11/9) ); }
+    .col-md-1-10 { @include make-md-column( (11/10) ); }
+}
+
+@media (min-width: $screen-lg-min) {
+    .col-lg-11   { @include make-lg-column( (11/1) ); }
+    .col-lg-5-50 { @include make-lg-column( (11/2) ); }
+    .col-lg-3-66 { @include make-lg-column( (11/3) ); }
+    .col-lg-2-75 { @include make-lg-column( (11/4) ); }
+    .col-lg-2-20 { @include make-lg-column( (11/5) ); }
+    .col-lg-1-83 { @include make-lg-column( (11/6) ); }
+    .col-lg-1-57 { @include make-lg-column( (11/7) ); }
+    .col-lg-1-37 { @include make-lg-column( (11/8) ); }
+    .col-lg-1-22 { @include make-lg-column( (11/9) ); }
+    .col-lg-1-10 { @include make-lg-column( (11/10) ); }
+}
