@@ -29,7 +29,7 @@
   url: http://www.csats.com
   logo:
     banner: missing
-    square: /img/CSATS/csats.png
+    square: /img/sponsors/CSATS/csats.png
   description: |-
     Seattle-based CSATS, Inc. is a venture-backed healthcare technology company
     on a mission to empower the nation's 16 million healthcare workers and
@@ -217,7 +217,7 @@
 - name: Rainier Connect
   url: https://www.rainierconnect.com/
   logo:
-    banner: /img/RainierConnect/logo.png
+    banner: /img/sponsors/RainierConnect/logo.png
     square: missing
   description: |-
     Rainier Connect is South Puget Sound’s premiere phone, cable TV & high-speed
@@ -229,7 +229,7 @@
 - name: Microsoft
   url: https://www.microsoft.com/
   logo:
-    banner: /img/Microsoft/Microsoft_logo_(2012)_modified.svg.png
+    banner: /img/sponsors/Microsoft/Microsoft_logo_(2012)_modified.svg.png
     square: missing
   description: |-
   sponsorships:
@@ -238,7 +238,7 @@
 - name: LibreOffice
   url: https://www.libreoffice.org/
   logo:
-    banner: /img/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
+    banner: /img/sponsors/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
     square: missing
   description: |-
     LibreOffice is a powerful office suite; Its clean interface and its powerful
@@ -252,7 +252,7 @@
   url: https://www.nostarch.com/
   logo:
     banner: missing
-    square: /img/NoStarchPress/nsp_logo_black.png
+    square: /img/sponsors/NoStarchPress/nsp_logo_black.png
   description: |-
     No Starch Press publishes the finest in geek entertainment — distinctive books
     on computing, such as bestsellers Steal This Computer Book, Hacking: The Art
@@ -263,7 +263,7 @@
 - name: Linuxfest Northwest
   url: http://linuxfestnorthwest.org/2016
   logo:
-    banner: /img/LFNW/linuxfest-northwest-logo.png
+    banner: /img/sponsors/LFNW/linuxfest-northwest-logo.png
     square: missing
   description: |-
     LinuxFest Northwest is an annual OpenSource event held the last weekend in April,
@@ -277,7 +277,7 @@
 - name: Free Software Foundation
   url: http://www.fsf.org/
   logo:
-    banner: /img/FSF/fsf30-header-fsf.png
+    banner: /img/sponsors/FSF/fsf30-header-fsf.png
     square: missing
   description: |-
     The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to
@@ -289,7 +289,7 @@
   url: http://www.meetup.com/Write-The-Docs-Seattle/
   logo:
     banner: missing
-    square: /img/WriteTheDocsSeattle/WriteTheDocs.jpeg
+    square: /img/sponsors/WriteTheDocsSeattle/WriteTheDocs.jpeg
   description: |-
     A group for Seattle technical writers, software developers, content managers, or
     editors who want to share ideas about how to produce great software and
@@ -300,7 +300,7 @@
 - name: Seattle Area System Administrators Guild
   url: http://www.sasag.org/
   logo:
-    banner: /img/SASAG/SASAG.png
+    banner: /img/sponsors/SASAG/SASAG.png
     square: missing
   description: |-
     Seattle Area System Administrators Guild (SASAG) is a local group for systems
@@ -311,7 +311,7 @@
 - name: Oregon State University Open Source Lab
   url: http://osuosl.org/
   logo:
-    banner: /img/OSL/osuosl-tag.png
+    banner: /img/sponsors/OSL/osuosl-tag.png
     square: missing
   description: |-
   sponsorships:
@@ -320,7 +320,7 @@
 - name: Northeastern University Seattle
   url: http://www.northeastern.edu/seattle/
   logo:
-    banner: /img/NortheasternUniversitySeattle/NortheasternSeattle.jpg
+    banner: /img/sponsors/NortheasternUniversitySeattle/NortheasternSeattle.jpg
     square: missing
   description: |-
   sponsorships:
@@ -329,7 +329,7 @@
 - name: The FreeBSD Project
   url: http://www.freebsd.org/
   logo:
-    banner: /img/FreeBSD/FreeBSD-logo-red.png
+    banner: /img/sponsors/FreeBSD/FreeBSD-logo-red.png
     square: missing
   description: |-
     FreeBSD is an advanced computer operating system used to power modern servers, desktops
@@ -344,7 +344,7 @@
   url: http://pnwphp.com
   logo:
     banner: missing
-    square: /img/PNWPHP/pnwphp.png
+    square: /img/sponsors/PNWPHP/pnwphp.png
   description: |-
     The Pacific Northwest PHP Conference is a 3-day event for PHP developers living in the
     Pacific Northwest region. We've invited world-renowned speakers from the PHP community
