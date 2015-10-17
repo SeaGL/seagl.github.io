@@ -29,18 +29,18 @@ levels:
                     <h3><a href="{{ sponsor.url }}">
                     {% if sponsor.logo.banner != "missing" %}
                         <img class="logo" src="{{ sponsor.logo.banner }}" alt="{{ sponsor.name }}">
+                    {% elsif sponsor.logo.square != "missing" %}
+                        <img class="logo" src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
                     {% else %}
                         <div class="name">{{ sponsor.name }}</div>
                     {% endif %}
                     </a></h3>
                     <p>{{ sponsor.description }}</p>
-                    
+
                     {% if sponsor.sponsorships.size > 1 %}
                         <p>Sponsored SeaGL {{ sponsor.sponsorships.size }} times.</p>
                     {% endif %}
-                    
-                    {{ sponsor.sponsorships.year_2014 }}
-                    
+
                     {% for sponsorshipyear in sponsor.sponsorships | sort %}
                         {% if sponsorshipyear[0] == 2013 %}
                             <p>Founding Sponsor</p>
@@ -51,7 +51,7 @@ levels:
         {% endfor %}
       {% endfor %}
     </div>
-    
+
     <hr>
   {% endfor %}
 

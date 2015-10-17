@@ -7,7 +7,7 @@ body_id: schedule
 ---
 
 <div class="col-md-12" id='schedule_content'>
-    <h1>SeaGL 2015 Schedule</h1>
+    <h1 class="text-center">SeaGL 2015 Schedule</h1>
     <noscript id="osem_link">
         <h2>
             The official SeaGL schedule is published
@@ -15,7 +15,7 @@ body_id: schedule
         </h2>
     </noscript>
     <div class="container-fluid" id="schedule_div">
-        <div class="row" id="rooms_row"></div>
+        <div class="row hidden" id="rooms_row"></div>
     </div>
 </div>
 
@@ -122,16 +122,40 @@ function create_schedule(result) {
     });
 
     // Now build the schedule from the list of sorted timeslots
+    var last_day = null;
+    var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
     $(Object.keys(times).sort()).each(function () {
         var slot_time = this;
 
         var human = this.substring(5, 16).replace('T', ' ');
+        var day = human.substring(0, 5);
+        var time = human.substring(6);
+        var date = new Date(this);
         var timestamp = Date.parse(this)/1000;
 
         var time_row_id = 'row_time_'+timestamp;
 
         // Add in a HR to make it visually split
         $('#schedule_div').append($('<hr/>'));
+
+        // New day?
+        if (day != last_day) {
+            last_day = day;
+            $('#schedule_div').append(
+                $('<h2/>')
+                .addClass('text-center')
+                .text(days[ date.getDay() ]+' - '+day)
+                );
+            $('#schedule_div').append($('<hr/>'));
+            $('#rooms_row')
+                .clone()
+                .removeAttr('id')
+                .removeClass('hidden')
+                .appendTo('#schedule_div');
+            $('#schedule_div').append($('<hr/>'));
+        }
+
         // Add in the time row
         $('#schedule_div').append(
             $('<div/>')
@@ -163,7 +187,7 @@ function create_schedule(result) {
         });
 
         // Set the times value
-        $('#times_'+timestamp).append($('<h3/>').text(human));
+        $('#times_'+timestamp).append($('<h3/>').text(time));
 
         // Loop over and build the contents per event
         $(times[this]).each(function() {
@@ -172,7 +196,7 @@ function create_schedule(result) {
 
             // Add the title and speaker names
             e.append($('<h5/>').text(this.title));
-            e.append($('<p/>').text('Room ' + this.room_name).addClass('visible-xs'));
+            e.append($('<p/>').text(this.room_name).addClass('visible-xs'));
 
             e.append($('<div/>').text(this.speaker_names));
 
@@ -182,7 +206,12 @@ function create_schedule(result) {
             if (this.subtitle && this.subtitle.length > 0) {
                 abstract.append($('<h2/>').text(this.subtitle));
             }
-            abstract.append($('<h3/>').text(this.speaker_names + ' • ' + human + ' • Room ' + this.room_name));
+            var t = this.speaker_names;
+            if (t.length > 0) { t += ' • '};
+            t += human;
+            if (t.length > 0) { t += ' • '};
+            t += this.room_name;
+            abstract.append($('<h3/>').text(t));
 
             if (this.difficulty_level) {
                 abstract.append($('<p/>').text(this.difficulty_level.description));
