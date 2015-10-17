@@ -29,7 +29,7 @@
   url: http://www.csats.com
   logo:
     banner: missing
-    square: missing
+    square: /img/CSATS/csats.png
   description: |-
     Seattle-based CSATS, Inc. is a venture-backed healthcare technology company
     on a mission to empower the nation's 16 million healthcare workers and
@@ -43,6 +43,7 @@
     to results.
   sponsorships:
     2014: thanks
+    2015: bronze
 
 - name: ExtraHop
   url: http://www.extrahop.com
@@ -61,6 +62,7 @@
   sponsorships:
     2013: bronze
     2014: bronze
+    2015: bronze
 
 - name: Google
   url: http://www.google.com
@@ -72,6 +74,7 @@
     universally accessible and useful.
   sponsorships:
     2014: gold
+    2015: gold
 
 - name: Hewlett-Packard
   url: http://hpcloud.com
@@ -87,6 +90,7 @@
   sponsorships:
     2013: bronze
     2014: bronze
+    2015: bronze
 
 - name: Linux Journal
   url: http://www.linuxjournal.com
@@ -94,11 +98,12 @@
     banner: /img/sponsors/LinuxJournal/ljcolor.png
     square: missing
   description: |-
-    Linux Journal, currently celebrating its 19th year of publication, is the
+    Linux Journal, currently celebrating its 20th year of publication, is the
     original magazine of the global Linux community, delivering readers the
     advice and inspiration they need to get the most out of their Linux systems.
   sponsorships:
     2013: thanks
+    2015: bronze
 
 - name: Pogo Linux, Inc
   url: http://www.pogolinux.com
@@ -113,6 +118,7 @@
   sponsorships:
     2013: bronze
     2014: bronze
+    2015: bronze
 
 - name: Rackspace
   url: http://www.rackspace.com
@@ -147,6 +153,7 @@
   sponsorships:
     2013: gold
     2014: gold
+    2015: gold
 
 - name: Seattle Central College
   url: http://seattlecentral.edu
@@ -165,6 +172,7 @@
   sponsorships:
     2013: platinum
     2014: platinum
+    2015: platinum
 
 - name: Silicon Mechanics
   url: http://www.siliconmechanics.com
@@ -182,6 +190,7 @@
     technical support.
   sponsorships:
     2013: platinum
+    2015: silver
 
 - name: The Greater Seattle Linux Users Group
   url: http://www.gslug.org
@@ -203,3 +212,143 @@
   sponsorships:
     2013: thanks
     2014: thanks
+    2015: thanks
+
+- name: Rainier Connect
+  url: https://www.rainierconnect.com/
+  logo:
+    banner: /img/RainierConnect/logo.png
+    square: missing
+  description: |-
+    Rainier Connect is South Puget Sound’s premiere phone, cable TV & high-speed
+    Internet provider. Homes & businesses choose us for quality phone, DSL, cable
+    & TV service in Tacoma, Puyallup, Centralia, Eatonville, Graham & beyond.
+  sponsorships:
+    2015: bronze
+
+- name: Microsoft
+  url: https://www.microsoft.com/
+  logo:
+    banner: /img/Microsoft/Microsoft_logo_(2012)_modified.svg.png
+    square: missing
+  description: |-
+  sponsorships:
+    2015: silver
+
+- name: LibreOffice
+  url: https://www.libreoffice.org/
+  logo:
+    banner: /img/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
+    square: missing
+  description: |-
+    LibreOffice is a powerful office suite; Its clean interface and its powerful
+    tools let you unleash your creativity and grow your productivity. LibreOffice
+    embeds several applications that make it the most powerful Free & Open Source
+    Office suite on the market
+  sponsorships:
+    2015: thanks
+
+- name: No Starch Press
+  url: https://www.nostarch.com/
+  logo:
+    banner: missing
+    square: /img/NoStarchPress/nsp_logo_black.png
+  description: |-
+    No Starch Press publishes the finest in geek entertainment — distinctive books
+    on computing, such as bestsellers Steal This Computer Book, Hacking: The Art
+    of Exploitation, Practical Packet Analysis, and The Manga Guides.
+  sponsorships:
+    2015: bronze
+
+- name: Linuxfest Northwest
+  url: http://linuxfestnorthwest.org/2016
+  logo:
+    banner: /img/LFNW/linuxfest-northwest-logo.png
+    square: missing
+  description: |-
+    LinuxFest Northwest is an annual OpenSource event held the last weekend in April,
+    in Bellingham, WA USA. The Fest features presentations and Exhibits on various
+    F/OSS topics, as well as Linux distributions and applications. LinuxFest Northwest
+    has something for everyone from the novice to the professional. The hours are
+    9:00 a.m. to 5:00 p.m. both days.
+  sponsorships:
+    2015: thanks
+
+- name: Free Software Foundation
+  url: http://www.fsf.org/
+  logo:
+    banner: /img/FSF/fsf30-header-fsf.png
+    square: missing
+  description: |-
+    The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to
+    promote computer user freedom and to defend the rights of all free software users.
+  sponsorships:
+    2015: thanks
+
+- name: Write The Docs Seattle
+  url: http://www.meetup.com/Write-The-Docs-Seattle/
+  logo:
+    banner: missing
+    square: /img/WriteTheDocsSeattle/WriteTheDocs.jpeg
+  description: |-
+    A group for Seattle technical writers, software developers, content managers, or
+    editors who want to share ideas about how to produce great software and
+    documentation that creates a positive customer experience.
+  sponsorships:
+    2015: thanks
+
+- name: Seattle Area System Administrators Guild
+  url: http://www.sasag.org/
+  logo:
+    banner: /img/SASAG/SASAG.png
+    square: missing
+  description: |-
+    Seattle Area System Administrators Guild (SASAG) is a local group for systems
+    administrators in the Seattle and Pacific Northwest areas (North Western Washington).
+  sponsorships:
+    2015: thanks
+
+- name: Oregon State University Open Source Lab
+  url: http://osuosl.org/
+  logo:
+    banner: /img/OSL/osuosl-tag.png
+    square: missing
+  description: |-
+  sponsorships:
+    2015: thanks
+
+- name: Northeastern University Seattle
+  url: http://www.northeastern.edu/seattle/
+  logo:
+    banner: /img/NortheasternUniversitySeattle/NortheasternSeattle.jpg
+    square: missing
+  description: |-
+  sponsorships:
+    2015: thanks
+
+- name: The FreeBSD Project
+  url: http://www.freebsd.org/
+  logo:
+    banner: /img/FreeBSD/FreeBSD-logo-red.png
+    square: missing
+  description: |-
+    FreeBSD is an advanced computer operating system used to power modern servers, desktops
+    and embedded platforms. A large community has continually developed it for more than
+    thirty years. Its advanced networking, security and storage features have made FreeBSD
+    the platform of choice for many of the busiest web sites and most pervasive embedded
+    networking and storage devices.
+  sponsorships:
+    2015: thanks
+
+- name: Pacific Northwest PHP Conference
+  url: http://pnwphp.com
+  logo:
+    banner: missing
+    square: /img/PNWPHP/pnwphp.png
+  description: |-
+    The Pacific Northwest PHP Conference is a 3-day event for PHP developers living in the
+    Pacific Northwest region. We've invited world-renowned speakers from the PHP community
+    to teach about topics ranging from continuous integration to the cloud. Join us for the
+    amazing presentations, catered food, musical numbers, the hackathon, and the live blog.
+  sponsorships:
+    2015: thanks
