@@ -59,3 +59,7 @@
 .dtstart, .dtend {
   font-weight: bold;
 }
+
+#schedule_div > .row {
+    margin-bottom:  20px;
+}
