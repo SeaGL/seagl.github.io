@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-SeaGL speaker Paige Peterson talks privacy, security and
+SeaGL speaker Paige Peterson talks privacy, security, and
 freedom: 
  
 Q: Could you please introduce yourself and tell us a little about your 
