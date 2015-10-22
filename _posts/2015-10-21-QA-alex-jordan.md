@@ -14,7 +14,7 @@ background?
 
 My name's Alex Jordan, but I generally introduce myself to people as
 "AJ". I'm a senior in high school. My first experience with free
-software was when I installed Ubuntu when I was 0, but I only started
+software was when I installed Ubuntu when I was 10, but I only started
 getting seriously involved in the free software community about three
 years ago. I like Emacs, Arch Linux, and zsh, and I'm almost entirely
 self-hosted.
