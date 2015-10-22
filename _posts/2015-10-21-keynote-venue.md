@@ -17,9 +17,10 @@ social house" just a short walk from the school. Here's the address:
 
 Here's the Saturday afternoon schedule: 
 
-1:30 - 2:30 p.m. Last batch of talks at the school
-2:30 - 3:00 p.m. Everyone moves to 500 East
-3:00 - 4:00 p.m. Shauna Gordon-McKeon's talk and the Cascadia Builder Award
-presentation
-4:00 - 6:00 p.m. Richard M. Stallman's talk
-6:00 p.m. Bar opens and attendees and speakers can mingle
+Time | Event
+--- | ---
+1:30 - 2:30 p.m. | Last batch of talks at the school
+2:30 - 3:00 p.m. | Everyone moves to 500 East
+3:00 - 4:00 p.m. | Shauna Gordon-McKeon's talk and the Cascadia Builder Award presentation
+4:00 - 6:00 p.m. | Richard M. Stallman's talk
+6:00 p.m. | Bar opens and attendees can mingle
