@@ -15,7 +15,7 @@ The 2015 inaugural winner is Michael Dexter.
 
 The award was given for the first time on Saturday, October 24th at the Seattle
 GNU/Linux conference and is expected to remain a feature of the local event. 
-Dexter was chosen because his work with the Portland Linux/Unix Group and the
+Michael was chosen because his work with the Portland Linux/Unix Group and the
 BSD community exemplified the type of unsung community-building work that is so 
 critical to the growth of the free software movement. 
 
@@ -29,10 +29,12 @@ from every side."
 Michael was nominated by someone who got to know him through his tireless work
 with the Portland Linux User Group. The nomination reads, "Michael has
 organized over one hundred speakers for our two monthly meetings, including
-Linus Torvalds, Bradley Kuhn, and Ward Cunningham." Dexter received an engraved
+Linus Torvalds, Bradley Kuhn, and Ward Cunningham."
+
+Michael received an engraved
 multi-tool, made by the Oregon-based Leatherman company, that includes both a
 bottle opener and a wire stripper -- critical tools for every free software
-community organizer. Michael will also be invited to participate in choosing
+community organizer. He will also be invited to participate in choosing
 the recipient of future Cascadia Community Builder awards.
 
 Nominations for the 2016 honoree will open next summer.
