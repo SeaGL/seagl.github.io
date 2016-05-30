@@ -7,6 +7,7 @@ body {
   font-family: 'Lato', sans-serif;
   background-color: #FFFCF7;
   border-bottom: 12px solid #0C5A73;
+  overflow-x: hidden;
 }
 :hover {
   -webkit-transition: all .25s ease-in-out;
