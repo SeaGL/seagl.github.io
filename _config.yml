@@ -48,6 +48,7 @@ custom:
             seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
         location:           <a href="http://seattlecentral.edu">Seattle Central College</a>
+        donate:             <a href="https://www.coinbase.com/checkouts/0369f11bd23988462937832f2bbff8d5">Donate Bitcoins</a>
 
 sass:
     sass_dir: _sass
