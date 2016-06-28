@@ -1,14 +1,15 @@
 safe:           true
 lsi:            false
-pygments:       true
 timezone:       America/Los_Angeles
 markdown:       kramdown
 highlighter:    rouge
+gems:           [jekyll-paginate]
 
 paginate:       10
-paginate_path:  "news/page:num"
+paginate_path:  news/page:num
 
 name:           Seattle GNU Linux Conference
+short_name:     SeaGL
 description:    Seattle GNU Linux Conference
 url:            http://seagl.org
 
@@ -19,21 +20,17 @@ custom:
     dates:  November 11th and 12th
     location: Seattle Central College
     url:
-        survey:
-            cpf:            http://survey.seagl.org/index.php/935137/lang-en
         irc:
-            network:        http://freenode.net/using_the_network.shtml
-            channel:        http://webchat.freenode.net?randomnick=1&channels=%23seagl
+            network:        https://freenode.net/kb/answer/chat
+            channel:        https://webchat.freenode.net?randomnick=1&channels=%23seagl
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
-        location:           http://seattlecentral.edu
+        location:           https://seattlecentral.edu
     a:
-        survey:
-            cpf:            <a href="http://survey.seagl.org/index.php/935137/lang-en">submit your presentation</a>
         irc:
-            network:        <a href="http://freenode.net/using_the_network.shtml">Freenode</a>
-            channel:        <a href="http://webchat.freenode.net?randomnick=1&channels=%23seagl">#seagl</a>
+            network:        <a href="https://freenode.net/kb/answer/chat">Freenode</a>
+            channel:        <a href="https://webchat.freenode.net?randomnick=1&channels=%23seagl">#seagl</a>
         email:
             participate:    <a href="mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
             press:          <a href="mailto:%70%72%65%73%73%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0072;&#x0065;&#x0073;&#x0073;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
@@ -47,7 +44,7 @@ custom:
         mailing_list:
             seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
-        location:           <a href="http://seattlecentral.edu">Seattle Central College</a>
+        location:           <a href="https://seattlecentral.edu">Seattle Central College</a>
 
 sass:
     sass_dir: _sass
