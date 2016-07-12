@@ -21,19 +21,19 @@
       .navbar {
         display: inherit !important;
       }
-      
+
       .navbar-default {
         background-color: #f8f8f8 !important;
         border-color: #e7e7e7 !important;
       }
-      
+
       #main-nav {
         position: relative !important;
         height: 170px !important;
         background-color: #074558 !important;
         border-bottom: 9px solid #FCB320 !important;
       }
-      
+
       h1 {
         font-size: 100px !important;
         text-transform: uppercase !important;
@@ -41,25 +41,25 @@
         text-shadow: 0 1px 1px #fff !important;
         text-align: center;
       }
-      
+
       h2 {
         text-align: center;
       }
-      
+
       #logo {
         position: absolute !important;
         top: 15px !important;
         left: 50% !important;
         margin-left: -100px !important;
       }
-      
+
       body {
         font-family: 'Lato', sans-serif !important;
         border-bottom: 12px solid #0C5A73 !important;
       }
     }
   </style>
-  
+
   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
@@ -73,21 +73,6 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="/js/bootstrap3.min.js"></script>
 
-    <!-- Google Analytics
-
-    We use this to try to understand how far the word about SeaGL has spread.
-
-    We also understand that some people don't like to be tracked, and would highly
-    recommend something like adblock with the privacy filter list.
-    ================================================== -->
-    <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-43472332-1', 'seagl.org');
-    ga('send', 'pageview');
-    </script>
   </head>
   <body id="{{ page.body_id }}">
     <nav class="navbar navbar-default" role="navigation" id="main-nav">
@@ -98,5 +83,28 @@
         {{ content }}
       </div>
     </div><!--/.fluid-container-->
+    <!-- Piwik
+
+    We use this to try to understand how far the word about SeaGL has spread.
+
+    We also understand that some people don't like to be tracked, and would highly
+    recommend something like adblock with the privacy filter list.
+    ================================================== -->
+    <!-- Piwik -->
+    <script type="text/javascript">
+      var _paq = _paq || [];
+      _paq.push(["setDomains", ["*.seagl.org"]]);
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//analytics.janky.solutions/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 13]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img src="//analytics.janky.solutions/piwik.php?idsite=13" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
 </body>
 </html>
