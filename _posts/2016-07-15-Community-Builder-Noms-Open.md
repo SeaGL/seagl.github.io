@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-Nominations are open for the second Cascadia Community Builder Award!
+Nominations are open until August 16th for the second Cascadia Community Builder Award!
 
 This is an award for a local person who has made an outstanding contribution to the free software movement. We will consider the following criteria:
 
