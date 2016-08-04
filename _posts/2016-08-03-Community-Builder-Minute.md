@@ -17,7 +17,6 @@ If you want to speak with us in real-time, come visit us on IRC on Freenode in #
 
 
 Feel free to contact us if you have any questions, either by
-emailing: award at seagl dot org
--- or visiting us on IRC on
+emailing{{ site.custom.a.email.award }} or visiting us on IRC on
 [Freenode]({{ site.custom.url.irc.network }}) in
 [#seagl]({{ site.custom.url.irc.channel }}).
