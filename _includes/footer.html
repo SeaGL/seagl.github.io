@@ -1,10 +1,12 @@
       </div>
+
       <div class="well" id="policy-content">
         <img src="/img/seagl-cropped.svg" class="pull-left" alt="Logo" width="306" height="200">
         <p>SeaGL is dedicated to a harassment-free conference experience for
         everyone. <br class="hidden-sm">Our code of conduct can be found
         <a href="/code_of_conduct.html">here</a></p>
       </div>
+
       <footer>
         <ul id="footer-nav" role="navigation" class="list-inline">
           <li>Published with <a href="http://pages.github.com">GitHub Pages</a></li>
@@ -15,28 +17,7 @@
         </ul>
       </footer>
     </div>
-    <!-- Piwik
 
-    We use this to try to understand how far the word about SeaGL has spread.
-
-    We also understand that some people don't like to be tracked, and would highly
-    recommend something like adblock with the privacy filter list.
-    ================================================== -->
-    <!-- Piwik -->
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      _paq.push(["setDomains", ["*.seagl.org"]]);
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="//analytics.janky.solutions/";
-        _paq.push(['setTrackerUrl', u+'piwik.php']);
-        _paq.push(['setSiteId', 13]);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <noscript><p><img src="//analytics.janky.solutions/piwik.php?idsite=13" style="border:0;" alt="" /></p></noscript>
-    <!-- End Piwik Code -->
-</body>
+    {% include piwik.html %}
+  </body>
 </html>

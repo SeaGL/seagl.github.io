@@ -8,6 +8,7 @@
   <meta name="description" content="{% if page.description %} {{ page.description }} {% elsif page.title %} {{ page.title }} {% else %} SeaGL 2013 {% endif %}" />
 
   <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+
   <link rel="stylesheet" type="text/css" media="all" href="/css/vendor/bootstrap3.min.css">
   <link rel="stylesheet" type="text/css" media="print" href="/css/vendor/bootstrap3.min.css">
   <link rel="stylesheet" type="text/css" media="all" href="//fonts.googleapis.com/css?family=Dosis:400,700|Lato:400,700,400italic,700italic">
@@ -67,13 +68,10 @@
 
     <title>{% if page.title %} {{ page.title }} | {% endif %} Seattle GNU/Linux Conference</title>
 
-    <!-- Le javascript
-    ================================================== -->
-
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap3.min.js"></script>
-
   </head>
+
   <body id="{{ page.body_id }}">
     <nav class="navbar navbar-default" role="navigation" id="main-nav">
       <img src="/img/logo.svg" id="logo" alt="Logo" width="198" height="170">
@@ -82,29 +80,8 @@
       <div class="row">
         {{ content }}
       </div>
-    </div><!--/.fluid-container-->
-    <!-- Piwik
+    </div>
 
-    We use this to try to understand how far the word about SeaGL has spread.
-
-    We also understand that some people don't like to be tracked, and would highly
-    recommend something like adblock with the privacy filter list.
-    ================================================== -->
-    <!-- Piwik -->
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      _paq.push(["setDomains", ["*.seagl.org"]]);
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="//analytics.janky.solutions/";
-        _paq.push(['setTrackerUrl', u+'piwik.php']);
-        _paq.push(['setSiteId', 13]);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <noscript><p><img src="//analytics.janky.solutions/piwik.php?idsite=13" style="border:0;" alt="" /></p></noscript>
-    <!-- End Piwik Code -->
-</body>
+    {% include piwik.html %}
+  </body>
 </html>

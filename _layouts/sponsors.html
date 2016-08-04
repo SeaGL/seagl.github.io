@@ -12,47 +12,51 @@ levels:
 <div class="col-md-12">
   <div class="hero-unit">
     <h1>SeaGL {{ page.year}} Sponsors</h1>
+
     <p class="lead text-center">
-        Our community sponsors are the lifeblood of SeaGL and we can't thank them enough.
-        <br class="hidden-xs hidden-sm" />
-        Their contributions will have a real and lasting effect in the FLOSS community. Thank you all.
+      Our community sponsors are the lifeblood of SeaGL and we can't thank them enough.
+      <br class="hidden-xs hidden-sm" />
+      Their contributions will have a real and lasting effect in the FLOSS community. Thank you all.
     </p>
   </div>
 
   {% for level in page.levels %}
     <div class="row {{ level[0] }}">
       <h2>{{ level[1] }}</h2>
+
       {% for sponsor in site.data.sponsors %}
         {% for year in sponsor.sponsorships | sort %}
-            {% if year[0] == page.year and year[1] == level[0] %}
-                <div class="col-md-6">
-                    <h3><a href="{{ sponsor.url }}">
-                    {% if sponsor.logo.banner != "missing" %}
-                        <img class="logo" src="{{ sponsor.logo.banner }}" alt="{{ sponsor.name }}">
-                    {% elsif sponsor.logo.square != "missing" %}
-                        <img class="logo" src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
-                    {% else %}
-                        <div class="name">{{ sponsor.name }}</div>
-                    {% endif %}
-                    </a></h3>
-                    <p>{{ sponsor.description }}</p>
+          {% if year[0] == page.year and year[1] == level[0] %}
+            <div class="col-md-6">
+              <h3>
+                <a href="{{ sponsor.url }}">
+                  {% if sponsor.logo.banner != "missing" %}
+                    <img class="logo" src="{{ sponsor.logo.banner }}" alt="{{ sponsor.name }}">
+                  {% elsif sponsor.logo.square != "missing" %}
+                    <img class="logo" src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
+                  {% else %}
+                    <div class="name">{{ sponsor.name }}</div>
+                  {% endif %}
+                </a>
+              </h3>
 
-                    {% if sponsor.sponsorships.size > 1 %}
-                        <p>Sponsored SeaGL {{ sponsor.sponsorships.size }} times.</p>
-                    {% endif %}
+              <p>{{ sponsor.description }}</p>
 
-                    {% for sponsorshipyear in sponsor.sponsorships | sort %}
-                        {% if sponsorshipyear[0] == 2013 %}
-                            <p>Founding Sponsor</p>
-                        {% endif %}
-                    {% endfor %}
-                </div>
-            {% endif %}
+              {% if sponsor.sponsorships.size > 1 %}
+                <p>Sponsored SeaGL {{ sponsor.sponsorships.size }} times.</p>
+              {% endif %}
+
+              {% for sponsorshipyear in sponsor.sponsorships | sort %}
+                {% if sponsorshipyear[0] == 2013 %}
+                  <p>Founding Sponsor</p>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
         {% endfor %}
       {% endfor %}
     </div>
 
     <hr>
   {% endfor %}
-
 </div>
