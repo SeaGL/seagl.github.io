@@ -8,8 +8,8 @@ categories: news
 ---
 
 Benjamin Mako Hill shares some thoughts with SeaGL:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 I'm an Assistant Professor in the Department of Communication

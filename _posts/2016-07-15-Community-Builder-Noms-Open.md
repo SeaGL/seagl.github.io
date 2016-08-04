@@ -19,11 +19,11 @@ This is an award for a local person who has made an outstanding contribution to 
 
 To nominate someone, please send us an email {{ site.custom.a.email.award }} with the nominee’s name in the subject line. Great nominations will include what project(s) the nominee is primarily associated with, how long they've been active, and links to any posts or stories about their impact on the growth and reach of the free software movement. The more information you can provide, the better. Thanks in advance for helping us honor a great community builder!
 
-If you want to speak with us in real-time, come visit us on IRC on Freenode in #seagl. 
+If you want to speak with us in real-time, come visit us on IRC on Freenode in #seagl.
 
 
 Feel free to contact us if you have any questions, either by
 emailing {{ site.custom.a.email.participate }}
 or visting us on IRC on
 [Freenode]({{ site.custom.url.irc.network }}) in
-[#seagl]({{ site.custom.url.irc.channel }}). 
+[#seagl]({{ site.custom.url.irc.channel }}).

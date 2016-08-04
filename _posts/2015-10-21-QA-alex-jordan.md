@@ -8,8 +8,8 @@ categories: news
 ---
 
 Alex Jordan answers some questions from SeaGL staff:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 My name's Alex Jordan, but I generally introduce myself to people as

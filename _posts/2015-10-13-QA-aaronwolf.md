@@ -9,7 +9,7 @@ categories: news
 
 SeaGL speaker Aaron Wolf talks about making music with free/libre/open tools:
 
-Q: Could you please introduce yourself and tell us a little about your 
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 I'm a musician and music teacher. I used to use Apple computers and was

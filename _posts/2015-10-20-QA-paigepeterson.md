@@ -8,9 +8,9 @@ categories: news
 ---
 
 SeaGL speaker Paige Peterson talks privacy, security, and
-freedom: 
- 
-Q: Could you please introduce yourself and tell us a little about your 
+freedom:
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 Paige is an advocate for open standards, user privacy and decentralized

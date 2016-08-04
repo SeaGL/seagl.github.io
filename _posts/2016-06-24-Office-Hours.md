@@ -9,7 +9,7 @@ categories: news
 
 Get Help with Your SeaGL Proposal!
 
-SeaGL is committed to promoting new voices and helping newer speakers get in front of our friendly audience. So whether you want help with your first proposal or guidance tailoring a talk to SeaGL's audience, we invite you to join us for Office Hours. You can either use an IRC channel to find us at #seagl on freenode.net or visit [https://webchat.freenode.net/](https://webchat.freenode.net/) via any web browser. You'll choose a nickname, type #seagl into the channel box, confirm that you aren't a robot and then connect. 
+SeaGL is committed to promoting new voices and helping newer speakers get in front of our friendly audience. So whether you want help with your first proposal or guidance tailoring a talk to SeaGL's audience, we invite you to join us for Office Hours. You can either use an IRC channel to find us at #seagl on freenode.net or visit [https://webchat.freenode.net/](https://webchat.freenode.net/) via any web browser. You'll choose a nickname, type #seagl into the channel box, confirm that you aren't a robot and then connect.
 
 
 * Monday, June 27th, 2-4pm (PDT)
@@ -29,4 +29,4 @@ Feel free to contact us if you have any questions, either by
 emailing {{ site.custom.a.email.participate }}
 or visiting us on IRC on
 [Freenode]({{ site.custom.url.irc.network }}) in
-[#seagl]({{ site.custom.url.irc.channel }}). 
+[#seagl]({{ site.custom.url.irc.channel }}).

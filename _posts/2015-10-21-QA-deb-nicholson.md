@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SeaGL speaker Q&A: Deb Nicholson' 
+title: 'SeaGL speaker Q&A: Deb Nicholson'
 status: publish
 type: post
 published: true
@@ -8,16 +8,16 @@ categories: news
 ---
 
 SeaGL speaker and staff member Deb Nicholson talks software patents:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 My name is Deb Nicholson and I work at the Open Invention Network
 [OIN](http://openinventionnetwork.com/). OIN is a defensive patent pool for
 lots of free and open source projects, including Linux, GNU, Android and a ton
 of other tools. I also serve as the Community Manager for
-[GNU MediaGoblin](http://www.mediagoblin.org/), a decentralized media-hosting 
-project, and as a board member at OpenHatch <https://openhatch.org/>, which we 
+[GNU MediaGoblin](http://www.mediagoblin.org/), a decentralized media-hosting
+project, and as a board member at OpenHatch <https://openhatch.org/>, which we
 like to call "Free Software's Welcoming Committee."
 
 Q: Without tipping your hand on the actual talk, can you give us an
@@ -39,10 +39,10 @@ I've been to every single SeaGL since I'm also one of the organizers, which
 is a little weird since I live in Boston. I blame the rest of the amazing
 SeaGL team and the ridiculously good Seattle coffee. So I'm probably a little
 biased, but I think we put on a great conference for beginners, hobbyists,
-activists and long-time free software users. 
+activists and long-time free software users.
 
 Q: Aren't legal issues sort of boring for the layperson?
- 
+
 A: Not at all! Software patent cases involve actual people trying to change
 the way the law treats our community and our industry. Some of those people
 are heroic, others are craven bullies, and some are just trying to make the

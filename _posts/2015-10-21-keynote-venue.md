@@ -15,7 +15,7 @@ social house" just a short walk from the school. Here's the address:
 
 500 E Pine St, Seattle, WA 98122
 
-Here's the Saturday afternoon schedule: 
+Here's the Saturday afternoon schedule:
 
 Time | Event
 --- | ---

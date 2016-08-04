@@ -9,7 +9,7 @@ categories: news
 
 Speaker Lance Albertson answers a few questions from SeaGL:
 
-Q: Could you please introduce yourself and tell us a little about your 
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 I am a native of Northeast Kansas and lived most of my life in the wonderful

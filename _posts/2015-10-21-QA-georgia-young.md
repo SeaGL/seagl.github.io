@@ -9,8 +9,8 @@ categories: news
 
 Free Software Foundation staffer Georgia Young will speak at SeaGL this
 weekend:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 My name is Georgia Young. I am the program manager for the Free Software

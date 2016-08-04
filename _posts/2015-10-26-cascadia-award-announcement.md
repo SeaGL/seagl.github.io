@@ -14,10 +14,10 @@ outstanding contribution to the free software movement in the Cascadia region.
 The 2015 inaugural winner is Michael Dexter.
 
 The award was given for the first time on Saturday, October 24th at the Seattle
-GNU/Linux conference and is expected to remain a feature of the local event. 
+GNU/Linux conference and is expected to remain a feature of the local event.
 Michael was chosen because his work with the Portland Linux/Unix Group and the
-BSD community exemplified the type of unsung community-building work that is so 
-critical to the growth of the free software movement. 
+BSD community exemplified the type of unsung community-building work that is so
+critical to the growth of the free software movement.
 
 Michael has used BSD Unix systems since January of 1991 and provides BSD and
 ZFS support at Gainframe. He has supported BSD Unix with download mirrors,

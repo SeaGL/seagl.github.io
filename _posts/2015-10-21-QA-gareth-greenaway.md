@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SeaGL speaker Q&A: Gareth J. Greenaway' 
+title: 'SeaGL speaker Q&A: Gareth J. Greenaway'
 status: publish
 type: post
 published: true
@@ -8,8 +8,8 @@ categories: news
 ---
 
 Speaker Gareth J. Greenaway talks SaltStack and ChatOps:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 Absolutely! I'm Gareth J. Greenaway, I'm a semi-native Southern Californian.
@@ -18,7 +18,7 @@ Auckland, New Zealand. I've been a member of the free & open source community
 for just over 20 years. The two major contributions I've been able to bring
 to the FOSS community are being one of the co-founders and organizers of the
 Southern California Linux Expo (SCALE) and the 2+ years I've been actively
-contributing to the SaltStack project. 
+contributing to the SaltStack project.
 
 Q: Without tipping your hand on the actual talk, can you give us an
 idea of what we might expect?

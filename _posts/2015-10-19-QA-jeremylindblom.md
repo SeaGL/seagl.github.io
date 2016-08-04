@@ -8,8 +8,8 @@ categories: news
 ---
 
 SeaGL asks Jeremy Lindblom a few questions:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 Hi, I'm Jeremy, or @jeremeamia on Twitter and GitHub. I'm a software engineer

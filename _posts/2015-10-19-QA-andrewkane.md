@@ -8,8 +8,8 @@ categories: news
 ---
 
 Andrew Kane will speak about contributing to projects:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 I'm not very interesting in my own right. My personal background is both
@@ -55,7 +55,7 @@ the growth of the event and the quality of the information presented
 there. I've also enjoyed interacting with the organizers. Good times all
 round thus far.
 
-Q: This is an optional question. If you have a question you'd like to ask 
+Q: This is an optional question. If you have a question you'd like to ask
 yourself to answer, put it here and then answer it:
 
 The question: "Does it matter who you are?"

@@ -9,7 +9,7 @@ categories: news
 
 Garrett Honeycutt talks with SeaGL about Test Driven Development:
 
-Q: Could you please introduce yourself and tell us a little about your 
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 I've been hacking \*nix based systems and spreading the word about free
@@ -17,11 +17,11 @@ software for over fifteen years. Previously I've worked on such things
 as building core internet infrastructure at Speakeasy, creating mobile
 media distribution platforms and as a professional services engineer
 with Puppet Labs. At my company, [LearnPuppet.com](http://learnpuppet.com),
-I consult and teach people around the world about automation with Puppet and 
-DevOps processes. At [Transforia](http://transforia.com), I am co-founder 
-and CTO where we lease fully managed, secure, GNU/Linux based laptops 
-and desktops. Besides submitting patches, I give back to the community 
-by speaking at user groups, conferences and co-organizing 
+I consult and teach people around the world about automation with Puppet and
+DevOps processes. At [Transforia](http://transforia.com), I am co-founder
+and CTO where we lease fully managed, secure, GNU/Linux based laptops
+and desktops. Besides submitting patches, I give back to the community
+by speaking at user groups, conferences and co-organizing
 [FOSSETCON](http://fossetcon.org) in Orlando.
 
 Q: Without tipping your hand on the actual talk, can you give us an

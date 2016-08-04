@@ -8,8 +8,8 @@ categories: news
 ---
 
 Keynote speaker Shauna Gordon-McKeon talks to SeaGL:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 My name's Shauna Gordon-McKeon, and my background is in the sciences. I was a

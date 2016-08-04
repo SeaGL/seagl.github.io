@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SeaGL speaker Q&A: Corey Quinn' 
+title: 'SeaGL speaker Q&A: Corey Quinn'
 status: publish
 type: post
 published: true
@@ -8,8 +8,8 @@ categories: news
 ---
 
 SeaGL talks with speaker Corey Quinn:
- 
-Q: Could you please introduce yourself and tell us a little about your 
+
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 Sure! I head up the DevOps group at FutureAdvisor in San Francisco. I'm fairly
