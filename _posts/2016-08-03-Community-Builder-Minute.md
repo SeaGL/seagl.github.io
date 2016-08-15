@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-Take a Minute to Nominate Someone Amazing!
+DEADLINE is August 16th: Take a Minute to Nominate Someone Amazing! 
 
 The second Cascadia Community Builder Award will be given this fall to a local person who has made an outstanding contribution to the free software movement. We are looking for someone who contributes -- either at work, as a volunteer or both -- to the adoption or creation of free and open source software. We are especially interested in hearing about work that brings FOSS to new communities and/or under-represented groups.
 
