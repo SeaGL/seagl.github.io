@@ -11,6 +11,6 @@ There's a lot that goes into crafting a great conference experience, and an esse
 	
  - Help with the travel costs for less privileged speakers and attendees
  - Providing lunch to local student attendees 
- - Providing no-cost conference tickets for those in need
+ - Making SeaGL a free conference for all attendees
 
-If you or your company are interested in sponsoring SeaGL, please contact us at to discuss the sponsorship packages available. 
+If you or your company are interested in sponsoring SeaGL, please contact us at sponsor@seagl.org to discuss the sponsorship packages available or check out our prospectus <a href="http://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2016.pdf">here.</a>
