@@ -77,8 +77,6 @@ Vagrant.configure("2") do |config|
     apt-get update
     apt-get install -y ruby ruby-dev
     gem install bundler
-    gem install github-pages
-
     bundle install
 
     echo 'To start testing your changes, run `vagrant exec jekyll serve --watch --incremental --host 0.0.0.0` and connect your browser to http://localhost:4000'
