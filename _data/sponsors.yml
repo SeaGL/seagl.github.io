@@ -44,6 +44,7 @@
   sponsorships:
     2014: thanks
     2015: bronze
+    2016: bronze
 
 - name: ExtraHop
   url: http://www.extrahop.com
@@ -284,6 +285,7 @@
     promote computer user freedom and to defend the rights of all free software users.
   sponsorships:
     2015: thanks
+    2016: thanks
 
 - name: Write The Docs Seattle
   url: http://www.meetup.com/Write-The-Docs-Seattle/
@@ -352,3 +354,12 @@
     amazing presentations, catered food, musical numbers, the hackathon, and the live blog.
   sponsorships:
     2015: thanks
+
+- name: Software Freedom Conservancy
+  url: http://sfconservancy.org/
+  logo:
+    banner: missing
+    square: /img/sponsors/SFC/SFC-logo.png
+  description: |-
+  sponsorships:
+    2016: thanks
