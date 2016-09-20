@@ -25,7 +25,8 @@ levels:
       <h2>{{ level[1] }}</h2>
 
       {% for sponsor in site.data.sponsors %}
-        {% for year in sponsor.sponsorships | sort %}
+        {% assign sorted_years = sponsor.sponsorships | sort %}
+        {% for year in sorted_years %}
           {% if year[0] == page.year and year[1] == level[0] %}
             <div class="col-md-6">
               <h3>
@@ -46,7 +47,7 @@ levels:
                 <p>Sponsored SeaGL {{ sponsor.sponsorships.size }} times.</p>
               {% endif %}
 
-              {% for sponsorshipyear in sponsor.sponsorships | sort %}
+              {% for sponsorshipyear in sorted_years %}
                 {% if sponsorshipyear[0] == 2013 %}
                   <p>Founding Sponsor</p>
                 {% endif %}
