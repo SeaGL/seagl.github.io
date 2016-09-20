@@ -1,8 +1,13 @@
 _site
+
+.bundle
+.jekyll-metadata
+.vagrant
+Gemfile.lock
+
 .DS_Store
 
 # IDE stuff
 atlassian-ide-plugin.xml
 *.iml
 *.idea
-Gemfile.lock
