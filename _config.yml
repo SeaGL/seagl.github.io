@@ -52,7 +52,7 @@ custom:
         domain:             metrics.seagl.org
         siteid:             13
         tracked_domains:
-          - *.seagl.org
+          - "*.seagl.org"
 sass:
     sass_dir: _sass
     style: compressed
