@@ -392,3 +392,12 @@
   description: |-
   sponsorships:
     2016: thanks
+
+- name: Kubuntu
+  url: http://www.kubuntu.org/
+  logo:
+    banner: missing
+    square: /img/sponsors/Kubuntu/Kubuntu-logo.png
+  description: |-
+  sponsorships:
+    2016: thanks
