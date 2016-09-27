@@ -12,6 +12,16 @@
   sponsorships:
     2013: silver
 
+- name: Ada's Technical Books
+  url: http://www.seattletechnicalbooks.com/
+  logo: 
+    banner: /img/sponsors/AdasTechnicalBooks/AdaShopLogo.png
+    square: missing
+  description: |-
+    Technical books and cafe for the cravings of the technical mind.
+  sponsorships:
+    2016: bronze
+
 - name: Ansible
   url: http://www.ansible.com
   logo:
@@ -64,6 +74,19 @@
     2013: bronze
     2014: bronze
     2015: bronze
+    2016: bronze
+
+- name: Fedora
+  url: https://getfedora.org/
+  logo:
+    banner: /img/sponsors/Fedora/fedora-logo.png
+    square: missing
+  description: |-
+    Choose Freedom. Choose Fedora.
+    Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs, 
+    and get to work right away.
+  sponsorships:
+    2016: bronze
 
 - name: Google
   url: http://www.google.com
@@ -76,6 +99,7 @@
   sponsorships:
     2014: gold
     2015: gold
+    2016: platinum
 
 - name: Hewlett-Packard
   url: http://hpcloud.com
@@ -121,6 +145,7 @@
     2013: bronze
     2014: bronze
     2015: bronze
+    2016: silver
 
 - name: Rackspace
   url: http://www.rackspace.com
@@ -156,6 +181,7 @@
     2013: gold
     2014: gold
     2015: gold
+    2016: platinum
 
 - name: Seattle Central College
   url: http://seattlecentral.edu
@@ -175,6 +201,7 @@
     2013: platinum
     2014: platinum
     2015: platinum
+    2016: platinum
 
 - name: Silicon Mechanics
   url: http://www.siliconmechanics.com
@@ -275,6 +302,7 @@
     9:00 a.m. to 5:00 p.m. both days.
   sponsorships:
     2015: thanks
+    2016: thanks
 
 - name: Free Software Foundation
   url: http://www.fsf.org/
