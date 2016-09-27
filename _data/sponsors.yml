@@ -91,7 +91,7 @@
 - name: Google
   url: http://www.google.com
   logo:
-    banner: /img/sponsors/Google/Logo_Google_2013_Official.svg
+    banner: /img/sponsors/Google/googlelogo_clr_520x172px.png
     square: missing
   description: |-
     Google's mission is to organize the world's information and make it
