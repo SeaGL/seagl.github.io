@@ -14,7 +14,7 @@
 
 - name: Ada's Technical Books
   url: http://www.seattletechnicalbooks.com/
-  logo: 
+  logo:
     banner: /img/sponsors/AdasTechnicalBooks/AdaShopLogo.png
     square: missing
   description: |-
@@ -83,7 +83,7 @@
     square: missing
   description: |-
     Choose Freedom. Choose Fedora.
-    Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs, 
+    Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs,
     and get to work right away.
   sponsorships:
     2016: bronze

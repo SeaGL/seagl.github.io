@@ -40,18 +40,6 @@ levels:
                   {% endif %}
                 </a>
               </h3>
-
-              <p>{{ sponsor.description }}</p>
-
-              {% if sponsor.sponsorships.size > 1 %}
-                <p>Sponsored SeaGL {{ sponsor.sponsorships.size }} times.</p>
-              {% endif %}
-
-              {% for sponsorshipyear in sorted_years %}
-                {% if sponsorshipyear[0] == 2013 %}
-                  <p>Founding Sponsor</p>
-                {% endif %}
-              {% endfor %}
             </div>
           {% endif %}
         {% endfor %}
