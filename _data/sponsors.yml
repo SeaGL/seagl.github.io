@@ -5,8 +5,7 @@
   logo:
     banner: /img/sponsors/ActiveBuilding/old_logo.png
     square: missing
-  description: |-
-
+  description: 
   sponsorships:
     2013: silver
 
@@ -15,8 +14,7 @@
   logo: 
     banner: /img/sponsors/AdasTechnicalBooks/AdaShopLogo.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
     2016: bronze
 
@@ -25,8 +23,7 @@
   logo:
     banner: /img/sponsors/Ansible/ansible_badge.png
     square: missing
-  description: |-
-
+  description: 
   sponsorships:
 
 - name: CSATS
@@ -34,8 +31,7 @@
   logo:
     banner: missing
     square: /img/sponsors/CSATS/csats.png
-  description: |-
-
+  description:
   sponsorships:
     2016: bronze
 
@@ -54,8 +50,7 @@
   logo:
     banner: /img/sponsors/Fedora/fedora-logo.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
     2016: bronze
 
@@ -64,8 +59,7 @@
   logo:
     banner: /img/sponsors/Google/googlelogo_clr_520x172px.png
     square: missing
-  description: |-
-
+  description: 
   sponsorships:
     2016: platinum
 
@@ -84,8 +78,7 @@
   logo:
     banner: /img/sponsors/LinuxJournal/ljcolor.png
     square: missing
-  description: |-
-
+  description: 
   sponsorships:
     2016: bronze
 
@@ -153,8 +146,7 @@
   logo:
     banner: /img/sponsors/RainierConnect/logo.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
 
 - name: Microsoft
@@ -162,8 +154,7 @@
   logo:
     banner: /img/sponsors/Microsoft/Microsoft_logo_(2012)_modified.svg.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
 
 - name: LibreOffice
@@ -171,8 +162,7 @@
   logo:
     banner: /img/sponsors/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
 
 - name: No Starch Press
@@ -189,8 +179,7 @@
   logo:
     banner: /img/sponsors/LFNW/linuxfest-northwest-logo.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
     2016: thanks
 
@@ -209,8 +198,7 @@
   logo:
     banner: missing
     square: /img/sponsors/WriteTheDocsSeattle/WriteTheDocs.jpeg
-  description: |-
-
+  description:
   sponsorships:
 
 - name: Seattle Area System Administrators Guild
@@ -218,8 +206,7 @@
   logo:
     banner: /img/sponsors/SASAG/SASAG.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
 
 - name: Oregon State University Open Source Lab
@@ -227,8 +214,7 @@
   logo:
     banner: /img/sponsors/OSL/osuosl-tag.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
 
 - name: Northeastern University Seattle
@@ -236,8 +222,7 @@
   logo:
     banner: /img/sponsors/NortheasternUniversitySeattle/NortheasternSeattle.jpg
     square: missing
-  description: |-
-
+  description:
   sponsorships:
 
 - name: The FreeBSD Project
@@ -245,8 +230,7 @@
   logo:
     banner: /img/sponsors/FreeBSD/FreeBSD-logo-red.png
     square: missing
-  description: |-
-
+  description:
   sponsorships:
 
 - name: Pacific Northwest PHP Conference
@@ -254,8 +238,7 @@
   logo:
     banner: missing
     square: /img/sponsors/PNWPHP/pnwphp.png
-  description: |-
-
+  description:
   sponsorships:
 
 - name: Software Freedom Conservancy
@@ -263,8 +246,7 @@
   logo:
     banner: missing
     square: /img/sponsors/SFC/SFC-logo.png
-  description: |-
-
+  description:
   sponsorships:
     2016: thanks
 
@@ -273,7 +255,6 @@
   logo:
     banner: missing
     square: /img/sponsors/Kubuntu/Kubuntu-logo.png
-  description: |-
-
+  description:
   sponsorships:
     2016: thanks
