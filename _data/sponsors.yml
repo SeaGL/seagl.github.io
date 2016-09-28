@@ -6,9 +6,6 @@
     banner: /img/sponsors/ActiveBuilding/old_logo.png
     square: missing
   description: |-
-    ActiveBuilding makes everyday apartment life easy. For owners, managers and
-    residents alike. And when a building’s happy, that’s good for relationships,
-    retention and your building’s reputation.
   sponsorships:
     2013: silver
 
@@ -18,7 +15,6 @@
     banner: /img/sponsors/AdasTechnicalBooks/AdaShopLogo.png
     square: missing
   description: |-
-    Technical books and cafe for the cravings of the technical mind.
   sponsorships:
     2016: bronze
 
@@ -28,12 +24,7 @@
     banner: /img/sponsors/Ansible/ansible_badge.png
     square: missing
   description: |-
-    Ansible is a powerful automation engine that makes systems and applications
-    simple to deploy. No custom scripting or custom code. No agents. All using
-    an automation language that's easy for anyone to understand and learn. Just
-    get in, get it done, and make some time for other strategic projects.
   sponsorships:
-    2014: bronze
 
 - name: CSATS
   url: http://www.csats.com
@@ -41,19 +32,7 @@
     banner: missing
     square: /img/sponsors/CSATS/csats.png
   description: |-
-    Seattle-based CSATS, Inc. is a venture-backed healthcare technology company
-    on a mission to empower the nation's 16 million healthcare workers and
-    institutions to assess and improve their performance continuously,
-    accurately and objectively. Based on technology developed at the University
-    of Washington by a team of surgeons, engineers and biostatisticians, CSATS'
-    performance management system utilizes a unique combination of distributed
-    experts and non-medically trained people available 24/7 from the Internet
-    to assess healthcare professionals' technical performance with accuracy
-    equivalent to current gold standards...but at 80+% savings in cost and time
-    to results.
   sponsorships:
-    2014: thanks
-    2015: bronze
     2016: bronze
 
 - name: ExtraHop
@@ -62,18 +41,8 @@
     banner: /img/sponsors/ExtraHop/ExtraHop logo tagline See IT Run.png
     square: missing
   description: |-
-    ExtraHop is the global leader in real-time wire data analytics. The ExtraHop
-    Operational Intelligence platform analyzes all L2-L7 communications,
-    including full bidirectional transactional payloads. This innovative
-    approach provides the correlated, cross-tier visibility essential for
-    application performance, availability, and security in today's complex and
-    dynamic IT environments. The winner of numerous awards from Interop and
-    others, the ExtraHop platform scales up to 20 Gbps, deploys without agents,
-    and delivers tangible value in less than 15 minutes.
+    Founding sponsor
   sponsorships:
-    2013: bronze
-    2014: bronze
-    2015: bronze
     2016: bronze
 
 - name: Fedora
@@ -82,9 +51,6 @@
     banner: /img/sponsors/Fedora/fedora-logo.png
     square: missing
   description: |-
-    Choose Freedom. Choose Fedora.
-    Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs, 
-    and get to work right away.
   sponsorships:
     2016: bronze
 
@@ -94,11 +60,7 @@
     banner: /img/sponsors/Google/googlelogo_clr_520x172px.png
     square: missing
   description: |-
-    Google's mission is to organize the world's information and make it
-    universally accessible and useful.
   sponsorships:
-    2014: gold
-    2015: gold
     2016: platinum
 
 - name: Hewlett-Packard
@@ -107,15 +69,8 @@
     banner: /img/sponsors/HPCloud/HP_Blue_RGB_150_MX.png
     square: missing
   description: |-
-    Hewlett-Packard is long term supporter of Linux and of Open Source. HP is a
-    Platinum member of the Linux Foundation and a Founding and Platinum member
-    of the OpenStack Foundation.  HP ships a new Linux server every minute, and
-    operates an OpenStack public cloud at
-    <a href="http://hpcloud.com">http://hpcloud.com</a>
+    Founding sponsor
   sponsorships:
-    2013: bronze
-    2014: bronze
-    2015: bronze
     2016: bronze
 
 - name: Linux Journal
@@ -124,12 +79,8 @@
     banner: /img/sponsors/LinuxJournal/ljcolor.png
     square: missing
   description: |-
-    Linux Journal, currently celebrating its 20th year of publication, is the
-    original magazine of the global Linux community, delivering readers the
-    advice and inspiration they need to get the most out of their Linux systems.
   sponsorships:
-    2013: thanks
-    2015: bronze
+    2016: bronze
 
 - name: Pogo Linux, Inc
   url: http://www.pogolinux.com
@@ -137,14 +88,8 @@
     banner: /img/sponsors/PogoLinux/logo_pogolinux.png
     square: missing
   description: |-
-    Founded in 1999, Pogo Linux, Inc. is an open-source systems integrator based
-    out of Seattle, WA. With a multi-OS focus and in-house technical expertise,
-    we offer a wide range of workstations, servers and network storage solutions
-    for the technology needs of IT departments in organizations of all sizes.
+    Founding sponsor
   sponsorships:
-    2013: bronze
-    2014: bronze
-    2015: bronze
     2016: silver
 
 - name: Rackspace
@@ -153,17 +98,9 @@
     banner: /img/sponsors/Rackspace/Rackspace_Cloud_Company_Logo_clr.png
     square: missing
   description: |-
-    Fanatical Support® has made Rackspace the service leader in cloud
-    computing. We deliver enterprise-class hybrid cloud infrastructures to
-    businesses of all sizes and kinds around the world. We started in 1998
-    and we host hundreds of thousands of customers worldwide. Rackspace
-    combines public cloud, private cloud, and dedicated bare metal computing
-    to provide the perfect infrastructure for each customer’s specific
-    needs. And, the Rackspace Hybrid Cloud is powered by OpenStack® and
-    backed by Fanatical Support.
+    Founding sponsor
   sponsorships:
-    2013: gold
-    2014: gold
+    
 
 - name: Schedules Direct
   url: http://www.schedulesdirect.org
@@ -171,16 +108,8 @@
     banner: /img/sponsors/SchedulesDirect/sd_long.png
     square: missing
   description: |-
-    Schedules Direct is a non-profit organization whose mission is to
-    educate the public about the benefits of Open Source Software and other
-    free software, provide support functions for such software, and provide
-    funding for research that facilitates the improvement or creation of
-    Open Source Software and other free software for the benefit of the
-    public at large.
+    Founding sponsor
   sponsorships:
-    2013: gold
-    2014: gold
-    2015: gold
     2016: platinum
 
 - name: Seattle Central College
@@ -189,18 +118,8 @@
     banner: /img/sponsors/SCC/seattle-central-college-logo.png
     square: missing
   description: |-
-    Seattle Central College is located on Capitol Hill, the vibrant urban
-    center of Seattle life. We are an educational home for our students, a
-    leadership incubator for our community and an economic catalyst for our
-    state and beyond. Since 1966, the college has served the higher
-    education and workforce training needs of more than 500,000 students.
-    </p><p>
-    Seattle Central is committed to creating a learning environment that is
-    accessible, diverse, responsive, and innovative.
+    Founding sponsor
   sponsorships:
-    2013: platinum
-    2014: platinum
-    2015: platinum
     2016: platinum
 
 - name: Silicon Mechanics
@@ -209,17 +128,8 @@
     banner: /img/sponsors/SiliconMechanics/SiMechTrimmed.png
     square: missing
   description: |-
-    Silicon Mechanics is an industry-leading provider of server, storage, and
-    high-performance computing solutions. Deploying the latest innovations in
-    hardware and software technology, we work in collaboration with our
-    customers to design and build the most efficient, cost-effective technology
-    solution for their needs. Our guiding principle, "Expert included," is our
-    promise that reflects our passion for complete customer satisfaction, from
-    server and component selection to superior installation and ongoing
-    technical support.
+    Founding sponsor
   sponsorships:
-    2013: platinum
-    2015: silver
 
 - name: The Greater Seattle Linux Users Group
   url: http://www.gslug.org
@@ -227,21 +137,9 @@
     banner: /img/sponsors/GSLUG/logo.png
     square: missing
   description: |-
-    The Greater Seattle Linux Users Group is a local organization of people in
-    the Seattle Metropolitan area that wish to collaborate on subjects
-    pertaining to Linux and Open Source Software in general. Monthly meetings
-    since 1994 and an active mailing list help to make this possible.
-    </p><p>
-    GSLUG is a Linux Users Group, which means it's mainly comprised of people
-    who use Linux on a day-to-day basis for work and fun, and it is also the
-    premier place for people to come and learn more about Linux and Open Source
-    Software, whether you've never used Linux before, or if you're a seasoned
-    kernel developer, GSLUG is an excellent place to meet new people, learn
-    things you never knew before, and share great ideas.
+    Founding sponsor
   sponsorships:
-    2013: thanks
-    2014: thanks
-    2015: thanks
+    2016: thanks
 
 - name: Rainier Connect
   url: https://www.rainierconnect.com/
@@ -249,11 +147,7 @@
     banner: /img/sponsors/RainierConnect/logo.png
     square: missing
   description: |-
-    Rainier Connect is South Puget Sound’s premiere phone, cable TV & high-speed
-    Internet provider. Homes & businesses choose us for quality phone, DSL, cable
-    & TV service in Tacoma, Puyallup, Centralia, Eatonville, Graham & beyond.
   sponsorships:
-    2015: bronze
 
 - name: Microsoft
   url: https://www.microsoft.com/
@@ -262,7 +156,6 @@
     square: missing
   description: |-
   sponsorships:
-    2015: silver
 
 - name: LibreOffice
   url: https://www.libreoffice.org/
@@ -270,12 +163,7 @@
     banner: /img/sponsors/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
     square: missing
   description: |-
-    LibreOffice is a powerful office suite; Its clean interface and its powerful
-    tools let you unleash your creativity and grow your productivity. LibreOffice
-    embeds several applications that make it the most powerful Free & Open Source
-    Office suite on the market
   sponsorships:
-    2015: thanks
 
 - name: No Starch Press
   url: https://www.nostarch.com/
@@ -283,11 +171,7 @@
     banner: missing
     square: /img/sponsors/NoStarchPress/nsp_logo_black.png
   description: |-
-    No Starch Press publishes the finest in geek entertainment — distinctive books
-    on computing, such as bestsellers Steal This Computer Book, Hacking: The Art
-    of Exploitation, Practical Packet Analysis, and The Manga Guides.
   sponsorships:
-    2015: bronze
 
 - name: Linuxfest Northwest
   url: http://linuxfestnorthwest.org/2016
@@ -295,13 +179,7 @@
     banner: /img/sponsors/LFNW/linuxfest-northwest-logo.png
     square: missing
   description: |-
-    LinuxFest Northwest is an annual OpenSource event held the last weekend in April,
-    in Bellingham, WA USA. The Fest features presentations and Exhibits on various
-    F/OSS topics, as well as Linux distributions and applications. LinuxFest Northwest
-    has something for everyone from the novice to the professional. The hours are
-    9:00 a.m. to 5:00 p.m. both days.
   sponsorships:
-    2015: thanks
     2016: thanks
 
 - name: Free Software Foundation
@@ -310,10 +188,8 @@
     banner: /img/sponsors/FSF/fsf30-header-fsf.png
     square: missing
   description: |-
-    The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to
-    promote computer user freedom and to defend the rights of all free software users.
+    Founding sponsor
   sponsorships:
-    2015: thanks
     2016: thanks
 
 - name: Write The Docs Seattle
@@ -322,11 +198,7 @@
     banner: missing
     square: /img/sponsors/WriteTheDocsSeattle/WriteTheDocs.jpeg
   description: |-
-    A group for Seattle technical writers, software developers, content managers, or
-    editors who want to share ideas about how to produce great software and
-    documentation that creates a positive customer experience.
   sponsorships:
-    2015: thanks
 
 - name: Seattle Area System Administrators Guild
   url: http://www.sasag.org/
@@ -334,10 +206,7 @@
     banner: /img/sponsors/SASAG/SASAG.png
     square: missing
   description: |-
-    Seattle Area System Administrators Guild (SASAG) is a local group for systems
-    administrators in the Seattle and Pacific Northwest areas (North Western Washington).
   sponsorships:
-    2015: thanks
 
 - name: Oregon State University Open Source Lab
   url: http://osuosl.org/
@@ -346,7 +215,6 @@
     square: missing
   description: |-
   sponsorships:
-    2015: thanks
 
 - name: Northeastern University Seattle
   url: http://www.northeastern.edu/seattle/
@@ -355,7 +223,6 @@
     square: missing
   description: |-
   sponsorships:
-    2015: thanks
 
 - name: The FreeBSD Project
   url: http://www.freebsd.org/
@@ -363,13 +230,7 @@
     banner: /img/sponsors/FreeBSD/FreeBSD-logo-red.png
     square: missing
   description: |-
-    FreeBSD is an advanced computer operating system used to power modern servers, desktops
-    and embedded platforms. A large community has continually developed it for more than
-    thirty years. Its advanced networking, security and storage features have made FreeBSD
-    the platform of choice for many of the busiest web sites and most pervasive embedded
-    networking and storage devices.
   sponsorships:
-    2015: thanks
 
 - name: Pacific Northwest PHP Conference
   url: http://pnwphp.com
@@ -377,12 +238,7 @@
     banner: missing
     square: /img/sponsors/PNWPHP/pnwphp.png
   description: |-
-    The Pacific Northwest PHP Conference is a 3-day event for PHP developers living in the
-    Pacific Northwest region. We've invited world-renowned speakers from the PHP community
-    to teach about topics ranging from continuous integration to the cloud. Join us for the
-    amazing presentations, catered food, musical numbers, the hackathon, and the live blog.
   sponsorships:
-    2015: thanks
 
 - name: Software Freedom Conservancy
   url: http://sfconservancy.org/
