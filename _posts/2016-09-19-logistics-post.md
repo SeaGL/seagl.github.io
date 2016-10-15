@@ -8,7 +8,7 @@ categories: news
 ---
 SeaGL 2016 will run on the 11th and 12th of November at Seattle Central College. It's a great location very close to transportation links.
 
-<center>The address is: _1701 Broadway Seattle, WA 98122_ </center>
+<center>The address is: <strong>1701 Broadway Seattle, WA 98122</strong> </center>
 
 ##### Parking
 Street parking is available on many streets near the college at 2.50 an hour with a two hour max limit. 
