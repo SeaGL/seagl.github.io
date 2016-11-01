@@ -130,6 +130,7 @@
   sponsorships:
     2013: thanks
     2015: bronze
+    2016: bronze
 
 - name: Pogo Linux, Inc
   url: http://www.pogolinux.com
@@ -220,6 +221,7 @@
   sponsorships:
     2013: platinum
     2015: silver
+    2016: silver
 
 - name: The Greater Seattle Linux Users Group
   url: http://www.gslug.org
@@ -242,6 +244,7 @@
     2013: thanks
     2014: thanks
     2015: thanks
+    2016: thanks
 
 - name: Rainier Connect
   url: https://www.rainierconnect.com/
@@ -276,6 +279,7 @@
     Office suite on the market
   sponsorships:
     2015: thanks
+    2016: thanks
 
 - name: No Starch Press
   url: https://www.nostarch.com/
@@ -288,6 +292,7 @@
     of Exploitation, Practical Packet Analysis, and The Manga Guides.
   sponsorships:
     2015: bronze
+    2016: thanks
 
 - name: Linuxfest Northwest
   url: http://linuxfestnorthwest.org/2016
@@ -338,6 +343,7 @@
     administrators in the Seattle and Pacific Northwest areas (North Western Washington).
   sponsorships:
     2015: thanks
+    2016: thanks
 
 - name: Oregon State University Open Source Lab
   url: http://osuosl.org/
@@ -384,6 +390,7 @@
   sponsorships:
     2015: thanks
 
+
 - name: Software Freedom Conservancy
   url: http://sfconservancy.org/
   logo:
@@ -398,6 +405,51 @@
   logo:
     banner: missing
     square: /img/sponsors/Kubuntu/Kubuntu-logo.png
+  description: |-
+  sponsorships:
+    2016: thanks
+
+- name: Red Hat
+  url: http://www.redhat.com
+  logo:
+    banner: missing
+    square: /img/sponsors/RedHat/RedHat-logo.png
+  description: |-
+  sponsorships:
+    2016: bronze
+
+- name: SEAPHP
+  url: https://www.meetup.com/seaphp/
+  logo:
+    banner: missing
+    square: /img/sponsors/seaphp/seaphp.png
+  description: |-
+  sponsorships:
+    2016: thanks
+
+- name: SoDo Makerspace
+  url: http://sodo.ms/
+  logo:
+    banner: missing
+    square: /img/sponsors/SoDo/sodo.png
+  description: |-
+  sponsorships:
+    2016: thanks
+
+- name: Cascadia Wikimedians
+  url: https://meta.wikimedia.org/wiki/Cascadia_Wikimedians
+  logo:
+    banner: missing
+    square: /img/sponsors/CascadiaWikimedians/cascwiki.png
+  description: |-
+  sponsorships:
+    2016: thanks
+
+- name: TA3M & SPC
+  url: https://www.seattleprivacy.org/programs/ta3m/
+  logo:
+    banner: missing
+    square: /img/sponsors/TA3M/TA3M.png
   description: |-
   sponsorships:
     2016: thanks
