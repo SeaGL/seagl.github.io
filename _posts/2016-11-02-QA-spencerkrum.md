@@ -21,3 +21,7 @@ Q: Is this your first visit to SeaGL? If so, what are your expectations? If not,
 
 A: This will be my third SeaGL conference. Ever year I make sure to attend this event. It is such a good mix of community members, we are so privileged in the PacNW to have so many awesome people. You never know which OSI board member is sitting next to you in a session!
 
+Q: What small thing makes SeaGL great?
+
+A: I really enjoy the impromptu GPG keysigning party that always pops up. It's always a small hoot.
+
