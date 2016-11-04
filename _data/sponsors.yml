@@ -409,6 +409,15 @@
   sponsorships:
     2016: thanks
 
+- name: Lubuntu
+  url: http://www.lubuntu.me/
+  logo:
+    banner: missing
+    square: /img/sponsors/Lubuntu/Lubuntu-logo.png
+  description: |-
+  sponsorships:
+    2016: thanks
+    
 - name: Red Hat
   url: http://www.redhat.com
   logo:
