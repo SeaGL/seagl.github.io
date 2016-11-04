@@ -15,7 +15,7 @@ A: I'm Brian Raiter, I've been a professional programmer for most of my adult li
 
 Q: Without tipping your hand on the actual talk, can you give us an idea of what we might expect?
 
-A: My tech talk will provide people with enough background to start demystifying Intel x86 assembly language. By the end of the talk, the idea of writing assembly language code for Linux will no long seem scary (I hope) -- in fact, it will even sound fun!
+A: My tech talk will provide people with enough background to start demystifying Intel x86 assembly language. By the end of the talk, the idea of writing assembly language code for Linux will no longer seem scary (I hope) -- in fact, it will even sound fun!
 
 Assembly language has a reputation for being difficult and tedious, particularly nowadays when knowledge of assembly has become less and less necessary. While this stereotype is partly true, it is also true that assembly language is both precise and powerful. And mastering assembly language programming provides opportunity for a certain type of enjoyment that you can't get anywhere else. I want to give more people a glimpse of that enjoyment.
 
