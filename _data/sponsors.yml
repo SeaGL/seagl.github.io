@@ -267,6 +267,15 @@
   sponsorships:
     2015: silver
 
+- name: Mozilla
+  url: https://www.mozilla.org/en-US/
+  logo:
+    banner: /img/sponsors/Mozilla/MozillaLogo.jpeg
+    square: missing
+  description: |-
+  sponsorships:
+    2016: bronze
+
 - name: LibreOffice
   url: https://www.libreoffice.org/
   logo:
