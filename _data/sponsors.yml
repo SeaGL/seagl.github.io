@@ -267,14 +267,14 @@
   sponsorships:
     2015: silver
 
-- name: Mozilla
-  url: https://www.mozilla.org/en-US/
+- name: Jenkins
+  url: https://jenkins.io/
   logo:
-    banner: /img/sponsors/Mozilla/MozillaLogo.jpeg
+    banner: /img/sponsors/Jenkins/JenkinsLogo.svg
     square: missing
   description: |-
   sponsorships:
-    2016: bronze
+    2016: thanks
 
 - name: LibreOffice
   url: https://www.libreoffice.org/
@@ -289,6 +289,15 @@
   sponsorships:
     2015: thanks
     2016: thanks
+
+- name: Mozilla
+  url: https://www.mozilla.org/en-US/
+  logo:
+    banner: /img/sponsors/Mozilla/MozillaLogo.jpeg
+    square: missing
+  description: |-
+  sponsorships:
+    2016: bronze
 
 - name: No Starch Press
   url: https://www.nostarch.com/
