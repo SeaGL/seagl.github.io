@@ -270,7 +270,7 @@
 - name: Jenkins
   url: https://jenkins.io/
   logo:
-    banner: /img/sponsors/Jenkins/JenkinsLogo.svg
+    banner: /img/sponsors/Jenkins/JenkinsLogo.png
     square: missing
   description: |-
   sponsorships:
@@ -435,7 +435,7 @@
   description: |-
   sponsorships:
     2016: thanks
-    
+
 - name: Red Hat
   url: http://www.redhat.com
   logo:
