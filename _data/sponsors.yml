@@ -270,7 +270,7 @@
 - name: Jenkins
   url: https://jenkins.io/
   logo:
-    banner: /img/sponsors/Jenkins/JenkinsLogo.svg
+    banner: /img/sponsors/Jenkins/JenkinsLogo.png
     square: missing
   description: |-
   sponsorships:
@@ -423,6 +423,15 @@
   logo:
     banner: missing
     square: /img/sponsors/Kubuntu/Kubuntu-logo.png
+  description: |-
+  sponsorships:
+    2016: thanks
+
+- name: Lubuntu
+  url: http://www.lubuntu.me/
+  logo:
+    banner: missing
+    square: /img/sponsors/Lubuntu/Lubuntu-logo.png
   description: |-
   sponsorships:
     2016: thanks
