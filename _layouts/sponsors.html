@@ -21,32 +21,32 @@ levels:
     </p>
   </div>
 
-  {%- for level in layout.levels -%}
+  {% for level in layout.levels %}
     <div class="row {{ level[0] }}">
       <h2>{{ level[1] }}</h2>
 
-      {%- for sponsor in site.data.sponsors -%}
-        {%- assign sorted_years = sponsor.sponsorships | sort -%}
-        {%- for year in sorted_years -%}
-          {%- if year[0] == page.year and year[1] == level[0] -%}
+      {% for sponsor in site.data.sponsors %}
+        {% assign sorted_years = sponsor.sponsorships | sort %}
+        {% for year in sorted_years %}
+          {% if year[0] == page.year and year[1] == level[0] %}
             <div class="col-md-6">
               <h3>
                 <a href="{{ sponsor.url }}">
-                  {%- if sponsor.logo.banner != "missing" -%}
+                  {% if sponsor.logo.banner != "missing" %}
                     <img class="logo" src="{{ sponsor.logo.banner }}" alt="{{ sponsor.name }}">
-                  {%- elsif sponsor.logo.square != "missing" -%}
+                  {% elsif sponsor.logo.square != "missing" %}
                     <img class="logo" src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
-                  {%- else -%}
+                  {% else %}
                     <div class="name">{{ sponsor.name }}</div>
-                  {%- endif -%}
+                  {% endif %}
                 </a>
               </h3>
             </div>
-          {%- endif -%}
-        {%- endfor -%}
-      {%- endfor -%}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
     </div>
 
     <hr>
-  {%- endfor -%}
+  {% endfor %}
 </div>
