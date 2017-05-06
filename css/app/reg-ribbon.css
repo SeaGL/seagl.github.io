@@ -1,4 +1,5 @@
 .reg-ribbon {
+  display: none;
   background-color: #1d7193;
   overflow: hidden;
   white-space: nowrap;
@@ -20,6 +21,7 @@
 }
 
 .reg-ribbon a {
+  display: none;
   border: 1px solid #fcb320;
   color: #fff;
   display: block;
