@@ -22,3 +22,7 @@ RUN apt-get update \
 ADD Gemfile /
 
 RUN bundle install
+
+RUN mkdir /seagl
+
+WORKDIR /seagl
