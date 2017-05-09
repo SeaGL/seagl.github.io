@@ -39,12 +39,6 @@ Start your dev container with
 docker run -p 4000:4000 --rm -it -v $(pwd):/seagl seagldev
 ```
 
-Inside the container, run
-
-```bash
-jekyll serve --host 0.0.0.0 --watch
-```
-
 View the rendered website at <http://localhost:4000> on your host.
 
 Edit files on your host and reload to see changes.

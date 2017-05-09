@@ -26,3 +26,5 @@ RUN bundle install
 RUN mkdir /seagl
 
 WORKDIR /seagl
+
+ENTRYPOINT [ "jekyll", "serve", "--host=0.0.0.0", "--watch" ]
