@@ -80,7 +80,7 @@ For the actual file content, you can make your changes either in the GitHub web 
 
 ### On your local machine
 
-This needs fleshing out but not right now.
+TBD (assumption is those using git on their local machines already know this; **will** fill in later)
 
 1. clone your fork
 1. make your changes (add and/or edit files)
@@ -135,3 +135,4 @@ You can either send a PR in the GitHub interface or from your local machine.
 
 ### On your local machine
 
+TBD (assumption is those using git on their local machines already know this; **will** fill in later)
