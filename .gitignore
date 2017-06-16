@@ -11,3 +11,10 @@ Gemfile.lock
 atlassian-ide-plugin.xml
 *.iml
 *.idea
+
+# Other ignorable files
+*.*~
+*~
+*.log
+*.gz
+*.swp
