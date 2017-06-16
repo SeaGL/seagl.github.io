@@ -8,10 +8,10 @@ The site is automatically rendered whenever code is pushed to the shared reposit
 
 Basically, the steps to update the site (to publish a new blog post, for instance), are:
 
-1. Fork/clone the repository,
-1. Make your changes,
-1. Test your changes,
-1. Send a pull request (PR) for the changes,
+1. [Fork/clone the repository](#forkclone-the-repository),
+1. [Make your changes](#make-your-changes),
+1. [Test your changes](#test-your-changes),
+1. [Send a pull request (PR) for the changes](#send-a-pull-request-pr-for-the-changes),
 1. As soon as the PR is merged, your changes will be published live
 
 There are instructions for each of these steps below. The instructions assume someone with less git/GitHub/technical experience is performing the work. Those with more experience can extrapolate accordingly. :-)
