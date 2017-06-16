@@ -12,7 +12,7 @@ Basically, the steps to update the site (to publish a new blog post, for instanc
 1. [Make your changes](#make-your-changes),
 1. [Test your changes](#test-your-changes),
 1. [Send a pull request (PR) for the changes](#send-a-pull-request-pr-for-the-changes),
-1. As soon as the PR is merged, your changes will be published live
+1. As soon as the PR is merged, [your changes will be published live](#your-changes-will-be-published-live)
 
 There are instructions for each of these steps below. The instructions assume someone with less git/GitHub/technical experience is performing the work. Those with more experience can extrapolate accordingly. :-)
 
@@ -131,8 +131,21 @@ You can either send a PR in the GitHub interface or from your local machine.
 
 ### On GitHub
 
-1. 
+1. On your browser, navigate to your fork of the seagl.github.io repo.
+1. Click in the `Pull requests` tab.
+1. Click the `New pull request button`. 
+1. GitHub recognises that your repo is a fork and defaults to having the PR be the master branch of your fork requesting against the master branch of seagl.github.io. Odds are very good this is what you want. If it's not, you'll know enough to realise this. :-)
+1. Click `Create pull request`.
+1. Enter a brief but descriptive title such as "Adding 2017 CFP opening announcement".
+1. Enter a detailed description. If you are working on an [issue](https://github.com/SeaGL/seagl.github.io/issues), please reference the issue number here. Use a hashmark (`#`) followed by an issue number (`#74`). This will automatically be linked in the pull request, which is really handy.
+1. Click `Create pull request`.
 
 ### On your local machine
 
 TBD (assumption is those using git on their local machines already know this; **will** fill in later)
+
+## Your changes will be published live
+
+Now someone (perhaps you, if you have that level of access to the repo) must review and then merge your pull request.
+
+Once your pull request is merged, it will go live on the website.
