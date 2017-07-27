@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-**Nominate a Community Superhero!**
+**Nominations are open for the 2017 Cascadia Community Builder Award**
 
 The Cascadia Community Builder Award is designed to recognize work in software projects, non-profit organizations, outreach and education, hackerspace, user groups or any activity that promotes the adoption and appreciation of free software to new and larger groups of people. The awards committee is especially interested in individuals who have successfully reached out to traditionally under-represented groups, even if that isn't their primary goal. 
 
