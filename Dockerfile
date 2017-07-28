@@ -27,4 +27,4 @@ RUN mkdir /seagl
 
 WORKDIR /seagl
 
-ENTRYPOINT [ "jekyll", "serve", "--host=0.0.0.0", "--watch" ]
+ENTRYPOINT [ "bundle", "exec", "jekyll", "serve", "--host=0.0.0.0", "--watch" ]
