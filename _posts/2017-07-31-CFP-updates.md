@@ -87,3 +87,5 @@ All speakers and attendees of SeaGL must agree and adhere to the [Code of Conduc
 ### Propose today!
 
 So what are you waiting for? [Propose a talk today](https://osem.seagl.org/conferences/seagl2017/program/proposals) and join our flock in October!
+
+> This post is copyright VM Brasseur and licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
