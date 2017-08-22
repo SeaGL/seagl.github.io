@@ -62,3 +62,5 @@ If, on or around August 28th, you receive notification that your proposals were 
 1. Please don't take it personally! We have a lot of proposals and a limited number of speaking slots. Declining your proposal only means it didn't fit in with the program we chose. It does not necessarily mean it's a bad talk idea or that you've failed in any way.
 1. You can ask for feedback. [Email VM Brasseur](mailto:vmbrasseur@seagl.org), our program chair, and let her know the proposal on which you'd like feedback. She can't promise that there will be feedback to give, but if there is then she'll share it as soon as she can.
 1. Remember that all program selections are final. We cannot and will not change our decisions on whether to include a talk or not.
+
+> This post is copyright VM Brasseur and licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
