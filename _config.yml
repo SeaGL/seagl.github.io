@@ -19,6 +19,10 @@ custom:
     year:                   2017
     dates:                  October 6th and 7th
     location:               Seattle Central College
+    license:
+        content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
+
+        site_code:          <a href="https://github.com/SeaGL/seagl.github.io/blob/master/LICENSE">GPL v3.0</a>
     url:
         irc:
             network:        https://freenode.net/kb/answer/chat
