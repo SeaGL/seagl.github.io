@@ -54,3 +54,5 @@ Last year we had 50 50-minute speaking slots. We don't know how many speaking sl
 SeaGL is a free-to-attend conference. No registration is required to join us on October 6th and 7th. That said, it's really handy when people register. It allows us to do better planning for our catering, coffee, and conference party.
 
 If you would like to RSVP and be a part of our **fifth year**, [create an account](https://osem.seagl.org/accounts/sign_up) and register today. We can't wait to see you!
+
+> This post is copyright VM Brasseur and licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
