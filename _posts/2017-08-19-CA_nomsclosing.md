@@ -17,7 +17,7 @@ To nominate someone, please send us a quick email (award@seagl.org) with the nom
 * A sentence or two about why you think they deserve this award
 * Projects or organizations they serve through (links are very helpful!)
 
-Please only nominate people who are doing their free software work in the [Casacadia region](https://en.wikipedia.org/wiki/Cascadia_(bioregion)) and who are currently living. Thanks in advance for helping us honor a great community builder!
+Please only nominate people who are doing their free software work in the [Cascadia region](https://en.wikipedia.org/wiki/Cascadia_(bioregion)) and who are currently living. Thanks in advance for helping us honor a great community builder!
 
 The award will be presented in October at SeaGL and announced on [Opensource.com](https://opensource.com/)
 
