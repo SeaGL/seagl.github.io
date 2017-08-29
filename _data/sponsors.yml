@@ -55,6 +55,7 @@
     2014: thanks
     2015: bronze
     2016: bronze
+    2017: bronze
 
 - name: ExtraHop
   url: http://www.extrahop.com
@@ -147,6 +148,7 @@
     2014: bronze
     2015: bronze
     2016: silver
+    2017: silver
 
 - name: Rackspace
   url: http://www.rackspace.com
@@ -326,6 +328,7 @@
   sponsorships:
     2015: thanks
     2016: thanks
+    2017: thanks
 
 - name: Free Software Foundation
   url: http://www.fsf.org/
@@ -338,6 +341,7 @@
   sponsorships:
     2015: thanks
     2016: thanks
+    2017: thanks
 
 - name: Write The Docs Seattle
   url: http://www.meetup.com/Write-The-Docs-Seattle/
@@ -394,6 +398,7 @@
     networking and storage devices.
   sponsorships:
     2015: thanks
+    2017: thanks
 
 - name: Pacific Northwest PHP Conference
   url: http://pnwphp.com
@@ -417,6 +422,7 @@
   description: |-
   sponsorships:
     2016: thanks
+    2017: thanks
 
 - name: Kubuntu
   url: http://www.kubuntu.org/
@@ -426,6 +432,7 @@
   description: |-
   sponsorships:
     2016: thanks
+    2017: thanks
 
 - name: Lubuntu
   url: http://www.lubuntu.me/
@@ -453,6 +460,7 @@
   description: |-
   sponsorships:
     2016: thanks
+    2017: thanks
 
 - name: SoDo Makerspace
   url: http://sodo.ms/
