@@ -205,6 +205,7 @@
     2014: platinum
     2015: platinum
     2016: platinum
+    2017: platinum
 
 - name: Silicon Mechanics
   url: http://www.siliconmechanics.com
@@ -413,6 +414,16 @@
   sponsorships:
     2015: thanks
 
+- name: API City's APIs and IPAs Seattle
+  url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
+  logo: 
+    banner: missing
+    square: /img/sponsors/PNWPHP/pnwphp.png
+  description: |-
+    This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community. 
+    We want to support your local tech community, and we want to get to know developers everywhere.
+  sponsorships:
+    2017: thanks
 
 - name: Software Freedom Conservancy
   url: http://sfconservancy.org/
