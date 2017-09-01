@@ -500,3 +500,12 @@
   description: |-
   sponsorships:
     2016: thanks
+
+- name: Comcast Technology Solutions
+  url: https://www.comcasttechnologysolutions.com/
+  logo:
+    banner: missing
+    square: /img/sponsors/Comcast/cts.png
+  description: |-
+  sponsorships:
+    2017: bronze
