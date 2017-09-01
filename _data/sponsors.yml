@@ -413,12 +413,13 @@
     amazing presentations, catered food, musical numbers, the hackathon, and the live blog.
   sponsorships:
     2015: thanks
+    2017: thanks
 
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
   logo: 
     banner: missing
-    square: /img/sponsors/PNWPHP/pnwphp.png
+    square: 
   description: |-
     This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community. 
     We want to support your local tech community, and we want to get to know developers everywhere.
