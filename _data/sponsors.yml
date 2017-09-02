@@ -509,3 +509,12 @@
   description: |-
   sponsorships:
     2017: bronze
+
+- name: Redfin
+  url: https://www.redfin.com/city/16163/WA/Seattle
+  logo:
+    banner: missing
+    square: /img/sponsors/Redfin/redfin-logo.png
+  description: |-
+  sponsorships:
+    2017: thanks
