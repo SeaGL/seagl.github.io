@@ -19,7 +19,7 @@ A: My talk is intended as a gentle reminder to everyone writing software to grou
 
 Q: Is this your first visit to SeaGL? If so, what are your expectations? If not, can you give us your impressions of the event?
 
-A: t is my first visit! Knowing the people who are involved, I'm hoping for a weekend full of talks that really make me challenge my assumptions and provide new perspective on dealing with the many-faceted challenges of COMPUTER.
+A: It is my first visit! Knowing the people who are involved, I'm hoping for a weekend full of talks that really make me challenge my assumptions and provide new perspective on dealing with the many-faceted challenges of COMPUTER.
 
 Q: Where should attendees go for a delicious cheap meal?
 
