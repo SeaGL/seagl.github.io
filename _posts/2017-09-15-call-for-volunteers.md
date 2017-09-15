@@ -18,7 +18,7 @@ We're looking for folks to sign up to be room monitors. Maybe you'll meet your i
 * Possibly help with the mic or the projector
 * Make sure your session finishes on time
 
-We're also looking for general day-of volunteers. Full of (hopefully) mild surprises and you'll meet some nice people. Duites include:
+We're also looking for general day-of volunteers. Full of (hopefully) mild surprises and you'll meet some nice people. Duties include:
 
 * Greet people at the registration desk
 * Help with signage before the event
