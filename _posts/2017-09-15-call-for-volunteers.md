@@ -27,7 +27,7 @@ We're also looking for general day-of volunteers. Full of (hopefully) mild surpr
 
 We also have some easy opportunities to help promote SeaGL; bringing flyers to a meet-up, coffee shop or another local nerdy event. 
 
-Interested? Just email us! (participate@seagl.org) 
+Interested? Just email us! (mailto:participate@seagl.org) 
 
 
 
