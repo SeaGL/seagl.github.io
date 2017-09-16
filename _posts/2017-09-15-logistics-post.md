@@ -6,7 +6,7 @@ type: post
 published: true
 categories: news
 ---
-SeaGL 2017 will run on the 6th and 7th of November at Seattle Central College. It's a great location very close to transportation links. 
+SeaGL 2017 will run on the 6th and 7th of October at Seattle Central College. It's a great location very close to transportation links. 
 
 We'll also be hosting a reception after the conference on Saturday evening at the Silver Cloud, just a 7 minute walk away.
 
