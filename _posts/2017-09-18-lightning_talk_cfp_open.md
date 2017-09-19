@@ -11,7 +11,9 @@ categories: news
 
 Are you attending SeaGL this year (you really should)? Are you passionate enough about something to talk about it for five minutes (of course you are)? Then you should propose a lightning talk!
 
-[Propose a lightning talk now](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
+This year the SeaGL lightning talks will take place during the conference party the evening of October 7th. We're looking for eight amusing and informative talks for that segment of the party entertainment.
+
+[Propose a lightning talk now!](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 
 ### About lightning talks
 
@@ -53,7 +55,7 @@ Technical talks, funny talks, WTF talks… If you can make it interesting, then 
 * CFP Opens: Monday, September 18
 * CFP Closes: Sunday, September 24
 * Speaker Notifications: Friday, September 29
-* Lightning Talks: Saturday, October 7
+* Lightning Talks: Saturday, October 7, during the evening conference party
 
 [Propose a lightning talk now](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 
