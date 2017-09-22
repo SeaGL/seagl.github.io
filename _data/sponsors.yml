@@ -417,6 +417,15 @@
     2015: thanks
     2017: thanks
 
+- name: West Seattle Linux User Group
+  url: https://wsealug.net
+  logo:
+    banner: missing
+    square: /img/sponsors/WSLUG/wsea-g.png
+  description: |-
+  sponsorships:
+    2017: thanks
+
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
   logo: /img/sponsors/APICity/apicity.jpg
