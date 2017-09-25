@@ -428,20 +428,20 @@
 
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
-  logo: /img/sponsors/APICity/apicity.jpg
+  logo:
     banner: missing
-    square: 
+    square: /img/sponsors/APICity/apicity.jpg
   description: |-
-    This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community. 
+    This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community.
     We want to support your local tech community, and we want to get to know developers everywhere.
   sponsorships:
     2017: thanks
 
 - name: PostgreSQL
-  url: 
-  logo: /img/sponsors/PostGreSQL/PostgreSQL.png
+  url:
+  logo:
     banner: missing
-    square: 
+    square: /img/sponsors/PostGreSQL/PostgreSQL.png
   description: |-
   sponsorships:
     2017: thanks
