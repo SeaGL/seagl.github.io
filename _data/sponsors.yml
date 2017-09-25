@@ -267,7 +267,7 @@
   logo:
     banner: /img/sponsors/Microsoft/Microsoft_logo_(2012)_modified.svg.png
     square: missing
-  description: |-
+  description:
   sponsorships:
     2015: silver
 
@@ -276,7 +276,7 @@
   logo:
     banner: /img/sponsors/Jenkins/JenkinsLogo.png
     square: missing
-  description: |-
+  description:
   sponsorships:
     2016: thanks
 
@@ -299,7 +299,7 @@
   logo:
     banner: /img/sponsors/Mozilla/MozillaLogo.jpeg
     square: missing
-  description: |-
+  description:
   sponsorships:
     2016: bronze
 
@@ -375,7 +375,7 @@
   logo:
     banner: /img/sponsors/OSL/osuosl-tag.png
     square: missing
-  description: |-
+  description:
   sponsorships:
     2015: thanks
 
@@ -384,7 +384,7 @@
   logo:
     banner: /img/sponsors/NortheasternUniversitySeattle/NortheasternSeattle.jpg
     square: missing
-  description: |-
+  description:
   sponsorships:
     2015: thanks
 
@@ -422,7 +422,7 @@
   logo:
     banner: missing
     square: /img/sponsors/WSLUG/wsea-g.png
-  description: |-
+  description:
   sponsorships:
     2017: thanks
 
@@ -442,7 +442,7 @@
   logo:
     banner: missing
     square: /img/sponsors/PostGreSQL/PostgreSQL.png
-  description: |-
+  description:
   sponsorships:
     2017: thanks
 
@@ -451,7 +451,7 @@
   logo:
     banner: missing
     square: /img/sponsors/SFC/SFC-logo.png
-  description: |-
+  description:
   sponsorships:
     2016: thanks
     2017: thanks
@@ -461,7 +461,7 @@
   logo:
     banner: missing
     square: /img/sponsors/Kubuntu/Kubuntu-logo.png
-  description: |-
+  description:
   sponsorships:
     2016: thanks
     2017: thanks
@@ -471,7 +471,7 @@
   logo:
     banner: missing
     square: /img/sponsors/Lubuntu/Lubuntu-logo.png
-  description: |-
+  description:
   sponsorships:
     2016: thanks
 
@@ -480,7 +480,7 @@
   logo:
     banner: missing
     square: /img/sponsors/RedHat/RedHat.png
-  description: |-
+  description:
   sponsorships:
     2016: bronze
 
@@ -489,7 +489,7 @@
   logo:
     banner: missing
     square: /img/sponsors/SEAPHP/SEAPHP.png
-  description: |-
+  description:
   sponsorships:
     2016: thanks
     2017: thanks
@@ -499,7 +499,7 @@
   logo:
     banner: missing
     square: /img/sponsors/SoDo/sodo.png
-  description: |-
+  description:
   sponsorships:
     2016: thanks
 
@@ -508,7 +508,7 @@
   logo:
     banner: missing
     square: /img/sponsors/CascadiaWikimedians/cascwiki.png
-  description: |-
+  description:
   sponsorships:
     2016: thanks
 
@@ -517,7 +517,7 @@
   logo:
     banner: missing
     square: /img/sponsors/TA3M/TA3M.png
-  description: |-
+  description:
   sponsorships:
     2016: thanks
 
@@ -526,7 +526,7 @@
   logo:
     banner: missing
     square: /img/sponsors/Comcast/cts.png
-  description: |-
+  description:
   sponsorships:
     2017: bronze
 
@@ -535,6 +535,6 @@
   logo:
     banner: missing
     square: /img/sponsors/Redfin/redfin-logo.png
-  description: |-
+  description:
   sponsorships:
     2017: thanks
