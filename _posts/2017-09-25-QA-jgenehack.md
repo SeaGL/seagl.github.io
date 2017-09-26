@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SeaGL speaker Q&A: John Genehack'
+title: 'SeaGL speaker Q&A: John (Genehack) Anderson'
 status: publish
 type: post
 published: true
@@ -8,7 +8,7 @@ categories: news
 ---
 
 
-John Genehack is giving two talks; "Logs Are Magic: Why Git Workflows and Commit Structure Should Matter To You " on [Friday afternoon](https://osem.seagl.org/conferences/seagl2017/program/proposals/365) and "A static site generator should be your next language learning project" on [Saturday afternoon](https://osem.seagl.org/admin/conferences/seagl2017/program/events/366).
+John (Genehack) is giving two talks; "Logs Are Magic: Why Git Workflows and Commit Structure Should Matter To You " on [Friday afternoon](https://osem.seagl.org/conferences/seagl2017/program/proposals/365) and "A static site generator should be your next language learning project" on [Saturday afternoon](https://osem.seagl.org/admin/conferences/seagl2017/program/events/366).
 
 Q: Could you please introduce yourself and tell us a little about your background?
  
