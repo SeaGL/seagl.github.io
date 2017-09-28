@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'For Speakers: Recording & Presentation Tips'
+title: 'For Speakers: A/V, Recording, & Presentation Tips'
 status: publish
 type: post
 published: false
@@ -8,6 +8,12 @@ categories: news
 ---
 
 Hello, SeaGL (or other conference!) speakers! Our big event is only a week away, so here's some information to help you prepare and be ready to go when you arrived.
+
+### A/V details
+
+All rooms will have HDMI connectors (though a few may also have VGA). Please come prepared with whatever adapters you'll need to hook up your laptop to the HDMI connector. If you forget your adapter, don't worry. We'll have a few on hand, just in case.
+
+Please format your slides for a XXXwhichone aspect ratio for best effect.
 
 ### Recording your talk
 
@@ -17,7 +23,9 @@ We encourage all speakers to record their own talks and make them available onli
 
 * [Linux](https://opensource.com/business/15/11/how-record-screencasts)
 * [Mac](http://anonymoushash.vmbrasseur.com/2016/12/04/how-to-record-a-presentation-screencast-video-using-quicktime/)
-* [Windows](https://www.howtogeek.com/183231/how-to-record-your-desktop-and-create-a-screencast-on-windows/) (the second option in these instructions uses [Open Broadcaster Software](https://obsproject.com/), aka OBS, which is Free software; these instructions will work on any platform where you can run OBS)
+* [Windows](https://www.howtogeek.com/183231/how-to-record-your-desktop-and-create-a-screencast-on-windows/) 
+
+The Windows instructions also include details for using [Open Broadcaster Software](https://obsproject.com/) (which is Free software) to record your screencast. These instructions will work for _any platform_ where you can run OBS (read: pretty much all of them).
 
 The room moderator for your talk may not be familiar with the recording instructions for your platform, so **please test this out ahead of time** to make sure you know how to do it.
 
