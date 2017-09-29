@@ -27,6 +27,8 @@ The Windows instructions also include details for using [Open Broadcaster Softwa
 
 The room moderator for your talk may not be familiar with the recording instructions for your platform, so **please test this out ahead of time** to make sure you know how to do it.
 
+Out of respect for everyone else using the conference wifi, we ask that you not attempt to live stream your presentation.
+
 ### Sharing your slides, video, etc.
 
 Once you've recorded your talk, what do you do with it? Or with your slides? 
