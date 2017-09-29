@@ -3,7 +3,7 @@ layout: post
 title: 'For Speakers: A/V, Recording, & Presentation Tips'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
@@ -12,8 +12,6 @@ Hello, SeaGL (or other conference!) speakers! Our big event is only a week away,
 ### A/V details
 
 All rooms will have HDMI connectors (though a few may also have VGA). Please come prepared with whatever adapters you'll need to hook up your laptop to the HDMI connector. If you forget your adapter, don't worry. We'll have a few on hand, just in case.
-
-Please format your slides for a XXXwhichone aspect ratio for best effect.
 
 ### Recording your talk
 
