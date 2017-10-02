@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'SeaGL speaker Q&A: Emily Dunham'
+title: 'SeaGL speaker Q&A: E. Dunham'
 status: publish
 type: post
 published: true
 categories: news
 ---
 
-Emily Dunham gives her talk titled, "How To Learn Rust" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/378)
+E. Dunham gives her talk titled, "How To Learn Rust" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/378)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 
