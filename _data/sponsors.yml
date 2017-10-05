@@ -274,6 +274,15 @@
   sponsorships:
     2017: thanks
 
+- name: PyCascades
+  url: https://www.pycascades.com/
+  logo:
+    banner: /img/sponsors/PyCascades/pycascades.png
+    square: missing
+  description: 
+  sponsorships:
+    2017: thanks
+
 - name: Microsoft
   url: https://www.microsoft.com/
   logo:
