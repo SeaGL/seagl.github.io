@@ -283,6 +283,15 @@
   sponsorships:
     2017: thanks
 
+- name: Geeks Without Bounds
+  url: http://gwob.org/
+  logo:
+    banner: /img/sponsors/GWOB/GWOB.png
+    square: missing
+  description: 
+  sponsorships:
+    2017: thanks
+
 - name: Microsoft
   url: https://www.microsoft.com/
   logo:
