@@ -284,6 +284,15 @@
     2017: thanks
 
 - name: Geeks Without Bounds
+  url: https://www.gnome.org/
+  logo:
+    banner: /img/sponsors/GNOME/GnomeLogo.jpg
+    square: missing
+  description: 
+  sponsorships:
+    2017: thanks
+
+- name: GNOME
   url: http://gwob.org/
   logo:
     banner: /img/sponsors/GWOB/GWOB.png
