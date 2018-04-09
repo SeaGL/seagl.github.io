@@ -14,7 +14,7 @@ The Program Committee is the group responsibile for choosing and scheduling all 
 * Christopher Aedo
 * John SJ Anderson
 * VM Brasseur (program committee chair)
-* Salt Hale
+* Wm Salt Hale
 * Nathan Handler
 * Tiberius Hefflin
 * Chris Neugebauer
@@ -61,9 +61,9 @@ How are these values reflected in how we operate as program committee members an
 * Seek out unreached/underrepresented/underserved communities and help them to propose talks.
 * As time allows, assist people with their proposals, making it easy for them to propose and what they propose a higher quality.
 * Do our best to do all initial reviews blind, within the non-blind constraints of the system.
-* Only vote on talks I feel qualified to review.
-* Abstain from voting on talks where I made substantial contributions to the the proposal (but I can advocate during the review call).
-* As much as possible, don't allow my personal or professional biases (or those of my employer) to influence my talk reviews.
+* Only vote on talks we feel qualified to review.
+* Abstain from voting on talks where we made substantial contributions to the the proposal (but we can advocate during the review call).
+* As much as possible, don't allow our personal or professional biases (or those of our employer) to influence our talk reviews.
 * After proposals are accepted, and as time allows, assist people with their talks to help ensure that what they deliver is valuable to the audience.
 
 We're all pleased to have the opportunity to serve the SeaGL community and share this Code of Practice with you. It's our hope that we can serve as a model for other free and open source events, who can publish their own Codes of Practice.
