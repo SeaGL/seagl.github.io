@@ -3,7 +3,7 @@ layout: post
 title: 'Keynote flashback: Rikki Endsley in 2017'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
