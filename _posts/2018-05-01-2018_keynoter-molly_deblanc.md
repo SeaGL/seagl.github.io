@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/posts/2018_Keynote_Molly.jpg" style="float:left; margin:10px;width:35%;" />
+<img src="/img/posts/2018_Keynote_Molly.jpg" style="float:left; margin:10px;width:25%;" />
 
 It's time to start announcing our four brilliant keynoters for 2018, starting with Molly de Blanc!
 
