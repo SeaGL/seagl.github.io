@@ -3,7 +3,7 @@ layout: post
 title: '2018 Keynote Announcement: Molly de Blanc'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
