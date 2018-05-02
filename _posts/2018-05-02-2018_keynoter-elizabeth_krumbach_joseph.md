@@ -3,11 +3,11 @@ layout: post
 title: '2018 Keynote Announcement: Elizabeth K. Joseph'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
-<img src="/img/posts/2018_Keynote_Lyz.jpg" style="float:left; margin:10px; width:50%;" />
+<img src="/img/posts/2018_Keynote_Lyz.jpg" style="float:left; margin:10px; width:40%;" />
 
 Our next keynote announcement for 2018 is Elizabeth K. Joseph!
 
