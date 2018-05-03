@@ -3,11 +3,11 @@ layout: post
 title: '2018 Keynote Announcement: Tameika Reed'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
-<img src="/img/posts/2018_Keynote_Tameika.png" style="float:left; margin:10px; width:40%;" />
+<img src="/img/posts/2018_Keynote_Tameika.png" style="float:left; margin:10px; width:25%;" />
 
 And now, for the third of four 2018 keynote announcements, we present Tameika Reed!
 
