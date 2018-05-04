@@ -3,11 +3,11 @@ layout: post
 title: '2018 Keynote Announcement: Stephen Walli'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
-<img src="/img/posts/2018_Keynote_Stephen.jpg" style="float:left; margin:10px;width:30%;" />
+<img src="/img/posts/2018_Keynote_Stephen.jpg" style="float:left; margin:10px;width:20%;" />
 
 Our final keynote announcement for 2018 is Stephen Walli!
 
