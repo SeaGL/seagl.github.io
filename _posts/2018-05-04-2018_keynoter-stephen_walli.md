@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/posts/2018_Keynote_Stephen.jpg" style="float:left; margin:10px;width:20%;" />
+<img src="/img/posts/2018_Keynote_Stephen.jpg" style="float:left; margin:10px;width:15%;" />
 
 Our final keynote announcement for 2018 is Stephen Walli!
 
