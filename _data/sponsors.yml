@@ -22,6 +22,7 @@
   sponsorships:
     2016: bronze
     2017: thanks
+    2018: thanks
 
 - name: Ansible
   url: http://www.ansible.com
@@ -57,6 +58,7 @@
     2015: bronze
     2016: bronze
     2017: bronze
+    2018: gold
 
 - name: ExtraHop
   url: http://www.extrahop.com
@@ -188,6 +190,7 @@
     2015: gold
     2016: platinum
     2017: gold
+    2018: silver
 
 - name: Seattle Central College
   url: http://seattlecentral.edu
@@ -209,6 +212,7 @@
     2015: platinum
     2016: platinum
     2017: platinum
+    2018: platinum
 
 - name: Silicon Mechanics
   url: http://www.siliconmechanics.com
@@ -252,6 +256,7 @@
     2015: thanks
     2016: thanks
     2017: thanks
+    2018: thanks
 
 - name: Rainier Connect
   url: https://www.rainierconnect.com/
@@ -270,16 +275,17 @@
   logo:
     banner: /img/sponsors/LinuxFoundation/linux_foundation_logo.gif
     square: missing
-  description: 
+  description:
   sponsorships:
     2017: thanks
+    2018: thanks
 
 - name: PyCascades
   url: https://www.pycascades.com/
   logo:
     banner: /img/sponsors/PyCascades/pycascades.png
     square: missing
-  description: 
+  description:
   sponsorships:
     2017: thanks
 
@@ -288,7 +294,7 @@
   logo:
     banner: /img/sponsors/GNOME/GnomeLogo.jpg
     square: missing
-  description: 
+  description:
   sponsorships:
     2017: thanks
 
@@ -297,7 +303,7 @@
   logo:
     banner: /img/sponsors/GWOB/GWOB.png
     square: missing
-  description: 
+  description:
   sponsorships:
     2017: thanks
 
@@ -371,6 +377,7 @@
     2015: thanks
     2016: thanks
     2017: thanks
+    2018: thanks
 
 - name: Free Software Foundation
   url: http://www.fsf.org/
@@ -384,6 +391,7 @@
     2015: thanks
     2016: thanks
     2017: thanks
+    2018: thanks
 
 - name: Write The Docs Seattle
   url: http://www.meetup.com/Write-The-Docs-Seattle/
@@ -464,6 +472,7 @@
   description:
   sponsorships:
     2017: thanks
+    2018: thanks
 
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
@@ -559,6 +568,8 @@
   description:
   sponsorships:
     2016: thanks
+    2017: thanks
+    2018: thanks
 
 - name: Comcast Technology Solutions
   url: https://www.comcasttechnologysolutions.com/
@@ -577,3 +588,21 @@
   description:
   sponsorships:
     2017: thanks
+
+- name: London Trust Media
+  url: https://londontrustmedia.com
+  logo:
+    banner: missing
+    square: missing
+  description:
+  sponsorships:
+    2018: platinum
+
+- name: Polyverse
+  url: https://polyverse.io
+  logo:
+    banner: missing
+    square: missing
+  description:
+  sponsorships:
+    2018: bronze
