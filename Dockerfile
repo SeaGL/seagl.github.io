@@ -1,30 +1,15 @@
-FROM ubuntu:16.04
+FROM ruby:2.5
 
-# idea/TODO: use non-root user inside the Docker container
+RUN apt-get update && apt-get -y dist-upgrade
 
-# note: could install `build-essential` instead of individual make, gcc,
-# libghc-zlib-dev, and patch packages (but I rather like being explicit here)
+# throw errors if Gemfile has been modified since Gemfile.lock
+RUN bundle config --global frozen 1
 
-RUN apt-get update \
-    && apt-get -y dist-upgrade \
-    && apt-get install -y --no-install-recommends \
-       ruby \
-       ruby-dev \
-       make \
-       gcc \
-       libghc-zlib-dev \
-       patch \
-    && apt-get clean \
-    && apt-get -y autoremove --purge \
-    && rm -rf /var/lib/apt/lists/* \
-    && gem install bundler
+WORKDIR /usr/src/app
 
-ADD Gemfile /
-
+COPY Gemfile Gemfile.lock ./
 RUN bundle install
 
-RUN mkdir /seagl
-
-WORKDIR /seagl
+COPY . .
 
 ENTRYPOINT [ "bundle", "exec", "jekyll", "serve", "--host=0.0.0.0", "--watch" ]
