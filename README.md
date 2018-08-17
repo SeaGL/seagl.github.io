@@ -119,7 +119,7 @@ docker build -t seagldev .
 Start your dev container with
 
 ```bash
-docker run -p 4000:4000 --rm -it -v $(pwd):/seagl seagldev
+docker run -p 4000:4000 --rm -it -v "$PWD":/usr/src/app seagldev
 ```
 
 View the rendered website at <http://localhost:4000> on your host.
