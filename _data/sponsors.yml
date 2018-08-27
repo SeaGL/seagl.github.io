@@ -590,10 +590,10 @@
   sponsorships:
     2017: thanks
 
-- name: London Trust Media
-  url: https://londontrustmedia.com
+- name: Private Internet Access
+  url: https://privateinternetaccess.com
   logo:
-    banner: missing
+    banner: /img/sponsors/PrivateInternetAccess/pia-logo-black.png
     square: missing
   description:
   sponsorships:
@@ -602,7 +602,7 @@
 - name: Polyverse
   url: https://polyverse.io
   logo:
-    banner: missing
+    banner: /img/sponsors/Polyverse/polyverse-logo.png
     square: missing
   description:
   sponsorships:
