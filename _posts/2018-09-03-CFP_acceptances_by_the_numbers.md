@@ -56,3 +56,7 @@ Welcome to presenting! We're happy to have you at SeaGL.
 We're particularly proud of this number, we have to confess. We work very hard to make SeaGL a safe space for all people. With numbers like this, it looks like the word is getting out. We're very honored that people trust us to continue having a welcoming environment.
 
 It's only through embracing, increasing, and fostering diversity in technology that we'll be able to improve and spread the ethos of Free Software. Thank you, SeaGL attendees and staff, for helping with this and keep up the great work.
+
+## Schedule caveat
+
+These numbers are just for the initial acceptances. Due to speaker schedules and obligations, some of them may not be able to present at SeaGL in November. Therefore the final schedule may not reflect these exact numbers as we sub in someone from the waitlist.
