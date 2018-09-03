@@ -27,7 +27,9 @@ We're _very_ grateful that people proposed multiple talks. It allowed us a lot o
 
 ## Break down by track
 
-<a href="/img/posts/seagl2018-tracks.png"><img src="/img/posts/seagl2018-tracks.png" style="margin:1em; align:left;width:400px;" alt="Bar chart of accepted talks, broken down by track" /></a>Sysadmin/Ops/DevOps was far and away the most popular track among the accepted talks, but Programming and InfoSec weren't too far behind. 
+<a href="/img/posts/seagl2018-tracks.png"><img src="/img/posts/seagl2018-tracks.png" style="margin:1em; align:left;width:400px;" alt="Bar chart of accepted talks, broken down by track" /></a>
+
+Sysadmin/Ops/DevOps was far and away the most popular track among the accepted talks, but Programming and InfoSec weren't too far behind. 
 
 Bringing up the rear is Data/AI/ML with only a single accepted talk. Considering the current popularity of AI and Machine Learning, we were really surprised we didn't receive more good proposals on this topic.
 
@@ -41,7 +43,9 @@ This year we have 15 20-minute talks on the schedule (so far), which is nice and
 
 ## 13% first-time presenters
 
-<a href="/img/posts/seagl2018-1sttimers.png"><img src="/img/posts/seagl2018-1sttimers.png" style="margin:1em; align:left;width:400px;" alt="Pie chart of first time presenter stats showing 13% of accepted SeaGL 2018 presenters are new to tech conference speaking" /></a>SeaGL believes in building the Free Software and open source community of the future and part of that is supporting new conference speakers.
+<a href="/img/posts/seagl2018-1sttimers.png"><img src="/img/posts/seagl2018-1sttimers.png" style="margin:1em; align:left;width:400px;" alt="Pie chart of first time presenter stats showing 13% of accepted SeaGL 2018 presenters are new to tech conference speaking" /></a>
+
+SeaGL believes in building the Free Software and open source community of the future and part of that is supporting new conference speakers.
 
 We're pleased that 13% of our acceptances this year were from people who have not presented at a conference before.
 
@@ -51,7 +55,9 @@ Welcome to presenting! We're happy to have you at SeaGL.
 
 ## 44% under-represented presenters
 
-<a href="/img/posts/seagl2018-diversity.png"><img src="/img/posts/seagl2018-diversity.png" style="margin:1em; align:left;width:400px;" alt="Pie chart of diversity stats showing 44% of accepted SeaGL 2018 presenters self-identify as a member of a group that's under-represented in technology." /></a>A full 44% of the accepted talks come from people who self-identify as a member of an under-represented group in technology.
+<a href="/img/posts/seagl2018-diversity.png"><img src="/img/posts/seagl2018-diversity.png" style="margin:1em; align:left;width:400px;" alt="Pie chart of diversity stats showing 44% of accepted SeaGL 2018 presenters self-identify as a member of a group that's under-represented in technology." /></a>
+
+A full 44% of the accepted talks come from people who self-identify as a member of an under-represented group in technology.
 
 We're particularly proud of this number, we have to confess. We work very hard to make SeaGL a safe space for all people. With numbers like this, it looks like the word is getting out. We're very honored that people trust us to continue having a welcoming environment.
 
