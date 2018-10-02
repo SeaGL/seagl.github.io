@@ -150,3 +150,10 @@ TBD (assumption is those using git on their local machines already know this; **
 Now someone (perhaps you, if you have that level of access to the repo) must review and then merge your pull request.
 
 Once your pull request is merged, it will go live on the website.
+
+## How to add images to posts
+
+* Add your image to the `img/posts/` directory.
+* In your post, use the following syntax to reference the image you copied into the `img/posts/` directory: `![]({{ site.baseurl }}/img/posts/image_file_name.jpg)`
+* The height and width of the image can be changed with the following syntax: `![]({{ site.baseurl }}/img/posts/image_file_name.jpg){:height="36px" width="36px"}`
+* For the sake of page load times, resize images to a reasonable size before using them in a post.
