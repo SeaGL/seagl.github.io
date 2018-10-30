@@ -607,3 +607,12 @@
   description:
   sponsorships:
     2018: bronze
+
+- name: IBM
+  url: https://www.ibm.com
+  logo:
+    banner: /img/sponsors/IBM/ibmpos_blurgb.jpg
+    square: missing
+  description:
+  sponsorships:
+    2018: gold
