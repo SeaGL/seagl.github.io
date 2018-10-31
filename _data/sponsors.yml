@@ -625,3 +625,30 @@
   description:
   sponsorships:
     2018: thanks
+
+- name: twilio
+  url: https://www.twilio.com/
+  logo:
+    banner: missing
+    square: /img/sponsors/twilio/twilio-logo-red.svg
+  description:
+  sponsorships:
+    2018: platinum
+
+- name: Yubico
+  url: https://www.Yubico.com/
+  logo:
+    banner: missing
+    square: /img/sponsors/Yubico/Yubico-logo-website.png
+  description:
+  sponsorships:
+    2018: thanks
+
+- name: linode
+  url: https://www.linode.com/
+  logo:
+    banner: missing
+    square: /img/sponsors/linode/linode-logo_standard_light_medium.png
+  description:
+  sponsorships:
+    2018: thanks
