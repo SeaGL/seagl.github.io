@@ -652,3 +652,12 @@
   description:
   sponsorships:
     2018: thanks
+
+- name: Pragmatic Bookshelf
+  url: https://pragprog.com 
+  logo:
+      banner: missing
+      square: /img/sponsors/PragmaticBookshelf/Pragmatic_Bookshelf_4in.pdf
+  description:
+  sponsorships:
+      2018: thanks
