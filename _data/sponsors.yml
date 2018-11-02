@@ -682,3 +682,12 @@
   description:
   sponsorships:
       2018: thanks
+
+- name: MySQL
+  url: https://www.mysql.com/
+  logo:
+      banner: img/sponsors/MySQL/MySQL-clr.png
+      square: missing
+  description:
+  sponsorships:
+      2018: thanks
