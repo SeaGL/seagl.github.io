@@ -668,8 +668,8 @@
 - name: Indeed
   url: https://www.indeed.com
   logo:
-      banner: img/sponsors/indeed/indeed.png
-      square: missing
+      banner: missing
+      square: /img/sponsors/indeed/indeed.png
   description:
   sponsorships:
       2018: bronze
@@ -677,8 +677,8 @@
 - name: Open Humans
   url: https://www.OpenHumans.org/
   logo:
-      banner: img/sponsors/OpenHumans/open-humans-logo-horizontal-80px.f71a97b4a07d.png
-      square: missing
+      banner: missing 
+      square: /img/sponsors/OpenHumans/open-humans-logo-horizontal-80px.f71a97b4a07d.png
   description:
   sponsorships:
       2018: thanks
@@ -686,8 +686,8 @@
 - name: MySQL
   url: https://www.mysql.com/
   logo:
-      banner: img/sponsors/MySQL/MySQL-clr.png
-      square: missing
+      banner: missing 
+      square: /img/sponsors/MySQL/MySQL-clr.png
   description:
   sponsorships:
       2018: thanks
