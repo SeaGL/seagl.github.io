@@ -621,7 +621,7 @@
   url: https://jmp.chat/
   logo:
     banner: missing
-    square: /img/sponsors/JMP.chat/jmp_beta.png
+    square: /img/sponsors/JMP.chat/JMP_Logo.png
   description:
   sponsorships:
     2018: thanks
@@ -654,7 +654,7 @@
     2018: thanks
 
 - name: Pragmatic Bookshelf
-  url: https://pragprog.com 
+  url: https://pragprog.com
   logo:
       banner: missing
       square: /img/sponsors/PragmaticBookshelf/Pragmatic_Bookshelf_4in.pdf
