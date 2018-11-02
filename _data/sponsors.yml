@@ -93,6 +93,7 @@
     and get to work right away.
   sponsorships:
     2016: bronze
+    2018: thanks
 
 - name: Google
   url: http://www.google.com
@@ -290,7 +291,7 @@
   sponsorships:
     2017: thanks
 
-- name: Geeks Without Bounds
+- name: GNOME
   url: https://www.gnome.org/
   logo:
     banner: /img/sponsors/GNOME/GnomeLogo.jpg
@@ -298,8 +299,9 @@
   description:
   sponsorships:
     2017: thanks
+    2018: thanks
 
-- name: GNOME
+- name: Geeks Without Bounds
   url: http://gwob.org/
   logo:
     banner: /img/sponsors/GWOB/GWOB.png
@@ -494,6 +496,7 @@
   description:
   sponsorships:
     2017: thanks
+    2018: thanks
 
 - name: Software Freedom Conservancy
   url: http://sfconservancy.org/
@@ -658,6 +661,24 @@
   logo:
       banner: missing
       square: /img/sponsors/PragmaticBookshelf/Pragmatic_Bookshelf_4in.png
+  description:
+  sponsorships:
+      2018: thanks
+
+- name: Indeed
+  url: https://www.indeed.com
+  logo:
+      banner: img/sponsors/indeed/indeed.png
+      square: missing
+  description:
+  sponsorships:
+      2018: bronze
+
+- name: Open Humans
+  url: https://www.OpenHumans.org/
+  logo:
+      banner: img/sponsors/OpenHumans/open-humans-logo-horizontal-80px.f71a97b4a07d.png
+      square: missing
   description:
   sponsorships:
       2018: thanks
