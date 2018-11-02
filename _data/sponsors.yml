@@ -385,7 +385,7 @@
 - name: Free Software Foundation
   url: http://www.fsf.org/
   logo:
-    banner: /img/sponsors/FSF/fsf30-header-fsf.png
+    banner: /img/sponsors/FSF/logo-fsf.org.png
     square: missing
   description: |-
     The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to
@@ -612,7 +612,7 @@
     2018: bronze
 
 - name: IBM
-  url: https://www.ibm.com
+  url: https://developer.ibm.com
   logo:
     banner: /img/sponsors/IBM/ibmpos_blurgb.jpg
     square: missing
