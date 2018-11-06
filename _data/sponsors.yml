@@ -691,3 +691,12 @@
   description:
   sponsorships:
       2018: thanks
+
+- name: Ubuntu
+  url: https://www.ubuntu.com/#community
+  logo:
+      banner: img/sponsors/ubuntu/ubuntu_orange_hex.png
+      square: missing
+  description:
+  sponsorships:
+      2018: thanks
