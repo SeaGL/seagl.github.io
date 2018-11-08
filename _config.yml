@@ -58,6 +58,9 @@ custom:
         siteid:             13
         tracked_domains:
           - "*.seagl.org"
+    maps:
+      google:
+        apikey:             AIzaSyAwVEJ8kLu3tWyuBxZX9_hfMnNLJk7obk8
 sass:
     sass_dir: _sass
     style: compressed

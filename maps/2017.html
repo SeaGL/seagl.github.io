@@ -8,7 +8,7 @@ body_id: maps
   <div class="hero-unit">
     <h1>SeaGL 2017 Directions and Maps</h1>
   </div>
-  
+
   <div class="row">
     <div class="col-md-12">
         <h2>SCC Address</h2>
@@ -18,7 +18,7 @@ body_id: maps
         </p>
     </div>
   </div>
-  
+
   <hr>
 
   <div class="row">
@@ -27,16 +27,16 @@ body_id: maps
         <p>Take Olive Way/Denny Way Exit 166 (under the Washington State Convention and Trade Center) and follow Olive Way east to Denny Way and turn right. Go up the hill and turn right on Broadway. Follow Broadway south to Pine, turn right, and go one block west to the Parking Garage located at Harvard and Pine.</p>
     </div>
   </div>
-  
+
   <div class="row">
     <div class="col-md-12">
         <h2>Driving Directions - From Interstate 5 Southbound</h2>
         <p>Follow the Madison Street/Convention Center Exit 165, making a right hand turn onto Madison. Get into the left lane and turn left at Boren. Follow Boren north until Pine Street, and turn right at Pine going east. Follow Pine Street east until Harvard Ave. Turn left onto Harvard, then make an immediate left turn into the Harvard Ave. parking garage.</p>
     </div>
   </div>
-  
+
   <hr>
-    
+
   <div class="row">
     <div class="col-md-12">
         <h2>Parking</h2>
@@ -45,26 +45,26 @@ body_id: maps
         <p>Here is a crude map of the parking around SCC: <a href="/img/maps/2017/Street_Parking_Map.png">Street_Parking_Map.png</a></p>
     </div>
   </div>
-  
+
   <hr>
-    
+
   <div class="row">
     <div class="col-md-12">
         <h2>Session Map - First Floor - Expo Hall</h2>
         <p><img src="/img/maps/2017/SCC_First_Floor_Sessions.png"></p>
     </div>
   </div>
-  
+
   <div class="row">
     <div class="col-md-12">
         <h2>Session Room Map - First/Third/Fifth Floor - Speaking Sessions</h2>
         <p><img style="width: 100%" src="/img/maps/2017/SSC_apres_deluge_sessions.JPG"></p>
     </div>
   </div>
-    
+
 </div>
 
-<script type='text/javascript' src="//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script type='text/javascript' src="//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key={{ site.custom.maps.google.apikey }}"></script>
 <script type='text/javascript'>
     $(function(){
         var mapOptions = {
@@ -73,13 +73,13 @@ body_id: maps
             mapTypeId: google.maps.MapTypeId.HYBRID
         };
         gMap = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
-        
+
         var marker = new google.maps.Marker({
             position: new google.maps.LatLng(47.616248,-122.321426),
             map: gMap,
             title: 'SeaGL @ SCC'
         });
-        
+
         var contentString = '<div id="content">'+
             '<div id="siteNotice">'+
             '</div>'+
@@ -88,11 +88,11 @@ body_id: maps
             '<p>1701 Broadway Seattle, WA 98122</p>'+
             '</div>'+
             '</div>';
-      
+
         var infowindow = new google.maps.InfoWindow({
             content: contentString
         });
-        
+
         google.maps.event.addListener(marker, 'click', function() {
             infowindow.open(gMap, marker);
         });
