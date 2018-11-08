@@ -49,10 +49,14 @@ We have several associated social events you can join, if that's how you roll:
 * When: 11:30AM - 1PM, both Friday and Saturday
 * Details: Thanks to our friends at [Twilio](https://twilio.com), there is such thing as a free lunch. All dietary constraints should b covered, so everyone will be able to refuel for the afternoon of filling your brains with more free and open source goodness.
 
+•
+
 * What: Free Software Foundation mixer
 * Where: [McMenamins Six Arms](https://www.mcmenamins.com/six-arms), 300 E. Pike St.
 * When: 6PM - 9PM
 * Details: Light appetizers, a tasty beverage, and a Free Software Social courtesy of our dear friends at the Free Software Foundation!
+
+•
  
 * What: Diverse SeaGLs Flocking Together
 * Where/When: TBD (dinner time)
@@ -64,6 +68,8 @@ We have several associated social events you can join, if that's how you roll:
 * Where: The SeaGL expo hall
 * When: all day, but especially the afternoon break
 * Details: If there’s any tea you particularly enjoy, bring it along to SeaGL on Saturday and bring enough for a few other people. Share your tea with the SeaGL community and try some interesting teas brought by others. Black, green, white, herbal, whatever! All teas are welcome at TeaGL. The sharing happens all day, so bring your tea to the expo hall in the morning on Saturday. We’ve also dedicated the Saturday afternoon break as Tea Time so all tea lovers (or simply tea curious) can get together in the expo hall, visit with our sponsors, and have a nice cuppa.
+
+•
 
 * What: The Official SeaGL Conference Party!
 * Where: [Silver Cloud Inn](https://www.silvercloud.com/seattlebroadway/), 1100 Broadway
