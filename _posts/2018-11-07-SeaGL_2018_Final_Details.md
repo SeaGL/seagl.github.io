@@ -31,6 +31,8 @@ We encourage people to get together, chat, and just generally share their SeaGL 
 
 If you share anything on your social network of choice, please use the `#seagl2018` hashtag so everyone can follow along. If you do the Twitter thing, please follow [@seagl](https://twitter.com/seagl) for up to the minute announcements and updates.
 
+Join our official conference IRC channel on Freenode for backchannel chatter and socializing. It's `#seagl` and already has a number of folks hanging out in there. If you haven't used IRC before, don't worry! There's a [web interface](http://webchat.freenode.net) to get you up and going with minimal fuss. You'll need to register a nickname with Freenode in order to join, but that's quick and easy to do. Instructions for that and a lot of other helpful IRC tips are available [in this quickstart guide](https://opensource.com/article/16/6/irc-quickstart-guide).
+
 ### Social events
 
 We have several associated social events you can join, if that's how you roll:
