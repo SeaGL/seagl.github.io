@@ -53,11 +53,6 @@ custom:
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
         location:           <a href="https://seattlecentral.edu">Seattle Central College</a>
         donate:             <a href="https://my.fsf.org/civicrm/contribute/transact?reset=1&id=58">Donate to SeaGL</a>
-    piwik:
-        domain:             metrics.seagl.org
-        siteid:             13
-        tracked_domains:
-          - "*.seagl.org"
     maps:
       google:
         apikey:             AIzaSyAwVEJ8kLu3tWyuBxZX9_hfMnNLJk7obk8
