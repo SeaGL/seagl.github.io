@@ -3,7 +3,6 @@ _site
 .bundle
 .jekyll-metadata
 .vagrant
-Gemfile.lock
 
 .DS_Store
 
