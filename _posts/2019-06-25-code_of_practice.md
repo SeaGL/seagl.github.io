@@ -16,18 +16,6 @@ The Program Committee is the group responsibile for choosing and scheduling all 
 * Georgia Reh
 * Lucy Wyman
 
-Later in the process we'll be joined by a collection of hand-picked people to help us review all of the talks you'll be sending our way.
-
-When should you start sending those talks? Good question! We've decided on dates for our 2018 Call for Proposals (aka CFP):
-
-* Open CFP: June 25 (you can start proposing talks on this date!)
-* Close CFP: August 11
-* Notify by: September 15
-
-Like [last year](https://seagl.org/news/2018/06/04/CFP-open.html), we'll have CFP office hours to help people brainstorm talk ideas and craft their proposals. We'll also publish our [review criteria](http://seagl.org/news/2017/08/17/CFP_selection_criteria.html) again, but there probably won't be many changes there from previous years.
-
-What was new in 2018 was the Program Committee Code of Practice. It's inspired by SeaGL's mission of mentoring, collaboration, and openness. It felt like a terrific way to demonstrate these values last year, and it offered a guiding set of principles for our Program committee.  We are pleased to use this Code a second time:
-
 ## Code of Practice
 
 This is what we believe in and how we operate as we go about our business of building the best possible program and schedule for [SeaGL](http://seagl.org).
