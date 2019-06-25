@@ -9,11 +9,11 @@ categories: news
 
 The Program Committee is the group responsibile for choosing and scheduling all of the great talks you enjoy at SeaGL. This year the committee steering the Program consists of:
 
-* Deb Nicholson
 * Wm Salt Hale
-* Rachel Kelly
-* Georgia Reh
 * Nathan Handler
+* Rachel Kelly
+* Deb Nicholson
+* Georgia Reh
 * Lucy Wyman
 
 Later in the process we'll be joined by a collection of hand-picked people to help us review all of the talks you'll be sending our way.
