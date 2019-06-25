@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Program Committee Code of Practice (and CFP Dates!)'
+title: 'Program Committee Code of Practice'
 status: publish
 type: post
 published: true
