@@ -16,7 +16,7 @@ At a Free and Open Source Software conference, the depth and breadth of topics c
 First, a few topics that we think would make great talks.
  * Hardware, specifically DIY IOT!  That is to say, "internet-of-things"-style hardware hacks with something like Arduino or Raspberri Pis which you use for automating your chicken coop, music setup, or something else?
  * Have you built a mechanical keyboard?  Do you want to help other people get started with mechanical keyboards?  This is an increasing number of folks' entry into hardware so our FOSS conference is a great place to give a talk on this topic!
- * The open source ecosystem in front-end!  We focus so much on open source in the operations/admin space but let's hear about what you're doing with non proprietary front end tools, like Glitch or vueJS!
+ * The open source ecosystem in front-end!  We focus so much on open source in the operations/admin space but let's hear about what you're doing with non proprietary front end tools, like Glitch or Vue.js!
  * What are you working on in the FOSS education space?  How can we better support people who want to make some movements away from proprietary methods?
 
 Got other questions about the CFP that we could help you with?  Email cfp-help@seagl.org.  We can't wait to see what you submit!
