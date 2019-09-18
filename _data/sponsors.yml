@@ -38,7 +38,7 @@
     2014: bronze
 
 - name: CSATS
-  url: http://www.csats.com
+  url: https://www.csats.com
   logo:
     banner: missing
     square: /img/sponsors/CSATS/csats.png
@@ -59,6 +59,7 @@
     2016: bronze
     2017: bronze
     2018: gold
+    2019: platinum
 
 - name: ExtraHop
   url: http://www.extrahop.com
@@ -81,6 +82,7 @@
     2016: bronze
     2017: bronze
     2018: bronze
+    2019: thanks
 
 - name: Fedora
   url: https://getfedora.org/
@@ -655,6 +657,7 @@
   description:
   sponsorships:
     2018: thanks
+    2019: thanks
 
 - name: Pragmatic Bookshelf
   url: https://pragprog.com
@@ -700,3 +703,30 @@
   description:
   sponsorships:
       2018: thanks
+
+- name: Cloud Native Computing Foundation
+  url: https://www.cncf.io
+  logo:
+    banner: missing
+    square: /img/sponsors/CNCF/cncf-banner.png
+  description: |-
+    The Cloud Native Computing Foundation (CNCF) hosts critical components of
+    the global technology infrastructure. CNCF brings together the world's
+    top developers, end users, and vendors and runs the largest open source
+    developer conferences. CNCF is part of the nonprofit Linux Foundation.
+  sponsorships:
+    2019: thanks
+
+- name: Dragonchain
+  url: https://www.dragonchain.com
+  logo:
+    banner: /img/sponsors/Dragonchain/jojo-banner.png
+    square: /img/sponsors/Dragonchain/jojo-treasure.774ae8fa.png
+  description: |-
+    Dragonchain’s open source blockchain platform gives enterprises and
+    developers the resources they need. Build private/public hybrid blockchain
+    applications, and write smart contracts in minutes with Blockchain as a
+    Service.
+  sponsorships:
+    2019: thanks
+
