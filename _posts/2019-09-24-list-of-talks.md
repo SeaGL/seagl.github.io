@@ -45,7 +45,7 @@ Talks for SeaGL 2019
 * Mairi Dulaney - Controlling your model trains with your computer and free software
 * Dawn Parzych - The Fallacy of "Move Fast and Break Things"
 * Garrett Honeycutt - Security Compliance Testing with InSpec
-* Adam Monsen - Containerized local dev and test with Docker and publishing with Snap
+* Adam Monsen - Containerized sourcery with Docker and Snap
 * Gaba - The Tor Project: The State of the Onion
 * John SJ Anderson - Once more with style
 * Vagrant Cascadian - There and Back Again, Reproducibly!
