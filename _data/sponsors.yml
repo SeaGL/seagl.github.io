@@ -720,8 +720,8 @@
 - name: Dragonchain
   url: https://www.dragonchain.com
   logo:
-    banner: /img/sponsors/Dragonchain/jojo-banner.png
-    square: /img/sponsors/Dragonchain/jojo-treasure.774ae8fa.png
+    banner: missing
+    square: /img/sponsors/Dragonchain/jogo-dragonchain.png
   description: |-
     Dragonchain is a U.S.-based technology leader, offering Blockchain as a
     Service with security and scalability at the forefront of its operations.
