@@ -23,6 +23,7 @@
     2016: bronze
     2017: thanks
     2018: thanks
+    2019: thanks
 
 - name: Ansible
   url: http://www.ansible.com
@@ -82,7 +83,7 @@
     2016: bronze
     2017: bronze
     2018: bronze
-    2019: thanks
+    2019: bronze
 
 - name: Fedora
   url: https://getfedora.org/
@@ -195,6 +196,7 @@
     2016: platinum
     2017: gold
     2018: silver
+    2019: gold
 
 - name: Seattle Central College
   url: http://seattlecentral.edu
@@ -217,6 +219,7 @@
     2016: platinum
     2017: platinum
     2018: platinum
+    2019: platinum
 
 - name: Silicon Mechanics
   url: http://www.siliconmechanics.com
@@ -383,6 +386,7 @@
     2016: thanks
     2017: thanks
     2018: thanks
+    2019: thanks
 
 - name: Free Software Foundation
   url: http://www.fsf.org/
@@ -397,6 +401,7 @@
     2016: thanks
     2017: thanks
     2018: thanks
+    2019: thanks
 
 - name: Write The Docs Seattle
   url: http://www.meetup.com/Write-The-Docs-Seattle/
@@ -509,6 +514,7 @@
   sponsorships:
     2016: thanks
     2017: thanks
+    2019: thanks
 
 - name: Kubuntu
   url: http://www.kubuntu.org/
@@ -675,7 +681,8 @@
       square: /img/sponsors/indeed/indeed.png
   description:
   sponsorships:
-      2018: bronze
+	2018: bronze
+	2019: silver     
 
 - name: Open Humans
   url: https://www.OpenHumans.org/
