@@ -672,7 +672,7 @@
       square: /img/sponsors/PragmaticBookshelf/pragprog.jpg
   description:
   sponsorships:
-      2018: thanks
+    2018: thanks
 
 - name: Indeed
   url: https://www.indeed.com
@@ -681,8 +681,8 @@
       square: /img/sponsors/indeed/indeed.png
   description:
   sponsorships:
-	2018: bronze
-	2019: silver     
+    2018: bronze
+    2019: silver     
 
 - name: Open Humans
   url: https://www.OpenHumans.org/
@@ -709,7 +709,8 @@
       square: missing
   description:
   sponsorships:
-      2018: thanks
+     2018: thanks
+     2019: thanks
 
 - name: Cloud Native Computing Foundation
   url: https://www.cncf.io
