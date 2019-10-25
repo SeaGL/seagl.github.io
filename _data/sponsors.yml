@@ -705,16 +705,6 @@
   sponsorships:
       2018: thanks
 
-- name: Ubuntu LoCo
-  url: https://loco.ubuntu.com/
-  logo:
-      banner: /img/sponsors/Ubuntu/pnw-logo-medium.png
-      square: missing
-  description:
-  sponsorships:
-     2018: thanks
-     2019: thanks
-
 - name: Cloud Native Computing Foundation
   url: https://www.cncf.io
   logo:
@@ -761,4 +751,20 @@
     Snowdrift.coop is a fundraising platform for public goods like free software. It uses a new approach called "crowdmatching" where patrons pledge to increase their monthly donations by a tiny amount for _each_ patron who will give with them.
   sponsorships:
      2019: thanks
+
+- name: Ubuntu-PNW
+  url: https://wiki.ubuntu.com/PNWTeam
+  logo:
+    banner: /img/sponsors/Ubuntu/pnw-logo-medium.png
+    square: /img/sponsors/Ubuntu/ubuntu_orange_hex.png
+  description: |-
+    PNWTeam is the Ubuntu user group for the Pacific Northwest region of the
+    United States. If you haven't found a local community (loco) team to call
+    home yet please feel free to jump in and help out.
+
+    Mailing List https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-pnw
+    Forum http://pnw.ubuntu-us.org/forum
+  sponsorships:
+    2018: thanks
+    2019: thanks
 
