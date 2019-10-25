@@ -758,10 +758,10 @@
     banner: /img/sponsors/Ubuntu-PNW/Ubuntu-PNW-logo-medium.png
     square: missing
   description: |-
-	  PNWTeam is the Ubuntu user group for the Pacific Northwest region of the United States. If you haven't found a local community (loco) team to call home yet please feel free to jump in and help out.
+    PNWTeam is the Ubuntu user group for the Pacific Northwest region of the United States. If you haven't found a local community (loco) team to call home yet please feel free to jump in and help out.
 
-  Mailing List https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-pnw
-  Forum http://pnw.ubuntu-us.org/forum
+    Mailing List https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-pnw
+    Forum http://pnw.ubuntu-us.org/forum
 
   sponsorships:
     2019: thanks
