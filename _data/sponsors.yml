@@ -459,6 +459,7 @@
   sponsorships:
     2015: thanks
     2017: thanks
+    2019: thanks
 
 - name: Pacific Northwest PHP Conference
   url: http://pnwphp.com
@@ -483,6 +484,7 @@
   sponsorships:
     2017: thanks
     2018: thanks
+    2019: thanks
 
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
@@ -582,6 +584,7 @@
     2016: thanks
     2017: thanks
     2018: thanks
+    2019: thanks
 
 - name: Comcast Technology Solutions
   url: https://www.comcasttechnologysolutions.com/
@@ -749,3 +752,16 @@
   sponsorships:
     2019: bronze
 
+- name: Ubuntu-PNW
+  url: https://wiki.ubuntu.com/PNWTeam
+  logo:
+    banner: /img/sponsors/Ubuntu-PNW/Ubuntu-PNW-logo-medium.png
+    square: missing
+  description: |-
+	  PNWTeam is the Ubuntu user group for the Pacific Northwest region of the United States. If you haven't found a local community (loco) team to call home yet please feel free to jump in and help out.
+
+  Mailing List https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-pnw
+  Forum http://pnw.ubuntu-us.org/forum
+
+  sponsorships:
+    2019: thanks
