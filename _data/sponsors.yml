@@ -473,12 +473,15 @@
 - name: West Seattle Linux User Group
   url: https://wsealug.net
   logo:
-    banner: missing
-    square: /img/sponsors/WSLUG/wsea-g.png
-  description:
+    banner: /img/sponsors/WSLUG/wsea-g.png
+    square: missing
+  description: |-
+    Anyone who is interested in Linux and talking about it with your neighbors. We have bi-weekly meet-ups and are currently meeting at the West Seattle & Fauntleroy YMCA. (http://www.seattleymca.org/locations/west-seattle-fauntleroy-ymca)
+    At each meeting we plan to have a 30 minute demonstration of something GNU/Linux related. We are keeping track of these and suggestions on a public Trello board: https://trello.com/b/duBE2Tpr/wsealug
   sponsorships:
     2017: thanks
     2018: thanks
+    2019: thanks
 
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
@@ -569,15 +572,18 @@
     2016: thanks
 
 - name: TA3M & SPC
-  url: https://www.seattleprivacy.org/programs/ta3m/
+  url: https://seattleprivacy.org/ta3m/
   logo:
-    banner: missing
-    square: /img/sponsors/TA3M/TA3M.png
-  description:
+    banner: /img/sponsors/TA3M/TA3M.png
+    square: missing
+  description: |-
+    Techno-Activism Third Mondays (TA3M) is an informal meetup designed to connect software creators and activists who are interested in censorship, surveillance, and open technology. Currently, TA3M are held in various cities throughout the world, with many more launching in the near future.
+    TA3M is explicitly informal and open. You are invited to hack the process, ask questions, and be critical. You are very welcome to join in if you have something you want to share or discuss.
   sponsorships:
     2016: thanks
     2017: thanks
     2018: thanks
+    2019: thanks
 
 - name: Comcast Technology Solutions
   url: https://www.comcasttechnologysolutions.com/
