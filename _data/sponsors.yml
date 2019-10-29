@@ -704,10 +704,10 @@
   sponsorships:
       2018: thanks
 
-- name: Ubuntu
-  url: https://www.ubuntu.com/#community
+- name: Ubuntu LoCo
+  url: https://loco.ubuntu.com/
   logo:
-      banner: /img/sponsors/Ubuntu/ubuntu_orange_hex.png
+      banner: /img/sponsors/Ubuntu/pnw-logo-medium.png
       square: missing
   description:
   sponsorships:
