@@ -748,8 +748,8 @@
 - name: Snowdrift.coop
   url: https://snowdrift.coop
   logo:
-      banner: /img/sponsors/Snowdrift/snowdrift-logo_symbol-wordmark_dark-blue.svg
-      square: /img/sponsors/Snowdrift/snowdrift-logo_symbol_dark-blue.svg
+      banner: /img/sponsors/Snowdrift/snowdrift-logo_symbol-wordmark_dark-blue.svg.png
+      square: /img/sponsors/Snowdrift/snowdrift-logo_symbol_dark-blue.svg.png
   description: |-
     Snowdrift.coop is a fundraising platform for public goods like free software. It uses a new approach called "crowdmatching" where patrons pledge to increase their monthly donations by a tiny amount for _each_ patron who will give with them.
   sponsorships:
