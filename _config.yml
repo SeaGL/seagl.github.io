@@ -55,6 +55,9 @@ custom:
     maps:
       google:
         apikey:             AIzaSyAwVEJ8kLu3tWyuBxZX9_hfMnNLJk7obk8
+      mapbox:
+        # Restricted to use on https://seagl.org/, managed by Andrew <Andrew@Kvalhe.im>
+        access_token:       pk.eyJ1IjoiLWFrIiwiYSI6ImNrMmJkb25xZzRpNzUzaW10N3dkenI4cWQifQ.eIYNSODeDlxrdRtKR3DBeQ
 sass:
     sass_dir: _sass
     style: compressed
