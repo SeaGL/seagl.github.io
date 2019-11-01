@@ -373,8 +373,8 @@
 - name: LinuxFest Northwest
   url: https://linuxfestnorthwest.org
   logo:
-    banner: /img/sponsors/LFNW/linuxfest-northwest-logo.png
-    square: missing
+    banner: /img/sponsors/LFNW/lfnw_logo_banner.png
+    square: /img/sponsors/LFNW/lfnw_logo_square.png
   description: |-
     LinuxFest Northwest (est. 2000), an annual Open Source event co-produced by Bellingham Linux Users Group and the Information Technology department at BTC. LFNW features presentations and exhibits on free and open source topics, as well as Linux distributions & applications, InfoSec, and privacy; something for everyone from the novice to the professional!
   sponsorships:
