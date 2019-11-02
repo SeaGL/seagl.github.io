@@ -19,8 +19,5 @@ After we all did the first pass and scooped up the highest scores (confidential,
 
 Total, we had 121 talk submissions.  This was lower than previous years by about a third.  We've heard from sister conferences that their submission numbers have also been low, so we chalk up our numbers to similar effects, as well possibly less outreach than in previous years.  18 of these submissions were by underrepresented speakers (14%), and 13 were by first time speakers (10%).  So nearly one quarter of submissions were by underrepresented & first time speakers, which is lower than previous years.  We have more work to do in the future on outreach!  We're incredibly proud of our community, 
 
-Today we announce the schedule for SeaGL 2019!  November 15 and November 16 will be an amazing couple of days of talks, and we can't WAIT to see you there!
-
-Please note, the room numbers have not been finalized, but when we get closer to the date of the conference, we'll have those ready for you.  So for now, they're "Room 1," "Room 2," etc.  We look forward to having these finalized within a couple weeks at most.
 
 [SeaGL 2019 Schedule](https://osem.seagl.org/conferences/seagl2019/schedule/events)
