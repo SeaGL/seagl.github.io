@@ -671,8 +671,8 @@
 - name: Pragmatic Bookshelf
   url: https://pragprog.com
   logo:
-      banner: missing
-      square: /img/sponsors/PragmaticBookshelf/pragprog.jpg
+    banner: missing
+    square: /img/sponsors/PragmaticBookshelf/pragprog.jpg
   description:
   sponsorships:
     2018: thanks
@@ -680,30 +680,30 @@
 - name: Indeed
   url: https://www.indeed.com
   logo:
-      banner: missing
-      square: /img/sponsors/indeed/indeed.png
+    banner: missing
+    square: /img/sponsors/indeed/indeed.png
   description:
   sponsorships:
     2018: bronze
-    2019: silver     
+    2019: silver
 
 - name: Open Humans
   url: https://www.OpenHumans.org/
   logo:
-      banner: missing 
-      square: /img/sponsors/OpenHumans/open-humans-logo-horizontal-80px.f71a97b4a07d.png
+    banner: missing
+    square: /img/sponsors/OpenHumans/open-humans-logo-horizontal-80px.f71a97b4a07d.png
   description:
   sponsorships:
-      2018: thanks
+    2018: thanks
 
 - name: MySQL
   url: https://www.mysql.com/
   logo:
-      banner: missing 
-      square: /img/sponsors/MySQL/MySQL-clr.png
+    banner: missing
+    square: /img/sponsors/MySQL/MySQL-clr.png
   description:
   sponsorships:
-      2018: thanks
+    2018: thanks
 
 - name: Cloud Native Computing Foundation
   url: https://www.cncf.io
@@ -720,7 +720,7 @@
 
 - name: Dragonchain
   url: https://www.dragonchain.com
-  logo: 
+  logo:
     banner: missing
     square: /img/sponsors/Dragonchain/Jojo+Dragonchaintext-02.png
   description: |-
@@ -745,8 +745,8 @@
 - name: Snowdrift.coop
   url: https://snowdrift.coop
   logo:
-      banner: /img/sponsors/Snowdrift/snowdrift-logo_symbol-wordmark_dark-blue.svg.png
-      square: /img/sponsors/Snowdrift/snowdrift-logo_symbol_dark-blue.svg.png
+    banner: /img/sponsors/Snowdrift/snowdrift-logo_symbol-wordmark_dark-blue.svg.png
+    square: /img/sponsors/Snowdrift/snowdrift-logo_symbol_dark-blue.svg.png
   description: |-
     Snowdrift.coop is a fundraising platform for public goods like free software. It uses a new approach called "crowdmatching" where patrons pledge to increase their monthly donations by a tiny amount for _each_ patron who will give with them.
   sponsorships:
