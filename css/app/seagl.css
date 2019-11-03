@@ -151,6 +151,12 @@ strong {
 #footer-nav {
   margin: 6em auto 4em auto;
 }
+.venue-map {
+  height: 66vh;
+  max-height: calc(100vh - 2cm);
+  min-height: 20em;
+  width: 100%;
+}
 
 @media (max-width: 1200px) {
   #policy-content img {

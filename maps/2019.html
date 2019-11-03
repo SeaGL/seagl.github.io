@@ -12,10 +12,8 @@ body_id: maps
   <div class="row">
     <div class="col-md-12">
         <h2>SCC Address</h2>
-        <p>1701 Broadway Seattle, WA 98122 - <a target="_blank" href="https://maps.google.com/maps?q=Seattle+Central+College,+Broadway,+Seattle,+WA&hl=en&ll=47.616376,-122.321348&spn=0.002839,0.005917&sll=47.616135,-122.320806&sspn=0.001427,0.002958&oq=SCC,+&t=m&z=18">View in Google Maps</a></p>
-        <p>
-            <div id="map_canvas" style="width: 900px; height: 400px;"></div>
-        </p>
+        <p>1701 Broadway Seattle, WA 98122</p>
+        <div class='venue-map' id='mapbox-root'></div>
     </div>
   </div>
 
@@ -64,37 +62,24 @@ body_id: maps
 
 </div>
 
-<script type='text/javascript' src="//maps.googleapis.com/maps/api/js?v=3.exp&key={{ site.custom.maps.google.apikey }}"></script>
-<script type='text/javascript'>
-    $(function(){
-        var mapOptions = {
-            zoom: 17,
-            center: new google.maps.LatLng(47.616248,-122.321426),
-            mapTypeId: google.maps.MapTypeId.HYBRID
-        };
-        gMap = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css" rel="stylesheet" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js"></script>
+<script>
+  mapboxgl.accessToken = "{{ site.custom.maps.mapbox.access_token }}";
 
-        var marker = new google.maps.Marker({
-            position: new google.maps.LatLng(47.616248,-122.321426),
-            map: gMap,
-            title: 'SeaGL @ SCC'
-        });
+  const map = new mapboxgl.Map({
+    center: [-122.32152, 47.61642],
+    container: "mapbox-root",
+    dragRotate: false,
+    pitchWithRotate: false,
+    style: "mapbox://styles/mapbox/streets-v11",
+    touchZoomRotate: false,
+    zoom: 13
+  });
 
-        var contentString = '<div id="content">'+
-            '<div id="siteNotice">'+
-            '</div>'+
-            '<h1 id="firstHeading" class="firstHeading">SeaGL @ SCC</h1>'+
-            '<div id="bodyContent">'+
-            '<p>1701 Broadway Seattle, WA 98122</p>'+
-            '</div>'+
-            '</div>';
+  map.addControl(new mapboxgl.NavigationControl({ showCompass: false }));
 
-        var infowindow = new google.maps.InfoWindow({
-            content: contentString
-        });
-
-        google.maps.event.addListener(marker, 'click', function() {
-            infowindow.open(gMap, marker);
-        });
-    });
+  new mapboxgl.Marker({ color: "#1d7193" })
+    .setLngLat([-122.32116, 47.61623])
+    .addTo(map);
 </script>

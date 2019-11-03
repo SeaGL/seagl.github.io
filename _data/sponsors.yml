@@ -1,7 +1,7 @@
 ---
 
 - name: ActiveBuilding
-  url: http://activebuilding.com
+  url: https://activebuilding.com
   logo:
     banner: /img/sponsors/ActiveBuilding/old_logo.png
     square: missing
@@ -13,7 +13,7 @@
     2013: silver
 
 - name: Ada's Technical Books
-  url: http://www.seattletechnicalbooks.com/
+  url: https://www.adasbooks.com/
   logo:
     banner: /img/sponsors/AdasTechnicalBooks/AdaShopLogo.gif
     square: missing
@@ -26,7 +26,7 @@
     2019: thanks
 
 - name: Ansible
-  url: http://www.ansible.com
+  url: https://www.ansible.com
   logo:
     banner: /img/sponsors/Ansible/ansible_badge.png
     square: missing
@@ -99,7 +99,7 @@
     2018: thanks
 
 - name: Google
-  url: http://www.google.com
+  url: https://www.google.com
   logo:
     banner: /img/sponsors/Google/googlelogo_clr_520x172px.png
     square: missing
@@ -129,7 +129,7 @@
     2016: bronze
 
 - name: Linux Journal
-  url: http://www.linuxjournal.com
+  url: https://www.linuxjournal.com
   logo:
     banner: /img/sponsors/LinuxJournal/ljcolor.png
     square: missing
@@ -143,7 +143,7 @@
     2016: bronze
 
 - name: Pogo Linux, Inc
-  url: http://www.pogolinux.com
+  url: https://www.pogolinux.com
   logo:
     banner: /img/sponsors/PogoLinux/logo_pogolinux.png
     square: missing
@@ -160,7 +160,7 @@
     2017: silver
 
 - name: Rackspace
-  url: http://www.rackspace.com
+  url: https://www.rackspace.com
   logo:
     banner: /img/sponsors/Rackspace/Rackspace_Cloud_Company_Logo_clr.png
     square: missing
@@ -199,7 +199,7 @@
     2019: gold
 
 - name: Seattle Central College
-  url: http://seattlecentral.edu
+  url: https://seattlecentral.edu
   logo:
     banner: /img/sponsors/SCC/seattle-central-college-logo.png
     square: missing
@@ -222,7 +222,7 @@
     2019: platinum
 
 - name: Silicon Mechanics
-  url: http://www.siliconmechanics.com
+  url: https://www.siliconmechanics.com
   logo:
     banner: /img/sponsors/SiliconMechanics/SiMechTrimmed.png
     square: missing
@@ -241,7 +241,7 @@
     2016: silver
 
 - name: The Greater Seattle Linux Users Group
-  url: http://www.gslug.org
+  url: https://gslug.org
   logo:
     banner: /img/sponsors/GSLUG/logo.png
     square: missing
@@ -370,17 +370,13 @@
     2016: thanks
     2017: thanks
 
-- name: Linuxfest Northwest
-  url: http://linuxfestnorthwest.org
+- name: LinuxFest Northwest
+  url: https://linuxfestnorthwest.org
   logo:
-    banner: /img/sponsors/LFNW/linuxfest-northwest-logo.png
-    square: missing
+    banner: /img/sponsors/LFNW/lfnw_logo_banner.png
+    square: /img/sponsors/LFNW/lfnw_logo_square.png
   description: |-
-    LinuxFest Northwest is an annual OpenSource event held the last weekend in April,
-    in Bellingham, WA USA. The Fest features presentations and Exhibits on various
-    F/OSS topics, as well as Linux distributions and applications. LinuxFest Northwest
-    has something for everyone from the novice to the professional. The hours are
-    9:00 a.m. to 5:00 p.m. both days.
+    LinuxFest Northwest (est. 2000), an annual Open Source event co-produced by Bellingham Linux Users Group and the Information Technology department at BTC. LFNW features presentations and exhibits on free and open source topics, as well as Linux distributions & applications, InfoSec, and privacy; something for everyone from the novice to the professional!
   sponsorships:
     2015: thanks
     2016: thanks
@@ -389,7 +385,7 @@
     2019: thanks
 
 - name: Free Software Foundation
-  url: http://www.fsf.org/
+  url: https://www.fsf.org/
   logo:
     banner: /img/sponsors/FSF/logo-fsf.org.png
     square: missing
@@ -404,7 +400,7 @@
     2019: thanks
 
 - name: Write The Docs Seattle
-  url: http://www.meetup.com/Write-The-Docs-Seattle/
+  url: https://www.meetup.com/Write-The-Docs-Seattle/
   logo:
     banner: missing
     square: /img/sponsors/WriteTheDocsSeattle/WriteTheDocs.jpeg
@@ -416,7 +412,7 @@
     2015: thanks
 
 - name: Seattle Area System Administrators Guild
-  url: http://www.sasag.org/
+  url: https://www.sasag.org/
   logo:
     banner: /img/sponsors/SASAG/SASAG.png
     square: missing
@@ -428,7 +424,7 @@
     2016: thanks
 
 - name: Oregon State University Open Source Lab
-  url: http://osuosl.org/
+  url: https://osuosl.org/
   logo:
     banner: /img/sponsors/OSL/osuosl-tag.png
     square: missing
@@ -437,7 +433,7 @@
     2015: thanks
 
 - name: Northeastern University Seattle
-  url: http://www.northeastern.edu/seattle/
+  url: https://www.northeastern.edu/seattle/
   logo:
     banner: /img/sponsors/NortheasternUniversitySeattle/NortheasternSeattle.jpg
     square: missing
@@ -446,7 +442,7 @@
     2015: thanks
 
 - name: The FreeBSD Project
-  url: http://www.freebsd.org/
+  url: https://www.freebsd.org/
   logo:
     banner: /img/sponsors/FreeBSD/FreeBSD-logo-red.png
     square: missing
@@ -478,9 +474,11 @@
 - name: West Seattle Linux User Group
   url: https://wsealug.net
   logo:
-    banner: missing
-    square: /img/sponsors/WSLUG/wsea-g.png
-  description:
+    banner: /img/sponsors/WSLUG/wsea-g.png
+    square: missing
+  description: |-
+    Anyone who is interested in Linux and talking about it with your neighbors. We have bi-weekly meet-ups and are currently meeting at the West Seattle & Fauntleroy YMCA. (http://www.seattleymca.org/locations/west-seattle-fauntleroy-ymca)
+    At each meeting we plan to have a 30 minute demonstration of something GNU/Linux related. We are keeping track of these and suggestions on a public Trello board: https://trello.com/b/duBE2Tpr/wsealug
   sponsorships:
     2017: thanks
     2018: thanks
@@ -508,7 +506,7 @@
     2018: thanks
 
 - name: Software Freedom Conservancy
-  url: http://sfconservancy.org/
+  url: https://sfconservancy.org/
   logo:
     banner: missing
     square: /img/sponsors/SFC/SFC-logo.png
@@ -519,7 +517,7 @@
     2019: thanks
 
 - name: Kubuntu
-  url: http://www.kubuntu.org/
+  url: https://kubuntu.org/
   logo:
     banner: missing
     square: /img/sponsors/Kubuntu/Kubuntu-logo.png
@@ -529,7 +527,7 @@
     2017: thanks
 
 - name: Lubuntu
-  url: http://www.lubuntu.me/
+  url: https://lubuntu.me/
   logo:
     banner: missing
     square: /img/sponsors/Lubuntu/Lubuntu-logo.png
@@ -538,7 +536,7 @@
     2016: thanks
 
 - name: Red Hat
-  url: http://www.redhat.com
+  url: https://www.redhat.com
   logo:
     banner: missing
     square: /img/sponsors/RedHat/RedHat.png
@@ -575,11 +573,13 @@
     2016: thanks
 
 - name: TA3M & SPC
-  url: https://www.seattleprivacy.org/programs/ta3m/
+  url: https://seattleprivacy.org/ta3m/
   logo:
-    banner: missing
-    square: /img/sponsors/TA3M/TA3M.png
-  description:
+    banner: /img/sponsors/TA3M/TA3M.png
+    square: missing
+  description: |-
+    Techno-Activism Third Mondays (TA3M) is an informal meetup designed to connect software creators and activists who are interested in censorship, surveillance, and open technology. Currently, TA3M are held in various cities throughout the world, with many more launching in the near future.
+    TA3M is explicitly informal and open. You are invited to hack the process, ask questions, and be critical. You are very welcome to join in if you have something you want to share or discuss.
   sponsorships:
     2016: thanks
     2017: thanks
@@ -705,10 +705,10 @@
   sponsorships:
       2018: thanks
 
-- name: Ubuntu
-  url: https://www.ubuntu.com/#community
+- name: Ubuntu LoCo
+  url: https://loco.ubuntu.com/
   logo:
-      banner: /img/sponsors/Ubuntu/ubuntu_orange_hex.png
+      banner: /img/sponsors/Ubuntu/pnw-logo-medium.png
       square: missing
   description:
   sponsorships:
@@ -746,7 +746,7 @@
     Twitter https://twitter.com/dragonchain
     LinkedIn https://www.linkedin.com/company/dragonchain/
     Facebook https://facebook.com/Dragonchaingang/
-    YouTube http://www.youtube.com/c/DragonchainOfficial
+    YouTube https://www.youtube.com/c/DragonchainOfficial
     GitHub https://github.com/dragonchain-inc
     Telegram https://t.me/dragontalk
   sponsorships:
@@ -765,3 +765,13 @@
 
   sponsorships:
     2019: thanks
+
+- name: Snowdrift.coop
+  url: https://snowdrift.coop
+  logo:
+      banner: /img/sponsors/Snowdrift/snowdrift-logo_symbol-wordmark_dark-blue.svg.png
+      square: /img/sponsors/Snowdrift/snowdrift-logo_symbol_dark-blue.svg.png
+  description: |-
+    Snowdrift.coop is a fundraising platform for public goods like free software. It uses a new approach called "crowdmatching" where patrons pledge to increase their monthly donations by a tiny amount for _each_ patron who will give with them.
+  sponsorships:
+     2019: thanks
