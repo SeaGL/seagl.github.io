@@ -95,6 +95,8 @@ Please test-drive all changes locally before pushing to GitHub. There are a few 
 1. virtual machine
 1. containerized
 
+To see the map on `/maps/2019.html` you must hand-edit absolute URLs in `map-data/scc_2019-11-04/osm-liberty/styles.custom.json` starting with `https://seagl.org`. For example, if you use the Docker method below for local dev, change `"https://seagl.org/map-data/scc_2019-11-04/tiles/{z}/{x}/{y}.pbf"` to `"http://localhost:4000/map-data/scc_2019-11-04/tiles/{z}/{x}/{y}.pbf"`. This _should_ be automatable with `jekyll`; please consider sending us a patch if you know how to do this!
+
 ### Local dev - bare metal
 
 1. Install Jekyll Gem (and it's dependencies) `gem install jekyll`.
