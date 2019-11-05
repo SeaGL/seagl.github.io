@@ -24,7 +24,7 @@ Last year a sponsor wanted to provide daycare at the conference, so SeaGL added 
 The sponsor paid a commercial daycare service to come in both days.
 Daycare is one of the few SeaGL activities that required non-anonymous registration to attend SeaGL.
 
-SeaGL works to respect the privacy of attendees.
+SeaGL volunteers work to respect the privacy of attendees ( email <participate@SeaGL.org to volunteer ).
 Registration and conference participation are as anonymous as practical.
 Attendees don't need to divulge personal data or use proprietary software to register.
 Attendees can even register the day of at SeaGL.
