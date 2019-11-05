@@ -31,7 +31,7 @@ It is also where activities like snack breaks and TeaGL take place.
 
 Some features such as daycare, snack breaks, and complementary lunch depend on organizational sponsorship.
 There is no registration fee, but SeaGL accepts individual sponsorship.
-If you or your company are interested in sponsoring SeaGL, please contact the sponsorship committee, sponsor@SeaGL.org.
+If you or your company are interested in sponsoring SeaGL, please contact the sponsorship committee, <sponsor@SeaGL.org>.
 
 SeaGL has a strong hallway track where attendees chat with presenters and each other.
 Conversations take place before and after talks, in the exhibition hall and during social activities such as lunch and TeaGL.
@@ -56,6 +56,6 @@ The reception might also have activities such lightning talks, game shows, or ev
 The SeaGL planning committee has worked the last couple years to have more chat time at the reception, extending the hallway track.
 Show up to find out what's on the schedule this year.
 
-Interested in sponsoring SeaGL, please contact the sponsorship committee, sponsor@SeaGL.org.
+Interested in sponsoring SeaGL, please contact the sponsorship committee, <sponsor@SeaGL.org>.
 
-If you would like to help promote SeaGL, please contact participate@SeaGL.org. Flyers will be available at Ada's Technical Books and Cafe.
+If you would like to help promote SeaGL, please contact <participate@SeaGL.org>. Flyers will be available at Ada's Technical Books and Cafe.
