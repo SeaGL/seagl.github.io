@@ -8,6 +8,7 @@ categories: news
 ---
 
 [SeaGL_2019_schedule]: https://osem.seagl.org/conferences/seagl2019/schedule/events (SeaGL 2019 Schedule)
+[SeaGL_2019_registration]: https://osem.seagl.org/conferences/seagl2019 (register for SeaGL 2019)
 
 SeaGL is a great annual free software conference in Seattle. 
 The [2019 schedule][SeaGL_2019_schedule] is ready for perusal.
@@ -28,6 +29,8 @@ Registration and conference participation are as anonymous as practical.
 Attendees don't need to divulge personal data or use proprietary software to register.
 Attendees can even register the day of at SeaGL.
 The registration table is at the main entrance into the exhibition hall.
+You can [pre-register][SeaGL_2019_registration] if you'd like.
+It helps with attendee estimation.
 
 The exhibition hall has tables for conference sponsors and for community groups.
 It is also where activities like snack breaks and TeaGL take place.
