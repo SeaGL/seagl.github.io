@@ -7,8 +7,11 @@ published: true
 categories: news
 ---
 
+[SeaGL_2019_schedule]: https://osem.seagl.org/conferences/seagl2019/schedule/events (SeaGL 2019 Schedule)
+
 SeaGL is a great annual free software conference in Seattle. 
-Like most community run conferences, it offers many extra features aside from excellent keynotes, conference talks and tutorials.
+The [2019 schedule][SeaGL_2019_schedule] is ready for perusal.
+Like most community run conferences, SeaGL offers many extra features aside from excellent keynotes, conference talks and tutorials.
 
 Now in it's seventh year, SeaGL even added two new features last year: TeaGL and daycare.
 
