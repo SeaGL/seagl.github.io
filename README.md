@@ -112,13 +112,13 @@ Use the `Vagrantfile`.
 
 [Install Docker](https://docs.docker.com/engine/installation/).
 
-Build a Docker image for local dev with
+**Once** (or when build scripts change): build a Docker image for local dev with
 
 ```bash
 docker build -t seagldev .
 ```
 
-Start your dev container with
+**Every time**: start your dev container with
 
 ```bash
 docker run -p 4000:4000 --rm -it -v "$PWD":/usr/src/app seagldev
