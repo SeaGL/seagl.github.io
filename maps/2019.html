@@ -62,19 +62,21 @@ body_id: maps
 
 </div>
 
-<link href="https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css" rel="stylesheet" />
-<script src="https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js"></script>
+<link href="/css/vendor/mapbox-gl-1.4.1.css" rel="stylesheet" />
+<script src="/js/vendor/mapbox-gl-1.4.1.js"></script>
 <script>
-  mapboxgl.accessToken = "{{ site.custom.maps.mapbox.access_token }}";
-
   const map = new mapboxgl.Map({
+    boxZoom: false,
     center: [-122.32152, 47.61642],
     container: "mapbox-root",
     dragRotate: false,
+    maxBounds: [[-122.4162, 47.5799], [-122.2234, 47.6529]],
+    maxZoom: 16 + 2,
+    minZoom: 12,
     pitchWithRotate: false,
-    style: "mapbox://styles/mapbox/streets-v11",
+    style: "/map-data/scc_2019-11-04/osm-liberty/styles.custom.json",
     touchZoomRotate: false,
-    zoom: 13
+    zoom: 15
   });
 
   map.addControl(new mapboxgl.NavigationControl({ showCompass: false }));
