@@ -32,6 +32,8 @@ The registration table is at the main entrance into the exhibition hall.
 You can [pre-register][SeaGL_2019_registration] if you'd like.
 It helps with attendee estimation.
 
+<img src="/img/posts/2019_SeaGL_features__SeaGL_sign.jpg" width="25%" style="float:right" />
+
 The exhibition hall has tables for conference sponsors and for community groups.
 It is also where activities like snack breaks and TeaGL take place.
 
@@ -47,7 +49,7 @@ Speaking of the college, SeaGL continues to benefit from Seattle Central College
 The college provides an auditorium for the keynotes, classrooms for the talks and a room for the exhibition hall.
 SCC also has gender free bathrooms.
 
-<img src="/img/posts/2019_SeaGL_features_Pine_St_crosswalk.jpg" width="25%" style="float:right" />
+<img src="/img/posts/2019_SeaGL_features__Pine_St_crosswalk.jpg" width="25%" style="float:right" />
 
 The college is across the street from Seattle's Jimi Hendrix statue.
 More importantly for the plain text geeks among us, SCC is on Pine St in the pine mail program's home town.
@@ -67,3 +69,5 @@ Show up to find out what's on the schedule this year.
 Interested in sponsoring SeaGL, please contact the sponsorship committee, <sponsor@SeaGL.org>.
 
 If you would like to help promote SeaGL, please contact <participate@SeaGL.org>. Flyers will be available at Ada's Technical Books and Cafe.
+
+<img src="/img/posts/2019_SeaGL_features__Seattle_mall_penguin.jpg" width="25%" style="float:right" />
