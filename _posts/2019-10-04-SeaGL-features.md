@@ -47,7 +47,7 @@ Speaking of the college, SeaGL continues to benefit from Seattle Central College
 The college provides an auditorium for the keynotes, classrooms for the talks and a room for the exhibition hall.
 SCC also has gender free bathrooms.
 
-<img src="/img/posts/2019_SeaGL_features_Pine_St_crosswalk.jpg" style="float:right; margin:10px; width:25%;" />
+<img src="/img/posts/2019_SeaGL_features_Pine_St_crosswalk.jpg" width="25%" />
 
 The college is across the street from Seattle's Jimi Hendrix statue.
 More importantly for the plain text geeks among us, SCC is on Pine St in the pine mail program's home town.
