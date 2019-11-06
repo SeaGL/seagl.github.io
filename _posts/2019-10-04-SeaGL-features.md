@@ -14,6 +14,8 @@ SeaGL is a great annual free software conference in Seattle.
 The [2019 schedule][SeaGL_2019_schedule] is ready for perusal.
 Like most community run conferences, SeaGL offers many extra features aside from excellent keynotes, conference talks and tutorials.
 
+<img src="/img/posts/2019_SeaGL_features__SeaGL_sign.jpg" width="25%" align="right" alt="SeaGL sign pointing to the keynotes" />
+
 Now in it's seventh year, SeaGL even added two new features last year: TeaGL and daycare.
 
 TeaGL is the SeaGL Tea Swap, offered during the Saturday afternoon break.
@@ -31,8 +33,6 @@ Attendees can even register the day of at SeaGL.
 The registration table is at the main entrance into the exhibition hall.
 You can [pre-register][SeaGL_2019_registration] if you'd like.
 It helps with attendee estimation.
-
-<img src="/img/posts/2019_SeaGL_features__SeaGL_sign.jpg" width="25%" align="right" alt="SeaGL sign pointing to the keynotes" />
 
 The exhibition hall has tables for conference sponsors and for community groups.
 It is also where activities like snack breaks and TeaGL take place.
@@ -66,8 +66,8 @@ The reception might also have activities such lightning talks, game shows, or ev
 The SeaGL planning committee has worked the last couple years to have more chat time at the reception, extending the hallway track.
 Show up to find out what's on the schedule this year.
 
+<img src="/img/posts/2019_SeaGL_features__Seattle_mall_penguin.jpg" width="25%" align="right" alt="penguin sculpture at a Seattle mall" />
+
 Interested in sponsoring SeaGL, please contact the sponsorship committee, <sponsor@SeaGL.org>.
 
 If you would like to help promote SeaGL, please contact <participate@SeaGL.org>. Flyers will be available at Ada's Technical Books and Cafe.
-
-<img src="/img/posts/2019_SeaGL_features__Seattle_mall_penguin.jpg" width="25%" align="right" alt="penguin sculpture at a Seattle mall" />
