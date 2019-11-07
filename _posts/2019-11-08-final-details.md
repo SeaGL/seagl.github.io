@@ -20,6 +20,8 @@ Seattle, WA 98122
 The location is at the corner of Pine and Broadway, in the heart of Capitol Hill!  Here's a link to the map: https://seagl.org/maps/2019.html
 We'll have signage guiding you in the southern plaza of the entryway.  The talk rooms are all on the 3rd floor of the building, there are several stairwells and elevators to get to this floor, and we are printing maps to take and to refer to in key locations throughout our section of the Seattle Central College.
 
+Please find here the [schedule](https://osem.seagl.org/conferences/seagl2019/schedule/events).
+
 *Keynotes*
 Our keynotes, whom we are so so very honored to welcome to SeaGL, are the following:
 [Abigail Cabunoc-Mayes](https://seagl.org/news/2019/09/16/keynote-abigail-cabunoc-mayes.html)
