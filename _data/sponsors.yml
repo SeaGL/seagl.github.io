@@ -444,7 +444,7 @@
 - name: The FreeBSD Project
   url: https://www.freebsd.org/
   logo:
-    banner: /img/sponsors/FreeBSD/FreeBSD-logo-red.png
+    banner: missing
     square: /img/sponsors/FreeBSD/FREEBSD_Logo_Vert_Pos_RGB.png
   description: |-
     FreeBSD is an advanced computer operating system used to power modern servers, desktops
