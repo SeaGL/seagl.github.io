@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-[SeaGL_2019_schedule]: https://osem.seagl.org/conferences/seagl2019/schedule/events (SeaGL 2019 Schedule)
+[SeaGL_2019_schedule]: https://osem.seagl.org/conferences/seagl2019/schedule/
 [SeaGL_2019_registration]: https://osem.seagl.org/conferences/seagl2019 (register for SeaGL 2019)
 
 SeaGL is a great annual free software conference in Seattle. 
