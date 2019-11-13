@@ -318,11 +318,12 @@
 - name: Microsoft
   url: https://www.microsoft.com/
   logo:
-    banner: /img/sponsors/Microsoft/Microsoft_logo_(2012)_modified.svg.png
+    banner: /img/sponsors/Microsoft/Microsoft_2019.png
     square: missing
   description:
   sponsorships:
     2015: silver
+    2019: bronze
 
 - name: Jenkins
   url: https://jenkins.io/
