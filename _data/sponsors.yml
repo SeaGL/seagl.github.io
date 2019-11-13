@@ -766,3 +766,11 @@
     2018: thanks
     2019: thanks
 
+- name: Amazon AWS
+  url: https://aws.amazon.com/
+  logo:
+    banner: missing
+    square: /img/sponsors/AWS/AWS_logo_RGB.svg
+  description:
+  sponsorships:
+    2019: bronze
