@@ -4,6 +4,10 @@ _site
 .jekyll-metadata
 .vagrant
 
+# BackstopJS
+/backstop/reports/
+/backstop/results/
+
 .DS_Store
 
 # IDE stuff

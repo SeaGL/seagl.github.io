@@ -144,7 +144,25 @@ Start the server:
 docker run --rm --interactive --tty --publish '4000:4000' --volume "$PWD:/usr/src/app" 'seagldev'
 ```
 
+### Visual regression testing
 
+When making changes that might have site-wide effects (e.g. editing stylesheets, restructuring templates, or updating dependencies) it can be useful to see a visual comparison of before and after screenshots.
+
+Dependencies:
+
+  - [BackstopJS](https://github.com/garris/BackstopJS)
+
+One-time setup:
+
+```bash
+backstop reference
+```
+
+Test for changes and show a report:
+
+```bash
+backstop test
+```
 
 ## Send a pull request (PR) for the changes
 
