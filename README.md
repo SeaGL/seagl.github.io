@@ -89,42 +89,62 @@ TBD (assumption is those using git on their local machines already know this; **
 
 ## Test your changes
 
-Please test-drive all changes locally before pushing to GitHub. There are a few ways to run a Jekyll test server locally. Take your pick!
+Please test-drive all changes locally before pushing to GitHub.
 
-1. bare metal
-1. virtual machine
-1. containerized
+### Local development server
 
-### Local dev - bare metal
+Starting a local development server will make your copy of the site available at <http://localhost:4000>. There are a few ways to run the server. Take your pick!
 
-1. Install Jekyll Gem (and it's dependencies) `gem install jekyll`.
-2. Serve with Jekyll `jekyll serve --watch`.
-    * The optional `--watch` argument watches files for changes and automatically rebuilds everything in \_site when they do.
-3. Navigate to <http://localhost:4000>.
+#### Option 1: Bare metal
 
-### Local dev - virtual machine
+Dependencies:
 
-Use the `Vagrantfile`.
+  - [Ruby](https://www.ruby-lang.org/)
+  - [Bundler](https://bundler.io/)
 
-### Local dev - containerized
-
-[Install Docker](https://docs.docker.com/engine/installation/).
-
-**Once** (or when build scripts change): build a Docker image for local dev with
+One-time setup:
 
 ```bash
-docker build -t seagldev .
+bundle install
 ```
 
-**Every time**: start your dev container with
+Start the server:
 
 ```bash
-docker run -p 4000:4000 --rm -it -v "$PWD":/usr/src/app seagldev
+bundle exec jekyll serve --watch
 ```
 
-View the rendered website at <http://localhost:4000> on your host.
+#### Option 2: Virtual machine
 
-Edit files on your host and reload to see changes.
+Dependencies:
+
+  - [Vagrant](https://www.vagrantup.com/)
+
+Start the server:
+
+```bash
+vagrant up
+```
+
+#### Option 3: Containerized
+
+Dependencies:
+
+  - [Docker](https://docs.docker.com/)
+
+One-time setup:
+
+```bash
+docker build --tag 'seagldev' '.'
+```
+
+Start the server:
+
+```bash
+docker run --rm --interactive --tty --publish '4000:4000' --volume "$PWD:/usr/src/app" 'seagldev'
+```
+
+
 
 ## Send a pull request (PR) for the changes
 
