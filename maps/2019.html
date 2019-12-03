@@ -79,6 +79,8 @@ body_id: maps
     zoom: 15
   });
 
+  map.on("load", () => console.log("map loaded"));
+
   map.addControl(new mapboxgl.NavigationControl({ showCompass: false }));
 
   new mapboxgl.Marker({ color: "#1d7193" })
