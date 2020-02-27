@@ -1,6 +1,6 @@
 # SeaGL
 
-This is the source code for a website served at <http://seagl.org>.
+This is the source code for a website served at <https://seagl.org>.
 
 It uses [Jekyll as a static site generator with GitHub Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/).
 
