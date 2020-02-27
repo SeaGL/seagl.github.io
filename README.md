@@ -89,44 +89,80 @@ TBD (assumption is those using git on their local machines already know this; **
 
 ## Test your changes
 
-Please test-drive all changes locally before pushing to GitHub. There are a few ways to run a Jekyll test server locally. Take your pick!
+Please test-drive all changes locally before pushing to GitHub.
 
-1. bare metal
-1. virtual machine
-1. containerized
+### Local development server
 
-To see the map on `/maps/2019.html` you must hand-edit absolute URLs in `map-data/scc_2019-11-04/osm-liberty/styles.custom.json` starting with `https://seagl.org`. For example, if you use the Docker method below for local dev, change `"https://seagl.org/map-data/scc_2019-11-04/tiles/{z}/{x}/{y}.pbf"` to `"http://localhost:4000/map-data/scc_2019-11-04/tiles/{z}/{x}/{y}.pbf"`. This _should_ be automatable with `jekyll`; please consider sending us a patch if you know how to do this!
+Starting a local development server will make your copy of the site available at <http://localhost:4000>. There are a few ways to run the server. Take your pick!
 
-### Local dev - bare metal
+#### Option 1: Bare metal
 
-1. Install Jekyll Gem (and it's dependencies) `gem install jekyll`.
-2. Serve with Jekyll `jekyll serve --watch`.
-    * The optional `--watch` argument watches files for changes and automatically rebuilds everything in \_site when they do.
-3. Navigate to <http://localhost:4000>.
+Dependencies:
 
-### Local dev - virtual machine
+  - [Ruby](https://www.ruby-lang.org/)
+  - [Bundler](https://bundler.io/)
 
-Use the `Vagrantfile`.
-
-### Local dev - containerized
-
-[Install Docker](https://docs.docker.com/engine/installation/).
-
-**Once** (or when build scripts change): build a Docker image for local dev with
+One-time setup:
 
 ```bash
-docker build -t seagldev .
+bundle install
 ```
 
-**Every time**: start your dev container with
+Start the server:
 
 ```bash
-docker run -p 4000:4000 --rm -it -v "$PWD":/usr/src/app seagldev
+bundle exec jekyll serve --watch
 ```
 
-View the rendered website at <http://localhost:4000> on your host.
+#### Option 2: Virtual machine
 
-Edit files on your host and reload to see changes.
+Dependencies:
+
+  - [Vagrant](https://www.vagrantup.com/)
+
+Start the server:
+
+```bash
+vagrant up
+```
+
+#### Option 3: Containerized
+
+Dependencies:
+
+  - [Docker](https://docs.docker.com/)
+
+One-time setup:
+
+```bash
+docker build --tag 'seagldev' '.'
+```
+
+Start the server:
+
+```bash
+docker run --rm --interactive --tty --publish '4000:4000' --volume "$PWD:/usr/src/app" 'seagldev'
+```
+
+### Visual regression testing
+
+When making changes that might have site-wide effects (e.g. editing stylesheets, restructuring templates, or updating dependencies) it can be useful to see a visual comparison of before and after screenshots.
+
+Dependencies:
+
+  - [BackstopJS](https://github.com/garris/BackstopJS)
+
+One-time setup:
+
+```bash
+backstop reference
+```
+
+Test for changes and show a report:
+
+```bash
+backstop test
+```
 
 ## Send a pull request (PR) for the changes
 
