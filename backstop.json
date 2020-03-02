@@ -43,13 +43,13 @@
     },
     {
       "label": "Sponsors",
-      "referenceUrl": "https://seagl.org/sponsors/2019.html",
-      "url": "http://localhost:4000/sponsors/2019.html"
+      "referenceUrl": "https://seagl.org/sponsors/2020.html",
+      "url": "http://localhost:4000/sponsors/2020.html"
     },
     {
       "label": "Map",
-      "referenceUrl": "https://seagl.org/maps/2019.html",
-      "url": "http://localhost:4000/maps/2019.html",
+      "referenceUrl": "https://seagl.org/maps/2020.html",
+      "url": "http://localhost:4000/maps/2020.html",
       "readyEvent": "map loaded",
       "delay": 2000
     }

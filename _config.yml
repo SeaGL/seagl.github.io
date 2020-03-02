@@ -17,8 +17,8 @@ origin:         https://seagl.org
 permalink:      /:categories/:year/:month/:day/:title.html
 
 custom:
-    year:                   2019
-    dates:                  November 15th and 16th
+    year:                   2020
+    dates:                  November 13th and 14th
     location:               Seattle Central College
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
