@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-Hello and welcome to 2020!  First, a bit of housekeeping.  We have all but confirmed dates for this fall (EIGHTH YEAR!!!) and we'll publish them here the moment we're able.  SeaGL (the Seattle GNU/Linux conference) is Seattle's grassroots free/libre/open source software, hardware, and culture summit. Founded in 2013, SeaGL now features over 50 talks, four keynotes, and the Cascadia Community Builder Award each year. Join speakers and participants from around the world for Seattle's FREE, as in freedom and coffee, GNU/Linux conference.
+Hello and welcome to 2020!  First, a bit of housekeeping.  We have confirmed dates for this fall (OUR EIGHTH YEAR!!!) and those dates are **November 13 & 14 2020**.  SeaGL (the Seattle GNU/Linux conference) is Seattle's grassroots free/libre/open source software, hardware, and culture summit. Founded in 2013, SeaGL now features over 50 talks, four keynotes, and the Cascadia Community Builder Award each year. Join speakers and participants from around the world for Seattle's FREE, as in freedom and coffee, GNU/Linux conference.
 
 If you would like to help with this entirely volunteer-run, no-profit conference, please email us at participate@seagl.org and we'll get talking soon about the details for the coming year's conference.
 
@@ -21,4 +21,4 @@ Sage describes how to counter imposter syndrome on a cultural and systematic lev
 
 Lisha describes some of her work with Geeks Without Bounds and the limiting factor of corporate expression of power, pitted against activism, unions, and social justice.  [The Cost Of Freedom](https://archive.org/details/thecostoffreedom_202001)
 
-Stay tuned this week for the next blog post on all recorded talks from the speakers who opted to record!
+Stay tuned this week for the next blog post on all recorded talks!
