@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/MichaelDexter.jpg" width="25%" height="25%"/>
+<img src="/img/posts/MichaelDexter.jpg" width="25%" height="25%"/>
 
 The Cascadia Community Builder Award recognizes a person who has made an
 outstanding contribution to the free software movement in the Cascadia region.
