@@ -17,8 +17,8 @@ origin:         https://seagl.org
 permalink:      /:categories/:year/:month/:day/:title.html
 
 custom:
-    year:                   2019
-    dates:                  November 15th and 16th
+    year:                   2020
+    dates:                  November 13th and 14th
     location:               Seattle Central College
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
@@ -33,6 +33,8 @@ custom:
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
         location:           https://seattlecentral.edu
         prospectus:         /sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2019.pdf
+        register:           https://osem.seagl.org/
+        schedule:           https://osem.seagl.org/conferences/seagl2019/schedule/events
     a:
         irc:
             network:        <a href="https://freenode.net/kb/answer/chat">Freenode</a>
