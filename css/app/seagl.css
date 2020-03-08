@@ -110,6 +110,9 @@ strong {
 .lead {
   line-height: 44px;
 }
+.post {
+  overflow-y: hidden; /* Contain floating images. */
+}
 .well {
   background-color: #FCB320;
   color: #fff;
