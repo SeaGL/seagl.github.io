@@ -114,19 +114,7 @@ Start the server:
 bundle exec jekyll serve --watch
 ```
 
-#### Option 2: Virtual machine
-
-Dependencies:
-
-  - [Vagrant](https://www.vagrantup.com/)
-
-Start the server:
-
-```bash
-vagrant up
-```
-
-#### Option 3: Containerized
+#### Option 2: Containerized
 
 Dependencies:
 
