@@ -2,7 +2,6 @@ _site
 
 .bundle
 .jekyll-metadata
-.vagrant
 
 # BackstopJS
 /backstop/reports/

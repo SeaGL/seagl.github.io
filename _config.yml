@@ -24,7 +24,6 @@ exclude:
     - backstop
     - backstop.json
     - Dockerfile
-    - Vagrantfile
 
     # Pending jekyll/jekyll#7188
     - Gemfile
