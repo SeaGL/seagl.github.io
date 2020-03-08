@@ -3,7 +3,7 @@ lsi:            false
 timezone:       America/Los_Angeles
 markdown:       kramdown
 highlighter:    rouge
-gems:           [jekyll-paginate, jekyll-redirect-from]
+plugins:        [jekyll-paginate, jekyll-redirect-from]
 whitelist:      [jekyll-redirect-from]
 
 paginate:       10
