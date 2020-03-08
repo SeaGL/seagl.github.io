@@ -16,6 +16,21 @@ origin:         https://seagl.org
 
 permalink:      /:categories/:year/:month/:day/:title.html
 
+exclude:
+    - backstop
+    - backstop.json
+    - Dockerfile
+    - Vagrantfile
+
+    # Pending jekyll/jekyll#7188
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+
 custom:
     year:                   2020
     dates:                  November 13th and 14th
