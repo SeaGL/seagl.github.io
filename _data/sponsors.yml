@@ -178,7 +178,7 @@
     2014: gold
 
 - name: Schedules Direct
-  url: http://www.schedulesdirect.org
+  url: https://www.schedulesdirect.org/
   logo:
     banner: /img/sponsors/SchedulesDirect/sd_long.png
     square: missing
@@ -478,7 +478,7 @@
     banner: /img/sponsors/WSLUG/wsea-g.png
     square: missing
   description: |-
-    Anyone who is interested in Linux and talking about it with your neighbors. We have bi-weekly meet-ups and are currently meeting at the West Seattle & Fauntleroy YMCA. (http://www.seattleymca.org/locations/west-seattle-fauntleroy-ymca)
+    Anyone who is interested in Linux and talking about it with your neighbors. We have bi-weekly meet-ups and are currently meeting at the West Seattle & Fauntleroy YMCA. (https://www.seattleymca.org/locations/west-seattle-fauntleroy-ymca)
     At each meeting we plan to have a 30 minute demonstration of something GNU/Linux related. We are keeping track of these and suggestions on a public Trello board: https://trello.com/b/duBE2Tpr/wsealug
   sponsorships:
     2017: thanks

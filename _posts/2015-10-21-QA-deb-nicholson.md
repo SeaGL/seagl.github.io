@@ -13,10 +13,10 @@ Q: Could you please introduce yourself and tell us a little about your
 background?
 
 My name is Deb Nicholson and I work at the Open Invention Network
-[OIN](http://openinventionnetwork.com/). OIN is a defensive patent pool for
+[OIN](https://www.openinventionnetwork.com/). OIN is a defensive patent pool for
 lots of free and open source projects, including Linux, GNU, Android and a ton
 of other tools. I also serve as the Community Manager for
-[GNU MediaGoblin](http://www.mediagoblin.org/), a decentralized media-hosting
+[GNU MediaGoblin](https://www.mediagoblin.org/), a decentralized media-hosting
 project, and as a board member at OpenHatch <https://openhatch.org/>, which we
 like to call "Free Software's Welcoming Committee."
 

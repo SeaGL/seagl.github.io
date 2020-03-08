@@ -11,7 +11,7 @@ Mark gives his talk titled, "How to get one of those Open Source jobs" on [Frida
 
 Q: Could you please introduce yourself and tell us a little about your background?
  
-A: I’m the Director of Open Source Engagement at Hewlett Packard Enterprise.  Some of the projects I’m currently involved in right now include OpenSwitch http://openswitch.net/ and NTPsec http://ntpsec.org/
+A: I’m the Director of Open Source Engagement at Hewlett Packard Enterprise.  Some of the projects I’m currently involved in right now include OpenSwitch https://www.openswitch.net/ and NTPsec https://ntpsec.org/
 
 Q: Without tipping your hand on the actual talk, can you give us an idea of what we might expect?
 

@@ -20,7 +20,7 @@ Due to some administrative changes, we got a later start on organising the event
 We encourage all speakers to record their own talks and make them available online (more on that in a moment). Regardless of the platform you use for presenting, we have instructions for you:
 
 * [Linux](https://opensource.com/business/15/11/how-record-screencasts)
-* [Mac](http://anonymoushash.vmbrasseur.com/2016/12/04/how-to-record-a-presentation-screencast-video-using-quicktime/)
+* [Mac](https://anonymoushash.vmbrasseur.com/2016/12/04/how-to-record-a-presentation-screencast-video-using-quicktime/)
 * [Windows](https://www.howtogeek.com/183231/how-to-record-your-desktop-and-create-a-screencast-on-windows/) 
 
 The Windows instructions also include details for using [Open Broadcaster Software](https://obsproject.com/) (which is Free software) to record your screencast. These instructions will work for _any platform_ where you can run OBS (read: pretty much all of them).
@@ -35,7 +35,7 @@ Once you've recorded your talk, what do you do with it? Or with your slides?
 
 You could upload the video to YouTube and the slides to SlideShare, and if that's your preference that's great. But we encourage you to upload the video and the slides together to a single item at [Internet Archive](https://archive.org).
 
-Here are [instructions for uploading a video to the Archive](http://anonymoushash.vmbrasseur.com/2016/07/25/uploading-a-video-to-internet-archive/). The exact same instructions will work for slides or any other digital material you wish to share.
+Here are [instructions for uploading a video to the Archive](https://anonymoushash.vmbrasseur.com/2016/07/25/uploading-a-video-to-internet-archive/). The exact same instructions will work for slides or any other digital material you wish to share.
 
 If you upload your video and/or slides to Internet Archive, please include `seagl2017` as a subject tag. That will make it easier for us to locate your material and share it around.
 

@@ -89,4 +89,4 @@ Best wishes,
 
 Seattle GNU/Linux Conference 20XX Team
 
-http://osem.seagl.org/conferences/seagl20XX
+https://osem.seagl.org/conferences/seagl20XX

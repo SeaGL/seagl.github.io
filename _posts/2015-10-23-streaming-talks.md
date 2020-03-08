@@ -47,4 +47,4 @@ icons on the left of the hangout to share your screen.
 
 ![Screenshot]({{ site.url }}/img/posts/googleplus5.png)
 
-Talk recordings are available at http://youtube.com/seaglorg
+Talk recordings are available at https://www.youtube.com/seaglorg
