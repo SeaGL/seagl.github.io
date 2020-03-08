@@ -12,7 +12,7 @@ Adam Monsen gives his talk titled, "Automatic Chicken Door HOWTO (No it will not
 
 Q: Could you please introduce yourself and tell us a little about your background?
 
-A: I'm a Seattle-native [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) fanatic and VP of Engineering at [C-SATS](https://www.csats.com/). I co-founded and help organize SeaGL. My blog is at <http://adammonsen.com>.
+A: I'm a Seattle-native [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) fanatic and VP of Engineering at [C-SATS](https://www.csats.com/). I co-founded and help organize SeaGL. My blog is at <https://adammonsen.com/>.
 
 Q: Without tipping your hand on the actual talk, can you give us an idea of what we might expect?
 

@@ -28,11 +28,11 @@ From [Portland, Oregon](https://www.google.com/maps/dir/Portland,+OR/Seattle+Cen
 From [Vancouver, BC](https://www.google.com/maps/dir/Vancouver,+BC,+Canada/Seattle+Central+College,+1701+Broadway,+Seattle,+WA+98122/@48.4376766,-123.7683956,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!2m2!1d-123.1207375!2d49.2827291!1m5!1m1!1s0x54906accc351c149:0xdc1a5c338dd4395c!2m2!1d-122.3215118!2d47.6162774!3e3) - In addition to driving, travel by plane, train and bus are available. 
 
 ##### Accommodation
-There are several hotels within walking distance of the college such as [Hilton](http://homewoodsuites3.hilton.com/en/hotels/washington/homewood-suites-by-hilton-seattle-conv-ctr-pike-street-SEAHMHW/index.html) and [Silver Cloud Hotel](http://www.silvercloud.com/seattlebroadway/) as well as a multitude of [Airbnb listings](https://www.airbnb.com/s/Seattle--WA?neighborhoods%5B%5D=Capitol+Hill&s_tag=6z6hLi3M). 
+There are several hotels within walking distance of the college such as [Hilton](https://homewoodsuites3.hilton.com/en/hotels/washington/homewood-suites-by-hilton-seattle-conv-ctr-pike-street-SEAHMHW/index.html) and [Silver Cloud Hotel](https://www.silvercloud.com/seattlebroadway/) as well as a multitude of [Airbnb listings](https://www.airbnb.com/s/Seattle--WA?neighborhoods%5B%5D=Capitol+Hill&s_tag=6z6hLi3M). 
 
 
 ##### Attractions
-There is a lot to see and do in Seattle. The most visited sites include the [Space Needle](https://www.spaceneedle.com/home/), [Pike Place Market](http://pikeplacemarket.org/) and the [Experience Music Project Museum](http://www.empmuseum.org/). 
+There is a lot to see and do in Seattle. The most visited sites include the [Space Needle](https://www.spaceneedle.com/home/), [Pike Place Market](http://pikeplacemarket.org/) and the [Experience Music Project Museum](https://empmuseum.org/). 
 
 
 

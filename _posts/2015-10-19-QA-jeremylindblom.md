@@ -44,5 +44,5 @@ Q: How can people get involved in the PHP community in the Seattle area?
 
 A: The Seattle PHP User Group meets monthly to socialize and host technical
 presentations about PHP topics and related technology and tools. Come hang out
-with us. You can find us on Meetup.com (http://www.meetup.com/seaphp) and on
+with us. You can find us on Meetup.com (https://www.meetup.com/seaphp/) and on
 Twitter (@seaphp).

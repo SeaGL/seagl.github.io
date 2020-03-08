@@ -17,7 +17,7 @@ Therefore talks about how to scale your unicorn are less applicable than more in
 
 Which isn't to say there's no space for unicorn scaling type talks, just that they will be in the minority for the program.
 
-This is also a much less corporate conference/audience than, say, [SCALE](http://www.socallinuxexpo.org/scale/16x)/[OSCON](http://oscon.com)/[ATO](http://allthingsopen.org)/etc. Our event is free to attend, so it attracts those who are interested in or passionate about technology more than those who are getting their company to pay for them to attend for training purposes. This also means that most of the audience will be very local to the Seattle region.
+This is also a much less corporate conference/audience than, say, [SCALE](https://www.socallinuxexpo.org/scale/16x)/[OSCON](http://oscon.com)/[ATO](https://www.allthingsopen.org/)/etc. Our event is free to attend, so it attracts those who are interested in or passionate about technology more than those who are getting their company to pay for them to attend for training purposes. This also means that most of the audience will be very local to the Seattle region.
 
 ## Criteria
 

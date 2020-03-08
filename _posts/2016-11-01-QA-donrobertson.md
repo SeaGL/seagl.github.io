@@ -23,4 +23,4 @@ A: I've been coming to SeaGL for years now. It's one of my favorite conferences.
 
 Q: How can someone become more involved in FSF's work?
 
-A: There are plenty of opportunities to [volunteer](http://www.fsf.org/volunteer), and we're also hiring for [several positions at the moment.](http://www.fsf.org/resources/jobs)
+A: There are plenty of opportunities to [volunteer](https://www.fsf.org/volunteer), and we're also hiring for [several positions at the moment.](https://www.fsf.org/resources/jobs)

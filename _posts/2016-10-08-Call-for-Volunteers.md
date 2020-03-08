@@ -23,7 +23,7 @@ If you are interested, we are using a new tool which has more details on each ro
 
 Here's how it works:
 
-1. Click this link to go to our invitation page on SignUp.com: <http://signup.com/go/7S3K6M>
+1. Click this link to go to our invitation page on SignUp.com: <https://signup.com/go/7S3K6M>
 1. Enter your email address: (You will NOT need to register an account on SignUp.com, though be wary of small checkboxes.)
 1. Sign up! Choose your spots - SignUp.com will send you an automated confirmation and reminders.
 
