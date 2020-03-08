@@ -3,8 +3,12 @@ lsi:            false
 timezone:       America/Los_Angeles
 markdown:       kramdown
 highlighter:    rouge
-plugins:        [jekyll-paginate, jekyll-redirect-from]
-whitelist:      [jekyll-redirect-from]
+
+# Allowed plugins: https://pages.github.com/versions/
+plugins: &plugins
+    - jekyll-paginate
+    - jekyll-redirect-from
+whitelist: *plugins
 
 paginate:       10
 paginate_path:  news/page:num
