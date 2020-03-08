@@ -9,9 +9,9 @@ whitelist:      [jekyll-redirect-from]
 paginate:       10
 paginate_path:  news/page:num
 
-name:           Seattle GNU Linux Conference
+name:           Seattle GNU/Linux Conference
 short_name:     SeaGL
-description:    Seattle GNU Linux Conference
+description:    Seattle GNU/Linux Conference
 origin:         https://seagl.org
 
 permalink:      /:categories/:year/:month/:day/:title.html
