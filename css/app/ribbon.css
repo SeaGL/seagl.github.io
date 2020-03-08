@@ -5,15 +5,14 @@
     different font size you may have to play with the position of the ribbon
     elements */
 
-    width:              320px;
-    
+    display:            inline-block;
     position:           relative;
     background:         #074558;
     color:              #fff;
     text-align:         center;
     padding:            1em 2em;
     /* Adjust to suit */
-    margin:             2em auto 3em;
+    margin:             2em 2em 3em;
     /* Based on 24px vertical rhythm. 48px bottom margin -
      * normally 24 but the ribbon 'graphics' take up 24px
      * themselves so we double it. */
