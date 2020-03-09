@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/posts/2019_Keynote_Sage.jpg" style="float:left; margin:10px;width:25%;" />
+![](/img/posts/2019_Keynote_Sage.jpg){:.align-left}
 
 With SeaGL 2019 fast approaching, it is time to announce our great lineup of keynote presenters for 2019, starting with Sage Sharp!
 

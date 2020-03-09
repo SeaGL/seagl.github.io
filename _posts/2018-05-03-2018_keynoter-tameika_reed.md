@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/posts/2018_Keynote_Tameika.png" style="float:left; margin:10px; width:25%;" />
+![](/img/posts/2018_Keynote_Tameika.png){:.align-left}
 
 And now, for the third of four 2018 keynote announcements, we present Tameika Reed!
 

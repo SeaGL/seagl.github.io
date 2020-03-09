@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/posts/2019_Keynote_Abigail.jpg" style="float:left; margin:10px; width:25%;" />
+![](/img/posts/2019_Keynote_Abigail.jpg){:.align-left}
 
 We are excited to announce that our second keynote presenter for SeaGL 2019 is Abigail Cabunoc Mayes!
 

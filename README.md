@@ -191,7 +191,18 @@ Once your pull request is merged, it will go live on the website.
 
 ## How to add images to posts
 
-* Add your image to the `img/posts/` directory.
-* In your post, use the following syntax to reference the image you copied into the `img/posts/` directory: `![]({{ site.baseurl }}/img/posts/image_file_name.jpg)`
-* The height and width of the image can be changed with the following syntax: `![]({{ site.baseurl }}/img/posts/image_file_name.jpg){:height="36px" width="36px"}`
-* For the sake of page load times, resize images to a reasonable size before using them in a post.
+Add your image to the `img/posts/` directory, then use the following Markdown:
+
+```markdown
+![Example description](/img/posts/example.jpg)
+```
+
+Tips:
+
+  * To align the image to the side, add the `align-left` or `align-right` class:
+
+    ```markdown
+    ![Example description](/img/posts/example.jpg){:.align-left}
+    ```
+
+  * For the sake of page load times, resize images to a reasonable size before using them in a post.

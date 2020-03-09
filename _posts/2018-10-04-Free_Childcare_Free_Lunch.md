@@ -9,7 +9,7 @@ categories: news
 
 Over on Twitter [we mentioned](https://twitter.com/seagl/status/1046541713458823168) that we had some exciting news to share with you soon, and we're very happy to report that it's time!
 
-![]({{ site.baseurl }}/img/posts/2018-twilio_logo.png){:width="200px"}
+![](/img/posts/2018-twilio_logo.png){:width="200"}
 Thanks to the generosity of our friends at [Twilio](https://twilio.com), this year SeaGL is thrilled to provide…
 
 ### 🎉 Free Lunch! 🎉

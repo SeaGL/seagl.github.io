@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/posts/2019_Keynote_Mako.png" style="float:left; margin:10px; width:25%;" />
+![](/img/posts/2019_Keynote_Mako.png){:.align-left}
 
 Benjamin Mako Hill is our fourth and final keynote presenter for SeaGL 2019!
 

@@ -112,6 +112,35 @@ strong {
 }
 .post {
   overflow-y: hidden; /* Contain floating images. */
+  position: relative; /* Reference for img.align-* */
+}
+.post img {
+  height: auto;
+  max-width: 100%;
+}
+.post img.align-left,
+.post img.align-right {
+  margin-bottom: 1em;
+  max-height: 24em;
+  max-width: 25%;
+}
+.post img.align-left {
+  clear: left;
+  float: left;
+  margin-right: 1em;
+}
+.post img.align-right {
+  clear: right;
+  float: right;
+  margin-left: 1em;
+}
+.post table {
+  margin-bottom: 1em;
+}
+.post table.table-grid {
+  border-spacing: 1em;
+  border-collapse: separate;
+  margin: -1em -1em 0;
 }
 .well {
   background-color: #FCB320;
