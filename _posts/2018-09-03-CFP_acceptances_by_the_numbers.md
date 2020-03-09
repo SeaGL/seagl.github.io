@@ -27,7 +27,7 @@ We're _very_ grateful that people proposed multiple talks. It allowed us a lot o
 
 ## Break down by track
 
-<a href="/img/posts/seagl2018-tracks.png"><img src="/img/posts/seagl2018-tracks.png" style="margin:1em; align:left;width:400px;" alt="Bar chart of accepted talks, broken down by track" /></a>
+[![Bar chart of accepted talks, broken down by track](/img/posts/seagl2018-tracks.png){:width="400"}](/img/posts/seagl2018-tracks.png)
 
 Sysadmin/Ops/DevOps was far and away the most popular track among the accepted talks, but Programming and InfoSec weren't too far behind. 
 
@@ -43,7 +43,7 @@ This year we have 15 20-minute talks on the schedule (so far), which is nice and
 
 ## 13% first-time presenters
 
-<a href="/img/posts/seagl2018-1sttimers.png"><img src="/img/posts/seagl2018-1sttimers.png" style="margin:1em; align:left;width:400px;" alt="Pie chart of first time presenter stats showing 13% of accepted SeaGL 2018 presenters are new to tech conference speaking" /></a>
+[![Pie chart of first time presenter stats showing 13% of accepted SeaGL 2018 presenters are new to tech conference speaking](/img/posts/seagl2018-1sttimers.png){:width="400"}](/img/posts/seagl2018-1sttimers.png)
 
 SeaGL believes in building the Free Software and open source community of the future and part of that is supporting new conference speakers.
 
@@ -55,7 +55,7 @@ Welcome to presenting! We're happy to have you at SeaGL.
 
 ## 44% under-represented presenters
 
-<a href="/img/posts/seagl2018-diversity.png"><img src="/img/posts/seagl2018-diversity.png" style="margin:1em; align:left;width:400px;" alt="Pie chart of diversity stats showing 44% of accepted SeaGL 2018 presenters self-identify as a member of a group that's under-represented in technology." /></a>
+[![Pie chart of diversity stats showing 44% of accepted SeaGL 2018 presenters self-identify as a member of a group that's under-represented in technology.](/img/posts/seagl2018-diversity.png){:width="400"}](/img/posts/seagl2018-diversity.png)
 
 A full 44% of the accepted talks come from people who self-identify as a member of an under-represented group in technology.
 

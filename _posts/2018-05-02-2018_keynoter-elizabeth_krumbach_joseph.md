@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/posts/2018_Keynote_Lyz.jpg" style="float:left; margin:10px; width:30%;" />
+![](/img/posts/2018_Keynote_Lyz.jpg){:.align-left}
 
 Our next keynote announcement for 2018 is Elizabeth K. Joseph!
 

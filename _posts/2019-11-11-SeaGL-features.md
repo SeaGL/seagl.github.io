@@ -14,7 +14,7 @@ SeaGL is a great annual free software conference in Seattle.
 The [2019 schedule][SeaGL_2019_schedule] is ready for perusal.
 Like most community run conferences, SeaGL offers many extra features aside from excellent keynotes, conference talks and tutorials.
 
-<img src="/img/posts/2019_SeaGL_features__SeaGL_sign.jpg" width="25%" align="right" alt="SeaGL sign pointing to the keynotes" />
+![SeaGL sign pointing to the keynotes](/img/posts/2019_SeaGL_features__SeaGL_sign.jpg){:.align-right}
 
 Now in it's seventh year, SeaGL even added two new features last year: TeaGL and daycare.
 
@@ -49,7 +49,7 @@ Speaking of the college, SeaGL continues to benefit from Seattle Central College
 The college provides an auditorium for the keynotes, classrooms for the talks and a room for the exhibition hall.
 SCC also has gender free bathrooms.
 
-<img src="/img/posts/2019_SeaGL_features__Pine_St_crosswalk.jpg" width="25%" align="right" alt="Pine Street crosswalk is LGBTQ rainbow" />
+![Pine Street crosswalk is LGBTQ rainbow](/img/posts/2019_SeaGL_features__Pine_St_crosswalk.jpg){:.align-right}
 
 The college is across the street from Seattle's Jimi Hendrix statue.
 More importantly for the plain text geeks among us, SCC is on Pine St in the pine mail program's home town.
@@ -66,7 +66,7 @@ The reception might also have activities such lightning talks, game shows, or ev
 The SeaGL planning committee has worked the last couple years to have more chat time at the reception, extending the hallway track.
 Show up to find out what's on the schedule this year.
 
-<img src="/img/posts/2019_SeaGL_features__Seattle_mall_penguin.jpg" width="25%" align="right" alt="penguin sculpture at a Seattle mall" />
+![penguin sculpture at a Seattle mall](/img/posts/2019_SeaGL_features__Seattle_mall_penguin.jpg){:.align-right}
 
 Interested in sponsoring SeaGL, please contact the sponsorship committee, <sponsor@SeaGL.org>.
 

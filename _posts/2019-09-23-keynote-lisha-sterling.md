@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-<img src="/img/posts/2019_Keynote_Lisha.jpg" style="float:left; margin:10px; width:25%;" />
+![](/img/posts/2019_Keynote_Lisha.jpg){:.align-left}
 
 Lisha Sterling is our third awesome keynote presenter for SeaGL 2019!
 
