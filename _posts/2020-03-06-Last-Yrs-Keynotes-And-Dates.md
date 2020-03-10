@@ -15,7 +15,7 @@ Please find within our long-awaited videos of 2019's fabulous keynotes, who were
 
 Abigail's keynote described a view into stewarding open source communities with a lens on learning and open leadership and open organizational design. [Open By Design](https://archive.org/details/openbydesign)
 
-Benjamin's keynote describes a shift from open source tools to private organizations profiting from the community and technical work done over decades.  [How Markets Co-opted Free Software's most Valuable Weapon](https://archive.org/details/co-opted)
+Benjamin's keynote describes a shift from open source tools to private organizations profiting from the community and technical work done over decades.  [How Markets Co-opted Free Software's most Valuable Weapon]( https://mako.cc/copyrighteous/libreplanet-2018-keynote) (Note: Video is from a different event, but contains similar content with a higher production value)
 
 Sage describes how to counter imposter syndrome on a cultural and systematic level, and the importance of including the very community members who need this support most. [Countering Imposter Syndrome Culture](https://archive.org/details/imposter_202001)
 
