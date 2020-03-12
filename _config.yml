@@ -1,5 +1,6 @@
 safe:           true
 lsi:            false
+future:         false # Workaround for SeaGL/seagl.github.io#170
 timezone:       America/Los_Angeles
 markdown:       kramdown
 highlighter:    rouge
