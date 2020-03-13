@@ -1361,6 +1361,17 @@
       }
     },
     {
+      "id": "poi_bicycle_parking",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "poi",
+      "minzoom": 16,
+      "filter": ["all", ["==", "$type", "Point"], ["==", "subclass", "bicycle_parking"]],
+      "layout": {
+        "icon-image": "bicycle_11"
+      }
+    },
+    {
       "id": "poi_transit",
       "type": "symbol",
       "source": "openmaptiles",
