@@ -8,7 +8,7 @@
   },
   "sources": {
     "openmaptiles": {
-      "attribution": "<a href='https://openmaptiles.org/'>© OpenMapTiles</a> <a href='https://www.openstreetmap.org/copyright'>© OpenStreetMap contributors</a>",
+      "attribution": "<a href='https://www.openmaptiles.org/'>© OpenMapTiles</a> <a href='https://www.openstreetmap.org/copyright'>© OpenStreetMap contributors</a>",
       "bounds": [-122.4162, 47.5799, -122.2234, 47.6529],
       "maxzoom": 16,
       "minzoom": 12,
