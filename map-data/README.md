@@ -42,15 +42,32 @@
     gzip --decompress --recursive 'tiles'
     ```
 
+## Glyphs
+
+ 1. Generate glyphs using [font-glyphs]:
+
+    ```bash
+    git clone --recurse-submodules 'https://github.com/orangemug/font-glyphs.git'
+    cd 'font-glyphs'
+    docker run --rm \
+        --user "$UID" \
+        --volume "$PWD:/font-glyphs" \
+        --workdir '/font-glyphs' \
+        node:6 \
+        sh -c 'npm install && ./generate.sh'
+    ```
+
 ## Styles
 
  1. Modify [OSM Liberty] to contain one vector source for our tiles:
 
       - Set `attribution` to that specified in `tiles/metadata.json`.
       - Set `bounds`, `minzoom`, and `maxzoom` as fits the generated tiles.
+      - Set `glyphs` to an absolute URL to `glyphs/{fontstack}/{range}.pbf`.
       - Set `tiles` to an absolute URL to `tiles/{z}/{x}/{y}.pbf`.
 
 
+  [font-glyphs]: https://github.com/orangemug/font-glyphs
   [MBUtil]: https://github.com/mapbox/mbutil
   [OpenMapTiles]: https://github.com/openmaptiles/openmaptiles
   [OSM Liberty]: https://github.com/maputnik/osm-liberty
