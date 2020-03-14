@@ -1,28 +1,29 @@
 {% include header.html %}
 
-<div class="post">
-  <center><h2>{{ page.title }}</h2></center>
-  {{ content }}
-</div>
-
-<hr>
-
 <div class="col-md-12">
   <div class="row">
-    <div class="col-md-6">
-      {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-      {% endif %}
-    </div>
+    <div class="col-xs-12 col-md-10 col-md-push-1 col-lg-8 col-lg-push-2">
+      <div class="post">
+        <center><h2>{{ page.title }}</h2></center>
+        {{ content }}
+      </div>
 
-    <div class="col-md-6 text-right">
-      {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-      {% endif %}
+      <hr>
+
+      <div class="row">
+        <div class="col-md-6">
+          {% if page.previous.url %}
+            <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+          {% endif %}
+        </div>
+
+        <div class="col-md-6 text-right">
+          {% if page.next.url %}
+            <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+          {% endif %}
+        </div>
+      </div>
     </div>
   </div>
 </div>
-
-<hr>
-
 {% include footer.html %}
