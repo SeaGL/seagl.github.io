@@ -7,7 +7,11 @@ description: SeaGL is a grassroots technical conference dedicated to spreading a
 
 <div class="col-md-12">
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-4 col-md-push-8">
+        {% capture md %}{% include_relative _welcome.md %}{% endcapture %}{{ md | markdownify }}
+        <hr class="hidden-md hidden-lg">
+    </div>
+    <div class="col-md-8 col-md-pull-4">
         {% for post in site.categories.news limit:4 %}
             <div class="post">
                 <h2><a href="{{ post.url }}">{{ post.title }}</a><br>
@@ -17,9 +21,6 @@ description: SeaGL is a grassroots technical conference dedicated to spreading a
             <hr>
         {% endfor %}
         <a href="/news">Older News</a>
-    </div>
-    <div class="col-md-4">
-        {% capture md %}{% include_relative _welcome.md %}{% endcapture %}{{ md | markdownify }}
     </div>
   </div>
 
