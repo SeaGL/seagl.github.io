@@ -34,7 +34,7 @@ If you are adding a new blog post, please follow these filename rules:
 
 * Place all blog posts in the `_posts` directory.
 * Start the filename with a date in `YYYY-MM-DD` format. This is **very important** as it controls the order in which the website displays blog posts.
-    * **NOTA BENE**: The website will display posts dated up to and including the current date. This allows you to schedule posts in advance, but it also means that posts dated in the future won't appear when testing your changes. You may need to do some filename-date juggling to preview future posts.
+    * **NOTA BENE**: The website will display posts dated up to and including the current date. This allows you to schedule posts in advance, but it also means that posts dated in the future won't appear when testing your changes. You may need to do some filename-date juggling to preview future posts. At the moment, it is also required that you trigger a rebuild of the site on or after the scheduled date in order for the post to appear. This can be done with: `git commit -m 'rebuild pages' --allow-empty && git push origin master` or by making any actual change to the site.
 * Follow the date with a dash (`-`) and then a dash-delimited title for the post. This title isn't displayed. It's just to name the file. Please make it brief but descriptive.
 * Use the `.md` filename extension to denote that the post is composed in Markdown format. (and please only compose posts using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 
