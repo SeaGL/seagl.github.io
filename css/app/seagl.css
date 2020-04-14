@@ -55,7 +55,9 @@ strong {
   position: absolute;
   top: 15px;
   left: 50%;
-  margin-left:-100px;
+  margin-left: -77.5px;
+  height: auto;
+  width: 155px;
   -webkit-transition: all .25s ease-in-out;
   -moz-transition: all .25s ease-in-out;
   -ms-transition: all .25s ease-in-out;
@@ -230,10 +232,12 @@ strong {
     margin-top: 2em;
   }
   #logo {
+    left: 10%;
+    top: 40px;
     margin: 0;
-    width: 30%;
-    left: 35px;
-    top: 35px;
+    height: 170px;
+    max-width: 30%;
+    width: auto;
   }
   #main-content {
     clear: both;
