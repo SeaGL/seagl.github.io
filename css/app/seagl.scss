@@ -148,6 +148,8 @@ strong {
   margin: -1em -1em 0;
 }
 .well {
+  $bootstrap-padding: 20px;
+
   background-color: #FCB320;
   color: #fff;
   font-family: 'Dosis', sans-serif;
@@ -159,6 +161,43 @@ strong {
   & > p:last-child {
     margin-bottom: 0;
   }
+
+  &.well-mascot {
+    $align: 25%;
+    $crop-left: 7 / 16;
+    $crop-right: 1 / 16;
+    $image: url("/img/mascot-spotlight.svg");
+    $overhang: 1.5em;
+    $width: 6em;
+
+    background: #333 $image calc(-1 * #{$width} * #{$crop-left}) 100% / #{$width} auto no-repeat;
+    padding-left: calc(#{$bootstrap-padding} + #{$width} * (1 - #{$crop-left} - #{$crop-right}));
+
+    a {
+      color: #fcb320;
+
+      &:active, &:focus, &:hover {
+        color: #b1742a;
+      }
+    }
+
+    @media (min-width: 768px) {
+      background-image: none;
+      margin-top: $overhang;
+      padding-left: calc(#{$align} + 2 * #{$bootstrap-padding});
+      position: relative;
+
+      &::before {
+        background: $image bottom right/contain no-repeat;
+        bottom: 0;
+        content: "";
+        left: $bootstrap-padding;
+        position: absolute;
+        top: -1 * $overhang;
+        width: $align;
+      }
+    }
+  }
 }
 #main-nav .brand img {
   position: absolute;
@@ -168,27 +207,6 @@ strong {
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #0C5A73;
-}
-#policy-content {
-  background-color: #333;
-  text-align: center;
-  margin-top: 4em;
-  height: 130px;
-}
-#policy-content a {
-  background-color: #fcb320;
-  border-bottom-color: #b1742a;
-  color: #000;
-}
-#policy-content img {
-  position: absolute;
-  bottom: 0;
-  left: 100px;
-  height: auto;
-  width: 200px;
-}
-#policy-content p {
-  margin-left: 200px;
 }
 #footer-nav {
   margin: 6em auto 4em auto;
@@ -200,17 +218,6 @@ strong {
   width: 100%;
 }
 
-@media (max-width: 1200px) {
-  #policy-content img {
-    display: none;
-  }
-  #policy-content p {
-    margin: 0;
-  }
-  #policy-content {
-    height: auto;
-  }
-}
 @media (max-width: 910px) {
   ul.pull-left,
   ul.pull-right {
@@ -226,10 +233,6 @@ strong {
     width: 60%;
     margin: 20px;
     float: right;
-  }
-  #policy-content {
-    height: auto;
-    margin-top: 2em;
   }
   #logo {
     left: 10%;
