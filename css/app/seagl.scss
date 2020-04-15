@@ -153,19 +153,12 @@ strong {
   font-family: 'Dosis', sans-serif;
   font-size: 20px;
   border:none;
-  line-height: 2.2em;
+  line-height: 1.5em;
   position: relative;
-}
-.well a {
-  background-color:#fff;
-  color: #0C5A73;
-  padding: 4px 10px;
-  margin: 0.2em;
-  text-decoration: none;
-  border-bottom: 3px solid #f1f1f1;
-}
-.well a:hover {
-  color: #000;
+
+  & > p:last-child {
+    margin-bottom: 0;
+  }
 }
 #main-nav .brand img {
   position: absolute;
@@ -216,10 +209,6 @@ strong {
   }
   #policy-content {
     height: auto;
-  }
-  .well a {
-    display: block;
-    width: 100%;
   }
 }
 @media (max-width: 910px) {
