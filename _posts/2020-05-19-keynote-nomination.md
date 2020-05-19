@@ -18,7 +18,8 @@ So, please, share
 * someone who has worked on bringing open source to traditionally proprietary-only models
 * someone who has challenged social norms in open source
 * someone who has lifted others up who have challenged those norms
-* your tinker friend, your friend known for <s>shitposting</s> clever tweeting
+* your tinker friend
+* your friend known for <s>shitposting</s> clever tweeting
 * someone in your office who recently showed you a shortcut through your favorite tools
 
 And anyone else you think would make a terrific guest of honor at our community-focused open source conference!  You can let us know [right here](https://docs.google.com/forms/d/e/1FAIpQLScpDCLYLXC4OecykkvhotT1XboOFOZ22X-OyM4go6EzLW95gg/viewform).  SeaGL will take place virtually and all over the world, **November 13 & 14 2020**.
