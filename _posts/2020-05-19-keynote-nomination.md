@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SeaGL going virtual due to COVID-19 aka Novel Coronavirus'
+title: 'Keynote Nominations needed for 2020'
 status: publish
 type: post
 published: true
