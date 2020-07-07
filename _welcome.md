@@ -12,8 +12,7 @@ SeaGL's first year was 2013.
 
 ### When & where
 
-**{{ site.custom.dates }}, {{ site.custom.year }}** from 9am–5:30pm (both days)
-at {{ site.custom.a.location }} ([Maps](/maps/{{ site.custom.year }}.html))
+**{{ site.custom.dates }}, {{ site.custom.year }}**, [online][going virtual]
 
 ### Attend
 
@@ -26,3 +25,5 @@ You may optionally [register]({{ site.custom.url.register }}). This gives us
 more accurate estimates of attendance, which help us raise money for the
 conference. The registration system is free / libre / open source software and
 we promise to protect your data.
+
+[going virtual]: /news/2020/05/05/virtualconf-2020.html
