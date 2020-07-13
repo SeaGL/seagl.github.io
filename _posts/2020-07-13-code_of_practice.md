@@ -40,8 +40,8 @@ We believe in creating and protecting a SeaGL environment that welcomes all peop
 
 How are these values reflected in how we operate as program committee members and reviewers? There could be many different ways, obviously, but here are some examples of what we will do our best to do:
 
-* Promote the CFP to our communities and reach out to communities of marginalized people
-* Seek out unreached/underrepresented/underserved communities and help them to propose talks
+* Promote the CFP to all our communities
+* Seek out unreached/underrepresented/underserved communities and advocate for them and their talks
 * As time allows, assist people with their proposals, making it easy for them to propose and what they propose a higher quality
 * Do our best to do all initial reviews without knowing who submitted them, within the constraints of the system
 * Only vote on talks we feel qualified to review
