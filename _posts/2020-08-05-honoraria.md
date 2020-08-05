@@ -9,7 +9,7 @@ categories: news
 
 SeaGL has previously shared our commitment to supporting the [Black Lives Matter Movement](https://seagl.org/news/2020/06/12/black-lives-matter.html). We feel it is important to endorse an approach of equity in our communities, in order to offer the support that everyone needs to be able to participate.
 
-!["Equity vs Equality"](https://www.flickr.com/photos/mpcaphotos/31655988501)
+!["Equity vs Equality"](https://live.staticflickr.com/715/31655988501_a2f0c28b1e_k.jpg)
 _by [MPCAPhotos](https://www.flickr.com/photos/mpcaphotos/) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)_
 
 
