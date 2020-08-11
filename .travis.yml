@@ -1,0 +1,7 @@
+os: linux
+install:
+ - bundle install
+script:
+ - jekyll
+notifications:
+  email: false
