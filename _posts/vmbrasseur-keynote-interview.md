@@ -1,11 +1,15 @@
 ---
 layout: post
-title: 'TBD PLEASE ADD A TITLE HERE'
+title: 'Meet our Keynoters: VM (Vicky) Brasseur'
 status: publish
 type: post
 published: true
 categories: news
 ---
+
+SeaGL 2020 is less than two months away. We are thrilled to be able to start revealing our lineup of awesome keynote presenters and to give you the opportunity to get to know all about their amazing achievements through a series of interviews. Our first keynoter is **VM (Vicky) Brasseur**.
+
+[VM (Vicky) Brasseur](https://vmbrasseur.com/) is an award-winning free/open source advocate and corporate strategist, international keynote speaker, and writer. She’s the author of [Forge Your Future with Open Source](https://fossforge.com/), the only book detailing how to contribute to free/open source (FOSS) projects. Aside from articles in [various publications](https://www.vmbrasseur.com/publications-interviews/), she also writes about FOSS, business, and their intersection on [her blog](https://anonymoushash.vmbrasseur.com/).
 
 > You've literally written the book on Open Source!  What did you learn in this process, and can we look forward to more books from you on the horizon?  What lessons do you hope people walk away with after reading it?
 
