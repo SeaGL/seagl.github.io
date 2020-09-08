@@ -25,9 +25,9 @@ Are you involved with a software foundation? Or have you had a recent experience
 
 ### Performance Art
 
-Heck yeah, that's right, we want art at this year's SeaGL!  If it can fit into 30m, let's see it :) Beat poetry about voter rights? Mathematically generated art? A video game you can stream in less than ~20m? If what you have in mind is reasonably Safe-For-Work (SFW), let's talk! If you have any questions about this, please reach out and we'd LOVE to help, at <cfp-help@seagl.org>.
+Heck yeah, that's right, we want art at this year's SeaGL!  If it can fit into 30m, let's see it :) Beat poetry about voter rights? Mathematically generated art? A video game you can stream in less than ~20m? If what you have in mind is reasonably Safe-For-Work, let's talk! If you have any questions about this, please reach out and we'd LOVE to help, at <cfp-help@seagl.org>.
 
-* "Reasonably safe for work" for SeaGL includes talking about LGBTQ topics, discussions of safer sex, labor rights, and as always, computer/device hacking!  We take a pretty critically broad view of what is safe, because what keeps marginalized members of our community safe is what keeps us all safe.
+* "Reasonably safe for work" for SeaGL includes talking about LGBTQ topics, labor rights, and as always, computer/device hacking!  We take a pretty critically broad view of what is safe, because what keeps marginalized members of our community safe is what keeps us all safe.
 
 ### Have *too many* ideas?
 
