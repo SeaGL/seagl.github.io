@@ -23,6 +23,12 @@ Whether you know something about open data sets, the intersection of privacy and
 
 Are you involved with a software foundation? Or have you had a recent experience with them that you'd like to share? Whether you are working on a project within a foundation, or have first hand experience with the inner workings of one, a lot of projects have started moving to this model and there's a lot of curiosity around the benefits and trade-offs of having your project supported and promoted by one.
 
+### Performance Art
+
+Heck yeah, that's right, we want art at this year's SeaGL!  If it can fit into 30m, let's see it :) Beat poetry about voter rights? Mathematically generated art? A video game you can stream in less than ~20m? If what you have in mind is reasonably Safe-For-Work, let's talk! If you have any questions about this, please reach out and we'd LOVE to help, at <cfp-help@seagl.org>.
+
+* "Reasonably safe for work" for SeaGL includes talking about LGBTQ topics, labor rights, and as always, computer/device hacking!  We take a pretty critically broad view of what is safe, because what keeps marginalized members of our community safe is what keeps us all safe.
+
 ### Have *too many* ideas?
 
 We have good news, you can submit multiple proposals! But if you're an experienced speaker, we also encourage you to reach out to others in your network who may have expertise with one of your ideas. We love seeing a mix of new and experienced speakers at SeaGL, and encouragement from a seasoned speaker like yourself can go a long way to support the next generation.
