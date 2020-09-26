@@ -12,7 +12,7 @@ This is especially true for Free Software conferences, which are gathering place
 That's why SeaGL created an Ambassador initiative: to foster connections with relevant communities.
 SeaGL wishes to work with other organizations to foster a broad, welcoming, and diverse community.
 
-Would you like to help?
+#### Would you like to help?
 
 Volunteers are needed to serve as SeaGL Ambassadors.
 Ambassadors will provide communication between SeaGL and other organizations.
