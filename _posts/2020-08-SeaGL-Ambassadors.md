@@ -8,7 +8,7 @@ categories: news
 ---
 
 A fun and important part of buiding Free Software communities is working with other community groups.
-This is especially true for Free Software conferences, which are gathering places for many communities.
+This is especially true for Free Software conferences, which are gathering places for many FOSS communities and advocates.
 That's why SeaGL created an Ambassador initiative: to foster connections with relevant communities.
 SeaGL wishes to work with other organizations to foster a broad, welcoming, and diverse community.
 
