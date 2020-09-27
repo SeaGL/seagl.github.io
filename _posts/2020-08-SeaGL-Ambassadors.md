@@ -7,17 +7,18 @@ published: false
 categories: news
 ---
 
-A fun and important part of buiding Free Software communities is working with other community groups.
-This is especially true for Free Software conferences, which are gathering places for many FOSS communities and advocates.
-That's why SeaGL created an Ambassador initiative: to foster connections with relevant communities.
-SeaGL wishes to work with other organizations to foster a broad, welcoming, and diverse community.
+A fun and important part of buiding Free Software communities is working with other groups.
+This is especially true for Free Software conferences, which are gathering places for many FOSS projects, communities and advocates.
+Conferences play an important role in sharing ideas, building friendships and sharing enthusiasm.
+SeaGL wishes to work with other organizations to foster broad, welcoming, and diverse communities.
+That's why SeaGL created an Ambassador initiative to invest in those connections among free and open groups.
 
 #### Would you like to help?
 
 Volunteers are needed to serve as SeaGL Ambassadors.
 Ambassadors will provide communication between SeaGL and other organizations.
 Ambassadors will also be able to connect with each other.
-Our goal is to build a strong network of partners in free and open source software communities.
+Our goal is to build a strong network of partners in free and open communities.
 
 SeaGL is an annual grass-roots, community-built Free Software conference.
 As such, our primary mission is to build a diverse community through collaboration, mentoring and openness.
