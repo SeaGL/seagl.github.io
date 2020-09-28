@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-As we enter the final months of our planning season in these tumultuous times, we wanted to take a moment to look inward. In doing so, we have refined both our [Code of Conduct] and [Mission Statement]. Below you will find some of the reasoning behind these changes. Rest assured, the conference organizers have had no falling outs or great shifts of opinion. Our intent here is to be as open and candid as possible.
+As we enter the final months of our planning season in these tumultuous times, we wanted to take a moment to look inward. In doing so, we have refined both our [Code of Conduct] and [Mission Statement]. Below you will find some of the reasoning behind these changes. Our intent is to be as open and candid as possible.
 
 SeaGL remains committed to accessibility, inclusivity, and diversity. Our programming committee follows and makes public a [Code of Practice]. We are committed to supporting the [Black Lives Matter] movement and other social causes that align with our ethos.
 
