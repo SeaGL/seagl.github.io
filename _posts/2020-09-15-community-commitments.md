@@ -20,7 +20,7 @@ Beyond words, we are continually lowering barriers to participation with offerin
  
 Most recently, we are planning real-time transcription of presentations for SeaGL 2020.
 
-We find reward in seeing people participate who might not have done so.
+We find reward in ensuring everyone can attend SeaGL and have a positive experience.
 
 However, things do not always go as smoothly as intended, and when issues arise we are committed to trying our best. We enforce a strict [Code of Conduct], making decisions collectively after gathering the necessary details. To respect the privacy of those involved and insulate any legal concerns, SeaGL's policy is to not make public statements about individual cases. While not perfect, we take specific allegations very seriously and follow up as soon as they are brought to our attention.
 
