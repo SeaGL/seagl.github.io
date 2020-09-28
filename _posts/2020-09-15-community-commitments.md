@@ -18,7 +18,7 @@ Beyond words, we are continually lowering barriers to participation with offerin
 * [reaching out directly to underserved communities](???)
 * actively encouraging new speakers 
  
-Most recently, we are planning [real-time transcription of presentations](???) for SeaGL 2020.
+Most recently, we are planning real-time transcription of presentations for SeaGL 2020.
 
 We find reward in seeing people participate who might not have done so.
 
