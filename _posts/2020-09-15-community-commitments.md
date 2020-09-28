@@ -15,7 +15,7 @@ Beyond words, we are continually lowering barriers to participation with offerin
 
 * Holding office hours to help prospective speakers with their proposals as part of our CFP process
 * [Offering no cost childcare and lunch at SeaGL](https://seagl.org/news/2018/10/04/Free_Childcare_Free_Lunch.html)
-* [reaching out directly to underserved communities](???)
+* Reaching out directly to underserved communities to encourage speaking and attendance
 * actively encouraging new speakers 
  
 Most recently, we are planning real-time transcription of presentations for SeaGL 2020.
