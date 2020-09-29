@@ -7,6 +7,8 @@ published: true
 categories: news
 ---
 
+![Máirín Duffy](/img/posts/2020_Keynote_Duffy.jpg){:.align-left}
+
 Continuing our [Meet our Keynoters blog series](https://seagl.org/news/2020/09/08/vmbrasseur-keynote-interview.html), it is our pleasure to announce our next keynoter, **Máirín Duffy**.
 
 Máirín is a senior principal interaction designer at Red Hat as well as the team lead for Fedora’s community design team. A recipient of the 2016 O’Reilly Open Source Award, Máirín has over a decade of expertise in user experience and design in Free/Libre and Open Source Software (FLOSS) communities. Her portfolio includes a wide range of designs for FLOSS including the ChRIS project, Mailman/Hyperkitty, Anaconda, numerous components of the Fedora project infrastructure, Spacewalk, virt-manager, the GNOME desktop, as well as other projects such as the
