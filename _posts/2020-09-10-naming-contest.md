@@ -9,6 +9,8 @@ categories: news
 
 ![The inflatable seagull](img/posts/2020_seagull_naming_contest.jpg){:width="50%"}
 
+**Update**: Meet Patch! Patch's pronouns are they/them. Patch loves french fries, photos, and of course free software.
+
 Have you ever wondered what our glorious inflatable seagull is named? Currently, it's anonymous! To
 give our feathered friend a name, we've been hosting a naming contest on
 [Twitter](https://twitter.com/seagl) and [Mastodon](https://mastodon.social/@seagl) for the past
