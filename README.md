@@ -165,6 +165,7 @@ You can either send a PR in the GitHub interface or from your local machine.
 1. Click `Create pull request`.
 1. Enter a brief but descriptive title such as "Adding 2017 CFP opening announcement".
 1. Enter a detailed description. If you are working on an [issue](https://github.com/SeaGL/seagl.github.io/issues), please reference the issue number here. Use a hashmark (`#`) followed by an issue number (`#74`). This will automatically be linked in the pull request, which is really handy.
+1. Select `[Allow edits from maintainers](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork)` so that other team members can make edits, if necessary.
 1. Click `Create pull request`.
 
 ### On your local machine
