@@ -3,7 +3,7 @@ layout: post
 title: 'SeaGL Ambassadors Initiative'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
