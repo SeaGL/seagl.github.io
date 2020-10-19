@@ -767,6 +767,15 @@
     2018: thanks
     2019: thanks
 
+- name: Amazon
+  url: https://www.amazon.com/
+  logo:
+    banner: missing
+    square: /img/sponsors/Amazon/Amazon_logo.svg
+  description:
+  sponsorships:
+    2020: platinum
+
 - name: Amazon AWS
   url: https://aws.amazon.com/opensource/
   logo:
