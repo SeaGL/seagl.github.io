@@ -24,6 +24,7 @@
     2017: thanks
     2018: thanks
     2019: thanks
+    2020: thanks
 
 - name: Ansible
   url: https://www.ansible.com
@@ -84,6 +85,7 @@
     2017: bronze
     2018: bronze
     2019: bronze
+    2020: bronze
 
 - name: Fedora
   url: https://getfedora.org/
@@ -384,6 +386,7 @@
     2017: thanks
     2018: thanks
     2019: thanks
+    2020: thanks
 
 - name: Free Software Foundation
   url: https://www.fsf.org/
@@ -399,6 +402,7 @@
     2017: platinum
     2018: platinum
     2019: platinum
+    2020: platinum
 
 - name: Write The Docs Seattle
   url: https://www.meetup.com/Write-The-Docs-Seattle/
@@ -432,6 +436,7 @@
   description:
   sponsorships:
     2015: thanks
+    2020: thanks
 
 - name: Northeastern University Seattle
   url: https://www.northeastern.edu/seattle/
@@ -484,6 +489,7 @@
     2017: thanks
     2018: thanks
     2019: thanks
+    2020: thanks
 
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
@@ -516,6 +522,7 @@
     2016: thanks
     2017: thanks
     2019: thanks
+    2020: thanks
 
 - name: Kubuntu
   url: https://kubuntu.org/
@@ -544,6 +551,7 @@
   description:
   sponsorships:
     2016: bronze
+    2020: silver
 
 - name: SEAPHP
   url: https://www.meetup.com/seaphp/
@@ -687,6 +695,7 @@
   sponsorships:
     2018: bronze
     2019: silver
+    2020: platinum
 
 - name: Open Humans
   url: https://www.OpenHumans.org/
@@ -770,8 +779,8 @@
 - name: Amazon
   url: https://www.amazon.com/
   logo:
-    banner: missing
-    square: /img/sponsors/Amazon/Amazon_logo.svg
+    banner: /img/sponsors/Amazon/Amazon_logo.svg
+    square: missing
   description:
   sponsorships:
     2020: platinum
