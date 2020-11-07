@@ -8,8 +8,10 @@ categories: news
 ---
 
 SeaGL is approaching fast, and we need your help! SeaGL is a completely volunteer run conference,
-and with our new ✨technical landscape ✨we're going to need some extra hands. Please email
-participate@seagl.org if you're interested in volunteering and we will send you the sign up sheet!
+and with our new new techinical landscape we're going to need some extra hands. Please signup
+using our [Nextcloud webform](https://gnu-cloud.yourownnet.cloud/apps/forms/yHs5d8qmEBedQ72d)
+
+if you're interested in volunteering. We will then send you information about volunteer training sessions (about an hour) and signing up for specific sessions.
 Here's what we need help with:
 
 ### Help Desk
@@ -33,4 +35,4 @@ All volunteers will be trained on the Code of Conduct and on their roles 2 weeks
 conference - if you'd like to volunteer, we will do everything we can to ensure you feel prepared
 before the conference!
 
-**Please email participate@seagl.org if you're interested in volunteering or have questions**, and we will send you the sign-up sheet. We're happy to have you help whenever works for your schedule. SeaGL could not happen without our volunteers, and we would love to have you be a part of our community!
+**Please [signup](https://gnu-cloud.yourownnet.cloud/apps/forms/yHs5d8qmEBedQ72d) if you would like to volunteer. Feel free to email participate@seagl.org if volunteering or have questions**. We're happy to have you help whenever works for your schedule. SeaGL could not happen without our volunteers, and we would love to have you be a part of our community!
