@@ -594,6 +594,7 @@
     2017: thanks
     2018: thanks
     2019: thanks
+    2020: thanks
 
 - name: Comcast Technology Solutions
   url: https://www.comcasttechnologysolutions.com/
@@ -761,6 +762,7 @@
     Snowdrift.coop is a fundraising platform for public goods like free software. It uses a new approach called "crowdmatching" where patrons pledge to increase their monthly donations by a tiny amount for _each_ patron who will give with them.
   sponsorships:
      2019: thanks
+     2020: thanks
 
 - name: Ubuntu-PNW
   url: https://wiki.ubuntu.com/PNWTeam
@@ -802,3 +804,13 @@
   description:
   sponsorships:
     2019: thanks
+
+- name: Open Source Initiative
+  url: https://opensource.org/
+  logo:
+    banner: missing
+    square: /img/sponsors/OSI/OSI_Standard_Logo.svg
+  description: |-
+    For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice. As a global non-profit, the OSI champions software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement.
+  sponsorships:
+    2020: thanks
