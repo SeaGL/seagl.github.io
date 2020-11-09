@@ -27,7 +27,7 @@ To that end, we've developed a web-based interface that combines the video strea
 Each talk track will have a separate channel/room, alongside a number of additional channels for general chat, announcements, etc.
 In order to recreate the "hallway track" feel, we have a bot that can create visible breakout rooms on demand.
 For instance, if you have a spicy take on software licenses, maybe you want to create a room where you can debate the finer points of your favorite license.
-Or if you want to into a deep discussion about documentation best practices, you can start a room for word nerds.
+Or if you want to get into a deep discussion about documentation best practices, you can start a room for word nerds.
 
 The idea is to start with an easy, consolidated place for everyone participating in SeaGL.
 From there, it's easy to find the conversations that match your interests or stake out a spot for folks to match yours.
