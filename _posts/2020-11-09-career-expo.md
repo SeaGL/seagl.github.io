@@ -3,7 +3,7 @@ layout: post
 title: 'Announcing the Inaugural SeaGL Career Expo'
 status: publish
 type: post
-published: false
+published: true
 categories: news
 ---
 
