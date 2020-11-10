@@ -143,6 +143,7 @@
     2013: thanks
     2015: bronze
     2016: bronze
+    2020: thanks
 
 - name: Pogo Linux, Inc
   url: https://www.pogolinux.com
@@ -427,6 +428,7 @@
   sponsorships:
     2015: thanks
     2016: thanks
+    2020: thanks
 
 - name: Oregon State University Open Source Lab
   url: https://osuosl.org/
@@ -814,3 +816,14 @@
     For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice. As a global non-profit, the OSI champions software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement.
   sponsorships:
     2020: thanks
+
+- name: Electronic Frontier Foundation
+  url: https://www.eff.org/
+  logo:
+    banner: /img/sponsors/EFF/EFF-logo-30-A.png
+    square: missing
+  description: |-
+    The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
+  sponsorships:
+    2020: thanks
+
