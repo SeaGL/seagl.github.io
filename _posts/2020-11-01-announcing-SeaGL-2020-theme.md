@@ -41,4 +41,4 @@ This year we continued our tea swapping tradition by adding a virtual tea exchan
 
 We're using another Nextcloud form for the volunteer signup. See our [call for volunteers](https://seagl.org/news/2020/10/05/call-for-volunteers.html) if you'd like to hlpe. We have two training sessions left.
 
-Please join us Friday and Saturday, November 13th and 14th, to celebrate you, our esteemed guests, at [SeaGL 2020](https://seagl.org/news/2020/10/26/program-2020.html).
+We look forward to seeing all of you on Friday and Saturday, November 13th and 14th, to celebrate you, our esteemed guests, at [SeaGL 2020](https://seagl.org/news/2020/10/26/program-2020.html).
