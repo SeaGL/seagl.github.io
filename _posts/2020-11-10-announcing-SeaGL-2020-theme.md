@@ -3,7 +3,7 @@ layout: post
 title: 'Announcing the SeaGL 2020 theme ...'
 status: publish
 type: post
-published: false
+published: yes
 categories: news
 ---
 
