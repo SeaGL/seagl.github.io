@@ -37,7 +37,7 @@ Through all the changes we've for SeaGL this year, through all the new features 
 
 A number of posts will be released in the coming days about our tech stack for delivering the conference experience. We will cover the work we put in to use FLOSS for most things attendees interact with. We will celebrate how easy some tasks were due to amazing FLOSS tools.
 
-This year we continued our tea swapping tradition by adding a virtual tea exchange for TeaGL, using a Nextcloud form for the signup. As part of our commitment to privacy we included an anonymi-tea option. We also used Kdenlive to create our TeaGL toasts ( https://mastodon.social/@SeaGL/105049083765428489 ). Please post one if you'd like to participate. We continue to use FLOSS for our conference planning system (OSEM).
+This year we continued our tea swapping tradition by adding a virtual tea exchange for TeaGL, using a Nextcloud form for the signup. As part of our commitment to privacy we included an anonymi-tea option. We also used Kdenlive to create our [TeaGL toasts](https://mastodon.social/@SeaGL/105049083765428489). Please post one if you'd like to participate. We continue to use FLOSS for our conference planning system (OSEM).
 
 We're using another Nextcloud form for the volunteer signup. See our [call for volunteers](https://seagl.org/news/2020/10/05/call-for-volunteers.html) if you'd like to hlpe. We have two training sessions left.
 
