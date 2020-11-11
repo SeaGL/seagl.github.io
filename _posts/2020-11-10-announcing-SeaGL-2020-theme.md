@@ -21,7 +21,7 @@ Our theme was also decided fairly early on, one to highlight our focus on you, o
 
 As we approach the conference starting in less than a week, it is time to unveil that theme.
 
-*drum roll*
+\*drum roll\*
 
 Don't peek :)
 
