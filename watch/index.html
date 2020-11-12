@@ -2,8 +2,207 @@
 layout: default
 ---
 
-<div class="ratio-16-9">
-  <div style="background-color: #00000011;color: #999;display: flex;align-items: center;justify-content: center;">
-    <p>Stay Tuned</p>
+<noscript>
+  <p>
+    Sorry, we're using client-side scripting to load everything. If you'd like
+    that to change, please consider volunteering next year.
+  </p>
+</noscript>
+
+<div>
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active">
+      <a
+        href="#channel-1"
+        aria-controls="channel-1"
+        role="tab"
+        data-toggle="tab"
+        >Track 1</a
+      >
+    </li>
+    <li role="presentation">
+      <a
+        href="#channel-2"
+        aria-controls="channel-1"
+        role="tab"
+        data-toggle="tab"
+        >Track 2</a
+      >
+    </li>
+    <li role="presentation">
+      <a
+        href="#channel-3"
+        aria-controls="channel-1"
+        role="tab"
+        data-toggle="tab"
+        >Track 3</a
+      >
+    </li>
+  </ul>
+
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="channel-1">
+      <div class="ratio-16-9">
+        <div
+          style="
+            background-color: #000;
+            color: #666;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            user-select: none;
+          "
+        >
+          <p>No live stream</p>
+        </div>
+      </div>
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="channel-2">
+      <div class="ratio-16-9">
+        <div
+          style="
+            background-color: #000;
+            color: #666;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            user-select: none;
+          "
+        >
+          <p>No live stream</p>
+        </div>
+      </div>
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="channel-3">
+      <div class="ratio-16-9">
+        <div
+          style="
+            background-color: #000;
+            color: #666;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            user-select: none;
+          "
+        >
+          <p>No live stream</p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
+
+<div id="root"></div>
+
+<script src="/js/vendor/luxon-1.25.0.min.js"></script>
+<script>
+  (function () {
+    const $ = window.jQuery;
+    const DateTime = window.luxon.DateTime;
+
+    const attendUrl = "https://attend.seagl.org/";
+    const channels = [
+      { name: "Track 1", tabId: "channel-1" },
+      { name: "Track 2", tabId: "channel-2" },
+      { name: "Track 3", tabId: "channel-3" },
+    ];
+    const osemIdToChannel = { 41: 0, 42: 1, 43: 2, 45: 0 };
+    const scheduleUrl = "https://attend.seagl.org/api/v2/conferences/seagl2020";
+
+    const records = {};
+    const root = document.getElementById("root");
+
+    const resolve = ({ id, type }) => records[type].get(id);
+
+    const progress = document.createElement("p");
+    progress.innerText = "Loading…";
+    root.appendChild(progress);
+
+    fetch(scheduleUrl)
+      .then(async (response) => {
+        const { data: conference, included } = await response.json();
+
+        included.forEach((record) => {
+          if (!(record.type in records)) {
+            records[record.type] = new Map();
+          }
+
+          records[record.type].set(record.id, record);
+        }, {});
+
+        const table = document.createElement("table");
+        table.classList.add("table");
+        table.classList.add("table-responsive");
+        const tbody = document.createElement("tbody");
+        table.appendChild(tbody);
+
+        const tr = document.createElement("tr");
+
+        var th = document.createElement("th");
+        th.innerText = "Time";
+        tr.appendChild(th);
+
+        var th = document.createElement("th");
+        th.innerText = "Track";
+        tr.appendChild(th);
+
+        var th = document.createElement("th");
+        th.innerText = "Event";
+        tr.appendChild(th);
+
+        tbody.appendChild(tr);
+
+        conference.relationships.events.data.map(resolve).forEach((event) => {
+          const beginning = DateTime.fromISO(event.attributes.beginning);
+          const presenters = event.relationships.presenters.data.map(resolve);
+          const channel =
+            channels[osemIdToChannel[event.relationships.room.data.id]];
+
+          const tr = document.createElement("tr");
+
+          var td = document.createElement("td");
+          td.innerText = beginning.toFormat("ccc HH:mm ZZZZ");
+          tr.appendChild(td);
+
+          var td = document.createElement("td");
+          if (channel) {
+            td.innerText = channel.name;
+          } else {
+            var a = document.createElement("a");
+            a.href = attendUrl;
+            a.innerText = "Social";
+            a.rel = "noopener";
+            a.target = "_blank";
+            td.appendChild(a);
+          }
+          tr.appendChild(td);
+
+          var td = document.createElement("td");
+          var a = document.createElement("a");
+          a.href = event.links.self;
+          a.innerText = event.attributes.title;
+          a.rel = "noopener";
+          a.target = "_blank";
+          td.appendChild(a);
+          td.appendChild(
+            document.createTextNode(
+              ` · ${presenters.map((p) => p.attributes.name).join(", ")}`
+            )
+          );
+          tr.appendChild(td);
+
+          tbody.appendChild(tr);
+        });
+        root.removeChild(progress);
+        root.appendChild(table);
+      })
+      .catch((error) => {
+        root.innerHTML =
+          '<p>Sorry, something went wrong. You can try asking for help in <a href="https://webchat.freenode.net/?channels=%23seagl">#seagl</a> on freenode.</p>';
+
+        throw error;
+      });
+  })();
+</script>
