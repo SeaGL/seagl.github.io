@@ -16,9 +16,11 @@ The speaker will be delivering their talk in a private video conference.  They w
 
 #### How to view a talk
 First, go to [attend.seagl.org](https://attend.seagl.org).  Enter a name and/or handle that you are comfortable with.  No registration is required, because we believe that people should not have to opt-out to anything resembling tracking to attend SeaGL.  If the name you select is not available, another name will be automatically assigned.  For users who already have their own IRC setups, you can log onto #seagl on irc.freenode.net, however, you do not need to be familiar with IRC in the least to attend SeaGL!
+
 ![HTA attend.seagl.org](/img/posts/11-12-2020-HTA-1.png){:.align-center}
 
 You'll begin in a chat room called #seagl-hallway, a space where you can read announcements about upcoming talks and interact with other attendees.  You will see a number of other channels which you can join, such as #seagl-track-1, 2, and 3, #seagl-helpdesk, and others.  It will look something like this!
+
 ![HTA attend.seagl.org](/img/posts/11-12-2020-HTA-2.png){:.align-center}
 
 In the Track rooms, e.g. #seagl-track-1, #seagl-track-2, and #seagl-track-3, there will be a feed available throughout both days, playing a live stream of the talks. You can pull up the embedded video by hitting the yellow "watch" button at the top right.  You will not be joining the video conference room itself, but your interaction and participation encouraged in the track chat room.
