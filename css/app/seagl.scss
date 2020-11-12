@@ -273,3 +273,22 @@ strong {
     width: 50%;
   }
 }
+
+.ratio-16-9 {
+  display: block;
+  height: 0;
+  padding-bottom: calc(100% / (16 / 9));
+  position: relative;
+  width: 100%;
+
+  & > * {
+    display: block;
+    height: 100%;
+    left: 0;
+    object-fit: cover;
+    object-position: 50% 33%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
