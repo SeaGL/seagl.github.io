@@ -133,12 +133,10 @@
 - name: Linux Journal
   url: https://www.linuxjournal.com
   logo:
-    banner: /img/sponsors/LinuxJournal/ljcolor.png
+    banner: /img/sponsors/LinuxJournal/linux-journal.png
     square: missing
   description: |-
-    Linux Journal, currently celebrating its 20th year of publication, is the
-    original magazine of the global Linux community, delivering readers the
-    advice and inspiration they need to get the most out of their Linux systems.
+    Linux Journal covers all aspects of the world's most essential operating system and the emerging technologies adjacent to it. Our mission is to deliver a publication that reflects the principled approach followed by kernel developers and the tenets of Open Source philosophy.
   sponsorships:
     2013: thanks
     2015: bronze
@@ -827,3 +825,42 @@
   sponsorships:
     2020: thanks
 
+- name: Women In Linux
+  url: http://www.womeninlinux.com/
+  logo:
+    banner: missing
+    square: /img/sponsors/WomenInLinux/WIL_250x250.png
+  description: |-
+    Women In Linux is a non-profit organization supporting women in Linux-centric tech careers who want to obtain and sustain a thriving career in tech.
+  sponsorships:
+    2020: thanks
+
+- name: Linux App Summit
+  url: https://linuxappsummit.org/
+  logo:
+    banner: missing
+    square: /img/sponsors/LinuxAppSummit/LAS_400x400.jpg
+  description: |-
+    LAS welcomes application developers, designers, product managers, user experience specialists, community leaders, academics, and anyone who is interested in the state of Linux application design and development!
+  sponsorships:
+    2020: thanks
+
+- name: ShellCon/RaiseMe
+  url: https://shellcon.io/raiseme/
+  logo:
+    banner: /img/sponsors/ShellCon/2020ShellConBanner-edgelessV2-1140.png
+    square: /img/sponsors/ShellCon/RaiseMeMedusaLogo.png
+  description: |-
+    The RaiseMe arm of ShellCon is dedicated to supporting our entire community. We have a complete lineup of career talks on Friday and Saturday during ShellCon, and also offer one-on-one assistance in the form of consulting appointments with our volunteer professional staff.
+  sponsorships:
+    2020: thanks
+
+- name: Phoenix Linux Users Group
+  url: https://phxlinux.org/
+  logo:
+    banner: /img/sponsors/PLUG/banner2-variation2-25th_anniv-v32.webp
+    square: /img/sponsors/PLUG/logo_bw.jpg
+  description: |-
+    PLUG is a group of people in the Phoenix, Arizona, USA area who get together several times a month. We have various meetings in several different formats all with the common goal of educating the public about the Linux operating system.  No knowledge of Linux is presumed or required, although most members are running Linux in some application.
+  sponsorships:
+    2020: thanks
