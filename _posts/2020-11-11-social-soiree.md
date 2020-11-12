@@ -42,4 +42,4 @@ Saturday, November 14th @ 18:00-22:00 PT (02:00-06:00 UTC)
 
 After the talks have ended, and we've all taken a bit of a break from the screen glow, an evening of fun is ahead. Our IRC Bot will be helping along the mixing and mingling. Start up a special interest "table" to talk around, utilizing the embedded on-demand Jitsi rooms. Join in on a **scavenger hunt**, kicking yourself for all of the quarentine cleaning that means not having that perfect find. Then, at 8pm PT, we will be splitting into randomly assigned teams for **trivia** hosted by none other than Bri Hatch, an every-year SeaGL supporter.
 
-Grab your favorite beverages and finger foods, sign-in to [attend.seagl.org]https://attend.seagl.org), and join the `#seagl-party`!
+Grab your favorite beverages and finger foods, sign-in to [attend.seagl.org](https://attend.seagl.org), and join the `#seagl-party`!
