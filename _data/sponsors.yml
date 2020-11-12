@@ -848,7 +848,7 @@
 - name: ShellCon/RaiseMe
   url: https://shellcon.io/raiseme/
   logo:
-    banner: /img/sponsors/ShellCon/2020ShellConBanner-edgelessV2-1140.png
+    banner: missing
     square: /img/sponsors/ShellCon/RaiseMeMedusaLogo.png
   description: |-
     The RaiseMe arm of ShellCon is dedicated to supporting our entire community. We have a complete lineup of career talks on Friday and Saturday during ShellCon, and also offer one-on-one assistance in the form of consulting appointments with our volunteer professional staff.
@@ -858,7 +858,7 @@
 - name: Phoenix Linux Users Group
   url: https://phxlinux.org/
   logo:
-    banner: /img/sponsors/PLUG/banner2-variation2-25th_anniv-v32.webp
+    banner: missing
     square: /img/sponsors/PLUG/logo_bw.jpg
   description: |-
     PLUG is a group of people in the Phoenix, Arizona, USA area who get together several times a month. We have various meetings in several different formats all with the common goal of educating the public about the Linux operating system.  No knowledge of Linux is presumed or required, although most members are running Linux in some application.
