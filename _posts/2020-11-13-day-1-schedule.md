@@ -30,15 +30,15 @@ All times are listed in Pacific Standard Time, which is UTC -08:00
 * Nočnica Fee - Data Liberation: Open Source Observability
 
 #### 11:30am-12:15pm block
-* Gareth Greenaway - Open Source Secrets Management
 * der.hans - FLOSS and you
 * Suraj Kumar Mahto - Introducing FOSS Culture at Universities
+* Gareth Greenaway - Open Source Secrets Management
 
 **12:15pm-1:15pm block - go eat some lunch, come back at 1:15pm PST :)**
 
 #### 1:15pm-2:00pm block
-* Josh Boykin - Gaming for Good: Using Passions and Technology for Social Change
 * Megan Guiney - Democratizing Documentation
+* Josh Boykin - Gaming for Good: Using Passions and Technology for Social Change
 * Mike Hamrick - Features of a Modern Terminal Emulator
 
 #### 2:00pm-2:45pm block
@@ -48,9 +48,9 @@ All times are listed in Pacific Standard Time, which is UTC -08:00
 **2:45pm-3:30pm is [TeaGL](https://seagl.org/news/2020/09/25/teagl-online.html)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!**
 
 #### 3:30pm-4:15pm block
-* Rowin Andruscavage - Overclocking for your Mind and Body
-* Kaylea Champion - How to build a zombie detector: Identifying software quality problems
 * Sumana Harihareswara - Stand-up comedy about FLOSS
+* Kaylea Champion - How to build a zombie detector: Identifying software quality problems
+* Rowin Andruscavage - Overclocking for your Mind and Body
 
 #### 4:30pm and on - Cocktails and Mocktails Evening Social, as presented by Benjamin Mako Hill
 
