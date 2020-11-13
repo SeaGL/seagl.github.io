@@ -122,6 +122,7 @@ nav: watch
               .map(resolve)
               .forEach((event) => {
                 const beginning = DateTime.fromISO(event.attributes.beginning);
+                const end = DateTime.fromISO(event.attributes.end);
                 const presenters = event.relationships.presenters.data.map(
                   resolve
                 );
@@ -131,7 +132,7 @@ nav: watch
                 const tr = document.createElement("tr");
 
                 var td = document.createElement("td");
-                td.innerText = beginning.toFormat("ccc HH:mm ZZZZ");
+                td.innerText = `${beginning.toFormat("ccc HH:mm")}–${end.toFormat("HH:mm ZZZZ")}`;
                 tr.appendChild(td);
 
                 var td = document.createElement("td");
