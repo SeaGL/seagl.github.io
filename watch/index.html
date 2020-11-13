@@ -120,14 +120,23 @@ nav: watch
 
             conference.relationships.events.data
               .map(resolve)
+              .map((event) => ({
+                  ...event,
+                  presenters: event.relationships.presenters.data.map(resolve),
+                  track: tracks[osemIdToTrackIndex[event.relationships.room.data.id]]
+                }))
+              .sort((a, b) => {
+                if (a.attributes.beginning !== b.attributes.beginning) {
+                  return a.attributes.beginning.localeCompare(b.attributes.beginning);
+                } else if (a.track && b.track && a.track.name !== b.track.name) {
+                  return a.track.name.localeCompare(b.track.name);
+                } else {
+                  return a.attributes.title.localeCompare(b.attributes.title);
+                }
+              })
               .forEach((event) => {
                 const beginning = DateTime.fromISO(event.attributes.beginning);
                 const end = DateTime.fromISO(event.attributes.end);
-                const presenters = event.relationships.presenters.data.map(
-                  resolve
-                );
-                const track =
-                  tracks[osemIdToTrackIndex[event.relationships.room.data.id]];
 
                 const tr = document.createElement("tr");
 
@@ -136,8 +145,8 @@ nav: watch
                 tr.appendChild(td);
 
                 var td = document.createElement("td");
-                if (track) {
-                  td.innerText = track.name;
+                if (event.track) {
+                  td.innerText = event.track.name;
                 } else {
                   var a = document.createElement("a");
                   a.href = attendUrl;
@@ -157,7 +166,7 @@ nav: watch
                 td.appendChild(a);
                 td.appendChild(
                   document.createTextNode(
-                    ` · ${presenters.map((p) => p.attributes.name).join(", ")}`
+                    ` · ${event.presenters.map((p) => p.attributes.name).join(", ")}`
                   )
                 );
                 tr.appendChild(td);
