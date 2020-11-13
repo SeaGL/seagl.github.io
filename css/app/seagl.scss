@@ -28,17 +28,19 @@ h1 {
   color: #FCB320;
   text-shadow: 0 1px 1px #fff;
 }
-a, a:active {
-  color: #0C5A73;
-}
-a:visited {
-  color: #0C5A73;
-}
-a:hover {
-  color: black;
-}
-div > a, p a {
-  text-decoration: underline;
+a:not(.btn) {
+  &, &:active {
+    color: #0C5A73;
+  }
+  &:visited {
+    color: #0C5A73;
+  }
+  &:hover {
+    color: black;
+  }
+  div > &, p & {
+    text-decoration: underline;
+  }
 }
 h2, h3, h4, h5, h6 {
   text-transform: uppercase;
