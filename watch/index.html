@@ -1,64 +1,72 @@
 ---
-layout: page
+layout: default
+nav: watch
 ---
 
-<noscript>
-  <div class="alert alert-danger" role="alert">
-    Sorry, we're using client-side scripting to load everything. If you'd like
-    that to change, please consider volunteering next year.
-  </div>
-</noscript>
+{% include jumbotron.html %}
 
-<div id="messages"></div>
+<div class="container" id="main-content">
+  <div class="row">
+    <div class="col-md-12">
+    <noscript>
+      <div class="alert alert-danger" role="alert">
+        Sorry, we're using client-side scripting to load everything. If you'd like
+        that to change, please consider volunteering next year.
+      </div>
+    </noscript>
 
-<div>
-  <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active">
-      <a href="#track-1" aria-controls="track-1" role="tab" data-toggle="tab"
-        >Track 1</a
-      >
-    </li>
-    <li role="presentation">
-      <a href="#track-2" aria-controls="track-1" role="tab" data-toggle="tab"
-        >Track 2</a
-      >
-    </li>
-    <li role="presentation">
-      <a href="#track-3" aria-controls="track-1" role="tab" data-toggle="tab"
-        >Track 3</a
-      >
-    </li>
-  </ul>
+    <div id="messages"></div>
 
-  <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="track-1">
-      <div class="ratio-16-9">
-        <div class="video-placeholder"></div>
+    <div>
+      <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+          <a href="#track-1" aria-controls="track-1" role="tab" data-toggle="tab"
+            >Track 1</a
+          >
+        </li>
+        <li role="presentation">
+          <a href="#track-2" aria-controls="track-1" role="tab" data-toggle="tab"
+            >Track 2</a
+          >
+        </li>
+        <li role="presentation">
+          <a href="#track-3" aria-controls="track-1" role="tab" data-toggle="tab"
+            >Track 3</a
+          >
+        </li>
+      </ul>
+
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="track-1">
+          <div class="ratio-16-9">
+            <div class="video-placeholder"></div>
+          </div>
+        </div>
+
+        <div role="tabpanel" class="tab-pane" id="track-2">
+          <div class="ratio-16-9">
+            <div class="video-placeholder"></div>
+          </div>
+        </div>
+
+        <div role="tabpanel" class="tab-pane" id="track-3">
+          <div class="ratio-16-9">
+            <div class="video-placeholder"></div>
+          </div>
+        </div>
       </div>
     </div>
 
-    <div role="tabpanel" class="tab-pane" id="track-2">
-      <div class="ratio-16-9">
-        <div class="video-placeholder"></div>
-      </div>
-    </div>
-
-    <div role="tabpanel" class="tab-pane" id="track-3">
-      <div class="ratio-16-9">
-        <div class="video-placeholder"></div>
-      </div>
-    </div>
+    <table id="schedule" class="table table-responsive">
+      <thead>
+        <th>Time</th>
+        <th>Track</th>
+        <th>Event</th>
+      </thead>
+      <tbody></tbody>
+    </table>
   </div>
 </div>
-
-<table id="schedule" class="table table-responsive">
-  <thead>
-    <th>Time</th>
-    <th>Track</th>
-    <th>Event</th>
-  </thead>
-  <tbody></tbody>
-</table>
 
 <script src="/js/vendor/luxon-1.25.0.min.js"></script>
 <script>
