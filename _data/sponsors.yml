@@ -865,3 +865,13 @@
     PLUG is a group of people in the Phoenix, Arizona, USA area who get together several times a month. We have various meetings in several different formats all with the common goal of educating the public about the Linux operating system.  No knowledge of Linux is presumed or required, although most members are running Linux in some application.
   sponsorships:
     2020: thanks
+
+- name: KODI
+  url: https://kodi.tv/
+  logo:
+    banner: /img/sponsors/KODI/KODI-banner.png
+    square: missing
+  description: |-
+    Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.
+  sponsorships:
+    2020: thanks
