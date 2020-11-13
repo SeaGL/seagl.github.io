@@ -15,44 +15,44 @@ Normal talk blocks are 30m - 20m for the talk, 10m for optional Q&A as led by th
 
 All times are listed in Pacific Standard Time, which is UTC -08:00
 
-9:20am Opening announcements by Wm Salt Hale, Nathan Handler, and Rachel Kelly
-9:35am Keynote by Kathy Giori
+* 9:20am Opening announcements by Wm Salt Hale, Nathan Handler, and Rachel Kelly
+* 9:35am Keynote by Kathy Giori
 
-10:00am-10:45am block
-Cameron Bielstein - Building Free CI/CD with GitHub Actions
-Elizabeth K. Joseph -  Open Source on the Mainframe in 1960, 1999, and Today
-Aeva Black - Crossing the Gender Divide
+#### 10:00am-10:45am block
+* Cameron Bielstein - Building Free CI/CD with GitHub Actions
+* Elizabeth K. Joseph -  Open Source on the Mainframe in 1960, 1999, and Today
+* Aeva Black - Crossing the Gender Divide
 
-10:45am-11:30am block
-Christopher Neugebauer - Environments
-Justin W. Flory and Bhagyashree (Bee) - Time for Action: How to Build D&I in your Project
-Bri Hatch - 10 Vim Tricks
+#### 10:45am-11:30am block
+* _talk cancelled, apologies_ Christopher Neugebauer - Environments
+* Justin W. Flory and Bhagyashree (Bee) - Time for Action: How to Build D&I in your Project
+* Bri Hatch - 10 Vim Tricks
 
-11:30am-12:15pm block
-Leandro Pereira - Porting GW-BASIC back to Z80
-Kara Sowles - Alcohol and Inclusivity in Tech
-Matt McGraw - Self-Hosting with Traefik and Docker
+#### 11:30am-12:15pm block
+* Leandro Pereira - Porting GW-BASIC back to Z80
+* Kara Sowles - Alcohol and Inclusivity in Tech
+* Matt McGraw - Self-Hosting with Traefik and Docker
 
-12:15pm-1:15pm block - go eat some lunch, come back at 1:15pm PST :)
+**12:15pm-1:15pm block - go eat some lunch, come back at 1:15pm PST :)**
 
-1:15pm-2:00pm block
-Deb Nicholson - Move Slow and Try Not to Break Each Other
-Ian Kelling - When does a Service Take Away your Freedom?
-Wm Salt Hale - Contacts to Connections: CRM Funneling for Projects and People
+#### 1:15pm-2:00pm block
+* Deb Nicholson - Move Slow and Try Not to Break Each Other
+* Ian Kelling - When does a Service Take Away your Freedom?
+* Wm Salt Hale - Contacts to Connections: CRM Funneling for Projects and People
 
-2:00pm-2:45pm block
-Amanda Sopkin - The United States' History with Free Software and what we can do to improve the Future
-Aaron Wolf - Software Freedom through Collective Action
-Lisha Sterling - Building Alternative Networks for Fun and Resistance
+#### 2:00pm-2:45pm block
+* Amanda Sopkin - The United States' History with Free Software and what we can do to improve the Future
+* Aaron Wolf - Software Freedom through Collective Action
+* Lisha Sterling - Building Alternative Networks for Fun and Resistance
 
-2:45pm-3:30pm is [TeaGL](https://seagl.org/news/2020/09/25/teagl-online.html)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!
+**2:45pm-3:30pm is [TeaGL](https://seagl.org/news/2020/09/25/teagl-online.html)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!**
 
-3:30pm-4:15pm block
-Paris Buttfield-Addison and Tim Nugent - First Steps with Swift for TensorFlow
-Ben Cotton - Scheduling your Open Source Project
+#### 3:30pm-4:15pm block
+* Paris Buttfield-Addison and Tim Nugent - First Steps with Swift for TensorFlow
+* Ben Cotton - Scheduling your Open Source Project
 
-4:30pm Closing Keynote by VM Brasseur
+**4:30pm Closing Keynote by VM Brasseur**
 
-6:00pm Closing Virtual Party!
+**6:00pm Closing Virtual Party!**
 
 If you have any questions about any of these, please pop into [attend.seagl.org](https://attend.seagl.org) and we'll get you set right up!
