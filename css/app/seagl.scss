@@ -295,6 +295,19 @@ strong {
   }
 }
 
+iframe.embeded-video {
+  background-color: #000;
+}
+
+.video-placeholder {
+  align-items: center;
+  background-color: #000;
+  color: #666;
+  display: flex;
+  justify-content: center;
+  user-select: none;
+}
+
 .navbar {
   margin: 0;
 }
