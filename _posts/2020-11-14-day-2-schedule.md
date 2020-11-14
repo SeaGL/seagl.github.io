@@ -51,6 +51,7 @@ All times are listed in Pacific Standard Time, which is UTC -08:00
 #### 3:30pm-4:15pm block
 * Paris Buttfield-Addison and Tim Nugent - First Steps with Swift for TensorFlow
 * Ben Cotton - Scheduling your Open Source Project
+* Nočnica Fee - Data Liberation: Open Source Observability
 
 **4:30pm Closing Keynote by VM Brasseur**
 
