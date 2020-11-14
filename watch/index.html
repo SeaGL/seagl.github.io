@@ -118,10 +118,12 @@ nav: watch
               records[record.type].set(record.id, record);
             }, {});
 
-            conference.relationships.events.data
+            const events = conference.relationships.events.data
               .map(resolve)
               .map((event) => ({
                   ...event,
+                  beginning: DateTime.fromISO(event.attributes.beginning),
+                  end: DateTime.fromISO(event.attributes.end),
                   presenters: event.relationships.presenters.data.map(resolve),
                   track: tracks[osemIdToTrackIndex[event.relationships.room.data.id]]
                 }))
@@ -133,15 +135,13 @@ nav: watch
                 } else {
                   return a.attributes.title.localeCompare(b.attributes.title);
                 }
-              })
-              .forEach((event) => {
-                const beginning = DateTime.fromISO(event.attributes.beginning);
-                const end = DateTime.fromISO(event.attributes.end);
+              });
 
+            events.forEach((event) => {
                 const tr = document.createElement("tr");
 
                 var td = document.createElement("td");
-                td.innerText = `${beginning.toFormat("ccc HH:mm")}–${end.toFormat("HH:mm ZZZZ")}`;
+                td.innerText = `${event.beginning.toFormat("ccc HH:mm")}–${event.end.toFormat("HH:mm ZZZZ")}`;
                 tr.appendChild(td);
 
                 var td = document.createElement("td");
@@ -171,8 +171,22 @@ nav: watch
                 );
                 tr.appendChild(td);
 
+                event.element = tr;
                 scheduleBody.appendChild(tr);
               });
+
+              const tick = () => {
+                const now = DateTime.local();
+
+                events.forEach(({ element, end }) => {
+                  if (end < now) {
+                    element.classList.add("text-muted");
+                  }
+                });
+              };
+
+              tick();
+              setInterval(tick, 60);
           })
           .catch((error) => {
             messages.innerHTML +=
