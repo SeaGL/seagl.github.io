@@ -13,6 +13,8 @@ You can attend if you go to [attend.seagl.org](https://attend.seagl.org).  Live 
 
 Normal talk blocks are 30m - 20m for the talk, 10m for optional Q&A as led by the Room Moderator.  The Moderator will read questions from the text chat audience for the speaker to answer.  There are 15 minute spaces between talks, which means that the talk blocks are listed as 45 minutes long.  There is no Q&A during Keynotes.
 
+Please note that as of 6:30pm PST Friday Nov 13, a few of these have changed.  Last minute schedule changes - it's a wild world out there this year, but we can accommodate :)
+
 All times are listed in Pacific Standard Time, which is UTC -08:00
 
 * 9:20am Opening announcements by Wm Salt Hale, Nathan Handler, and Rachel Kelly
@@ -24,14 +26,13 @@ All times are listed in Pacific Standard Time, which is UTC -08:00
 * Aeva Black - Crossing the Gender Divide
 
 #### 10:45am-11:30am block
-* _talk cancelled, apologies_ Christopher Neugebauer - Environments
+* Molly deBlanc - Introduction to Ethics from an Ethicist-in-Training
 * Justin W. Flory and Bhagyashree (Bee) - Time for Action: How to Build D&I in your Project
 * Bri Hatch - 10 Vim Tricks
 
 #### 11:30am-12:15pm block
-* Leandro Pereira - Porting GW-BASIC back to Z80
+* Ask Me Anything (AMA) about Kubernetes with Elana Hashman!
 * Kara Sowles - Alcohol and Inclusivity in Tech
-* Matt McGraw - Self-Hosting with Traefik and Docker
 
 **12:15pm-1:15pm block - go eat some lunch, come back at 1:15pm PST :)**
 
