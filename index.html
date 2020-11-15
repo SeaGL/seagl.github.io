@@ -1,93 +1,87 @@
 ---
-layout: default
+layout: page
 nav: home
 body_id: home
 description: SeaGL is a grassroots technical conference dedicated to spreading awareness and knowledge about the GNU/Linux community and free/libre/open-source software/hardware.
 ---
 
-{% include jumbotron.html %}
-
-<div class="container" id="main-content">
+<div class="col-md-12">
   <div class="row">
-    <div class="col-md-12">
-      <div class="row">
-        <div class="col-md-4 col-md-push-8">
-            {% capture md %}{% include_relative _welcome.md %}{% endcapture %}{{ md | markdownify }}
-            <hr class="hidden-md hidden-lg">
-        </div>
-        <div class="col-md-8 col-md-pull-4">
-            {% for post in site.categories.news limit:4 %}
-                <div class="post">
-                    <h2><a href="{{ post.url }}">{{ post.title }}</a><br>
-                        <small>{{ post.date | date: '%B %d, %Y' }}</small></h2>
-                    {{ post.content }}
-                </div>
-                <hr>
-            {% endfor %}
-            <a href="/news">Older News</a>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md-4">
-          <h2>Contact</h2>
-          <p>
-            <h3>IRC</h3>
-            <p>
-                {{ site.custom.a.irc.channel }} on {{ site.custom.a.irc.network }}
-            </p>
-            <h3>Social Media</h3>
-            <p>
-                {{ site.custom.a.social.mastodon}}
-                | {{ site.custom.a.social.pixelfed}}
-                | {{ site.custom.a.social.twitter}}
-                | {{ site.custom.a.social.facebook}}
-                | {{ site.custom.a.social.youtube}}
-            </p>
-            <h3>Email</h3>
-            <p>
-                {{ site.custom.a.email.participate }} | {{ site.custom.a.email.press }}<br />
-                or join the {{ site.custom.a.mailing_list.seagl_announce }}.
-            </p>
-        </p>
-        </div><!--/span-->
-        <div class="col-md-4">
-          <h2>Exhibitors</h2>
-          <p>
-            We will have a small hall available for exhibitors.  Free tables will be
-            available for free/libre/open-source software/hardware and non-profit
-            organizations, and there are several sponsorship levels for everyone
-            else.  If your organization would like an exhibit table at SeaGL, please
-            send an email to {{ site.custom.a.email.sponsor }} for our vendor
-            prospectus.
-          </p>
-
-          <p>
-            Exhibitor space is limited, please contact us right away if you are
-            interested in a table.
-          </p>
-        </div><!--/span-->
-        <div class="col-md-4">
-          <h2>Sponsorship</h2>
-          <p>
-            We can't do what we need to do without the support of the community. If
-            you would like to offer financial support but don't need an exhibit
-            table, please send an email to {{ site.custom.a.email.sponsor }}.
-
-            <h2>Donate now</h2>
-            <p>
-              <a href="https://www.fsf.org">Our fiscal sponsor,
-              <strong>Free Software Foundation</strong></a>, set up a
-              donation page to support SeaGL. It accepts credit card or
-              PayPal and provides instructions for donating via check
-              or Bitcoin. Thank you for your support!
-            </p>
-            <p>
-                {{ site.custom.a.donate }}
-            </p>
-          </p>
-        </div><!--/span-->
-      </div>
+    <div class="col-md-4 col-md-push-8">
+        {% capture md %}{% include_relative _welcome.md %}{% endcapture %}{{ md | markdownify }}
+        <hr class="hidden-md hidden-lg">
     </div>
+    <div class="col-md-8 col-md-pull-4">
+        {% for post in site.categories.news limit:4 %}
+            <div class="post">
+                <h2><a href="{{ post.url }}">{{ post.title }}</a><br>
+                    <small>{{ post.date | date: '%B %d, %Y' }}</small></h2>
+                {{ post.content }}
+            </div>
+            <hr>
+        {% endfor %}
+        <a href="/news">Older News</a>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-4">
+      <h2>Contact</h2>
+      <p>
+        <h3>IRC</h3>
+        <p>
+            {{ site.custom.a.irc.channel }} on {{ site.custom.a.irc.network }}
+        </p>
+        <h3>Social Media</h3>
+        <p>
+            {{ site.custom.a.social.mastodon}}
+            | {{ site.custom.a.social.pixelfed}}
+            | {{ site.custom.a.social.twitter}}
+            | {{ site.custom.a.social.facebook}}
+            | {{ site.custom.a.social.youtube}}
+        </p>
+        <h3>Email</h3>
+        <p>
+            {{ site.custom.a.email.participate }} | {{ site.custom.a.email.press }}<br />
+            or join the {{ site.custom.a.mailing_list.seagl_announce }}.
+        </p>
+    </p>
+    </div><!--/span-->
+    <div class="col-md-4">
+      <h2>Exhibitors</h2>
+      <p>
+        We will have a small hall available for exhibitors.  Free tables will be
+        available for free/libre/open-source software/hardware and non-profit
+        organizations, and there are several sponsorship levels for everyone
+        else.  If your organization would like an exhibit table at SeaGL, please
+        send an email to {{ site.custom.a.email.sponsor }} for our vendor
+        prospectus.
+      </p>
+
+      <p>
+        Exhibitor space is limited, please contact us right away if you are
+        interested in a table.
+      </p>
+    </div><!--/span-->
+    <div class="col-md-4">
+      <h2>Sponsorship</h2>
+      <p>
+        We can't do what we need to do without the support of the community. If
+        you would like to offer financial support but don't need an exhibit
+        table, please send an email to {{ site.custom.a.email.sponsor }}.
+
+        <h2>Donate now</h2>
+        <p>
+          <a href="https://www.fsf.org">Our fiscal sponsor,
+          <strong>Free Software Foundation</strong></a>, set up a
+          donation page to support SeaGL. It accepts credit card or
+          PayPal and provides instructions for donating via check
+          or Bitcoin. Thank you for your support!
+        </p>
+        <p>
+            {{ site.custom.a.donate }}
+        </p>
+      </p>
+    </div><!--/span-->
   </div>
 </div>

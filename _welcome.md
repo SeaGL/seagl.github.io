@@ -12,10 +12,7 @@ SeaGL's first year was 2013.
 
 ### When & where
 
-**{{ site.custom.dates }}, {{ site.custom.year }}**, [online][going virtual]
-
-Fri 9:00–16:30 PST <span class="text-muted">(17:00–00:30 UTC)</span>  
-Sat 9:00–16:30 PST <span class="text-muted">(17:00–00:30 UTC)</span>
+Fall {{ site.custom.year }}
 
 ### Attend
 

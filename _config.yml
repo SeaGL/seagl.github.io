@@ -36,8 +36,8 @@ exclude:
     - vendor/ruby/
 
 custom:
-    year:                   2020
-    dates:                  November 13th and 14th
+    year:                   2021
+    dates:                  TBD
     location:               Seattle Central College
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>

@@ -17,6 +17,16 @@
      * normally 24 but the ribbon 'graphics' take up 24px
      * themselves so we double it. */
 }
+.ribbon a:not(.btn) {
+    color: #FCB320;
+    font-weight: bold;
+    text-decoration: none;
+}
+.ribbon a:not(.btn):active,
+.ribbon a:not(.btn):focus,
+.ribbon a:not(.btn):hover {
+    text-decoration: underline;
+}
 .ribbon:before, .ribbon:after {
     content:            "";
     position:           absolute;
