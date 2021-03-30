@@ -178,6 +178,13 @@ Now someone (perhaps you, if you have that level of access to the repo) must rev
 
 Once your pull request is merged, it will go live on the website.
 
+**NOTA BENE**: The merge itself will not trigger a site rebuild.
+To rebuild the site, you need to push an empty commit like so:
+
+```bash
+git commit --allow-empty -m "Rebuild the site, please" && git push
+```
+
 ## How to add images to posts
 
 Add your image to the `img/posts/` directory, then use the following Markdown:
