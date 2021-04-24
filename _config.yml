@@ -47,6 +47,7 @@ custom:
         irc:
             network:        https://freenode.net/kb/answer/chat
             webchat:        https://webchat.freenode.net?randomnick=1&channels=%23seagl
+            matrix:         https://matrix.to/#/#SeaGL:matrix.org
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
@@ -59,6 +60,7 @@ custom:
         irc:
             network:        <a href="https://freenode.net/kb/answer/chat">freenode</a>
             webchat:        <a href="https://webchat.freenode.net?randomnick=1&channels=%23seagl">#seagl</a>
+            matrix:         <a href="https://matrix.to/#/#SeaGL:matrix.org">Matrix</a>
         email:
             award:          <a href="mailto:&#097;&#119;&#097;&#114;&#100;&#064;&#115;&#101;&#097;&#103;&#108;&#046;&#111;&#114;&#103;">&#097;&#119;&#097;&#114;&#100;&#064;&#115;&#101;&#097;&#103;&#108;&#046;&#111;&#114;&#103;</a>
             participate:    <a href="mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
