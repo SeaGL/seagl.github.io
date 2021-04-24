@@ -30,7 +30,7 @@ We also have some easy opportunities to help promote SeaGL; bringing flyers to a
 Interested? Just email us! {{ site.custom.a.email.participate }} 
 or visit us on IRC at
 [Freenode]({{ site.custom.url.irc.network }}) in
-[#seagl]({{ site.custom.url.irc.channel }}).
+[#seagl]({{ site.custom.url.irc.webchat }}).
 
 
 
