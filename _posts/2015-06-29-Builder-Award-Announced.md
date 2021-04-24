@@ -13,4 +13,4 @@ This is a new award for a person who has made an outstanding contribution to the
 
 To nominate someone, please send us an email <a href="mailto:%61%77%61%72%64%40%73%65%61%67%6c%2e%6f%72%67">&#x0061;&#x0077;&#x0061;&#x0072;&#x0064;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a> with the nominee's name in the subject line. The more information you can provide about the nominee's work, affiliations and history with free software, the better. Thanks in advance for helping us honor a great community builder!
 
-If you want to speak with us in realtime, come visit us on IRC on [Freenode]({{ site.custom.url.irc.network }}) in [#seagl]({{ site.custom.url.irc.channel }}).
+If you want to speak with us in realtime, come visit us on IRC on [Freenode]({{ site.custom.url.irc.network }}) in [#seagl]({{ site.custom.url.irc.webchat }}).
