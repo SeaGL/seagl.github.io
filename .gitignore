@@ -2,6 +2,7 @@ _site
 
 .bundle
 .jekyll-metadata
+vendor/
 
 # BackstopJS
 /backstop/reports/
