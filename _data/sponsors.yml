@@ -143,6 +143,16 @@
     2016: bronze
     2020: thanks
 
+- name: Linux Pro Magazine
+  url: https://www.linuxpromagazine.com/
+  logo:
+    banner: /img/sponsors/LinuxProMag/linux-pro.png
+    square: missing
+  description: |-
+    Linux Magazine is your guide to the world of Linux. Linux Magazine provides advanced technical information you won't find anywhere else including tutorials, in-depth articles on trending topics, troubleshooting and optimization tips, and more!
+  sponsorships:
+    2021: media
+
 - name: Pogo Linux, Inc
   url: https://www.pogolinux.com
   logo:
