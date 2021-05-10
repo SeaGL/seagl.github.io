@@ -12,7 +12,7 @@ SeaGL's first year was 2013.
 
 ### When & where
 
-{{ site.custom.dates }}, {{ site.custom.year }}
+**{{ site.custom.dates }}, {{ site.custom.year }}**, online
 
 ### Attend
 
