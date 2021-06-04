@@ -9,7 +9,7 @@ layout: page
   | where_exp: 'session', 'session.relative_path contains path_prefix'
   | sort: 'beginning'
   | group_by_exp: 'session', 'session.beginning | date: "%A"' %}
-{% assign posts = site.tags[year] | where: 'categories','news' | reverse %}
+{% if site.tags contains year %}{% assign posts = site.tags[year] | where: 'categories','news' | reverse %}{% else %}{% assign posts = empty %}{% endif %}
 
 <div class="row">
   <div class="col-xs-12 col-lg-10 col-lg-push-1">
@@ -41,7 +41,7 @@ layout: page
 
             {% for presenter in session.presenters %}
             <div>
-              {{ presenter.name }}{% if presenter.affiliation %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}
+              {{ presenter.name }}{% if presenter contains 'affiliation' %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}
             </div>
             {% endfor %}
           </li>

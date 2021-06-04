@@ -8,7 +8,7 @@ layout: page
 <div class="row">
   <div class="col-xs-12 col-lg-10 col-lg-push-1">
     {% if session.resources %}
-    {% if session.resources.internet_archive_identifier %}
+    {% if session.resources contains 'internet_archive_identifier' %}
     <figure>
       <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="https://archive.org/embed/{{ session.resources.internet_archive_identifier }}" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -19,7 +19,7 @@ layout: page
         If you value their service, please consider thanking them with a small donation.
       </figcaption>
     </figure>
-    {% elsif session.resources.youtube_id %}
+    {% elsif session.resources contains 'youtube_id' %}
     <figure>
       <div class="embed-responsive embed-responsive-16by9">
         <div class="embed-responsive-item embed-placeholder">
@@ -58,11 +58,11 @@ layout: page
         {% for presenter in session.presenters %}
         <div class="media">
           <div class="media-left">
-            <img class="img-circle" width="64" height="64" alt="{{ presenter.name }}" src="https://s.gravatar.com/avatar/{{ presenter.gravatar_id }}?d=mp&s=128">
+            <img class="img-circle" width="64" height="64" alt="{{ presenter.name }}" src="https://s.gravatar.com/avatar/{% if presenter contains 'gravatar_id' %}{{ presenter.gravatar_id }}{% endif %}?d=mp&s=128">
           </div>
           <div class="media-body media-middle">
-            <h4 class="media-heading">{{ presenter.name }}{% if presenter.pronouns %}<span class="text-muted"> ({{ presenter.pronouns }})</span>{% endif %}{% if presenter.affiliation %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}</h4>
-            {{ presenter.biography | markdownify }}
+            <h4 class="media-heading">{{ presenter.name }}{% if presenter contains 'pronouns' %}<span class="text-muted"> ({{ presenter.pronouns }})</span>{% endif %}{% if presenter contains 'affiliation' %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}</h4>
+            {% if presenter contains 'biography' %}{{ presenter.biography | markdownify }}{% endif %}
           </div>
         </div>
         {% endfor %}
@@ -72,21 +72,21 @@ layout: page
         <h3>Resources</h3>
 
         <ul>
-          {% if session.resources.resources_url %}
+          {% if session.resources contains 'resources_url' %}
           <li><a href="{{ session.resources.resources_url }}">Resources</a></li>
           {% endif %}
 
-          {% if session.resources.slides_url %}
+          {% if session.resources contains 'slides_url' %}
           <li><a href="{{ session.resources.slides_url }}">Slides</a></li>
           {% endif %}
 
-          {% if session.resources.internet_archive_identifier %}
+          {% if session.resources contains 'internet_archive_identifier' %}
           <li><a href="https://archive.org/details/{{ session.resources.internet_archive_identifier }}">Video Recording</a></li>
-          {% elsif session.resources.youtube_id %}
+          {% elsif session.resources contains 'youtube_id' %}
           <li><a href="https://youtu.be/{{ session.resources.youtube_id }}">Video Recording</a></li>
           {% endif %}
 
-          {% if session.resources.audio_url %}
+          {% if session.resources contains 'audio_url' %}
           <li><a href="{{ session.resources.audio_url }}">Audio Recording</a></li>
           {% endif %}
         </ul>
