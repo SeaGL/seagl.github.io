@@ -12,7 +12,7 @@ SeaGL's first year was 2013.
 
 ### When & where
 
-**{{ site.custom.dates }}, {{ site.custom.year }}**, online
+**{{ site.custom.dates }}, {{ site.custom.year }}**, [online]
 
 ### Attend
 
@@ -28,4 +28,4 @@ conference. The registration system is free / libre / open source softwa
 we promise to protect your data.
 -->
 
-[going virtual]: /news/2020/05/05/virtualconf-2020.html
+[online]: /news/2021/06/08/format-2021
