@@ -51,10 +51,10 @@ custom:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
         location:           https://seattlecentral.edu
-        prospectus:         /sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2020.pdf
-        register:           https://osem.seagl.org/conferences/seagl2020/register/new
-        cfp:                https://osem.seagl.org/conferences/seagl2020
-        schedule:           https://osem.seagl.org/conferences/seagl2020/schedule/events
+        prospectus:         /sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2021.pdf
+        register:           https://osem.seagl.org/conferences/seagl2021/register/new
+        cfp:                https://osem.seagl.org/conferences/seagl2021
+        schedule:           https://osem.seagl.org/conferences/seagl2021/schedule/events
     a:
         irc:
             network:        <a href="https://libera.chat/">Libera.Chat</a>
@@ -69,6 +69,7 @@ custom:
             sponsor:        <a href="mailto:%73%70%6f%6e%73%6f%72%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0070;&#x006f;&#x006e;&#x0073;&#x006f;&#x0072;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
             staff:          <a href="mailto:%73%74%61%66%66%40%73%65%61%67%6c%2e%6f%72%67">&#x0073;&#x0074;&#x0061;&#x0066;&#x0066;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
             coc:            <a href="mailto:%63%6f%63%40%73%65%61%67%6c%2e%6f%72%67">&#x0043;&#x004f;&#x0043;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
+            cfp-help:       <a href="mailto:%63%66%70%2D%68%65%6C%70%40%73%65%61%67%6C%2E%6F%72%67">&#x63;&#x66;&#x70;&#x2D;&#x68;&#x65;&#x6C;&#x70;&#x40;&#x73;&#x65;&#x61;&#x67;&#x6C;&#x2E;&#x6F;&#x72;&#x67;</a>
         social:
             github:         <a href="https://github.com/SeaGL/">GitHub</a>
             mastodon:       <a href="https://mastodon.social/@SeaGL">Mastodon</a>
