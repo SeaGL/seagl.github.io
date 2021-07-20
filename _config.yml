@@ -46,7 +46,7 @@ custom:
     url:
         irc:
             network:        https://libera.chat/
-            webchat:        https://web.libera.chat/#SeaGL
+            webchat:        https://chat.seagl.org/
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
@@ -58,7 +58,7 @@ custom:
     a:
         irc:
             network:        <a href="https://libera.chat/">Libera.Chat</a>
-            channel:        <a href="https://web.libera.chat/#SeaGL">#SeaGL</a>
+            channel:        <a href="https://chat.seagl.org/">#SeaGL</a>
         matrix:
             network:        <a href="https://matrix.org/">Matrix</a>
             room:           <a href="https://matrix.to/#/#SeaGL:seattlematrix.org">#SeaGL:seattlematrix.org</a>
