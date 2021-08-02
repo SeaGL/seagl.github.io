@@ -18,7 +18,7 @@ We'd love to see you, whether you're making your first conference proposal or yo
 Whether you need topic ideas or want help wrangling the central argument of your talk, we're here to help.
 We'll also have some prepared topics for each session.
 
-If you can't make the office hours, email [cfp-help@seagl.org](mailto:cfp-help@seagl.org).
+If you can't make the office hours, email your questions to [cfp-help@seagl.org](mailto:cfp-help@seagl.org) any time.
 
 And many of us are on the channel much of the time besides, so come say hi!
 We're in #SeaGL on [Libera.Chat](https://libera.chat/) and [#SeaGL:seattlematrix.org](https://matrix.to/#/#SeaGL:seattlematrix.org) on Matrix.
