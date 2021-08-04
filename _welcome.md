@@ -1,12 +1,14 @@
 ## About
 
-The _Seattle GNU/Linux conference (SeaGL)_ is a grassroots technical conference
-dedicated to spreading awareness and knowledge about the GNU/Linux community and
-free / libre / open source software and ​hardware.
+SeaGL (_the Seattle GNU/Linux conference_) is a free—as in freedom and
+tea—grassroots technical summit dedicated to spreading awareness and
+knowledge about free / libre / open source software, hardware, and culture.
 
-Our goal for SeaGL is to produce an event which is as enjoyable and informative
-for those who spend their days maintaining hundreds of servers as it is for a
-student who has only just started exploring technology options.
+SeaGL strives to be welcoming, enjoyable, and informative for professional
+technologists, newcomers, enthusiasts, and all other users of free software,
+regardless of their background knowledge; providing a space to bridge these
+experiences and strengthen the free software movement through mentorship,
+collaboration, and community.
 
 SeaGL's first year was 2013.
 
