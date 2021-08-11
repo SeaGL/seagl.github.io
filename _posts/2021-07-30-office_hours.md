@@ -8,7 +8,7 @@ categories: news
 ---
 
 One of the ways SeaGL supports first-time speakers is by holding CfP office hours.
-If you have questions about the [Call for Proposals](https://seagl.org/news/2021/06/24/cfp) process or want feedback on your talk proposal, you can join us in chat at [chat.seagl.org](https://chat.seagl.org/) or [on video](https://meet.seattlematrix.org/SeaGLCFPHelp) on:
+If you have questions about the [Call for Proposals](https://seagl.org/news/2021/06/24/cfp) process or want feedback on your talk proposal, you can join us in chat at [seagl.org/meet](https://seagl.org/meet) or [on video](https://meet.seattlematrix.org/SeaGLCFPHelp) on:
 
 * Sun Aug 1, 3pm PDT
 * Tues Aug 3, 5:30pm PDT
@@ -24,4 +24,4 @@ And many of us are on the channel much of the time besides, so come say hi!
 We're in #SeaGL on [Libera.Chat](https://libera.chat/) and [#SeaGL:seattlematrix.org](https://matrix.to/#/#SeaGL:seattlematrix.org) on Matrix.
 The rooms are bridged, so join us on the network and client of your choice.
 If you haven't used IRC before, no sweat.
-Join in [the browser chat version of the channel](https://chat.seagl.org), choose a nickname, and you'll be in!
+Join in [the browser chat version of the channel](https://seagl.org/meet), choose a nickname, and you'll be in!
