@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lightning Talks at SeaGL!'
+title: 'Lightning Talks at SeaGL 2021!'
 status: publish
 type: post
 published: true
