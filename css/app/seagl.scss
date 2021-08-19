@@ -27,6 +27,7 @@ h1 {
   text-transform: uppercase;
   color: #FCB320;
   text-shadow: 0 1px 1px #fff;
+  margin-bottom: 0.5em;
 }
 a:not(.btn) {
   &, &:active {
@@ -42,13 +43,27 @@ a:not(.btn) {
     text-decoration: underline;
   }
 }
-h2, h3, h4, h5, h6 {
+h2, h3, h5, h6 {
   text-transform: uppercase;
   color: #0C5A73;
   text-shadow: 0 1px 1px #fff;
 }
+h4 {
+  color: #666;
+  font-size: inherit;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
 strong {
   font-weight: 600;
+}
+samp {
+  font-family: inherit;
+  font-style: italic;
+}
+ol > li > ol {
+  list-style-type: lower-alpha;
 }
 .sidebar-nav {
   padding: 9px 0;
@@ -149,6 +164,29 @@ strong {
   border-spacing: 1em;
   border-collapse: separate;
   margin: -1em -1em 0;
+}
+.btn-primary {
+  background-color: #0C5A73;
+  border-color: #0b4a5f;
+
+  &:active, &:focus, &:hover {
+    background-color: #126a88;
+    border-color: #0d607c;
+  }
+}
+.panel-primary {
+  $color: #0C5A73;
+
+  border-color: $color;
+
+  & > .panel-heading {
+    background-color: $color;
+    border-color: $color;
+
+    & > .panel-title {
+      text-shadow: unset;
+    }
+  }
 }
 .well {
   $bootstrap-padding: 20px;

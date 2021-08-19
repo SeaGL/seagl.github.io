@@ -56,12 +56,6 @@ custom:
         cfp:                /news/2021/06/24/cfp
         schedule:           https://osem.seagl.org/conferences/seagl2021/schedule/events
     a:
-        irc:
-            network:        <a href="https://libera.chat/">Libera.Chat</a>
-            channel:        <a href="https://chat.seagl.org/">#SeaGL</a>
-        matrix:
-            network:        <a href="https://matrix.org/">Matrix</a>
-            room:           <a href="https://matrix.to/#/#SeaGL:seattlematrix.org">#SeaGL:seattlematrix.org</a>
         email:
             award:          <a href="mailto:&#097;&#119;&#097;&#114;&#100;&#064;&#115;&#101;&#097;&#103;&#108;&#046;&#111;&#114;&#103;">&#097;&#119;&#097;&#114;&#100;&#064;&#115;&#101;&#097;&#103;&#108;&#046;&#111;&#114;&#103;</a>
             participate:    <a href="mailto:%70%61%72%74%69%63%69%70%61%74%65%40%73%65%61%67%6c%2e%6f%72%67">&#x0070;&#x0061;&#x0072;&#x0074;&#x0069;&#x0063;&#x0069;&#x0070;&#x0061;&#x0074;&#x0065;&#x0040;&#x0073;&#x0065;&#x0061;&#x0067;&#x006c;&#x002e;&#x006f;&#x0072;&#x0067;</a>
