@@ -7,9 +7,9 @@ published: true
 categories: news
 ---
 
-This year we’re incredibly excited to announce that we’re hosting lightning talks at SeaGL!
-Think of this space as a great opportunity to learn about fun topics,
-or even present your own talk (maybe even for the first time!). 
+We’re incredibly excited to announce that we’re hosting lightning talks at SeaGL this year!
+Think of this space as a great opportunity to learn about fun topics, or even present your own talk.
+It's a great way to get comfortable with speaking to an audience or to explore the kernel of an idea that could become a full-length talk at SeaGL 2022!
 
 The lightning talks will be a series of 5 minute talks which will be pre-recorded - meaning
 that we can accommodate speakers from all over the world!
