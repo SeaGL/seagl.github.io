@@ -65,6 +65,18 @@ samp {
 ol > li > ol {
   list-style-type: lower-alpha;
 }
+.list-inline-delimited {
+  display: flex;
+  flex-flow: row wrap;
+  list-style: none;
+  padding-left: 0;
+
+  & > li:not(:last-child)::after {
+    content: "·";
+    margin-left: 1ch;
+    margin-right: 1ch;
+  }
+}
 .sidebar-nav {
   padding: 9px 0;
 }
