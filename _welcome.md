@@ -31,3 +31,9 @@ we promise to protect your data.
 -->
 
 [online]: /news/2021/06/08/format-2021
+
+### Stay informed
+
+Sign up for our low-traffic
+[announcement mailing list]({{ site.custom.url.mailing_list.seagl_announce }})
+or subscribe to our [RSS news feed](/feed.xml).
