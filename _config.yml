@@ -17,7 +17,10 @@ paginate_path:  news/page:num
 name:           Seattle GNU/Linux Conference
 short_name:     SeaGL
 description:    Seattle GNU/Linux Conference
-origin:         https://seagl.org
+origin: &origin https://seagl.org
+
+# jekyll-redirect-from configuration
+url: *origin
 
 permalink:      /:categories/:year/:month/:day/:title.html
 
