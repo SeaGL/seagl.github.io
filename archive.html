@@ -1,0 +1,27 @@
+---
+layout: page
+title: Archive
+---
+
+{% assign conferences = site.archive-conferences | reverse %}
+
+<div class="col-md-12 text-center">
+  <h1>Archive</h1>
+
+  {% for conference in conferences %}
+  {% capture year %}{{ conference.slug }}{% endcapture %}
+
+  <div style="margin-bottom: 1em;">
+    <h2>
+      <a href="{{ conference.url }}">SeaGL {{ year }}</a>
+    </h2>
+
+    {% if conference.theme %}
+    <div style="font-style: italic;">
+      {{ conference.theme }}
+    </div>
+    {% endif %}
+  </div>
+
+  {% endfor %}
+</div>

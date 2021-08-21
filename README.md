@@ -202,3 +202,18 @@ Tips:
     ```
 
   * For the sake of page load times, resize images to a reasonable size before using them in a post.
+
+## Archive of past conferences
+
+Past conferences are statically archived as [Jekyll collections](https://jekyllrb.com/docs/collections/):
+
+  - [`archive-conferences`](./_archive-conferences)
+  - [`archive-sessions`](./_archive-sessions)
+
+To create the archive of a given year, first import the data from OSEM—
+
+```bash
+bundle exec rake import[2020]
+```
+
+—then edit the archive files by hand if any corrections are necessary.

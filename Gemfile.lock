@@ -218,6 +218,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
     racc (1.5.2)
+    rake (13.0.6)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -258,6 +259,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-redirect-from
   kramdown
+  rake
 
 RUBY VERSION
    ruby 2.7.1p83

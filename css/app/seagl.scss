@@ -39,8 +39,16 @@ a:not(.btn) {
   &:hover {
     color: black;
   }
-  div > &, p & {
+  div > &, p &, .text-muted & {
     text-decoration: underline;
+  }
+  .text-muted &:not(:active):not(:focus):not(:hover) {
+    color: inherit;
+  }
+}
+figcaption {
+  &.text-muted {
+    font-size: 10pt;
   }
 }
 h2, h3, h5, h6 {
@@ -142,6 +150,9 @@ ol > li > ol {
 .main-nav-links .navbar a {
   color: #fff;
 }
+.embed-responsive {
+  background-color: #ddd;
+}
 .lead {
   line-height: 44px;
 }
@@ -199,6 +210,11 @@ ol > li > ol {
       text-shadow: unset;
     }
   }
+}
+.subtitle {
+  color: #999;
+  display: block;
+  font-size: 2.5rem;
 }
 .well {
   $bootstrap-padding: 20px;
