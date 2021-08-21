@@ -1,0 +1,54 @@
+---
+layout: page
+---
+
+{% assign conference = page %}
+{% capture year %}{{ conference.slug }}{% endcapture %}
+{% capture path_prefix %}_archive-sessions/{{ year }}/{% endcapture %}
+{% assign days = site.archive-sessions
+  | where_exp: 'session', 'session.relative_path contains path_prefix'
+  | sort: 'beginning'
+  | group_by_exp: 'session', 'session.beginning | date: "%A"' %}
+
+<div class="col-xs-12 col-lg-10 col-lg-push-1">
+  <h1 class="text-center">
+    SeaGL {{ year }}
+
+    {% if conference.theme %}
+    <span class="subtitle">{{ conference.theme }}</>
+    {% endif %}
+  </h1>
+
+  {{ content }}
+
+  <div class="row">
+    {% for day in days %}
+    <div class="col-xs-12 col-sm-6">
+      <h2>{{ day.name }}</h2>
+
+      <ol class="list-unstyled">
+        {% for session in day.items %}
+        <li style="margin-bottom: 0.5em;">
+          <div>
+            <a href="{{ session.url }}">{{ session.title }}</a>
+
+            {% if session.keynote %}
+            <span class="label label-default">Keynote</span>
+            {% endif %}
+          </div>
+
+          {% for presenter in session.presenters %}
+          <div>
+            {{ presenter.name }}{% if presenter.affiliation %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}
+          </div>
+          {% endfor %}
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+    {% endfor %}
+  </div>
+
+  <p style="margin-top: 2em;"><a href="/archive">« All archives</a></p>
+</div>
+

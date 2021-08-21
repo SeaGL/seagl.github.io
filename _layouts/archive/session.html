@@ -1,0 +1,56 @@
+---
+layout: page
+---
+
+{% assign session = page %}
+{% capture year %}{{ session.beginning | date: '%Y' }}{% endcapture %}
+
+<div class="col-xs-12 col-lg-10 col-lg-push-1">
+  {% if session.internet_archive_identifier %}
+  <figure style="margin-bottom: 1em;">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://archive.org/embed/{{ session.internet_archive_identifier }}" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
+
+    <figcaption class="text-muted">
+      This video recording is archived by the <a href="https://archive.org/about/">Internet Archive</a>.
+      If you value their service, please consider thanking them with a small donation.
+    </figcaption>
+  </figure>
+  {% endif %}
+
+  <div class="row">
+    <div class="col-xs-12 col-md-7">
+      <h2 style="margin-top: 0;">{{ session.title }}</h2>
+
+      {% if session.keynote %}
+      <span class="label label-default">Keynote</span>
+      {% endif %}
+
+      {{ content }}
+    </div>
+
+    <div class="col-xs-12 col-md-5">
+      {% for presenter in session.presenters %}
+      <div class="media">
+        <div class="media-left">
+          <img class="img-circle" width="64" height="64" alt="{{ presenter.name }}" src="https://s.gravatar.com/avatar/{{ presenter.gravatar_id }}?d=mp&s=128">
+        </div>
+        <div class="media-body media-middle">
+          <h4 class="media-heading">{{ presenter.name }}{% if presenter.pronouns %}<span class="text-muted"> ({{ presenter.pronouns }})</span>{% endif %}{% if presenter.affiliation %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}</h4>
+          {{ presenter.biography | markdownify }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="row" style="margin-top: 2em;">
+    <div class="col-xs-6">
+      <p><a href="/archive/{{ year }}">« SeaGL {{ year }}</a></p>
+    </div>
+    <div class="col-xs-6 text-muted text-right">
+      <p><a href="{{ site.custom.url.edit_page_base }}/{{ session.path }}">Edit</a></p>
+    </div>
+  </div>
+</div>

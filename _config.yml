@@ -24,10 +24,25 @@ url: *origin
 
 permalink:      /:categories/:year/:month/:day/:title.html
 
+collections:
+    archive-conferences:
+        output: true
+        permalink: /archive/:path
+    archive-sessions:
+        output: true
+        permalink: /archive/:path
+
+defaults:
+    - scope: { type: archive-conferences }
+      values: { layout: archive/conference }
+    - scope: { type: archive-sessions }
+      values: { layout: archive/session }
+
 exclude:
     - backstop
     - backstop.json
     - Dockerfile
+    - Rakefile
 
     # Pending jekyll/jekyll#7188
     - Gemfile
@@ -47,6 +62,7 @@ custom:
 
         site_code:          <a href="https://github.com/SeaGL/seagl.github.io/blob/master/LICENSE">GPL v3.0</a>
     url:
+        edit_page_base:     https://github.com/SeaGL/seagl.github.io/blob/master
         irc:
             network:        https://libera.chat/
             webchat:        https://seagl.org/meet
