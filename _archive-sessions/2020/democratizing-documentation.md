@@ -1,5 +1,6 @@
 ---
 title: Democratizing Documentation
+internet_archive_identifier: SeaGL2020-Megan_Guiney-Democratizing_Documentation
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/740
 beginning: '2020-11-13T13:15:00.000-08:00'
 end: '2020-11-13T13:45:00.000-08:00'

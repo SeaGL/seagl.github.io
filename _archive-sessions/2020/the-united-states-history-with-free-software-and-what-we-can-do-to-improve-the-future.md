@@ -1,6 +1,7 @@
 ---
 title: The United States' History with Free Software and what we can do to improve
   the Future
+internet_archive_identifier: SeaGL2020-Amanda_Sopkin-The_United_States_History_with_Free_Software
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/794
 beginning: '2020-11-14T14:00:00.000-08:00'
 end: '2020-11-14T14:30:00.000-08:00'

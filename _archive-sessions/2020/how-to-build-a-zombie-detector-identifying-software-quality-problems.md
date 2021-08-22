@@ -1,5 +1,6 @@
 ---
 title: 'How to build a zombie detector: Identifying software quality problems'
+internet_archive_identifier: SeaGL2020-Kaylea_Champion-How_to_build_a_zombie_detector
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/782
 beginning: '2020-11-13T15:30:00.000-08:00'
 end: '2020-11-13T16:00:00.000-08:00'
