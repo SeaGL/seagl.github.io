@@ -1,5 +1,6 @@
 ---
 title: 10 Vim Tricks
+internet_archive_identifier: SeaGL2020-Bri_Hatch-10_Vim_Tricks
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/764
 beginning: '2020-11-14T10:45:00.000-08:00'
 end: '2020-11-14T11:15:00.000-08:00'
