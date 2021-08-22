@@ -22,9 +22,9 @@ There has been massive progress in the acceptance and practice of open source gl
 
 Data from two Twitter polls on open source contribution show:
 
-- 42.1% of people do not know how to contribute.[Here](https://bit.ly/3gxtm4n)
+- 42.1% of people do not know how to contribute.[Here](https://twitter.com/IkegahRuth/status/1277593968050667522)
 
-- 40.3% of senior developers do not contribute at all.[Here](https://bit.ly/3e5Q4iy)
+- 40.3% of senior developers do not contribute at all.[Here](https://twitter.com/IkegahRuth/status/1277590995316674562)
 
 I'm convinced that the difficulties contributing to open source projects fuel these trends. We've missed out on their input, creativity, and impact on developing products to improve the world.
 With an analysis of the challenges involved, a sustainable plan of effective and beginner-friendly guidance by open source communities will educate beginners to contribute to open source.
