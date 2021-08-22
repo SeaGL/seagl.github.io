@@ -8,7 +8,7 @@ presenters:
   affiliation: Developer Lead at Hackathon and Coding Club, BIT Sindri (hnccbits.com)
   osem_url: https://osem.seagl.org/users/1054
   gravatar_id: 3ee1f946f926c1aed9b157f2240ce5e4
-  biography: Web Developer | Sophomore | Volunteer at AWS User Group, Ranchi
+  biography: Web Developer \| Sophomore \| Volunteer at AWS User Group, Ranchi
 ---
 
 Name - Suraj Kumar Mahto  
