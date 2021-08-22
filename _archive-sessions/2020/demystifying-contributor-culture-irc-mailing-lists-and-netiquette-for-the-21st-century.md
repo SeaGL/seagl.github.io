@@ -1,6 +1,7 @@
 ---
 title: 'Demystifying Contributor Culture: IRC, Mailing Lists, and Netiquette for the
   21st Century'
+internet_archive_identifier: SeaGL2020-Jill_Rouleau-Demystifying_Contributor_Culture
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/751
 beginning: '2020-11-13T14:00:00.000-08:00'
 end: '2020-11-13T14:30:00.000-08:00'
