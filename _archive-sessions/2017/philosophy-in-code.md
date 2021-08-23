@@ -15,4 +15,4 @@ presenters:
     Twilio Devangelist
 ---
 
-Coding in practice is a perpetual learning experience.  It can be daunting when first tackling a new language, framework, legacy codebase, etc. Immanuel Kant outlined some thought tools for making sense of vast new intellectual territory and eventually conquering them.  I have found the application of these insights enormously helpful over the years. This talk will aim to pass along those tools and techniques, and hopefully make the beginning of future challenges less intimidating.
+Coding in practice is a perpetual learning experience. It can be daunting when first tackling a new language, framework, legacy codebase, etc. Immanuel Kant outlined some thought tools for making sense of vast new intellectual territory and eventually conquering them. I have found the application of these insights enormously helpful over the years. This talk will aim to pass along those tools and techniques, and hopefully make the beginning of future challenges less intimidating.

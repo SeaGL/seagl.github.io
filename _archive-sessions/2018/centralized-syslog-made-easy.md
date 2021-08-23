@@ -5,7 +5,6 @@ beginning: '2018-11-09T16:00:00.000-08:00'
 end: '2018-11-09T16:20:00.000-08:00'
 presenters:
 - name: Omar Ravenhurst
-  affiliation: None
   osem_url: https://osem.seagl.org/users/614
   gravatar_id: 0f294e48b9e3cb6f8bb467103618651d
   biography: I am a self-taught Linux Systems Administrator currently living and working

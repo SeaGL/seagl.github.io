@@ -1,11 +1,11 @@
 ---
-title: Uinversal Packages for Linux are a Myth - An Alternative - Open Build Server
+title: Universal Packages for Linux are a Myth - An Alternative - Open Build Server
   - The Linux Package Factory
 osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/128
 beginning: '2016-11-11T14:00:00.000-08:00'
 end: '2016-11-11T15:00:00.000-08:00'
 presenters:
-- name: plinnell
+- name: Peter Linnell
   affiliation: Apache, openSUSE, Scribus, Libre Graphics
   osem_url: https://osem.seagl.org/users/323
   gravatar_id: 1e9e7b8700d868c5eb0a4a4dd1b311ca
@@ -21,7 +21,7 @@ presenters:
 
 With the announcement of snaps and flatpack, as "universal" packages for Linux, this has engendered quite a bit of controversy in the Linux world.  The presenter will disabuse the audience of this myth of the "universal" linux package. It is a technical challenge, largely solved now with proper tools and people who know how to deliver software properly.  Point number one: Putting packing in the hands of software developers is usually a very bad idea and the speaker is an upstream developer.
 
-An alternative is one very powerful and versatile tool is the Open Build Service http://openbuildservice.org
+An alternative is one very powerful and versatile tool is the Open Build Service <https://openbuildservice.org>
 
 OBS is a multi-platform package building system able to build Linux native packages for all major Linux distributions on all architectures.  Moreover, it can also build images which can be distributed into a cloud, iso, USB image, Virtual Machine images or via Docker .
 

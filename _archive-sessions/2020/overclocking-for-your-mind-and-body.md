@@ -21,4 +21,4 @@ presenters:
 
 You’ve tweaked your cooling setup to overclock your CPU, how can you increase the flow rate of your own central nervous system?  Learn to apply traditional martial arts techniques and get every last bit of juice from your wetware.  Join this session to learn how to benchmark your system and identify and remove blockages and I/O bottlenecks.  Practice traditional techniques with modern applications that help prevent RSI and keep your mind and body fresh and productive throughout your most grueling software development sessions.
 
-Presented by Oom Yung Doe Northwest, a 501(c)(3) non-profit Traditional Martial Arts school with a mission to bring health and wellness to our community through Traditional Martial Arts training.  <http://oomyungdoe-nw.com/>
+Presented by Oom Yung Doe Northwest, a 501(c)(3) non-profit Traditional Martial Arts school with a mission to bring health and wellness to our community through Traditional Martial Arts training.  <https://oomyungdoe-nw.com/>

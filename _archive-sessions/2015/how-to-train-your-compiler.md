@@ -18,6 +18,9 @@ You probably use a compiler or an interpreter every day, but do you know how the
 
 We'll look at the major components of compilers and interpreters and the theory behind their design. First we'll discuss compilers and the difference between the compiler's front end and back end with examples in simple C code. We'll explain the process of lexing, parsing, and machine code generation, and some common analysis techniques and optimizations. Then we'll examine interpreters through the lens of Python and compare and contrast different designs. We'll look at the trade offs made during interpretation and compilation and how they will affect the code you write.
 
-This talk has been presented at Beaver BarCamp in April, 2015 and is being further refined.
-The source code for the slides can be found at https://github.com/iankronquist/how-to-train-your-compiler
-A relatively recent build of the slides can be found at http://people.oregonstate.edu/~kronquii/build/slides/#2
+This talk has been presented at Beaver BarCamp in April, 2015 and is being
+further refined.
+
+The source code for the slides can be found at <https://github.com/iankronquist/how-to-train-your-compiler>
+
+A relatively recent build of the slides can be found at <http://people.oregonstate.edu/~kronquii/build/slides/#2>

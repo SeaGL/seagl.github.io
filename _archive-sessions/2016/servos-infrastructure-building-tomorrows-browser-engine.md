@@ -1,10 +1,10 @@
 ---
-title: 'Servo''s Infrastructure: Building Tomorrow''s Browser Engine'
+title: "Servo's Infrastructure: Building Tomorrow's Browser Engine"
 osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/194
 beginning: '2016-11-12T16:30:00.000-08:00'
 end: '2016-11-12T17:30:00.000-08:00'
 presenters:
-- name: edunham
+- name: E. Dunham
   affiliation: Mozilla
   osem_url: https://osem.seagl.org/users/45
   gravatar_id: 5e3a5b03dcbda6bfb39cb98060c43034
@@ -19,4 +19,4 @@ The Servo browser engine is a Mozilla initiative to test novel approaches to ren
 
 However, the mix of Servo's uncompromisingly open workflow and Mozilla's strict security requirements for Firefox components creates infrastructure challenges. This talk will follow Servo's quest to get the best of both worlds, highlighting the tools and techniques that other projects can use on similar challenges.
 
-Slides are available at http://talks.edunham.net/seagl2016/servo/ (use arrow keys to navigate)
+Slides are available at <https://talks.edunham.net/seagl2016/servo/> (use arrow keys to navigate)

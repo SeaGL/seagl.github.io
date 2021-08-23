@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2015/program/proposals/20
 beginning: '2015-10-23T14:00:00.000-07:00'
 end: '2015-10-23T14:50:00.000-07:00'
 presenters:
-- name: edunham
+- name: E. Dunham
   affiliation: Mozilla
   osem_url: https://osem.seagl.org/users/45
   gravatar_id: 5e3a5b03dcbda6bfb39cb98060c43034
@@ -25,14 +25,14 @@ for others.
 This talk will share solutions, often in the form of open-source tools, to
 many of the problems which aspiring speakers encounter, including:
 
-    Overcoming fear of public speaking
-    Choosing a topic to talk about
-    Finding the right conference for your topic
-    Marketing a talk proposal with a convincing abstract
-    Finding open-source presentation software that fits your needs
-    Designing powerful slides
+  - Overcoming fear of public speaking
+  - Choosing a topic to talk about
+  - Finding the right conference for your topic
+  - Marketing a talk proposal with a convincing abstract
+  - Finding open-source presentation software that fits your needs
+  - Designing powerful slides
 
 These tricks will be helpful for experienced presenters looking to learn new
 skills, as well as novice speakers who need some help getting started.
 
-Slides at http://talks.edunham.net/seagl2015/
+Slides at <https://talks.edunham.net/seagl2015/>

@@ -11,11 +11,11 @@ presenters:
   biography: |-
     I'm a software engineer for Puppet, where I'm currently working on our open source remote task runner Bolt. I graduated from Oregon State University with a BS in Computer Science in June 2016, where I worked as a Front-End Engineer for the OSU Open Source Lab. In my free time I enjoy hanging out with friends, hiking, experiencing new things, and enjoying a wide variety of podcasts, tv shows, blogs, books, and other media.
 
-    You can see more of my work at http://lucywyman.me and http://github.com/lucywyman
-    See conference presentations I've given at http://slides.lucywyman.me
-    Or read my thoughts at http://blog.lucywyman.me
+    You can see more of my work at <http://lucywyman.me> and <https://github.com/lucywyman>
+    See conference presentations I've given at <https://slides.lucywyman.me>
+    Or read my thoughts at <https://blog.lucywyman.me>
 ---
 
 Join me on a cultural, technical, and philosophical journey through time and space.  Not sure what BDFL, Backus-Naur Form, gparted, astroturfing, or The Evil Bit are?  I've got you covered.  This talk aims to introduce common phrases, tools, protocols, cultural references, and other tech jargon to help you keep up with technical discussions.
 
-Slides available at http://slides.lucywyman.me/linux-jargon
+Slides available at <https://slides.lucywyman.me/linux-jargon>

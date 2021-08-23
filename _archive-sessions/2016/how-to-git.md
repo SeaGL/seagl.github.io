@@ -14,8 +14,10 @@ presenters:
 ---
 
 Git is a very popular tool for tracking changes made to your project and adding new changes by outside contributors.  This talk explores when and how to use Git.  After this talk you will be able to
+
 1. Make a Git repository.
 2. Work with others on the Git repo using Github.
 3. Know where to look for more information about Git
 4. Know which questions to ask the Internet when you just can't even because everything is *so* broken.
+
 Note: While this talk touches on the use of Github it focuses mostly on the tool Git and tries to stay away from peaching for the use of any particular online collaboration tool (Bitbucket, Github, Gitlab, Gitolite, etc).

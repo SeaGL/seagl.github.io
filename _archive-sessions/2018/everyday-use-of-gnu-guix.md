@@ -17,7 +17,7 @@ presenters:
     I look forward to seeing you at SeaGL 2018!
 ---
 
-VIDEO AVAILABLE: https://media.marusich.info/everyday-use-of-gnu-guix-chris-marusich-seagl-2018.webm
+VIDEO AVAILABLE: <https://media.marusich.info/everyday-use-of-gnu-guix-chris-marusich-seagl-2018.webm>
 
 In this talk, I will introduce GNU Guix: a liberating, dependable, and
 hackable package manager that follows the "purely functional software

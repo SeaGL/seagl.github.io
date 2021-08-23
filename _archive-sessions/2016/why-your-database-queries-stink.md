@@ -4,12 +4,12 @@ osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/115
 beginning: '2016-11-11T14:00:00.000-08:00'
 end: '2016-11-11T15:00:00.000-08:00'
 presenters:
-- name: davidmstokes
+- name: Dave Stokes
   affiliation: Oracle -- MySQL Community Team
   osem_url: https://osem.seagl.org/users/310
   gravatar_id: c0fe36ac77bf9a0ebe01f0b7844c8e7f
   biography: |-
-    Dave Stokes is a MySQL Community Manager for Oracle.  Previously he was the MySQL Certification Manager for MySQL AB and SUN.  He has worked for companies ranging alphabetically from the American Heart Association to Xerox and work ranging from Anti-submarine warfare to web developer.  And he really wonders how many people really, really read these conference biographies. Twitter = @ Stoker, blog = http://elephantdolphin.blogspot.com/
+    Dave Stokes is a MySQL Community Manager for Oracle.  Previously he was the MySQL Certification Manager for MySQL AB and SUN.  He has worked for companies ranging alphabetically from the American Heart Association to Xerox and work ranging from Anti-submarine warfare to web developer.  And he really wonders how many people really, really read these conference biographies. Twitter = @ Stoker, blog = <https://elephantdolphin.blogspot.com/>
 
     He lives in Texas and has the mandated pickup truck, hound dog, and Stetson hat.
 ---

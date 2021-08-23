@@ -11,7 +11,6 @@ presenters:
   biography: |-
     Joe Roets is a successful Software and Systems Architect with experience as CIO, CTO, and Senior Vice President in many industries. For over 20 years at such companies as Disney, Lockheed Martin, Sprint, FBI, DoD, and createTank, he has spearheaded new technology groups and led software engineering teams both large and small.
 
-
     Joe has led multiple productization efforts in advanced technologies. At Disney, Joe founded and leads a team to explore and productize a blockchain and cryptocurrency platform. As project and software lead on the MPL mobile project, he directed the process from concept/funding  to a fully operational system, delivering a next generation mobile capability to consumers and 3rd party integrators. On the cloudGatherer and BoltWS projects, Joe successfully obtained angel funding and led technical teams to build a security focused product platform with which organizations deploy their services on a cloud-provider agnostic platform.
 ---
 
@@ -31,6 +30,6 @@ Speaker is Joe Roets:
 - Symbiont - Former Senior Vice President
 - Overstock.com Project Medici - Former Senior Technical Advisor
 
-Resume: http://goo.gl/wobjM3
+Resume: <https://goo.gl/wobjM3>
 
-Slides: http://www.slideshare.net/createTank/seagl-2016-blockchain-and-cryptocurrency-for-open-source-project-governance
+Slides: <https://www.slideshare.net/createTank/seagl-2016-blockchain-and-cryptocurrency-for-open-source-project-governance>

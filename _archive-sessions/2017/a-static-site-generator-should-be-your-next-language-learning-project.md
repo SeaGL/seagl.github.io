@@ -15,6 +15,6 @@ presenters:
     and write about himself in the third person.
 ---
 
-When learning a new language, some folks prefer to read the language documentation, or work through simple exercises like you might find on http://exercism.io -- but I prefer to have something more like an actual project. I find that holds my focus a little better, and that I do a better job of absorbing the new language syntax and features if I'm using them for something *real*.
+When learning a new language, some folks prefer to read the language documentation, or work through simple exercises like you might find on <https://exercism.io> -- but I prefer to have something more like an actual project. I find that holds my focus a little better, and that I do a better job of absorbing the new language syntax and features if I'm using them for something *real*.
 
 In this talk, I'm going to outline why writing a static website generator is the perfect task for this sort of language learning project. I'll cover the code you'll need to write in order to develop a simple template-based website generation system, and show how this particular project actually manages to hit all the points you need to understand to claim basic understanding of a language.

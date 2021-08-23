@@ -9,7 +9,7 @@ presenters:
   osem_url: https://osem.seagl.org/users/348
   gravatar_id: cd04332d03bec6538d2b6279dbf457f9
   biography: Liam Newman has spent the majority of his software engineering career
-    implementing Continuous Integration systems at companies big and small.  He is
+    implementing Continuous Integration systems at companies big and small. He is
     a Jenkins project contributor and an expert in Jenkins Pipeline, both Scripted
     and Declarative. When not at work, he enjoys testing gravity by doing Aikido.
 ---

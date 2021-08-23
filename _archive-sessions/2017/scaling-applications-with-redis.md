@@ -18,8 +18,12 @@ Using Redis for
 - As queue for running background jobs
 - Storing rapidly changing data
 
-I will be sharing real world examples of practical solutions to scale applications.  It will be intermediate to advanced level talk.  It is best to have some Redis experience and understanding of key/value data stores, caching and queues.  Or exposure to alternative technologies such as Memcache or RabbitMQ.  
+I will be sharing real world examples of practical solutions to scale
+applications.  It will be intermediate to advanced level talk.  It is best to
+have some Redis experience and understanding of key/value data stores, caching
+and queues.  Or exposure to alternative technologies such as Memcache or
+RabbitMQ.
 
-Checkout https://www.meetup.com/Seattle-Redis for more Redis info.  
+Checkout <https://www.meetup.com/Seattle-Redis> for more Redis info.
 
-For those of you who could not attend, here are the slides https://docs.google.com/presentation/d/1ohEaLzaUMDy5uA2VcdEw4WtdZyqroOhK8a_W32bU_T8/edit?usp=sharing
+For those of you who could not attend, here are the slides <https://docs.google.com/presentation/d/1ohEaLzaUMDy5uA2VcdEw4WtdZyqroOhK8a_W32bU_T8/edit?usp=sharing>

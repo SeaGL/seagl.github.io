@@ -4,6 +4,7 @@ title: Making the mental shift from System Administration to System Architect/Te
 osem_url: https://osem.seagl.org/conferences/seagl2018/program/proposals/583
 beginning: '2018-11-10T10:00:00.000-08:00'
 end: '2018-11-10T10:25:00.000-08:00'
+keynote: true
 presenters:
 - name: Tameika Reed
   affiliation: Women in Linux

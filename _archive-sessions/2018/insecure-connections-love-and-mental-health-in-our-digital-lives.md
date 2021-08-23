@@ -3,6 +3,7 @@ title: 'Insecure Connections: Love and mental health in our digital lives'
 osem_url: https://osem.seagl.org/conferences/seagl2018/program/proposals/581
 beginning: '2018-11-09T10:00:00.000-08:00'
 end: '2018-11-09T10:25:00.000-08:00'
+keynote: true
 presenters:
 - name: M. de Blanc
   osem_url: https://osem.seagl.org/users/581

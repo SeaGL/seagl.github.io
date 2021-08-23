@@ -32,5 +32,5 @@ Now that she's passed, I'm hoping that the project can be a foundation or inspir
 
 #### References
 - Rokach, A. (2015) [The Dying and Those Who Care for Them](https://www.omicsonline.org/open-access/the-dying-and-those-who-care-for-them-jpc-1000101.php?aid=66704#5)
-- Ranjana, S. F.R.A.C.P. (2011) [The Loneliness of Visiting](http://www.nejm.org/doi/full/10.1056/NEJMp1013909?query=TOC&)
+- Ranjana, S. F.R.A.C.P. (2011) [The Loneliness of Visiting](https://www.nejm.org/doi/full/10.1056/NEJMp1013909?query=TOC)
 - Marie Curie Briefing (undated) [Inequities in palliative care – isolation and loneliness](https://www.mariecurie.org.uk/globalassets/media/documents/policy/briefings-consultations/scotland-briefings/marie-curie-briefing-inequities-isolation-loneliness.pdf)

@@ -23,30 +23,28 @@ Such as:
 
 - Executive sponsorship from multiple divisions
 - Legal approval
-- - License selection
-- - Parks legal
-- - WDI (Imagineering) legal
-- - Corporate legal
+  - License selection
+  - Parks legal
+  - WDI (Imagineering) legal
+  - Corporate legal
 - Intellectual Property considerations
-- - Copyright holder
-- - Corporate patent
-- - Parks patent
+  - Copyright holder
+  - Corporate patent
+  - Parks patent
 - Engineering approval
-- - Vulnerability and general security scan
-- - Dependency check
-- - OWASP analysis
-- - Codebase purge of proprietary code and information
+  - Vulnerability and general security scan
+  - Dependency check
+  - OWASP analysis
+  - Codebase purge of proprietary code and information
 - Evaluation of value to open source community
 - Branding
-- - Naming rules and name change proposal
-- - Trademark approval
+  - Naming rules and name change proposal
+  - Trademark approval
 - Enterprise use approval review
 - Ownership proposal and review
 - Creation of a Foundation
 
-I will also detail the model by which we independently funded the project outside of Disney’s, security education of our community, what we learned, how we’ve recently returned to open source with another major release, and our unique monetization strategy moving forward.
-
-—-
-
-I am an experienced speaker and have presented at SEAGL before.
-I am open to either a long or short talk.
+I will also detail the model by which we independently funded the project
+outside of Disney’s, security education of our community, what we learned, how
+we’ve recently returned to open source with another major release, and our
+unique monetization strategy moving forward.

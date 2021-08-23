@@ -17,13 +17,13 @@ presenters:
 User groups are an essential and flourishing part of the tech community, but it’s common for them to encounter obstacles to meeting regularly. This talk will be packed with practical tips to keep your UG growing and active.
 We’ll begin with advice for those starting a new user group, and then cover many of the common obstacles groups face. The bulk of the presentation will be comprised of solutions and tips for bypassing those common obstacles. Join us for a daring journey through the Speakerless Swamps, the No-Members Mountains, and the Foodless Flats. You’ll emerge well-equipped to make that journey on your own.
 
-Topics this talk will include: 
+Topics this talk will include:
 - Starting new groups
- - Finding the right venue 
-- Sourcing quality content and speakers 
+- Finding the right venue
+- Sourcing quality content and speakers
 - Sponsoring food and drink
- - Increasing visibility in the community
- - Creating an inclusive atmosphere 
+- Increasing visibility in the community
+- Creating an inclusive atmosphere
 - Plus: a map of the dangers ahead!
 
 These tips are based on finding creative workarounds to obstacles encountered by over 50 technology user groups while remotely running Puppet Labs’ Puppet User Group (PUG) program and frequently journeying into the wilds of technology user group organization without a map.

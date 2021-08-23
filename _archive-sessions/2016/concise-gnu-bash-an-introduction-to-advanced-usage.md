@@ -15,9 +15,7 @@ presenters:
     and brewing. James has presented on Bash usage at SCALE, OSCON, and LinuxCon Europe.
 ---
 
-Slides: [```
-bash_seagl_2016.pdf
-```](http://talk.jpnc.info/bash_seagl_2016.pdf)
+Slides: [`bash_seagl_2016.pdf`](http://talk.jpnc.info/bash_seagl_2016.pdf)
 
 A fast paced, broad (but not too shallow) introduction to Bash features for users familiar with command line environments who want to go beyond simple command execution.  Exciting concepts and syntax illustrated in the slides and demonstrated with live examples.
 

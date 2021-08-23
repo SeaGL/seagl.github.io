@@ -7,9 +7,9 @@ presenters:
 - name: Laurie Barth
   osem_url: https://osem.seagl.org/users/735
   gravatar_id: 73c904b42ab18917bc622cea0f75d270
-  biography: Laurie Barth has over 6 years of experience in the technology industry
+  biography: Laurie Barth has over 6 years of experience in the technology industry
     as a full stack developer, including 2 years as a Program Manager. She currently
-    works as a engineering consultant with Ten Mile Square in Washington, DC helping
+    works as a engineering consultant with Ten Mile Square in Washington, DC helping
     to solve complex problems for companies large and small. In Laurie’s spare time
     she can be found playing board games and solving puzzles.
 ---

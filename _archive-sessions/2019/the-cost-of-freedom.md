@@ -1,8 +1,9 @@
 ---
-title: Keynote - Lisha Sterling
+title: The Cost Of Freedom
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/714
 beginning: '2019-11-15T09:30:00.000-08:00'
 end: '2019-11-15T09:55:00.000-08:00'
+keynote: true
 presenters:
 - name: Lisha Sterling
   affiliation: Geeks Without Bounds
@@ -21,8 +22,6 @@ presenters:
     people (and their digital doppelgangers) safe while facing harassment from individuals,
     hate groups, and governments.
 ---
-
-The Cost Of Freedom     
 
 Google knows where you were last night. Amazon knows what you got for your birthday. Facebook can spill all the details of your life in a security breach or with a police warrant. They all farm you for your sweet, sweet data. No one bothers to sell you software any more. If you aren't the product they sell, then they just sell you a subscription to use their tools for a month or a year. The phone in your pocket? You don't actually own that, either. Even if you bought it outright, the End User License Agreement doesn't let you do anything too interesting with the hardware. (And breaking that EULA can lead to jail time if you become interesting to the wrong people.)
 

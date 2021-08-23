@@ -11,7 +11,7 @@ presenters:
   biography: |-
     Nishant Sharma is a Free Software & Libre Hardware entrepreneur. He is a Mechanical Engineer by education and has been making a living from Free Software since 2003.
 
-    He is Co-Founder & Tech Lead at [Unmukti Technology](http://unmukti.in), India, where he works on building Network Equipment like SD-WAN Gateways, VPN Appliances, Firewalls, Access Points, Home Edge Computing Gateways etc. These devices are branded as [Hopbox](http://hopbox.in). He has worked for [DeepRoot Linux](http://deeproot.in), an Indian VSAT ISP and a Pan-European ISP before founding Unmukti in 2010.
+    He is Co-Founder & Tech Lead at [Unmukti Technology](https://unmukti.in), India, where he works on building Network Equipment like SD-WAN Gateways, VPN Appliances, Firewalls, Access Points, Home Edge Computing Gateways etc. These devices are branded as [Hopbox](https://hopbox.in). He has worked for [DeepRoot Linux](https://deeproot.in), an Indian VSAT ISP and a Pan-European ISP before founding Unmukti in 2010.
 
     Nishant was lead translator for Debian Installer l10n to Hindi during 2006-07 and a OpenStreetMap volunteer mapper. He actively contributes to OpenWrt project and its packages.
 

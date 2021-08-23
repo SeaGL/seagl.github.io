@@ -1,6 +1,6 @@
 ---
-title: 'You Can''t Launch a Spaceship if All You Hire Are Astronauts: Other Jobs in
-  Technology'
+title: "You Can't Launch a Spaceship if All You Hire Are Astronauts: Other Jobs in
+  Technology"
 osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/318
 beginning: '2017-10-06T13:30:00.000-07:00'
 end: '2017-10-06T13:50:00.000-07:00'

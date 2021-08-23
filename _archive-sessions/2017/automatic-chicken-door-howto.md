@@ -34,4 +34,4 @@ This talk isn't about carpentry--you'll have to ask my wife about that.
 * [slides](https://github.com/meonkeys/seagl2017-rpi-talk)
 * [video](https://archive.org/details/AutomaticChickenDoorHOWTOATalkByAdamMonsenAtSeaGL2017)
 * [source code for door controller](https://github.com/meonkeys/rpi-chx-code)
-* [follow-up blog post](http://adammonsen.com/post/1425)
+* [follow-up blog post](https://adammonsen.com/post/1425)

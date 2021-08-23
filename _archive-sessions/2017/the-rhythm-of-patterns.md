@@ -9,7 +9,7 @@ presenters:
   gravatar_id: 85e4d118bbf6b514eec28ad4e2c19706
   biography: |-
     Susan Harris is a piano teacher and pianist. She began studying the piano in England, at the age of seven, later receiving a BA (Hons) music degree and then a Post Grad in Music Education from Reading University.
-    As well as her degree in music and Post Grad in Education, Susan is a Licentiate of the Guildhall School of Music, London. 
+    As well as her degree in music and Post Grad in Education, Susan is a Licentiate of the Guildhall School of Music, London.
     For many years Susan taught in schools including orchestra and choir, as well as piano. Her Ofsted reports rated her as ‘Outstanding’.
 ---
 

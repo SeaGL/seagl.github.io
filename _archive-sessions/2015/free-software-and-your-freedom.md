@@ -3,6 +3,7 @@ title: Free Software and Your Freedom
 osem_url: https://osem.seagl.org/conferences/seagl2015/program/proposals/85
 beginning: '2015-10-24T16:00:00.000-07:00'
 end: '2015-10-24T18:30:00.000-07:00'
+keynote: true
 presenters:
 - name: Richard M. Stallman
   affiliation: Free Software Foundation

@@ -11,9 +11,7 @@ presenters:
   biography: Polyglot developer with an eye towards security, automation and quality.
 ---
 
-###### I will be sharing my learnings about security testing applications sooner and more often. Let's start a movement!
-#### Topic: Security/InfoSec
-#### Audience: Beginner to Intermediate
+*I will be sharing my learnings about security testing applications sooner and more often. Let's start a movement!*
 
 CI/CD has greatly reduced the time to market for releasing new software.
 Security and InfoSec are rapidly gaining importance and complexity, but unfortunately their supporting processes and tools have not benefited as much from automation and modernization as other processes and tools used by development teams.
@@ -32,7 +30,7 @@ My short talk will focus on a prototype pipeline that demonstrates how to implem
 Attendees will come away with better understanding of
  - different types of security tests
 
- - what should be automated  
+ - what should be automated
 
  - what should *not* be automated
 

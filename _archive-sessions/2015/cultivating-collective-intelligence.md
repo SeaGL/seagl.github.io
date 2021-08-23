@@ -18,7 +18,7 @@ Today’s civic tech landscape is littered with good ideas from intelligent peop
 This presentation will focus on discussing the principles, characteristics and features that would be important in a civic tech acceleration platform.
 
 We imagine four primary use cases:
--    Activists identify communities to which they belong and the issues they care about, then are pointed towards civic tech apps that address their concern.  
+-    Activists identify communities to which they belong and the issues they care about, then are pointed towards civic tech apps that address their concern.
 -    Developers submit civic tech apps to be featured on the site and find projects to contribute to.
 -    Donors research projects and development teams, and give with greater confidence.
 -    Leaders connect civic participation to real-world outcomes.

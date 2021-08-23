@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2018/program/proposals/551
 beginning: '2018-11-09T13:30:00.000-08:00'
 end: '2018-11-09T14:20:00.000-08:00'
 presenters:
-- name: edunham
+- name: E. Dunham
   affiliation: Mozilla
   osem_url: https://osem.seagl.org/users/45
   gravatar_id: 5e3a5b03dcbda6bfb39cb98060c43034
@@ -19,4 +19,4 @@ Many FLOSS enthusiasts exact perfect control of every bit and byte in their digi
 
 This talk will take a quick spin through the underlying principles of fabric materials and construction, then share everything you need to know to mend, re-shape, or add pockets to your clothes. And of course, we’ll talk about when you should and shouldn’t sew with floss.
 
-Slides online at http://talks.edunham.net/seagl2018/sewingtalk.pdf
+Slides online at <https://talks.edunham.net/seagl2018/sewingtalk.pdf>

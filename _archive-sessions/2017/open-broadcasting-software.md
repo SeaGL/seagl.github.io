@@ -17,14 +17,3 @@ presenters:
 ---
 
 OBS Studio is a FLOSS application that puts you in the directors chair for live streaming or recording. It is built as an application to help video game or creative streamers share their computer screens with a live audience, but it's power goes beyond that. Anyone who is using their computer to tell a story can benefit from the professional touch that OBS can provide. It can manage multiple capture devices, independently combine captured window areas, and overlay text and graphics. I'll show you what this software can do and what you can do with it. A simple example: Presenters often like to include their twitter handle on their slides. When the presenter goes to the terminal, the twitter handle isn't displayed. If the presenter uses obs studio to control the projector display, obs studio can trivially be configured to overlay a twitter handle, company graphic, whatever.
-
-~~~~~ notes for committee ~~~~~~
-
-Hi!!! I'm Spencer. Get hype for SeaGL hyperoni!
-
-I'm going to talk about what OBS was built for, and how to do some basic things with it. Then I'll talk about the other applications I've discovered and started using: booth displays, conference presentations, etc.
-
-I'll also spend a little bit talking about how OBS Studio is not a typical FLOSS application. Their install base is massive, their twitter account has over 70k followers, the application was built for windows first, but works on Linux. If you go to a computer parts store and look at high-to-medium end webcams and microphones, they have 'works with OBS' stamped on the box. Not since the Tux stickers have we seen that on consumer electronics.
-
-
-goals: how can a meetup group use this to stream the presentation

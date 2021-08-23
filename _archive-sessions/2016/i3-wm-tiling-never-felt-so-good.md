@@ -15,9 +15,8 @@ presenters:
     interests and hobbies as well, including art, dance, engineering, and design.
     To find more in-depth information about who I am, my current projects (and their
     source code if applicable), and even my contact info, then head over to https://jessewalling.com
+- name: Matt Kelsey
 ---
-
-NOTE: Presentation would be done by two people: I (Jesse Walling 'jpwall') and Matt Kelsey 'mattkelsey' with 2 years of experience of i3 between the two of them
 
 Choosing a distribution is important, but of equal or greater importance is choosing a window manager. Your window manager defines how you interact with your system and choosing the correct one for you can drastically change the feel of the OS. Amidst the myriad of managers it can be a daunting task to find the right one. Anyone who has booted to a live CD has most likely heard of Unity, GNOME, and maybe even Cinnamon. But it is unusual to meet someone who has heard of, let alone runs, i3.
 

@@ -15,7 +15,7 @@ presenters:
 
     Currently, he's a Customer Data Engineer at Object Rocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
 Want to take your shell scripting to the next level? Interested in adding string manipulation and arrays to your arsenal? In shell math?

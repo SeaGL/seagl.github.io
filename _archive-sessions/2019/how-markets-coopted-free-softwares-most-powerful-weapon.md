@@ -1,8 +1,9 @@
 ---
-title: Keynote - Benjamin Mako Hill
+title: How markets coopted free software’s most powerful weapon
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/713
 beginning: '2019-11-16T09:30:00.000-08:00'
 end: '2019-11-16T09:55:00.000-08:00'
+keynote: true
 presenters:
 - name: Benjamin Mako Hill
   affiliation: University of Washington
@@ -20,8 +21,6 @@ presenters:
     He is the author of several best-selling technical books, a member of the Free
     Software Foundation board of directors and an advisor to the Wikimedia Foundation.
 ---
-
-How markets coopted free software’s most powerful weapon
 
 App stores and the so-called “sharing economy” are two examples of business models that rely on techniques for the mass aggregation of distributed participation over the Internet and that imply didn’t exist a decade ago. In my talk, I argue that the firms pioneering these new models have learned and adapted processes from commons-based peer production projects like free software, Wikipedia, and CouchSurfing.
 
