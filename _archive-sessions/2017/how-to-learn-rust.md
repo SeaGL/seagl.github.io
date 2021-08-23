@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/378
 beginning: '2017-10-06T13:30:00.000-07:00'
 end: '2017-10-06T13:50:00.000-07:00'
 presenters:
-- name: edunham
+- name: E. Dunham
   affiliation: Mozilla
   osem_url: https://osem.seagl.org/users/45
   gravatar_id: 5e3a5b03dcbda6bfb39cb98060c43034

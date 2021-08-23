@@ -1,5 +1,5 @@
 ---
-title: 'PHP isn''t just for the web anymore: Daemonizing PHP'
+title: "PHP isn't just for the web anymore: Daemonizing PHP"
 osem_url: https://osem.seagl.org/conferences/seagl2018/program/proposals/443
 beginning: '2018-11-10T10:45:00.000-08:00'
 end: '2018-11-10T11:35:00.000-08:00'

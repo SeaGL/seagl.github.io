@@ -16,7 +16,7 @@ presenters:
     he has never been fed before.
 ---
 
-We like to think that diversity has increased over time--contributors have stuck around as they age, students are excited to get started, initiatives are making space for people of color, trans* individuals, women, and other groups underrepresented in free software. We like to think we are doing better at recognizing the wide range of contributions and that more people are getting involved from all spheres of skill type, level, and experience.  
+We like to think that diversity has increased over time--contributors have stuck around as they age, students are excited to get started, initiatives are making space for people of color, trans* individuals, women, and other groups underrepresented in free software. We like to think we are doing better at recognizing the wide range of contributions and that more people are getting involved from all spheres of skill type, level, and experience.
 
 But is this true? Molly de Blanc, a free software activist with a fondness for numbers and data, analyzed the results from four community surveys from 2003, 2013, 2016, and 2017 (as well as other bits of data around the internet). With fourteen (incomplete) years of community data, she'll attempt to quantify the ways the make up of free software has changed, where we're not doing as well as we'd like, and how we can do better.
 

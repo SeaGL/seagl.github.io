@@ -17,11 +17,11 @@ presenters:
 
 So, you're responsible for a growing an open source community and you want to ensure it's a friendly place for newcomers and old-timers alike. You want to make sure everyone feels welcome and has access to a variety of events (both on and offline) with content that meets the needs of all of your user base from beginner to advanced.  This talk will...
 
-*Discuss how to create events that include your entire user base - beginners, advanced and diverse attendees
-*Talk about the value of in person and online events and how to target them to your audience
-*Talk about the value of hosting local community events into your office and tips for how to do it
-*Talk about the role that an event code of conduct plays in making spaces inclusive, as well as other aspects.
+* Discuss how to create events that include your entire user base - beginners, advanced and diverse attendees
+* Talk about the value of in person and online events and how to target them to your audience
+* Talk about the value of hosting local community events into your office and tips for how to do it
+* Talk about the role that an event code of conduct plays in making spaces inclusive, as well as other aspects.
 
 After the talk, attendees should:
 
-*Understand the value of planning a variety of events for your user base and have tips for how to do it with a mind to creating an inclusive event for all.
+* Understand the value of planning a variety of events for your user base and have tips for how to do it with a mind to creating an inclusive event for all.

@@ -1,10 +1,10 @@
 ---
-title: 'State: It''s What''s Happening'
+title: "State: It's What's Happening"
 osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/174
 beginning: '2016-11-12T13:00:00.000-08:00'
 end: '2016-11-12T14:00:00.000-08:00'
 presenters:
-- name: jberkus
+- name: Josh Berkus
   affiliation: Red Hat Project Atomic
   osem_url: https://osem.seagl.org/users/358
   gravatar_id: e49b70b058716dd9dea73a14a1d9856e

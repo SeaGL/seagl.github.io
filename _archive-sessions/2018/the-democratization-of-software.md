@@ -3,6 +3,7 @@ title: The Democratization of Software
 osem_url: https://osem.seagl.org/conferences/seagl2018/program/proposals/582
 beginning: '2018-11-10T09:30:00.000-08:00'
 end: '2018-11-10T09:55:00.000-08:00'
+keynote: true
 presenters:
 - name: Stephen Walli
   osem_url: https://osem.seagl.org/users/576

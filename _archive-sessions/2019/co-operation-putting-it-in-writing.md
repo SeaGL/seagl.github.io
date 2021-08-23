@@ -19,7 +19,7 @@ presenters:
     communication ideals.
 ---
 
-Just as [copy-left](https://en.wikipedia.org/wiki/Copyleft) uses principles of intellectual property rights to legally protect free and open source software, [co-operatives](https://en.wikipedia.org/wiki/Cooperative) use principles of business ownership to legally protect their collaborative relationships.  
+Just as [copy-left](https://en.wikipedia.org/wiki/Copyleft) uses principles of intellectual property rights to legally protect free and open source software, [co-operatives](https://en.wikipedia.org/wiki/Cooperative) use principles of business ownership to legally protect their collaborative relationships.
 
 This talk is an exploration of co-operative organization forms for free and open source projects, projects that may or may not be formal entities.  We'll cover a little bit of basic principles, a little bit of example tech co-operatives, and hopefully a good amount of time for questions, news and brainstorms.
 

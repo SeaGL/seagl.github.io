@@ -15,7 +15,7 @@ presenters:
 
     Currently, he's a Customer Data Engineer at Object Rocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
 SSH is the go to tool for sysadmins and developers for interactive connections to remote machines. It creates secure, encrypted connections between computers, even across hostile networks. Unless you accept keys without verification (DON'T DO THAT!!!).

@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/177
 beginning: '2016-11-11T14:00:00.000-08:00'
 end: '2016-11-11T15:00:00.000-08:00'
 presenters:
-- name: tessamero
+- name: Tessa Mero
   affiliation: Cisco and Joomla
   osem_url: https://osem.seagl.org/users/360
   gravatar_id: 28f81425e759ca8479e9c85b605eb7d9

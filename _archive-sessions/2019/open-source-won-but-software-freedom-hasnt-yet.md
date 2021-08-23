@@ -1,6 +1,6 @@
 ---
-title: 'Open Source Won, but Software Freedom Hasn''t Yet: A Guide & Commiseration
-  Session for FOSS activists'
+title: "Open Source Won, but Software Freedom Hasn't Yet: A Guide & Commiseration
+  Session for FOSS activists"
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/659
 beginning: '2019-11-16T13:00:00.000-08:00'
 end: '2019-11-16T13:50:00.000-08:00'
@@ -19,7 +19,7 @@ presenters:
     \ Kuhn's non-profit career began in 2000 at the Free Software Foundation (FSF).
     \ As FSF's Executive Director from 2001&ndash;2005, Kuhn led [GPL enforcement](https://www.fsf.org/licensing),
     launched [its Associate Member program](https://www.fsf.org/associate/), and invented
-    [the Affero GPL](http://www.gnu.org/licenses/agpl-3.0.html).  Kuhn began as Conservancy's
+    [the Affero GPL](https://www.gnu.org/licenses/agpl-3.0.html).  Kuhn began as Conservancy's
     primary volunteer from 2006&ndash;2010, and became its first staffer in 2011.
     \ Kuhn holds a B.S. in Computer Science from [Loyola University in Maryland](https://www.loyola.edu/academics/computer-science),
     and an M.S. in Computer Science from the [University of Cincinnati](http://www.cs.uc.edu/).

@@ -26,4 +26,4 @@ The focus will be on common examples of reproducibility issues,
 tools to troubleshoot reproducibility issues, and most importantly,
 ways to fix these issues.
 
-https://reproducible-builds.org/
+<https://reproducible-builds.org/>

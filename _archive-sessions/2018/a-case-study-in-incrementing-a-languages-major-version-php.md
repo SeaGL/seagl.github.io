@@ -1,5 +1,5 @@
 ---
-title: 'A case study in incrementing a language''s major version: PHP'
+title: "A case study in incrementing a language's major version: PHP"
 osem_url: https://osem.seagl.org/conferences/seagl2018/program/proposals/560
 beginning: '2018-11-10T13:30:00.000-08:00'
 end: '2018-11-10T14:20:00.000-08:00'

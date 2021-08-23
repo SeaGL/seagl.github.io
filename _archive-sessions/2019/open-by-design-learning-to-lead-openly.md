@@ -1,8 +1,9 @@
 ---
-title: Keynote - Abigail Cabunoc Mayes
+title: 'Open by Design: Learning to Lead Openly'
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/715
 beginning: '2019-11-15T10:00:00.000-08:00'
 end: '2019-11-15T10:25:00.000-08:00'
+keynote: true
 presenters:
 - name: Abigail Cabunoc Mayes
   osem_url: https://osem.seagl.org/users/945
@@ -14,8 +15,6 @@ presenters:
 
     Named in “100 awesome women in open source” by source{d}. Editor Emeritus, the Journal of Open Source Software.
 ---
-
-Open by Design: Learning to Lead Openly
 
 Free/libre and open source software has unlocked countless digital innovations. At the same time, we’ve seen these projects struggle to be sustainable, secure and inclusive.
 

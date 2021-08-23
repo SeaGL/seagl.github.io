@@ -8,13 +8,14 @@ presenters:
   affiliation: North Bay Python
   osem_url: https://osem.seagl.org/users/613
   gravatar_id: 62e3dd421b8c075597cee7ad4eb74baf
-  biography: 'Christopher is an Australian programmer now based in glorious Petaluma,
-    California. He''s a programmer of all sorts, and over the last year has been knee-deep
+  biography: |-
+    Christopher is an Australian programmer now based in glorious Petaluma,
+    California. He's a programmer of all sorts, and over the last year has been knee-deep
     in backend web development with Django. Christopher is strongly interested in
     developing the Australian and International Python communities: he was director
-    of linux.conf.au 2017, is on the organising committee for PyCon Australia. He''s
+    of linux.conf.au 2017, is on the organising committee for PyCon Australia. He's
     a past board member of Linux Australia, and has been a fellow of the Python Software
-    Foundation since 2013.'
+    Foundation since 2013.
 ---
 
 Did you know that most people are not the same as most other people? I know, it surprised me too.

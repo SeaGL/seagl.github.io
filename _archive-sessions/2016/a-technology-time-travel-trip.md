@@ -5,7 +5,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/132
 beginning: '2016-11-11T10:45:00.000-08:00'
 end: '2016-11-11T11:45:00.000-08:00'
 presenters:
-- name: jjs0sbw
+- name: Joseph J. Simpson
   affiliation: Systems Concepts
   osem_url: https://osem.seagl.org/users/327
   gravatar_id: 8aaaa67257f61de0c6537b5c24e27a81

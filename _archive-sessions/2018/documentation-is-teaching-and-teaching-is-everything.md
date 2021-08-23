@@ -21,9 +21,9 @@ Creating good documentation is not easy, but it is just as necessary as writing 
 
 Some of the elements of good documentation are:
 
-    Concise and to the point
-    Task-oriented and procedural, with examples of both correct and incorrect results
-    Simple and direct: teach one thing at a time
+  - Concise and to the point
+  - Task-oriented and procedural, with examples of both correct and incorrect results
+  - Simple and direct: teach one thing at a time
 
 After you have created your documentation people must be able to find it, and find what they want in it. And then someone has to maintain it.
 

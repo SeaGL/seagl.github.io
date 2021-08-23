@@ -15,7 +15,7 @@ presenters:
 
     Currently, he's a Customer Data Engineer at Object Rocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
 etckeeper tracks changes in /etc/ with version control. It ties into package management systems for automagic checkins after updates. It also records important metadata such as permissions and ownership that version control systems (VCS) usually do not track.

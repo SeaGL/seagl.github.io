@@ -23,4 +23,4 @@ What's all the fuss with the command line? Why should you bother with this arcan
 
 All talk materials are published under copyleft licenses.
 
-[Follow-up (video, slides, code)](http://adammonsen.com/post/1342)
+[Follow-up (video, slides, code)](https://adammonsen.com/post/1342)

@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/287
 beginning: '2017-10-07T16:30:00.000-07:00'
 end: '2017-10-07T17:20:00.000-07:00'
 presenters:
-- name: garrett honeycutt
+- name: Garrett Honeycutt
   affiliation: Tailored Automation
   osem_url: https://osem.seagl.org/users/67
   gravatar_id: 965eaf24096906071b12c72d1c0d8a32

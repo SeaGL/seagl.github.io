@@ -36,12 +36,12 @@ This talk outlines a 12-step guide consisting of the following steps:
 
 Open Source tools and technologies covered:
 
-PfSense, Openswan, OpenVPN
-SELinux, App Armor, Dm-crypt
-Nginx, ModSecurity
-Samba/Winbind, OpenLDAP
-Logstash, Nagios, Ganglia
-Metasploit, Nessus
-Ansible, Docker, Jenkins
+- PfSense, Openswan, OpenVPN
+- SELinux, App Armor, Dm-crypt
+- Nginx, ModSecurity
+- Samba/Winbind, OpenLDAP
+- Logstash, Nagios, Ganglia
+- Metasploit, Nessus
+- Ansible, Docker, Jenkins
 
 We will be going over each step in detail, so attendees can understand the importance of underlying security domains and learn how to go about implementing them using open source solutions alone. I will also be sharing my personal experiences and best practices when it comes to implementing a security framework for the cloud using open source tools and technologies.

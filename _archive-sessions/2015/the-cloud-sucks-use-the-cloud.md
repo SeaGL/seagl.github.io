@@ -14,16 +14,13 @@ presenters:
     living in Minneapolis, Spencer is a data scientist in training, working on the
     rich data produced by competitive esports. Spencer has been speaking and writing
     on tech since 2013.
+- name: William Van Hevelingen
+  biography: |-
+    William Van Hevelingen is a Cloud Systems Engineer at Acquia where he helps manage and maintain 10,000+ AWS instances.
+
+    Prior to joining Acquia, William was the Lead Linux Administrator at Portland State University’s Maseeh College of Engineering and Computer Science. He taught students Linux and Unix system administration through the PSU Computer Action Team’s Braindump program.
+
+    William is a Co-Author of Pro Puppet Edition II from Apress.
 ---
 
 Clouds suck. We'll explain the shortcomings of both Amazon and OpenStack clouds. We'll share our first-hand experiences with cloud failures and other failures resulting from using the cloud. These failures should amuse and terrify any sysadmin. After fully convincing you that clouds are terrible, we'll come back and show you why they are the best option and you should use them.
-
-Also Presenting: William Van Hevelingen
-
-Bio:
-
-William Van Hevelingen is a Cloud Systems Engineer at Acquia where he helps manage and maintain 10,000+ AWS instances.
-
-Prior to joining Acquia, William was the Lead Linux Administrator at Portland State University’s Maseeh College of Engineering and Computer Science. He taught students Linux and Unix system administration through the PSU Computer Action Team’s Braindump program.
-
-William is a Co-Author of Pro Puppet Edition II from Apress.

@@ -15,7 +15,7 @@ presenters:
 
     Currently, he's a Customer Data Engineer at Object Rocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
 There's always a small database somewhere that gets pushed to system administrators without DBA support. Learn some basic skills for maintaining that database. The same skills will help in the middle-ground between sysadmin and DBA.

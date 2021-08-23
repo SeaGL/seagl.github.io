@@ -15,6 +15,6 @@ Most people associate reverse engineering with software exploits and malware. Bu
 
 In this talk, we will explore the reverse engineering process by taking the data files from an old computer game, and use reverse-engineering techniques to learn how to read them.
 
-[Text of the presentation](http://www.muppetlabs.com/~breadbox/txt/bure.html)
+[Text of the presentation](https://www.muppetlabs.com/~breadbox/txt/bure.html)
 
 [Notes from the talk](https://twitter.com/BR903/status/1061533093956206592)

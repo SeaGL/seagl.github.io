@@ -15,7 +15,7 @@ presenters:
 
     Currently, he's a Customer Data Engineer at Object Rocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
 Debian-based package management has been rock solid for many years.

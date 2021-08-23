@@ -17,4 +17,4 @@ You can learn a lot about what programs are doing under the hood by examining th
 
 Some of this talk will be a bit of a rehash of my YouTube video on the subject, but this will be a longer, more in-depth dive into the world of GNU/Linux system calls and strace.
 
-This talk is finished, but you can [view the slides here](http://www.muppetlabs.com/~mikeh/systemcalls.pdf).
+This talk is finished, but you can [view the slides here](https://www.muppetlabs.com/~mikeh/systemcalls.pdf).

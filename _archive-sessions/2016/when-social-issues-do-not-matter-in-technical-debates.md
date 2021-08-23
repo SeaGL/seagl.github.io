@@ -25,5 +25,5 @@ This talk introduces specific methods of getting beyond 'objectivity versus subj
 
 Suggestions offered here are based on the Theory of Communicative Rationality, of Jurgen Habermas.
 
-https://en.wikipedia.org/wiki/Communicative_rationality
-https://en.wikipedia.org/w/index.php?title=Jurgen_Habermas
+<https://en.wikipedia.org/wiki/Communicative_rationality>  
+<https://en.wikipedia.org/w/index.php?title=Jurgen_Habermas>
