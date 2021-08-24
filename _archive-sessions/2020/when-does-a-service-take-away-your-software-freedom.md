@@ -1,9 +1,10 @@
 ---
 title: When does a service take away your software freedom?
-internet_archive_identifier: SeaGL2020-Ian_Kelling-When_does_a_service_take_away_your_software_freedom
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/792
 beginning: '2020-11-14T13:15:00.000-08:00'
 end: '2020-11-14T13:45:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Ian_Kelling-When_does_a_service_take_away_your_software_freedom
 presenters:
 - name: Ian Kelling
   affiliation: Free Software Foundation

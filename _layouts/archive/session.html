@@ -6,10 +6,10 @@ layout: page
 {% capture year %}{{ session.beginning | date: '%Y' }}{% endcapture %}
 
 <div class="col-xs-12 col-lg-10 col-lg-push-1">
-  {% if session.internet_archive_identifier %}
-  <figure style="margin-bottom: 1em;">
+  {% if session.resources and session.resources.internet_archive_identifier %}
+  <figure>
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://archive.org/embed/{{ session.internet_archive_identifier }}" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      <iframe class="embed-responsive-item" src="https://archive.org/embed/{{ session.resources.internet_archive_identifier }}" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </div>
 
     <figcaption class="text-muted">
@@ -21,7 +21,7 @@ layout: page
 
   <div class="row">
     <div class="col-xs-12 col-md-7">
-      <h2 style="margin-top: 0;">{{ session.title }}</h2>
+      <h2>{{ session.title }}</h2>
 
       <p>
         {% if session.keynote %}
@@ -33,6 +33,9 @@ layout: page
     </div>
 
     <div class="col-xs-12 col-md-5">
+      {% if session.presenters %}
+      <h3>Presenters</h3>
+
       {% for presenter in session.presenters %}
       <div class="media">
         <div class="media-left">
@@ -44,6 +47,17 @@ layout: page
         </div>
       </div>
       {% endfor %}
+      {% endif %}
+
+      {% if session.resources %}
+      <h3>Resources</h3>
+
+      <ul>
+        {% if session.resources.internet_archive_identifier %}
+        <li><a href="https://archive.org/details/{{ session.resources.internet_archive_identifier }}">Video Recording</a></li>
+        {% endif %}
+      </ul>
+      {% endif %}
     </div>
   </div>
 

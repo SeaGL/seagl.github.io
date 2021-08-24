@@ -1,9 +1,10 @@
 ---
 title: Let's Make Games with Rust
-internet_archive_identifier: SeaGL2020-Elijah_C_Voigt-Lets_Make_Games_with_Rust
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/737
 beginning: '2020-11-13T14:00:00.000-08:00'
 end: '2020-11-13T14:30:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Elijah_C_Voigt-Lets_Make_Games_with_Rust
 presenters:
 - name: Elijah C. Voigt
   affiliation: CloudBolt Software

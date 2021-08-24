@@ -1,9 +1,10 @@
 ---
 title: 'Contacts to Connections: CRM funneling for projects and people'
-internet_archive_identifier: SeaGL2020-Wm_Salt_Hale-Contacts_to_Connections_CRM_funneling_for_projects_and_people
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/795
 beginning: '2020-11-14T13:15:00.000-08:00'
 end: '2020-11-14T13:45:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Wm_Salt_Hale-Contacts_to_Connections_CRM_funneling_for_projects_and_people
 presenters:
 - name: Wm Salt Hale
   affiliation: Snowdrift.coop

@@ -1,9 +1,10 @@
 ---
 title: Introducing FOSS Culture at Universities
-internet_archive_identifier: SeaGL2020-Suraj_Kumar_Mahto-Introducing_FOSS_Culture_at_Universities
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/756
 beginning: '2020-11-13T11:30:00.000-08:00'
 end: '2020-11-13T12:00:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Suraj_Kumar_Mahto-Introducing_FOSS_Culture_at_Universities
 presenters:
 - name: Suraj Kumar Mahto
   affiliation: Developer Lead at Hackathon and Coding Club, BIT Sindri (hnccbits.com)

@@ -1,9 +1,10 @@
 ---
 title: Building Alternative Networks for Fun and Resistance
-internet_archive_identifier: SeaGL2020-Lisha_Sterling-Building_Alternative_Networks_for_Fun_and_Resistance
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/798
 beginning: '2020-11-14T14:00:00.000-08:00'
 end: '2020-11-14T14:30:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Lisha_Sterling-Building_Alternative_Networks_for_Fun_and_Resistance
 presenters:
 - name: Lisha Sterling
   affiliation: Geeks Without Bounds
