@@ -6,7 +6,8 @@ layout: page
 {% capture year %}{{ session.beginning | date: '%Y' }}{% endcapture %}
 
 <div class="col-xs-12 col-lg-10 col-lg-push-1">
-  {% if session.resources and session.resources.internet_archive_identifier %}
+  {% if session.resources %}
+  {% if session.resources.internet_archive_identifier %}
   <figure>
     <div class="embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="https://archive.org/embed/{{ session.resources.internet_archive_identifier }}" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -17,6 +18,21 @@ layout: page
       If you value their service, please consider thanking them with a small donation.
     </figcaption>
   </figure>
+  {% elsif session.resources.youtube_id %}
+  <figure>
+    <div class="embed-responsive embed-responsive-16by9">
+      <div class="embed-responsive-item embed-placeholder">
+        <p>This video is hosted on YouTube.</p>
+
+        <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/{{ session.resources.youtube_id }}">View</a></p>
+
+        <template>
+          <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/{{ session.resources.youtube_id }}?modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+        </template>
+      </div>
+    </div>
+  </figure>
+  {% endif %}
   {% endif %}
 
   <div class="row">
@@ -80,3 +96,5 @@ layout: page
     </div>
   </div>
 </div>
+
+<script defer src="/js/embed-placeholder.js"></script>
