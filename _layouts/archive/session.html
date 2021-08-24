@@ -23,9 +23,11 @@ layout: page
     <div class="col-xs-12 col-md-7">
       <h2 style="margin-top: 0;">{{ session.title }}</h2>
 
-      {% if session.keynote %}
-      <span class="label label-default">Keynote</span>
-      {% endif %}
+      <p>
+        {% if session.keynote %}
+        <span class="label label-default">Keynote</span>
+        {% endif %}
+      </p>
 
       {{ content }}
     </div>
