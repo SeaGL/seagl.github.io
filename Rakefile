@@ -19,13 +19,17 @@ task :import, [:year] do |_t, args|
                  .deep_transform_values! { |v| normalize(v) }
 
   # Parse records
+  conference_record = response[:data]
   records = response[:included].map { |r| [[r[:type], r[:id]], r] }.to_h
 
   # Create a file for the conference
+  frontmatter = {
+    'osem_url' => conference_record[:links][:self],
+  }.compact
   path = Pathname.new("_archive-conferences/#{year}.md")
   puts "Creating #{path}"
   path.dirname.mkpath
-  path.write("---\n---\n")
+  path.write("#{frontmatter.to_yaml}---\n")
 
   # Create a file for each event
   response[:data][:relationships][:events][:data].each do |e|
