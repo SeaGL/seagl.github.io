@@ -3,6 +3,8 @@ title: Project Hosting 3.0
 osem_url: https://osem.seagl.org/conferences/seagl2015/program/proposals/39
 beginning: '2015-10-23T13:00:00.000-07:00'
 end: '2015-10-23T13:50:00.000-07:00'
+resources:
+  youtube_id: Cp8iypjbja4
 presenters:
 - name: Lance Albertson
   affiliation: Oregon State University Open Source Lab (OSUOSL)

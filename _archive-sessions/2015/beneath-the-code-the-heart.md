@@ -6,6 +6,7 @@ end: '2015-10-24T16:00:00.000-07:00'
 keynote: true
 resources:
   internet_archive_identifier: SeaGL2015ShaunaGordonMcKeonKeynote
+  youtube_id: GlhiebhWXlQ
 presenters:
 - name: Shauna Gordon-McKeon
   osem_url: https://osem.seagl.org/users/148

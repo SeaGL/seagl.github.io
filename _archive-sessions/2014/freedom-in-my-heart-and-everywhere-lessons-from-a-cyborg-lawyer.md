@@ -6,6 +6,7 @@ end: 2014-10-25T10:20-07:00
 keynote: true
 resources:
   internet_archive_identifier: SeaGL2014KarenSandlerKeynote
+  youtube_id: DcHFQ53iykg
 presenters:
 - name: Karen Sandler
   lanyrd_url: http://lanyrd.com/profile/karen-sandler/
