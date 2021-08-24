@@ -3,6 +3,8 @@ title: '"Technical"ly Incorrect'
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/674
 beginning: '2019-11-15T16:45:00.000-08:00'
 end: '2019-11-15T17:05:00.000-08:00'
+resources:
+  internet_archive_identifier: technical_202001
 presenters:
 - name: Jerome Comeau
   osem_url: https://osem.seagl.org/users/924

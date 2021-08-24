@@ -3,6 +3,8 @@ title: 'Cutting Some Slack: Decoding IRC'
 osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/123
 beginning: '2016-11-11T10:45:00.000-08:00'
 end: '2016-11-11T11:45:00.000-08:00'
+resources:
+  internet_archive_identifier: seagl2016-irc
 presenters:
 - name: VM (Vicky) Brasseur
   osem_url: https://osem.seagl.org/users/321

@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/713
 beginning: '2019-11-16T09:30:00.000-08:00'
 end: '2019-11-16T09:55:00.000-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: co-opted
 presenters:
 - name: Benjamin Mako Hill
   affiliation: University of Washington

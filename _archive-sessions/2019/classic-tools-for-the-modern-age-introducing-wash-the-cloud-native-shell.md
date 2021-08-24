@@ -3,6 +3,8 @@ title: 'Classic Tools for the Modern Age: Introducing Wash, the cloud native she
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/605
 beginning: '2019-11-15T15:15:00.000-08:00'
 end: '2019-11-15T15:35:00.000-08:00'
+resources:
+  internet_archive_identifier: wash_20200110
 presenters:
 - name: Michael Smith
   affiliation: Puppet, Inc.

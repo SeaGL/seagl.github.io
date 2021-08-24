@@ -3,6 +3,8 @@ title: The command line - a versatile, future-proof computing environment
 osem_url: https://osem.seagl.org/conferences/seagl2015/program/proposals/31
 beginning: '2015-10-24T11:30:00.000-07:00'
 end: '2015-10-24T12:20:00.000-07:00'
+resources:
+  internet_archive_identifier: 20151024AdamMonsenSeagl2015CliTalk
 presenters:
 - name: Adam Monsen
   affiliation: SeaGL

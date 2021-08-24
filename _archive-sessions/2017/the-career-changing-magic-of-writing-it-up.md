@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/406
 beginning: '2017-10-07T09:30:00.000-07:00'
 end: '2017-10-07T10:30:00.000-07:00'
 keynote: true
+resources:
+  internet_archive_identifier: seagl2017-rikki-endsley-20171007
 presenters:
 - name: Rikki Endsley
   affiliation: Opensource.com

@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/714
 beginning: '2019-11-15T09:30:00.000-08:00'
 end: '2019-11-15T09:55:00.000-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: thecostoffreedom_202001
 presenters:
 - name: Lisha Sterling
   affiliation: Geeks Without Bounds

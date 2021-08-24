@@ -3,6 +3,8 @@ title: 'Passing the Baton: Succession planning for FOSS leadership'
 osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/299
 beginning: '2017-10-06T10:45:00.000-07:00'
 end: '2017-10-06T11:35:00.000-07:00'
+resources:
+  internet_archive_identifier: seagl2017-successionplanning
 presenters:
 - name: VM (Vicky) Brasseur
   osem_url: https://osem.seagl.org/users/321
