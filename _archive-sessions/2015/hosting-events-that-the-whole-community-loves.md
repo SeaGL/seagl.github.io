@@ -3,6 +3,8 @@ title: Hosting Events that the Whole Community Loves
 osem_url: https://osem.seagl.org/conferences/seagl2015/program/proposals/67
 beginning: '2015-10-23T10:00:00.000-07:00'
 end: '2015-10-23T10:50:00.000-07:00'
+resources:
+  youtube_id: coWT64vBd0c
 presenters:
 - name: Meg Hartley
   affiliation: Puppet Labs

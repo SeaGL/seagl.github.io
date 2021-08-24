@@ -6,6 +6,7 @@ end: '2015-10-24T18:30:00.000-07:00'
 keynote: true
 resources:
   internet_archive_identifier: SeaGL2015RichardStallmanKeynote
+  youtube_id: Gozju29s1NA
 presenters:
 - name: Richard M. Stallman
   affiliation: Free Software Foundation

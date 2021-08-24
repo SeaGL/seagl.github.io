@@ -5,6 +5,7 @@ beginning: 2014-10-25T14:00-07:00
 end: 2014-10-25T14:50-07:00
 resources:
   slides_url: https://slides.com/jessekeating/gtdansible
+  youtube_id: 9PqmlLd1zIU
 presenters:
 - name: Jesse Keating
   lanyrd_url: http://lanyrd.com/profile/jkeating/
