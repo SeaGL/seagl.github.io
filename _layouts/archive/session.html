@@ -53,8 +53,18 @@ layout: page
       <h3>Resources</h3>
 
       <ul>
+        {% if session.resources.slides_url %}
+        <li><a href="{{ session.resources.slides_url }}">Slides</a></li>
+        {% endif %}
+
         {% if session.resources.internet_archive_identifier %}
         <li><a href="https://archive.org/details/{{ session.resources.internet_archive_identifier }}">Video Recording</a></li>
+        {% elsif session.resources.youtube_id %}
+        <li><a href="https://youtu.be/{{ session.resources.youtube_id }}">Video Recording</a></li>
+        {% endif %}
+
+        {% if session.resources.audio_url %}
+        <li><a href="{{ session.resources.audio_url }}">Audio Recording</a></li>
         {% endif %}
       </ul>
       {% endif %}
