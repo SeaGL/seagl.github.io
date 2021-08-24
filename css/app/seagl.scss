@@ -150,6 +150,12 @@ ol > li > ol {
 .main-nav-links .navbar a {
   color: #fff;
 }
+.embed-placeholder {
+  align-items: center;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+}
 .embed-responsive {
   background-color: #ddd;
 }
