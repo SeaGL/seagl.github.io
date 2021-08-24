@@ -3,6 +3,8 @@ title: Empowering New Programmers Through Introductory Arduino Workshops
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/667
 beginning: '2019-11-15T13:30:00.000-08:00'
 end: '2019-11-15T14:20:00.000-08:00'
+resources:
+  internet_archive_identifier: seagl_arduino
 presenters:
 - name: Hailee Kenney
   affiliation: Bright.md & Django Girls PDX

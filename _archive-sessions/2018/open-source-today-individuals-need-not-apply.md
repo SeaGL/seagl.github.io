@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2018/program/proposals/579
 beginning: '2018-11-09T09:30:00.000-08:00'
 end: '2018-11-09T09:55:00.000-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: seagl2018-lyzjoseph-keynote
 presenters:
 - name: Elizabeth K. Joseph
   osem_url: https://osem.seagl.org/users/800

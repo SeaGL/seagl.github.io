@@ -3,6 +3,8 @@ title: Chaos in the system
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/682
 beginning: '2019-11-16T14:45:00.000-08:00'
 end: '2019-11-16T15:35:00.000-08:00'
+resources:
+  internet_archive_identifier: chaos_202001
 presenters:
 - name: AJ Jordan
   osem_url: https://osem.seagl.org/users/83

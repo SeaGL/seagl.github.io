@@ -3,6 +3,8 @@ title: 'Bash 101: platforms, user-space, and built-ins'
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/695
 beginning: '2019-11-16T13:00:00.000-08:00'
 end: '2019-11-16T13:50:00.000-08:00'
+resources:
+  internet_archive_identifier: bash_20200110
 presenters:
 - name: Ryan McKern
   osem_url: https://osem.seagl.org/users/927

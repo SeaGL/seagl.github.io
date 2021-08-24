@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/716
 beginning: '2019-11-16T10:00:00.000-08:00'
 end: '2019-11-16T10:25:00.000-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: imposter_202001
 presenters:
 - name: Sage Sharp
   osem_url: https://osem.seagl.org/users/946

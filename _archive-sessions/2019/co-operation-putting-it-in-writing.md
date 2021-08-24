@@ -3,6 +3,8 @@ title: 'Co-operation: Putting it in Writing'
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/673
 beginning: '2019-11-16T16:15:00.000-08:00'
 end: '2019-11-16T17:05:00.000-08:00'
+resources:
+  internet_archive_identifier: cooperation_202001
 presenters:
 - name: Katheryn Sutter
   affiliation: Delib-Rating.org

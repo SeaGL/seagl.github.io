@@ -3,6 +3,8 @@ title: Playing in the Sandbox
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/596
 beginning: '2019-11-16T10:45:00.000-08:00'
 end: '2019-11-16T11:35:00.000-08:00'
+resources:
+  internet_archive_identifier: sandbox_202001
 presenters:
 - name: Toby Betts
   osem_url: https://osem.seagl.org/users/892

@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/405
 beginning: '2017-10-06T09:30:00.000-07:00'
 end: '2017-10-06T10:30:00.000-07:00'
 keynote: true
+resources:
+  internet_archive_identifier: seagl2017-nithya-ruff-20171006
 presenters:
 - name: Nithya Ruff
   osem_url: https://osem.seagl.org/users/382

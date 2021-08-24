@@ -3,6 +3,8 @@ title: Automatic Chicken Door HOWTO
 osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/290
 beginning: '2017-10-06T13:00:00.000-07:00'
 end: '2017-10-06T13:20:00.000-07:00'
+resources:
+  internet_archive_identifier: AutomaticChickenDoorHOWTOATalkByAdamMonsenAtSeaGL2017
 presenters:
 - name: Adam Monsen
   affiliation: SeaGL

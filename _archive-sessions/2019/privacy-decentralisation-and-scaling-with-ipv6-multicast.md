@@ -3,6 +3,8 @@ title: Privacy, Decentralisation and Scaling with IPv6 Multicast
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/654
 beginning: '2019-11-15T10:45:00.000-08:00'
 end: '2019-11-15T11:35:00.000-08:00'
+resources:
+  internet_archive_identifier: multicast
 presenters:
 - name: Brett Sheffield
   affiliation: Librecast

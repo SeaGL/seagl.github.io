@@ -3,6 +3,8 @@ title: Adventures in De-Googling
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/672
 beginning: '2019-11-15T13:00:00.000-08:00'
 end: '2019-11-15T13:20:00.000-08:00'
+resources:
+  internet_archive_identifier: degoogling
 presenters:
 - name: Rachel Kelly
   affiliation: Fastly

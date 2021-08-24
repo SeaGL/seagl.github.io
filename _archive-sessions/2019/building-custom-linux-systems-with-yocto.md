@@ -3,6 +3,8 @@ title: Building Custom Linux Systems with Yocto
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/632
 beginning: '2019-11-15T15:15:00.000-08:00'
 end: '2019-11-15T16:05:00.000-08:00'
+resources:
+  internet_archive_identifier: yocto
 presenters:
 - name: Robert Joslyn
   osem_url: https://osem.seagl.org/users/910

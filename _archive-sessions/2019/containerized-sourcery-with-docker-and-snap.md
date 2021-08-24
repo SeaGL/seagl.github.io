@@ -3,6 +3,8 @@ title: Containerized sourcery with Docker and Snap
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/645
 beginning: '2019-11-15T13:00:00.000-08:00'
 end: '2019-11-15T13:20:00.000-08:00'
+resources:
+  internet_archive_identifier: dockerizedsorcery
 presenters:
 - name: Adam Monsen
   affiliation: SeaGL

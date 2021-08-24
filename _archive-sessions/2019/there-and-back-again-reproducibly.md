@@ -3,6 +3,8 @@ title: There and Back Again, Reproducibly!
 osem_url: https://osem.seagl.org/conferences/seagl2019/program/proposals/671
 beginning: '2019-11-16T14:00:00.000-08:00'
 end: '2019-11-16T14:20:00.000-08:00'
+resources:
+  internet_archive_identifier: reproducible_builds
 presenters:
 - name: Vagrant Cascadian
   affiliation: Reproducible Builds, Debian, Aikidev
