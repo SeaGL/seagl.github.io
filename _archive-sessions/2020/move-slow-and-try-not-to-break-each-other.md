@@ -1,9 +1,10 @@
 ---
 title: Move Slow and Try Not to Break Each Other
-internet_archive_identifier: SeaGL2020-Deb_Nicholson-Move_Slow_and_Try_Not_to_Break_Each_Other
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/748
 beginning: '2020-11-14T13:15:00.000-08:00'
 end: '2020-11-14T13:45:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Deb_Nicholson-Move_Slow_and_Try_Not_to_Break_Each_Other
 presenters:
 - name: Deb Nicholson
   affiliation: SeaGL

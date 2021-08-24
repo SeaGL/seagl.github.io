@@ -1,9 +1,10 @@
 ---
 title: Open Source Secrets Management
-internet_archive_identifier: SeaGL2020-Gareth_J_Greenaway-Open_Source_Secrets_Management
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/763
 beginning: '2020-11-13T11:30:00.000-08:00'
 end: '2020-11-13T12:00:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Gareth_J_Greenaway-Open_Source_Secrets_Management
 presenters:
 - name: Gareth J. Greenaway
   osem_url: https://osem.seagl.org/users/77

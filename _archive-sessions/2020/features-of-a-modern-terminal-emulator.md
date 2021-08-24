@@ -1,9 +1,10 @@
 ---
 title: Features of a Modern Terminal Emulator
-internet_archive_identifier: SeaGL2020-Mike_Hamrick-Features_of_a_Modern_Terminal_Emulator
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/746
 beginning: '2020-11-13T13:15:00.000-08:00'
 end: '2020-11-13T13:45:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Mike_Hamrick-Features_of_a_Modern_Terminal_Emulator
 presenters:
 - name: Mike Hamrick
   osem_url: https://osem.seagl.org/users/365

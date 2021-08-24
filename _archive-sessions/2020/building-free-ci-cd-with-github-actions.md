@@ -1,9 +1,10 @@
 ---
 title: Building Free CI/CD with GitHub Actions
-internet_archive_identifier: SeaGL2020-Cameron_Bielstein-Building_Free_CI_CD_with_GitHub_Actions
 osem_url: https://osem.seagl.org/conferences/seagl2020/program/proposals/769
 beginning: '2020-11-14T10:00:00.000-08:00'
 end: '2020-11-14T10:30:00.000-08:00'
+resources:
+  internet_archive_identifier: SeaGL2020-Cameron_Bielstein-Building_Free_CI_CD_with_GitHub_Actions
 presenters:
 - name: Cameron Bielstein
   affiliation: Allen Institute
