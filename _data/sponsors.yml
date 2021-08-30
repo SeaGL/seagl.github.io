@@ -15,7 +15,7 @@
 - name: Ada's Technical Books
   url: https://www.adasbooks.com/
   logo:
-    banner: /img/sponsors/AdasTechnicalBooks/AdaShopLogo.gif
+    banner: /img/sponsors/AdasTechnicalBooks/HORIZONTAL_LOGO_WITH_TRADEMARK_CMYK_2.png
     square: missing
   description: |-
     Technical books and cafe for the cravings of the technical mind.
@@ -25,6 +25,7 @@
     2018: thanks
     2019: thanks
     2020: thanks
+    2021: media
 
 - name: Ansible
   url: https://www.ansible.com
