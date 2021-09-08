@@ -32,7 +32,7 @@ task :import, [:year] do |_t, args|
   path.write("#{frontmatter.to_yaml}---\n")
 
   # Create a file for each event
-  response[:data][:relationships][:events][:data].each do |e|
+  conference_record[:relationships][:events][:data].each do |e|
     event_record = records[[e[:type], e[:id]]]
 
     presenters = event_record[:relationships][:presenters][:data].map do |p|
