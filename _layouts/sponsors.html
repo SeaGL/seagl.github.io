@@ -54,4 +54,11 @@ levels:
 
     <hr>
   {% endfor %}
+
+  <ul class="nav nav-pills nav-pills-centered" style="margin-top: 3em;">
+    {% for sponsor_year in site.sponsor-years %}
+    {% capture y %}{{ sponsor_year.slug }}{% endcapture %}{% assign y = y | plus: 0 %}
+    <li class="{% if y == year %}active{% endif %}"><a href="{{ sponsor_year.url }}">{{ y }}</a></li>
+    {% endfor %}
+  </ul>
 </div>
