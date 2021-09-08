@@ -85,6 +85,16 @@ ol > li > ol {
     margin-right: 1ch;
   }
 }
+.nav-pills > li.active > a {
+  &, &:focus, &:hover {
+    background-color: #0C5A73;
+  }
+}
+.nav-pills-centered {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 .sidebar-nav {
   padding: 9px 0;
 }
