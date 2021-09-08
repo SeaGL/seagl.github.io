@@ -31,12 +31,20 @@ collections:
     archive-sessions:
         output: true
         permalink: /archive/:path
+    sponsor-years:
+        output: true
+        permalink: /sponsors/:path
 
 defaults:
     - scope: { type: archive-conferences }
       values: { layout: archive/conference }
     - scope: { type: archive-sessions }
       values: { layout: archive/session }
+    - scope: { type: sponsor-years }
+      values:
+        body_id: sponsors
+        layout: sponsors
+        nav: sponsors
 
 exclude:
     - backstop

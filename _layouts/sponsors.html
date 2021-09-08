@@ -10,9 +10,11 @@ levels:
   thanks: Special Thanks To
 ---
 
+{% capture year %}{{ page.slug }}{% endcapture %}{% assign year = year | plus: 0 %}
+
 <div class="col-md-12">
   <div class="hero-unit">
-    <h1>SeaGL {{ page.year}} Sponsors</h1>
+    <h1>SeaGL {{ year }} Sponsors</h1>
 
     <p class="lead text-center">
       Our community sponsors are the lifeblood of SeaGL and we can't thank them enough.
@@ -21,6 +23,8 @@ levels:
       <br>
       To become one, take a look at our <a href="{{ site.custom.url.prospectus }}">Exhibitor/Sponsor Prospectus</a>. Or email us at {{ site.custom.a.email.sponsor }} to discuss opportunities.
     </p>
+
+    {{ content }}
   </div>
 
   {% for level in layout.levels %}
@@ -28,8 +32,8 @@ levels:
       <h2>{{ level[1] }}</h2>
 
       {% for sponsor in site.data.sponsors %}
-        {% for year in sponsor.sponsorships %}
-          {% if year[0] == page.year and year[1] == level[0] %}
+        {% for sponsorship in sponsor.sponsorships %}
+          {% if sponsorship[0] == year and sponsorship[1] == level[0] %}
             <div class="col-md-6">
               <h3>
                 <a href="{{ sponsor.url }}" target="_blank">
