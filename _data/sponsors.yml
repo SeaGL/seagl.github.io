@@ -894,3 +894,14 @@
   sponsorships:
     2020: thanks
     2021: thanks
+
+- name: Black Lodge Research
+  url: https://www.black-lodge.org/
+  logo:
+    banner: missing
+    square: /img/sponsors/BlackLodgeResearch/BLR.png
+  description: |-
+    Black Lodge Research, founded in 2007, is a hackerspace located in Redmond, Washington that serves the greater Seattle Hacker community. BLR is unique in that it is the only space in greater Seattle area focusing on the topics of Information Security and Privacy. The Lodge offers educational workshops, presentations and demonstrations; as well as a shop area with electronics and power tools for members to use.
+  sponsorships:
+    2021: thanks
+
