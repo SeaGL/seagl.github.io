@@ -87,6 +87,7 @@
     2018: bronze
     2019: bronze
     2020: bronze
+    2021: bronze
 
 - name: Fedora
   url: https://getfedora.org/
@@ -299,6 +300,7 @@
   sponsorships:
     2017: thanks
     2018: thanks
+    2021: media
 
 - name: PyCascades
   url: https://www.pycascades.com/
@@ -502,6 +504,7 @@
     2018: thanks
     2019: thanks
     2020: thanks
+    2021: thanks
 
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
@@ -775,6 +778,7 @@
   sponsorships:
      2019: thanks
      2020: thanks
+     2021: thanks
 
 - name: Ubuntu-PNW
   url: https://wiki.ubuntu.com/PNWTeam
@@ -826,6 +830,7 @@
     For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice. As a global non-profit, the OSI champions software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement.
   sponsorships:
     2020: thanks
+    2021: thanks
 
 - name: Electronic Frontier Foundation
   url: https://www.eff.org/
@@ -846,6 +851,7 @@
     Women In Linux is a non-profit organization supporting women in Linux-centric tech careers who want to obtain and sustain a thriving career in tech.
   sponsorships:
     2020: thanks
+    2021: thanks
 
 - name: Linux App Summit
   url: https://linuxappsummit.org/
@@ -876,6 +882,7 @@
     PLUG is a group of people in the Phoenix, Arizona, USA area who get together several times a month. We have various meetings in several different formats all with the common goal of educating the public about the Linux operating system.  No knowledge of Linux is presumed or required, although most members are running Linux in some application.
   sponsorships:
     2020: thanks
+    2021: thanks
 
 - name: KODI
   url: https://kodi.tv/
@@ -886,3 +893,4 @@
     Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.
   sponsorships:
     2020: thanks
+    2021: thanks
