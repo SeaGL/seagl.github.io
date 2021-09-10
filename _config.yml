@@ -68,9 +68,9 @@ custom:
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
 
-        site_code:          <a href="https://github.com/SeaGL/seagl.github.io/blob/master/LICENSE">GPL v3.0</a>
+        site_code:          <a href="https://github.com/SeaGL/seagl.github.io/blob/main/LICENSE">GPL v3.0</a>
     url:
-        edit_page_base:     https://github.com/SeaGL/seagl.github.io/blob/master
+        edit_page_base:     https://github.com/SeaGL/seagl.github.io/blob/main
         irc:
             network:        https://libera.chat/
             webchat:        https://seagl.org/meet
