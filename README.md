@@ -34,7 +34,7 @@ If you are adding a new blog post, please follow these filename rules:
 
 * Place all blog posts in the `_posts` directory.
 * Start the filename with a date in `YYYY-MM-DD` format. This is **very important** as it controls the order in which the website displays blog posts.
-    * **NOTA BENE**: The website will display posts dated up to and including the current date. This allows you to schedule posts in advance, but it also means that posts dated in the future won't appear when testing your changes. You may need to do some filename-date juggling to preview future posts. At the moment, it is also required that you trigger a rebuild of the site on or after the scheduled date in order for the post to appear. This can be done with: `git commit -m 'rebuild pages' --allow-empty && git push origin master` or by making any actual change to the site.
+    * **NOTA BENE**: The website will display posts dated up to and including the current date. This allows you to schedule posts in advance, but it also means that posts dated in the future won't appear when testing your changes. You may need to do some filename-date juggling to preview future posts. At the moment, it is also required that you trigger a rebuild of the site on or after the scheduled date in order for the post to appear. This can be done with: `git commit -m 'rebuild pages' --allow-empty && git push origin main` or by making any actual change to the site.
 * Follow the date with a dash (`-`) and then a dash-delimited title for the post. This title isn't displayed. It's just to name the file. Please make it brief but descriptive.
 * Use the `.md` filename extension to denote that the post is composed in Markdown format. (and please only compose posts using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 
@@ -161,7 +161,7 @@ You can either send a PR in the GitHub interface or from your local machine.
 1. On your browser, navigate to your fork of the seagl.github.io repo.
 1. Click in the `Pull requests` tab.
 1. Click the `New pull request button`. 
-1. GitHub recognises that your repo is a fork and defaults to having the PR be the master branch of your fork requesting against the master branch of seagl.github.io. Odds are very good this is what you want. If it's not, you'll know enough to realise this. :-)
+1. GitHub recognises that your repo is a fork and defaults to having the PR be the main branch of your fork requesting against the main branch of seagl.github.io. Odds are very good this is what you want. If it's not, you'll know enough to realise this. :-)
 1. Click `Create pull request`.
 1. Enter a brief but descriptive title such as "Adding 2017 CFP opening announcement".
 1. Enter a detailed description. If you are working on an [issue](https://github.com/SeaGL/seagl.github.io/issues), please reference the issue number here. Use a hashmark (`#`) followed by an issue number (`#74`). This will automatically be linked in the pull request, which is really handy.
