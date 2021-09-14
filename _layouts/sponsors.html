@@ -37,8 +37,8 @@ levels:
             <div class="col-md-6">
               <h3>
                 <a href="{{ sponsor.url }}">
-                  {% if sponsor.logo.banner != "missing" %}
-                    <img class="logo" src="{{ sponsor.logo.banner }}" alt="{{ sponsor.name }}">
+                  {% if sponsor.logo.horizontal != "missing" %}
+                    <img class="logo" src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
                   {% elsif sponsor.logo.square != "missing" %}
                     <img class="logo" src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
                   {% else %}
