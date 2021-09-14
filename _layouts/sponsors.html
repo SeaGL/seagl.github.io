@@ -11,6 +11,7 @@ levels:
 ---
 
 {% capture year %}{{ page.slug }}{% endcapture %}{% assign year = year | plus: 0 %}
+{% assign sponsors = site.data.sponsors | sort: "name" %}
 
 <div class="col-md-12">
   <div class="hero-unit">
@@ -31,7 +32,7 @@ levels:
     <h2>{{ level[1] }}</h2>
 
     <div class="logo-wall level-{{ level[0] }}">
-      {% for sponsor in site.data.sponsors %}
+      {% for sponsor in sponsors %}
         {% for sponsorship in sponsor.sponsorships %}
           {% if sponsorship[0] == year and sponsorship[1] == level[0] %}
             <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
