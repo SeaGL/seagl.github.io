@@ -4,7 +4,7 @@
   url: https://activebuilding.com
   logo:
     horizontal: /img/sponsors/ActiveBuilding/old_logo.png
-    square: missing
+    square:
   description: |-
     ActiveBuilding makes everyday apartment life easy. For owners, managers and
     residents alike. And when a building’s happy, that’s good for relationships,
@@ -16,7 +16,7 @@
   url: https://www.adasbooks.com/
   logo:
     horizontal: /img/sponsors/AdasTechnicalBooks/HORIZONTAL_LOGO_WITH_TRADEMARK_CMYK_2.png
-    square: missing
+    square:
   description: |-
     Technical books and cafe for the cravings of the technical mind.
   sponsorships:
@@ -31,7 +31,7 @@
   url: https://www.ansible.com
   logo:
     horizontal: /img/sponsors/Ansible/ansible_badge.png
-    square: missing
+    square:
   description: |-
     Ansible is a powerful automation engine that makes systems and applications
     simple to deploy. No custom scripting or custom code. No agents. All using
@@ -43,7 +43,7 @@
 - name: CSATS
   url: https://www.csats.com
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/CSATS/csats.png
   description: |-
     Seattle-based CSATS, Inc. is a venture-backed healthcare technology company
@@ -68,7 +68,7 @@
   url: https://www.extrahop.com
   logo:
     horizontal: /img/sponsors/ExtraHop/ExtraHop_black_logo_w_tagline.png
-    square: missing
+    square:
   description: |-
     ExtraHop is the global leader in real-time wire data analytics. The ExtraHop
     Operational Intelligence platform analyzes all L2-L7 communications,
@@ -93,7 +93,7 @@
   url: https://getfedora.org/
   logo:
     horizontal: /img/sponsors/Fedora/fedora-logo.png
-    square: missing
+    square:
   description: |-
     Choose Freedom. Choose Fedora.
     Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs,
@@ -106,7 +106,7 @@
   url: https://www.google.com
   logo:
     horizontal: /img/sponsors/Google/googlelogo_clr_520x172px.png
-    square: missing
+    square:
   description: |-
     Google's mission is to organize the world's information and make it
     universally accessible and useful.
@@ -119,7 +119,7 @@
   url: http://hpcloud.com
   logo:
     horizontal: /img/sponsors/HPCloud/HPENew.png
-    square: missing
+    square:
   description: |-
     Hewlett-Packard is long term supporter of Linux and of Open Source. HP is a
     Platinum member of the Linux Foundation and a Founding and Platinum member
@@ -136,7 +136,7 @@
   url: https://www.linuxjournal.com
   logo:
     horizontal: /img/sponsors/LinuxJournal/linux-journal.png
-    square: missing
+    square:
   description: |-
     Linux Journal covers all aspects of the world's most essential operating system and the emerging technologies adjacent to it. Our mission is to deliver a publication that reflects the principled approach followed by kernel developers and the tenets of Open Source philosophy.
   sponsorships:
@@ -149,7 +149,7 @@
   url: https://www.linuxpromagazine.com/
   logo:
     horizontal: /img/sponsors/LinuxProMag/linux-pro.png
-    square: missing
+    square:
   description: |-
     Linux Magazine is your guide to the world of Linux. Linux Magazine provides advanced technical information you won't find anywhere else including tutorials, in-depth articles on trending topics, troubleshooting and optimization tips, and more!
   sponsorships:
@@ -159,7 +159,7 @@
   url: https://www.pogolinux.com
   logo:
     horizontal: /img/sponsors/PogoLinux/logo_pogolinux.png
-    square: missing
+    square:
   description: |-
     Founded in 1999, Pogo Linux, Inc. is an open-source systems integrator based
     out of Seattle, WA. With a multi-OS focus and in-house technical expertise,
@@ -176,7 +176,7 @@
   url: https://www.rackspace.com
   logo:
     horizontal: /img/sponsors/Rackspace/Rackspace_Cloud_Company_Logo_clr.png
-    square: missing
+    square:
   description: |-
     Fanatical Support® has made Rackspace the service leader in cloud
     computing. We deliver enterprise-class hybrid cloud infrastructures to
@@ -194,7 +194,7 @@
   url: https://www.schedulesdirect.org/
   logo:
     horizontal: /img/sponsors/SchedulesDirect/sd_long.png
-    square: missing
+    square:
   description: |-
     Schedules Direct is a non-profit organization whose mission is to
     educate the public about the benefits of Open Source Software and other
@@ -216,7 +216,7 @@
   url: https://seattlecentral.edu
   logo:
     horizontal: /img/sponsors/SCC/seattle-central-college-logo.png
-    square: missing
+    square:
   description: |-
     Seattle Central College is located on Capitol Hill, the vibrant urban
     center of Seattle life. We are an educational home for our students, a
@@ -239,7 +239,7 @@
   url: https://www.siliconmechanics.com
   logo:
     horizontal: /img/sponsors/SiliconMechanics/SiMechTrimmed.png
-    square: missing
+    square:
   description: |-
     Silicon Mechanics is an industry-leading provider of server, storage, and
     high-performance computing solutions. Deploying the latest innovations in
@@ -258,7 +258,7 @@
   url: https://gslug.org
   logo:
     horizontal: /img/sponsors/GSLUG/logo.png
-    square: missing
+    square:
   description: |-
     The Greater Seattle Linux Users Group is a local organization of people in
     the Seattle Metropolitan area that wish to collaborate on subjects
@@ -283,7 +283,7 @@
   url: https://www.rainierconnect.com/
   logo:
     horizontal: /img/sponsors/RainierConnect/logo.png
-    square: missing
+    square:
   description: |-
     Rainier Connect is South Puget Sound’s premiere phone, cable TV & high-speed
     Internet provider. Homes & businesses choose us for quality phone, DSL, cable
@@ -295,7 +295,7 @@
   url: https://www.linuxfoundation.org/
   logo:
     horizontal: /img/sponsors/LinuxFoundation/OSS-ELC-Black.png
-    square: missing
+    square:
   description:
     Open Source Summit + Embedded Linux Conference is taking place September
     27-30, in Seattle, Washington. Register today to join us in-person or
@@ -320,7 +320,7 @@
   url: https://www.pycascades.com/
   logo:
     horizontal: /img/sponsors/PyCascades/pycascades.png
-    square: missing
+    square:
   description:
   sponsorships:
     2017: thanks
@@ -329,7 +329,7 @@
   url: https://www.gnome.org/
   logo:
     horizontal: /img/sponsors/GNOME/GnomeLogo.jpg
-    square: missing
+    square:
   description:
   sponsorships:
     2017: thanks
@@ -339,7 +339,7 @@
   url: http://gwob.org/
   logo:
     horizontal: /img/sponsors/GWOB/GWOB.png
-    square: missing
+    square:
   description:
   sponsorships:
     2017: thanks
@@ -348,7 +348,7 @@
   url: https://opensource.microsoft.com/
   logo:
     horizontal: /img/sponsors/Microsoft/Microsoft_2019.png
-    square: missing
+    square:
   description:
   sponsorships:
     2015: silver
@@ -358,7 +358,7 @@
   url: https://jenkins.io/
   logo:
     horizontal: /img/sponsors/Jenkins/JenkinsLogo.png
-    square: missing
+    square:
   description:
   sponsorships:
     2016: thanks
@@ -367,7 +367,7 @@
   url: https://www.libreoffice.org/
   logo:
     horizontal: /img/sponsors/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
-    square: missing
+    square:
   description: |-
     LibreOffice is a powerful office suite; Its clean interface and its powerful
     tools let you unleash your creativity and grow your productivity. LibreOffice
@@ -381,7 +381,7 @@
   url: https://www.mozilla.org/en-US/
   logo:
     horizontal: /img/sponsors/Mozilla/MozillaLogo.jpeg
-    square: missing
+    square:
   description:
   sponsorships:
     2016: bronze
@@ -389,7 +389,7 @@
 - name: No Starch Press
   url: https://www.nostarch.com/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/NoStarchPress/nsp_logo_black.png
   description: |-
     No Starch Press publishes the finest in geek entertainment — distinctive books
@@ -419,7 +419,7 @@
   url: https://www.fsf.org/
   logo:
     horizontal: /img/sponsors/FSF/logo-fsf.org.png
-    square: missing
+    square:
   description: |-
     The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to
     promote computer user freedom and to defend the rights of all free software users.
@@ -434,7 +434,7 @@
 - name: Write The Docs Seattle
   url: https://www.meetup.com/Write-The-Docs-Seattle/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/WriteTheDocsSeattle/WriteTheDocs.jpeg
   description: |-
     A group for Seattle technical writers, software developers, content managers, or
@@ -447,7 +447,7 @@
   url: https://www.sasag.org/
   logo:
     horizontal: /img/sponsors/SASAG/sasag-top-1.png
-    square: missing
+    square:
   description: |-
     Seattle Area System Administrators Guild (SASAG) is a local group for systems
     administrators in the Seattle and Pacific Northwest areas (North Western Washington).
@@ -460,7 +460,7 @@
   url: https://osuosl.org/
   logo:
     horizontal: /img/sponsors/OSL/osuosl-tag.png
-    square: missing
+    square:
   description:
   sponsorships:
     2015: thanks
@@ -470,7 +470,7 @@
   url: https://www.northeastern.edu/seattle/
   logo:
     horizontal: /img/sponsors/NortheasternUniversitySeattle/NortheasternSeattle.jpg
-    square: missing
+    square:
   description:
   sponsorships:
     2015: thanks
@@ -478,7 +478,7 @@
 - name: The FreeBSD Project
   url: https://www.freebsd.org/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/FreeBSD/FREEBSD_Logo_Vert_Pos_RGB.png
   description: |-
     FreeBSD is an advanced computer operating system used to power modern servers, desktops
@@ -494,7 +494,7 @@
 - name: Pacific Northwest PHP Conference
   url: http://pnwphp.com
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/PNWPHP/pnwphp.png
   description: |-
     The Pacific Northwest PHP Conference is a 3-day event for PHP developers living in the
@@ -509,7 +509,7 @@
   url: https://wsealug.net
   logo:
     horizontal: /img/sponsors/WSLUG/wsea-g.png
-    square: missing
+    square:
   description: |-
     Anyone who is interested in Linux and talking about it with your neighbors. We have bi-weekly meet-ups and are currently meeting at the West Seattle & Fauntleroy YMCA. (https://www.seattleymca.org/locations/west-seattle-fauntleroy-ymca)
     At each meeting we plan to have a 30 minute demonstration of something GNU/Linux related. We are keeping track of these and suggestions on a public Trello board: https://trello.com/b/duBE2Tpr/wsealug
@@ -523,7 +523,7 @@
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/APICity/apicity.jpg
   description: |-
     This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community.
@@ -534,7 +534,7 @@
 - name: PostgreSQL
   url:
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/PostGreSQL/PostgreSQL.png
   description:
   sponsorships:
@@ -544,7 +544,7 @@
 - name: Software Freedom Conservancy
   url: https://sfconservancy.org/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/SFC/SFC-logo.png
   description:
   sponsorships:
@@ -556,7 +556,7 @@
 - name: Kubuntu
   url: https://kubuntu.org/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/Kubuntu/Kubuntu-logo.png
   description:
   sponsorships:
@@ -566,7 +566,7 @@
 - name: Lubuntu
   url: https://lubuntu.me/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/Lubuntu/Lubuntu-logo.png
   description:
   sponsorships:
@@ -575,7 +575,7 @@
 - name: Red Hat
   url: https://www.redhat.com
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/RedHat/RedHat.png
   description:
   sponsorships:
@@ -585,7 +585,7 @@
 - name: SEAPHP
   url: https://www.meetup.com/seaphp/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/SEAPHP/SEAPHP.png
   description:
   sponsorships:
@@ -595,7 +595,7 @@
 - name: SoDo Makerspace
   url: http://sodo.ms/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/SoDo/sodo.png
   description:
   sponsorships:
@@ -604,7 +604,7 @@
 - name: Cascadia Wikimedians
   url: https://meta.wikimedia.org/wiki/Cascadia_Wikimedians
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/CascadiaWikimedians/cascwiki.png
   description:
   sponsorships:
@@ -614,7 +614,7 @@
   url: https://seattleprivacy.org/ta3m/
   logo:
     horizontal: /img/sponsors/TA3M/TA3M.png
-    square: missing
+    square:
   description: |-
     Techno-Activism Third Mondays (TA3M) is an informal meetup designed to connect software creators and activists who are interested in censorship, surveillance, and open technology. Currently, TA3M are held in various cities throughout the world, with many more launching in the near future.
     TA3M is explicitly informal and open. You are invited to hack the process, ask questions, and be critical. You are very welcome to join in if you have something you want to share or discuss.
@@ -628,7 +628,7 @@
 - name: Comcast Technology Solutions
   url: https://www.comcasttechnologysolutions.com/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/Comcast/cts.png
   description:
   sponsorships:
@@ -637,7 +637,7 @@
 - name: Redfin
   url: https://www.redfin.com/city/16163/WA/Seattle
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/Redfin/redfin-logo.png
   description:
   sponsorships:
@@ -647,7 +647,7 @@
   url: https://privateinternetaccess.com
   logo:
     horizontal: /img/sponsors/PrivateInternetAccess/pia-logo-black.png
-    square: missing
+    square:
   description:
   sponsorships:
     2018: platinum
@@ -656,7 +656,7 @@
   url: https://polyverse.io
   logo:
     horizontal: /img/sponsors/Polyverse/polyverse-logo.png
-    square: missing
+    square:
   description:
   sponsorships:
     2018: bronze
@@ -665,7 +665,7 @@
   url: https://developer.ibm.com
   logo:
     horizontal: /img/sponsors/IBM/ibmpos_blurgb.jpg
-    square: missing
+    square:
   description:
   sponsorships:
     2018: gold
@@ -673,7 +673,7 @@
 - name: JMP.chat
   url: https://jmp.chat/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/JMP.chat/JMP_Logo.png
   description:
   sponsorships:
@@ -682,7 +682,7 @@
 - name: twilio
   url: https://www.twilio.com/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/twilio/twilio-logo-red.png
   description:
   sponsorships:
@@ -691,7 +691,7 @@
 - name: Yubico
   url: https://www.Yubico.com/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/Yubico/Yubico-logo-website.png
   description:
   sponsorships:
@@ -700,7 +700,7 @@
 - name: linode
   url: https://www.linode.com/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/linode/linode-logo_standard_light_medium.png
   description:
   sponsorships:
@@ -710,7 +710,7 @@
 - name: Pragmatic Bookshelf
   url: https://pragprog.com
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/PragmaticBookshelf/pragprog.jpg
   description:
   sponsorships:
@@ -719,7 +719,7 @@
 - name: Indeed
   url: https://www.indeed.com
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/indeed/indeed.png
   description:
   sponsorships:
@@ -730,7 +730,7 @@
 - name: Open Humans
   url: https://www.OpenHumans.org/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/OpenHumans/open-humans-logo-horizontal-80px.f71a97b4a07d.png
   description:
   sponsorships:
@@ -739,7 +739,7 @@
 - name: MySQL
   url: https://www.mysql.com/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/MySQL/MySQL-clr.png
   description:
   sponsorships:
@@ -748,7 +748,7 @@
 - name: Cloud Native Computing Foundation
   url: https://www.cncf.io
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/CNCF/cncf-banner.png
   description: |-
     The Cloud Native Computing Foundation (CNCF) hosts critical components of
@@ -761,7 +761,7 @@
 - name: Dragonchain
   url: https://www.dragonchain.com
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/Dragonchain/Jojo+Dragonchaintext-02.png
   description: |-
     Dragonchain is a U.S.-based technology leader, offering Blockchain as a
@@ -812,7 +812,7 @@
   url: https://www.amazon.com/
   logo:
     horizontal: /img/sponsors/Amazon/Amazon_logo.svg
-    square: missing
+    square:
   description:
   sponsorships:
     2020: platinum
@@ -820,7 +820,7 @@
 - name: Amazon AWS
   url: https://aws.amazon.com/opensource/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/AWS/AWS_logo_RGB.svg
   description:
   sponsorships:
@@ -829,7 +829,7 @@
 - name: SeaPUG
   url: https://www.meetup.com/Seattle-Postgres/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/SeaPUG/SeaPUG.jpeg
   description:
   sponsorships:
@@ -838,7 +838,7 @@
 - name: Open Source Initiative
   url: https://opensource.org/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/OSI/OSI_Standard_Logo.svg
   description: |-
     For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice. As a global non-profit, the OSI champions software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement.
@@ -850,7 +850,7 @@
   url: https://www.eff.org/
   logo:
     horizontal: /img/sponsors/EFF/EFF-logo-30-A.png
-    square: missing
+    square:
   description: |-
     The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
   sponsorships:
@@ -859,7 +859,7 @@
 - name: Women In Linux
   url: http://www.womeninlinux.com/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/WomenInLinux/WIL_250x250.png
   description: |-
     Women In Linux is a non-profit organization supporting women in Linux-centric tech careers who want to obtain and sustain a thriving career in tech.
@@ -870,7 +870,7 @@
 - name: Linux App Summit
   url: https://linuxappsummit.org/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/LinuxAppSummit/LAS_400x400.jpg
   description: |-
     LAS welcomes application developers, designers, product managers, user experience specialists, community leaders, academics, and anyone who is interested in the state of Linux application design and development!
@@ -880,7 +880,7 @@
 - name: ShellCon/RaiseMe
   url: https://shellcon.io/raiseme/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/ShellCon/RaiseMeMedusaLogo.png
   description: |-
     The RaiseMe arm of ShellCon is dedicated to supporting our entire community. We have a complete lineup of career talks on Friday and Saturday during ShellCon, and also offer one-on-one assistance in the form of consulting appointments with our volunteer professional staff.
@@ -890,7 +890,7 @@
 - name: Phoenix Linux Users Group
   url: https://phxlinux.org/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/PLUG/logo_bw.jpg
   description: |-
     PLUG is a group of people in the Phoenix, Arizona, USA area who get together several times a month. We have various meetings in several different formats all with the common goal of educating the public about the Linux operating system.  No knowledge of Linux is presumed or required, although most members are running Linux in some application.
@@ -902,7 +902,7 @@
   url: https://kodi.tv/
   logo:
     horizontal: /img/sponsors/KODI/KODI-banner.png
-    square: missing
+    square:
   description: |-
     Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.
   sponsorships:
@@ -912,7 +912,7 @@
 - name: Black Lodge Research
   url: https://www.black-lodge.org/
   logo:
-    horizontal: missing
+    horizontal:
     square: /img/sponsors/BlackLodgeResearch/BLR.png
   description: |-
     Black Lodge Research, founded in 2007, is a hackerspace located in Redmond, Washington that serves the greater Seattle Hacker community. BLR is unique in that it is the only space in greater Seattle area focusing on the topics of Information Security and Privacy. The Lodge offers educational workshops, presentations and demonstrations; as well as a shop area with electronics and power tools for members to use.
