@@ -1,0 +1,37 @@
+---
+---
+
+#sponsors h1 {
+  text-align: center;
+}
+
+.logo-wall {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-left: -0.75em;
+  margin-right: -0.75em;
+
+  // Logo sizes
+  & { font-size: 2.25em; }
+  &.level-silver { font-size: 2.5em; }
+  &.level-gold { font-size: 2.75em; }
+  &.level-platinum { font-size: 3.25em; }
+}
+
+.logo-wall-item {
+  margin: 0.5em 0.75em;
+  text-align: center;
+
+  // Logo shapes
+  & { height: 5em; max-width: 6em; }
+  &.horizontal { height: 3em; max-width: 12em; }
+
+  & > img {
+    height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    width: auto;
+  }
+}
