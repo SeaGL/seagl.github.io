@@ -28,25 +28,21 @@ levels:
   </div>
 
   {% for level in layout.levels %}
-    <div class="row {{ level[0] }}">
-      <h2>{{ level[1] }}</h2>
+    <h2>{{ level[1] }}</h2>
 
+    <div class="logo-wall level-{{ level[0] }}">
       {% for sponsor in site.data.sponsors %}
         {% for sponsorship in sponsor.sponsorships %}
           {% if sponsorship[0] == year and sponsorship[1] == level[0] %}
-            <div class="col-md-6">
-              <h3>
-                <a href="{{ sponsor.url }}">
-                  {% if sponsor.logo.horizontal %}
-                    <img class="logo" src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
-                  {% elsif sponsor.logo.square %}
-                    <img class="logo" src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
-                  {% else %}
-                    <div class="name">{{ sponsor.name }}</div>
-                  {% endif %}
-                </a>
-              </h3>
-            </div>
+            <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
+              {% if sponsor.logo.horizontal %}
+                <img src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
+              {% elsif sponsor.logo.square %}
+                <img src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
+              {% else %}
+                {{ sponsor.name }}
+              {% endif %}
+            </a>
           {% endif %}
         {% endfor %}
       {% endfor %}
