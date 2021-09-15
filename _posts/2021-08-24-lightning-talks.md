@@ -21,4 +21,5 @@ A few examples are:
 
 Our one request is that there are no promotions of any kind - meaning, please no video resumes, no company/product promos, etc. 
 
-We’re looking forward to hearing from you, our community. Please [submit your talk ideas](https://forms.gle/3iVpzavUxmjLTXmm8) **before September 8, 2021**.
+We’re looking forward to hearing from you, our community. Please [submit your talk ideas](https://forms.gle/3iVpzavUxmjLTXmm8) as soon as possible,
+as we will be reviewing them on a rolling basis.
