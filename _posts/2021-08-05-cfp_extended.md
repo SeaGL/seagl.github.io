@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2021'
 ---
 
 Need a little more time to get your proposal together for SeaGL 2021?

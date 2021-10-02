@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2015'
 ---
 
 SeaGL speaker and staff member edunham answers a few questions about the

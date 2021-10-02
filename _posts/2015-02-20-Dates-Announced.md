@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2015'
 ---
 
 We're very excited to be returning to Seattle Central College for SeaGL 2015!

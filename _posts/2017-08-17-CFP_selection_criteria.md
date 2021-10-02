@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Our team of external reviewers (one of whom just returned from seeing the [🚀 Hugo Award Ceremony 🚀](http://www.thehugoawards.org) in Finland!) are making great progress on reading and scoring all 140 of the proposals we received for this year's program. As we're doing this we thought to ourselves, "Selves, wouldn't it be cool if a conference actually shared its proposal selection criteria? That might help a lot of people craft their future proposals."

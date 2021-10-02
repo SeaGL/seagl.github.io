@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 The 2018 SeaGL Call For Proposals (aka CFP) has closed and our team of reviewers is hard at work reading all of the excellent proposals we received. How did the CFP go this year? Here are some numbers for you…

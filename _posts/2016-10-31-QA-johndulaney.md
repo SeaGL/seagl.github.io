@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 John Dulaney gives his talk titled, "Naval Gunnery Fire Control in WWI" on [Friday morning.](https://osem.seagl.org/conference/seagl2016/program/proposal/119)

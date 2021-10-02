@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 E. Dunham gives her talk titled, "How To Learn Rust" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/378)

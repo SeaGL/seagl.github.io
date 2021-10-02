@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 [The 2017 SeaGL Schedule is now available!](https://osem.seagl.org/conferences/seagl2017/schedule)

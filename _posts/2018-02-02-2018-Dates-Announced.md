@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 We're excited to announce the dates for this year's Seattle GNU/Linux Conference: Friday, November 9th and Saturday, November 10th, 2018. We're also happy to be back at Seattle Central College on Capitol Hill once again. Now we are six!

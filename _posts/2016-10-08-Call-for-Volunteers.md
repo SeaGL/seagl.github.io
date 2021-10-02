@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 SeaGL 2016 is just over a month away and we are looking for helpful people to volunteer!

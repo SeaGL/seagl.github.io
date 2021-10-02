@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 This year, our theme is "[OSI Layer 8: freeing the people](https://seagl.org/news/2020/11/10/announcing-SeaGL-2020-theme.html)" and we intend to provide an open and free space, despite being online. To that end, we've been working dilligently to bring the strong social aspect our attendees expect to SeaGL in 2020.

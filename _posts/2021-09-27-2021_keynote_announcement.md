@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2021'
 ---
 
 We're excited to share the first part of the SeaGL 2021 program with you—our keynote speakers!

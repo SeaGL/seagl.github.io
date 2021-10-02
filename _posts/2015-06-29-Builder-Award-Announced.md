@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2015'
 ---
 
 We are pleased to announce that we will be giving the out the first Cascadia Community Builder Award at SeaGL this year!

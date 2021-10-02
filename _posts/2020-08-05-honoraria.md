@@ -5,6 +5,7 @@ status: publish
 type: post
 published: false
 categories: news
+tags: '2020'
 ---
 
 SeaGL has previously shared our commitment to supporting the [Black Lives Matter Movement](https://seagl.org/news/2020/06/12/black-lives-matter.html). We feel it is important to endorse an approach of equity in our communities, in order to offer the support that everyone needs to be able to participate.

@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 We like to be free and open around here at SeaGL, and that includes transparency around a lot of our processes. This post is the instructions we provided to our review committee on how they should rate the 160+ talk proposals we received. We hope that these instructions will not only help people craft better proposals in the future, but also help other events who may be looking for guidance on how to review their own proposals.

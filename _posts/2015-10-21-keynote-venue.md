@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2015'
 ---
 
 Due to some logistical issues, we've had to move this year's keynote speeches

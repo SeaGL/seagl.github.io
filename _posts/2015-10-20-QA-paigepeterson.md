@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2015'
 ---
 
 SeaGL speaker Paige Peterson talks privacy, security, and

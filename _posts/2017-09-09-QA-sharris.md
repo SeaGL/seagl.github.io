@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Susan Harris gives her talk titled, "The Rhythm of Patterns" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/350)

@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 A fun and important part of buiding Free Software communities is working with other groups.

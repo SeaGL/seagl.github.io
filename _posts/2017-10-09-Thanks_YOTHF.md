@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Thanks to all of our [illustrious sponsors!](https://seagl.org/sponsors/2017.html) We especially want to recognize Seattle Central College. They've been amazing each and every one of the five years that they've been our host. This year, though? They went above and beyond and managed to find us five new rooms for our sessions, just one week after a very, messy, no-good HVAC issue drowned out our original rooms. 

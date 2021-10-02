@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Carol gives her talk titled, "The Set of Programmers: How Math Restricts Us" on [Friday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/120)

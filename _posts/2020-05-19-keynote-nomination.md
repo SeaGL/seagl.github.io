@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 We need YOU!  To help us select keynoters for SeaGL 2020!  Please use our form to [nominate a keynote speaker](https://docs.google.com/forms/d/e/1FAIpQLScpDCLYLXC4OecykkvhotT1XboOFOZ22X-OyM4go6EzLW95gg/viewform).  We are looking for open source community members with experiences and stories to share.  We are, as always, looking for new candidates who have not keynoted before, who have a different perspective to share.  Our community is vast, therefore our keynotes must represent our community.  

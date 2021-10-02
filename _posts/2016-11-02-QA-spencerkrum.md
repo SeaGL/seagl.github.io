@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Spencer gives his talk titled, "OpenStack for Humans" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/110)

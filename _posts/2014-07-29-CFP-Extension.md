@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2014'
 ---
 
 Our Call for Participation has been extended to August 3rd!

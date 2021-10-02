@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 ![](/img/posts/2019_Keynote_Lisha.jpg){:.align-left}

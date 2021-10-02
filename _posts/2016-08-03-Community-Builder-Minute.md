@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 DEADLINE is August 16th: Take a Minute to Nominate Someone Amazing! 

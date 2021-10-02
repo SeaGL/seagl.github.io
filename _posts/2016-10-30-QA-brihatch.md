@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Bri gives his alliteratively titled talk, "Serving Secrets Securely" on [Saturday.](https://osem.seagl.org/conference/seagl2016/program/proposal/231)

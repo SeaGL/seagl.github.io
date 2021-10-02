@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Sam Kitajima-Kimbrel gives his talk titled, "Bowerbirds of Technology: Architecture and Operations at Less-Than-Google Scale" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/300)

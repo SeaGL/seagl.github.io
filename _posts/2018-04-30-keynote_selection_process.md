@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 We're trying something new in 2018: rather than having a single keynote present for an hour each morning, we're having two people present for about 25 minutes each morning instead. We have two reasons for trying this:

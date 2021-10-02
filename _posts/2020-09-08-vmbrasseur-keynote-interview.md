@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 SeaGL 2020 is less than two months away. We are thrilled to be able to start revealing our lineup of awesome keynote presenters and to give you the opportunity to get to know all about their amazing achievements through a series of interviews. Our first keynoter is **VM (Vicky) Brasseur**.

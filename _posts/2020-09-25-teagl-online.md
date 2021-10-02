@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 **UPDATE** - TeaGL signup deadline extended to Monday, October 19th, use the [TeaGL signup](https://gnu-cloud.yourownnet.cloud/apps/forms/qsiw2pCb5sKPPaCg) to participate in our first virtual TeaGL tea celebration! - **UPDATE**

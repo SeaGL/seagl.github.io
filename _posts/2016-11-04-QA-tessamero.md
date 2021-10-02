@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Tessa gives her talk titled, "Nom Nom: Consuming REST APIs" on [Friday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/177)

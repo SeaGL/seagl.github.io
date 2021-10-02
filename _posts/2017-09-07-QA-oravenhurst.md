@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Omar Ravenhurst gives his talk titled, "From Al-Qaeda to Shia LaBeouf - How Crowdsourced Intelligence Analysis Removed Any Idea Of Privacy: Finding What Doesn't Want To Be Found" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/339)

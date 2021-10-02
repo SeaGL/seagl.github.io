@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 At SeaGL this year (starting in TWO DAYS!!) we are so excited to welcome Bradley Kuhn and Karen Sandler from the Software Freedom Conservancy!  They'll be recording a live audio podcast and taking a few questions from the audience.  In advance of their podcast recording, they've answered a few questions for us to get us all EXCITED for the live recording of Free as in Freedom, which you can attend **Saturday at 3:45pm in room 3183**!

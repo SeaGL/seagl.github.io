@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 Over on Twitter [we mentioned](https://twitter.com/seagl/status/1046541713458823168) that we had some exciting news to share with you soon, and we're very happy to report that it's time!

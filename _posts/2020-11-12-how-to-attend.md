@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 We are SO excited for the conference which begins TOMORROW!  Since we're fully online this year, let's talk about actually HOW to get online to watch talks and have a super social experience in your conference-going.

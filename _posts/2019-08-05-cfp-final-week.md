@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 _The [CFP](https://seagl.org/news/2019/06/25/CFP-open.html) closes August 11 at midnight Pacific time!_

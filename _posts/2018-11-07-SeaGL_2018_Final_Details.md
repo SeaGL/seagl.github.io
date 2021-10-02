@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 **OMG Only Two Days Until SeaGL Holy Smokes!**

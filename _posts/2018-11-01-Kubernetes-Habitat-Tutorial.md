@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 Interested in [Kubernetes](https://kubernetes.io)? Curious about [Habitat](https://www.habitat.sh)? You're in luck! Thanks to IBM and Chef you can learn them for free!

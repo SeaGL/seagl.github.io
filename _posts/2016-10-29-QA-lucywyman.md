@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Lucy gives her talk titled, "Linux Jargon: From AFK to Zero Day" on [Friday morning.](https://osem.seagl.org/conference/seagl2016/program/proposal/126)

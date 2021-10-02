@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Brian MacDonald gives his talk titled, "Writing the Next Great Tech Book: From Idea to Successful Publication" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/369)

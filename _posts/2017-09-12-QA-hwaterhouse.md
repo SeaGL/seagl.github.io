@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Heidi Waterhouse gives her talk titled, "Verbose mode: an exploration of programming languages and craft" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/347)

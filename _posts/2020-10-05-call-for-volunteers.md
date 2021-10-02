@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 SeaGL is approaching fast, and we need your help! SeaGL is a completely volunteer run conference,

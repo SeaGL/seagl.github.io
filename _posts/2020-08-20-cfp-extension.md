@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 First, we would like to thank everyone who has taken time to submit a talk as part of our [Call For Proposals](https://seagl.org/news/2020/07/14/CFP-open.html).

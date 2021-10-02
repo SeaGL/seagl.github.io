@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 Hello and welcome to 2020!  First, a bit of housekeeping.  We have confirmed dates for this fall (OUR EIGHTH YEAR!!!) and those dates are **November 13 & 14 2020**.  SeaGL (the Seattle GNU/Linux conference) is Seattle's grassroots free/libre/open source software, hardware, and culture summit. Founded in 2013, SeaGL now features over 50 talks, four keynotes, and the Cascadia Community Builder Award each year. Join speakers and participants from around the world for Seattle's FREE, as in freedom and coffee, GNU/Linux conference.

@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Nithya gives her talk titled, "Many ways of Contributing to Open Source without Coding" on [Friday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/225)

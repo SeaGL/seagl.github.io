@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 ![Máirín Duffy](/img/posts/2020_Keynote_Duffy.jpg){:.align-left}
