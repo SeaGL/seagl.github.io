@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 Today we announce the schedule for SeaGL 2019!  November 15 and November 16 will be an amazing couple of days of talks, and we can't WAIT to see you there!

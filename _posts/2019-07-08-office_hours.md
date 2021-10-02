@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 Several years ago, the Program Committee began CFP Office Hours.  This has been successful, in fact so successful that we now see other conferences offering them. So this year, we'll be offering office hours on the schedule of **every Wednesday from 12pm-1pm Pacific time**, until the CFP closes August 11. We'll also do a special session the night that the CFP closes.  We'd love to see you!  We believe strongly in supporting new voices, and whether you need topic ideas or how to wrangle the central argument of your talk, we're here to help.  And lots of us are on the channel much of the time besides, so come say hi!

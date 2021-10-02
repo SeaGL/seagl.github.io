@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 SeaGL 2018 organising is moving along nicely! We're talking about our A/V requirements and what sort of fun stuff we'd like to do onsite. We're also starting to reach out to potential sponsors who want to be a part of our sixth year. We would love it if you would share our [prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2018.pdf) with your company or organisation! 

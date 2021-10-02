@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 [SeaGL_2019_schedule]: https://osem.seagl.org/conferences/seagl2019/schedule/

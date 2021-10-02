@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 **The SeaGL CFP closes at 23:59:59 PT on August 6th!**

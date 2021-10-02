@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2021'
 ---
 
 One of the ways SeaGL supports first-time speakers is by holding CfP office hours.

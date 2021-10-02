@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Gareth gives his talk titled, "Leaving an Open Source Project" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/136)

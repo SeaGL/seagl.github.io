@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2014'
 ---
 
 We are super-excited to welcome Karen Sandler to Seattle this year to keynote

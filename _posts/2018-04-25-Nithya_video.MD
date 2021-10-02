@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 In preparation of announcing our 2018 keynotes next week, we're revisiting our great keynotes from past years

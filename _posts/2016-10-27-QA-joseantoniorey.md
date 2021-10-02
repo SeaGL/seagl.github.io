@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 José speaks on Saturday. His talk is titled, "Juju: No more staying awake overnight, your cloud in just a couple taps (or clicks!): Learn how to deploy your own cloud in minutes

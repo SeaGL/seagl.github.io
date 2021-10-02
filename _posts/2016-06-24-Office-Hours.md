@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Get Help with Your SeaGL Proposal!

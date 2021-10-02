@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 SeaGL 2016 will run on the 11th and 12th of November at Seattle Central College. It's a great location very close to transportation links.
 

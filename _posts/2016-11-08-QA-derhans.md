@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 der.hans gives his talk titled, "MySQL for the system administrator: !DBA MySQL goodness" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/242)

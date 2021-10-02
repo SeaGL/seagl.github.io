@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 **Nominations are open for the 2017 Cascadia Community Builder Award**

@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 **Announcing our Amazing 2017 Keynotes**

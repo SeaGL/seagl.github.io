@@ -49,15 +49,16 @@ Please also add the following at the top of your file:
 ```
 ---
 layout: post
-title: 'TITLEGOESHERE'
+title: 'Example Title'
 status: publish
 type: post
 published: true
 categories: news
+tags: '2013'
 ---
 ```
 
-Edit the `title: ` value, setting it to the title of your blog post. Please leave the rest of the values as-is.
+Set `title` to the title of your blog post and edit `tags` to include the conference year that the post is associated with (empty if none). Please leave the rest of the values as-is.
 
 For the actual file content, you can make your changes either in the GitHub web interface or on your local machine.
 

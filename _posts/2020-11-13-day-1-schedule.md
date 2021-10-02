@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 Today is the day!  Day 1 of SeaGL begins today! Here is the full [SeaGL 2020 program](https://osem.seagl.org/conferences/seagl2020/schedule), and please read on for today's schedule, for Friday, November 13, 2020.  As a reminder, SeaGL 2020 is completely [virtual](https://seagl.org/news/2020/05/05/virtualconf-2020.html).  SeaGL is also completely free as in tea with no registration required, so everyone is welcome to attend.

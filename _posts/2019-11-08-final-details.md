@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 SeaGL 2019 approaches!!  We are so excited for the conference NEXT weekend, Friday and Saturday, 15 & 16 November 2019!  As you know this is our SEVENTH year.  Within please find finalized details for the conference next weekend :)

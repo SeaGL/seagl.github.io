@@ -9,6 +9,7 @@ layout: page
   | where_exp: 'session', 'session.relative_path contains path_prefix'
   | sort: 'beginning'
   | group_by_exp: 'session', 'session.beginning | date: "%A"' %}
+{% assign posts = site.tags[year] | where: 'categories','news' | reverse %}
 
 <div class="col-xs-12 col-lg-10 col-lg-push-1">
   <h1 class="text-center">
@@ -48,6 +49,19 @@ layout: page
     </div>
     {% endfor %}
   </div>
+
+  {% unless posts == empty %}
+  <h2>News</h2>
+
+  <ul>
+    {% for post in posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="text-muted">· <time value="{{ post.date | date: '%F' }}">{{ post.date | date_to_string: 'ordinal', 'US' }}</time></span>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endunless %}
 
   <p style="margin-top: 2em;"><a href="/archive">« All archives</a></p>
 </div>

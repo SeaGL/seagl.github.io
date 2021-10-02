@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 Nominations are open until August 16th for the second Cascadia Community Builder Award!

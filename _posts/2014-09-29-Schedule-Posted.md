@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2014'
 ---
 
 We have a schedule! After a lot of hard work we have posted our schedule to

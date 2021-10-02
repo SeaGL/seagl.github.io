@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 With the [Call For Proposals extended](https://seagl.org/news/2020/08/20/cfp-extension.html), we thought we'd take a moment to brainstorm a few topics that we'd love to see proposed for the event, but so far haven't seen a large response in the CFP.

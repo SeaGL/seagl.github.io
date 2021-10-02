@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 **Cascadia Community Builder Award: Fourth Winner Announced!**

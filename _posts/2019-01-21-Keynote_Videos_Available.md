@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 We're very happy to announce that we've posted the videos for the [four excellent keynote presentations](https://seagl.org/news/2018/05/28/our_2018_keynoters.html) that we featured at SeaGL 2018:

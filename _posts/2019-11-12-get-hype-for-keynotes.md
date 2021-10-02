@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 SeaGL 2019 is in four days!  So let's give a quick wrapup on those keynotes!

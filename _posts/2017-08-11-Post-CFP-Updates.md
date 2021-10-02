@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Thank you, everyone, for participating in and sharing our CFP. It closed this past Monday, which means now is a good time for an update. So, how have we done so far this year?

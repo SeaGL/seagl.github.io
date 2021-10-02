@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2016'
 ---
 
 VM Brasseur gives her talk titled, "Cutting Some Slack: Decoding IRC" on [Friday morning.](https://osem.seagl.org/conference/seagl2016/program/proposal/123)

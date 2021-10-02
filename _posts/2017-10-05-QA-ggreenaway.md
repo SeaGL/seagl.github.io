@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Gareth Greenaway gives his talk titled, "Your Solution Is Not My Problem" on [Saturday afternoon](https://osem.seagl.org/conferences/seagl2017/program/proposals/353).

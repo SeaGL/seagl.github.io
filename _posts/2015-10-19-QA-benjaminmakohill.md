@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2015'
 ---
 
 Benjamin Mako Hill shares some thoughts with SeaGL:

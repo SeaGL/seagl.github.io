@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 We're so excited for SeaGL 2019 in LESS THAN TWO WEEKS!  Our speakers have accepted, our keynotes are gearing up to deliver some phenomenal insights, and we're getting the rest of the details worked out in the coming weeks.  Today we'd like to share the process we used to manage the Call For Proposals at SeaGL.  This document is as much for your edification as it is a record for ourselves for future years!

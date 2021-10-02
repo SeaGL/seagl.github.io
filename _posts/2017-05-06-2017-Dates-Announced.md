@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 We're excited to announce the dates for this year's Seattle GNU/Linux

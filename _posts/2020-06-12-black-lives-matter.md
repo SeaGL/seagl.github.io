@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 SeaGL condemns racism in all its forms, systemic, personal, and otherwise.  The organizers of SeaGL recognize the ongoing harm being done to the Black community and seek to support Black members of our community directly.  To that end, we have allotted honoraria for all Black speakers at SeaGL 2020.  We are also looking into the possibility of scholarships or other monetary support mechanisms for Black members of the FLOSS world.  We are currently strategizing how best to support and amplify our sister technical organizations who focus on non-white members of our community — we welcome [your suggestions](mailto:participate@seagl.org) of organizations to partner with and support!

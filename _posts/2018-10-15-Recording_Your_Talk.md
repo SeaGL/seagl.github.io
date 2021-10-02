@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 SeaGL 2018 is approaching quickly and we're starting to put the finishing touches on preparations.

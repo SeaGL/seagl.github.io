@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2015'
 ---
 
 SeaGL speaker Noah Swartz answers a few questions from SeaGL staff:

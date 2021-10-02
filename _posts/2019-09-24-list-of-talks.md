@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2019'
 ---
 
 To tide us all over until the official Schedule is published, here is the list of confirmed speakers and their talks.  We're still waiting to confirm a handful of talks and we'll update this as this small amount of changes comes in.

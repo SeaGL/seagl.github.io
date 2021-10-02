@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Hello, SeaGL (or other conference!) speakers! Our big event is only a week away, so here's some information to help you prepare and be ready to go when you arrived.

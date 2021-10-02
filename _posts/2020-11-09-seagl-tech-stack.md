@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2020'
 ---
 
 Like other conferences, the shift from an in-person to virtual format forced us to think about the virtual SeaGL experience.

@@ -5,6 +5,7 @@ status: publish
 type: post
 published: yes
 categories: news
+tags: '2020'
 ---
 
 Planning volunteer run conferences such as SeaGL always takes a lot of ongoing work from a dedicated core. It also takes a lot of people to volunteer during the conference itself.

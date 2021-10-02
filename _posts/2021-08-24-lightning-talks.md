@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2021'
 ---
 
 We’re incredibly excited to announce that we’re hosting lightning talks at SeaGL this year!

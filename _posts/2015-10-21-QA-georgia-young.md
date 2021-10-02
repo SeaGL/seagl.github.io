@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2015'
 ---
 
 Free Software Foundation staffer Georgia Young will speak at SeaGL this

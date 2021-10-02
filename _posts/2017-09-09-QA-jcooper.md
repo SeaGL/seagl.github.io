@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 James Cooper gives his talk titled, "Distributed Systems With Docker Swarm" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/351)

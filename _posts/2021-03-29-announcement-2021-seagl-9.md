@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2021'
 ---
 
 Thank you so much for sticking with us through SeaGL 2020!  We'll be announcing more with videos and other content from last year soon, but the big announcement here is that we are gearing up for year NINE of SeaGL! **SeaGL 2021 will be Friday, November 5 and Saturday, November 6, 2021!**

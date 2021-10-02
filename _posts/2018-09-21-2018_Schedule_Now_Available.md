@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2018'
 ---
 
 We're pleased to announce the SeaGL 2018 schedule!

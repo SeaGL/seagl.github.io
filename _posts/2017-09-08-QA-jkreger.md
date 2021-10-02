@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+tags: '2017'
 ---
 
 Julia Kreger gives her talk titled, "How to get a cross-project feature landed in OpenStack: Or how I plotted to obtain success... " on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2017/program/proposals/315)
