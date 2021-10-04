@@ -13,49 +13,47 @@ levels:
 {% capture year %}{{ page.slug }}{% endcapture %}{% assign year = year | plus: 0 %}
 {% assign sponsors = site.data.sponsors | sort: "name" %}
 
-<div class="col-md-12">
-  <div class="hero-unit">
-    <h1>SeaGL {{ year }} Sponsors</h1>
+<div class="hero-unit">
+  <h1>SeaGL {{ year }} Sponsors</h1>
 
-    <p class="lead text-center">
-      Our community sponsors are the lifeblood of SeaGL and we can't thank them enough.
-      <br class="hidden-xs hidden-sm" />
-      Their contributions will have a real and lasting effect in the FLOSS community. Thank you all.
-      <br>
-      To become one, take a look at our <a href="{{ site.custom.url.prospectus }}">Exhibitor/Sponsor Prospectus</a>. Or email us at {{ site.custom.a.email.sponsor }} to discuss opportunities.
-    </p>
+  <p class="lead text-center">
+    Our community sponsors are the lifeblood of SeaGL and we can't thank them enough.
+    <br class="hidden-xs hidden-sm" />
+    Their contributions will have a real and lasting effect in the FLOSS community. Thank you all.
+    <br>
+    To become one, take a look at our <a href="{{ site.custom.url.prospectus }}">Exhibitor/Sponsor Prospectus</a>. Or email us at {{ site.custom.a.email.sponsor }} to discuss opportunities.
+  </p>
 
-    {{ content }}
+  {{ content }}
+</div>
+
+{% for level in layout.levels %}
+  <h2>{{ level[1] }}</h2>
+
+  <div class="logo-wall level-{{ level[0] }}">
+    {% for sponsor in sponsors %}
+      {% for sponsorship in sponsor.sponsorships %}
+        {% if sponsorship[0] == year and sponsorship[1] == level[0] %}
+          <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
+            {% if sponsor.logo.horizontal %}
+              <img src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
+            {% elsif sponsor.logo.square %}
+              <img src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
+            {% else %}
+              {{ sponsor.name }}
+            {% endif %}
+          </a>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
   </div>
 
-  {% for level in layout.levels %}
-    <h2>{{ level[1] }}</h2>
+  <hr>
+{% endfor %}
 
-    <div class="logo-wall level-{{ level[0] }}">
-      {% for sponsor in sponsors %}
-        {% for sponsorship in sponsor.sponsorships %}
-          {% if sponsorship[0] == year and sponsorship[1] == level[0] %}
-            <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
-              {% if sponsor.logo.horizontal %}
-                <img src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
-              {% elsif sponsor.logo.square %}
-                <img src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
-              {% else %}
-                {{ sponsor.name }}
-              {% endif %}
-            </a>
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    </div>
-
-    <hr>
+<ul class="nav nav-pills nav-pills-centered" style="margin-top: 3em;">
+  {% for sponsor_year in site.sponsor-years %}
+  {% capture y %}{{ sponsor_year.slug }}{% endcapture %}{% assign y = y | plus: 0 %}
+  <li class="{% if y == year %}active{% endif %}"><a href="{{ sponsor_year.url }}">{{ y }}</a></li>
   {% endfor %}
-
-  <ul class="nav nav-pills nav-pills-centered" style="margin-top: 3em;">
-    {% for sponsor_year in site.sponsor-years %}
-    {% capture y %}{{ sponsor_year.slug }}{% endcapture %}{% assign y = y | plus: 0 %}
-    <li class="{% if y == year %}active{% endif %}"><a href="{{ sponsor_year.url }}">{{ y }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+</ul>

@@ -5,94 +5,96 @@ layout: page
 {% assign session = page %}
 {% capture year %}{{ session.beginning | date: '%Y' }}{% endcapture %}
 
-<div class="col-xs-12 col-lg-10 col-lg-push-1">
-  {% if session.resources %}
-  {% if session.resources.internet_archive_identifier %}
-  <figure>
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://archive.org/embed/{{ session.resources.internet_archive_identifier }}" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-    </div>
-
-    <figcaption class="text-muted">
-      This video recording is archived by the <a href="https://archive.org/about/">Internet Archive</a>.
-      If you value their service, please consider thanking them with a small donation.
-    </figcaption>
-  </figure>
-  {% elsif session.resources.youtube_id %}
-  <figure>
-    <div class="embed-responsive embed-responsive-16by9">
-      <div class="embed-responsive-item embed-placeholder">
-        <p>This video is hosted on YouTube.</p>
-
-        <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/{{ session.resources.youtube_id }}">View</a></p>
-
-        <template>
-          <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/{{ session.resources.youtube_id }}?modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
-        </template>
+<div class="row">
+  <div class="col-xs-12 col-lg-10 col-lg-push-1">
+    {% if session.resources %}
+    {% if session.resources.internet_archive_identifier %}
+    <figure>
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://archive.org/embed/{{ session.resources.internet_archive_identifier }}" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       </div>
-    </div>
-  </figure>
-  {% endif %}
-  {% endif %}
 
-  <div class="row">
-    <div class="col-xs-12 col-md-7">
-      <h2>{{ session.title }}</h2>
+      <figcaption class="text-muted">
+        This video recording is archived by the <a href="https://archive.org/about/">Internet Archive</a>.
+        If you value their service, please consider thanking them with a small donation.
+      </figcaption>
+    </figure>
+    {% elsif session.resources.youtube_id %}
+    <figure>
+      <div class="embed-responsive embed-responsive-16by9">
+        <div class="embed-responsive-item embed-placeholder">
+          <p>This video is hosted on YouTube.</p>
 
-      <p>
-        {% if session.keynote %}
-        <span class="label label-default">Keynote</span>
-        {% endif %}
-      </p>
+          <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/{{ session.resources.youtube_id }}">View</a></p>
 
-      {{ content }}
-    </div>
-
-    <div class="col-xs-12 col-md-5">
-      {% if session.presenters %}
-      <h3>Presenters</h3>
-
-      {% for presenter in session.presenters %}
-      <div class="media">
-        <div class="media-left">
-          <img class="img-circle" width="64" height="64" alt="{{ presenter.name }}" src="https://s.gravatar.com/avatar/{{ presenter.gravatar_id }}?d=mp&s=128">
-        </div>
-        <div class="media-body media-middle">
-          <h4 class="media-heading">{{ presenter.name }}{% if presenter.pronouns %}<span class="text-muted"> ({{ presenter.pronouns }})</span>{% endif %}{% if presenter.affiliation %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}</h4>
-          {{ presenter.biography | markdownify }}
+          <template>
+            <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/{{ session.resources.youtube_id }}?modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+          </template>
         </div>
       </div>
-      {% endfor %}
-      {% endif %}
+    </figure>
+    {% endif %}
+    {% endif %}
 
-      {% if session.resources %}
-      <h3>Resources</h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-7">
+        <h2>{{ session.title }}</h2>
 
-      <ul>
-        {% if session.resources.slides_url %}
-        <li><a href="{{ session.resources.slides_url }}">Slides</a></li>
+        <p>
+          {% if session.keynote %}
+          <span class="label label-default">Keynote</span>
+          {% endif %}
+        </p>
+
+        {{ content }}
+      </div>
+
+      <div class="col-xs-12 col-md-5">
+        {% if session.presenters %}
+        <h3>Presenters</h3>
+
+        {% for presenter in session.presenters %}
+        <div class="media">
+          <div class="media-left">
+            <img class="img-circle" width="64" height="64" alt="{{ presenter.name }}" src="https://s.gravatar.com/avatar/{{ presenter.gravatar_id }}?d=mp&s=128">
+          </div>
+          <div class="media-body media-middle">
+            <h4 class="media-heading">{{ presenter.name }}{% if presenter.pronouns %}<span class="text-muted"> ({{ presenter.pronouns }})</span>{% endif %}{% if presenter.affiliation %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}</h4>
+            {{ presenter.biography | markdownify }}
+          </div>
+        </div>
+        {% endfor %}
         {% endif %}
 
-        {% if session.resources.internet_archive_identifier %}
-        <li><a href="https://archive.org/details/{{ session.resources.internet_archive_identifier }}">Video Recording</a></li>
-        {% elsif session.resources.youtube_id %}
-        <li><a href="https://youtu.be/{{ session.resources.youtube_id }}">Video Recording</a></li>
-        {% endif %}
+        {% if session.resources %}
+        <h3>Resources</h3>
 
-        {% if session.resources.audio_url %}
-        <li><a href="{{ session.resources.audio_url }}">Audio Recording</a></li>
+        <ul>
+          {% if session.resources.slides_url %}
+          <li><a href="{{ session.resources.slides_url }}">Slides</a></li>
+          {% endif %}
+
+          {% if session.resources.internet_archive_identifier %}
+          <li><a href="https://archive.org/details/{{ session.resources.internet_archive_identifier }}">Video Recording</a></li>
+          {% elsif session.resources.youtube_id %}
+          <li><a href="https://youtu.be/{{ session.resources.youtube_id }}">Video Recording</a></li>
+          {% endif %}
+
+          {% if session.resources.audio_url %}
+          <li><a href="{{ session.resources.audio_url }}">Audio Recording</a></li>
+          {% endif %}
+        </ul>
         {% endif %}
-      </ul>
-      {% endif %}
+      </div>
     </div>
-  </div>
 
-  <div class="row" style="margin-top: 2em;">
-    <div class="col-xs-6">
-      <p><a href="/archive/{{ year }}">« SeaGL {{ year }}</a></p>
-    </div>
-    <div class="col-xs-6 text-muted text-right">
-      <p><a href="{{ site.custom.url.edit_page_base }}/{{ session.path }}">Edit</a></p>
+    <div class="row" style="margin-top: 2em;">
+      <div class="col-xs-6">
+        <p><a href="/archive/{{ year }}">« SeaGL {{ year }}</a></p>
+      </div>
+      <div class="col-xs-6 text-muted text-right">
+        <p><a href="{{ site.custom.url.edit_page_base }}/{{ session.path }}">Edit</a></p>
+      </div>
     </div>
   </div>
 </div>
