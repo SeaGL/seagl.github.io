@@ -7,13 +7,11 @@ title: Sponsors
 
 {% assign sponsor_years = site.sponsor-years | reverse %}
 
-<div class="col-md-12">
-  <div class="hero-unit">
-    <h1>SeaGL Sponsors</h1>
+<div class="hero-unit">
+  <h1>SeaGL Sponsors</h1>
 
-    {% for sponsor_year in sponsor_years %}
-    {% capture year %}{{ sponsor_year.slug }}{% endcapture %}
-    <h2><a href="{{ sponsor_year.url }}">SeaGL {{ year }} Sponsors</a></h2>
-    {% endfor %}
-  </div>
+  {% for sponsor_year in sponsor_years %}
+  {% capture year %}{{ sponsor_year.slug }}{% endcapture %}
+  <h2><a href="{{ sponsor_year.url }}">SeaGL {{ year }} Sponsors</a></h2>
+  {% endfor %}
 </div>
