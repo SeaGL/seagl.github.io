@@ -18,13 +18,15 @@
     horizontal: /img/sponsors/AdasTechnicalBooks/HORIZONTAL_LOGO_WITH_TRADEMARK_CMYK_2.png
     square:
   description: |-
-    Technical books and cafe for the cravings of the technical mind.
+    Ada's Technical Books & Cafe is Seattle's technical bookstore. We build
+    community through science minded literature, a vegetarian cafe, specialty
+    coffee, coworking, and an intimate event venue. 
   sponsorships:
     2016: bronze
-    2017: thanks
-    2018: thanks
-    2019: thanks
-    2020: thanks
+    2017: media
+    2018: media
+    2019: media
+    2020: media
     2021: media
 
 - name: Ansible
@@ -65,7 +67,7 @@
     2019: platinum
 
 - name: ExtraHop
-  url: https://www.extrahop.com
+  url: https://www.extrahop.com.jobs/
   logo:
     horizontal: /img/sponsors/ExtraHop/ExtraHop_black_logo_w_tagline.png
     square:
@@ -140,10 +142,10 @@
   description: |-
     Linux Journal covers all aspects of the world's most essential operating system and the emerging technologies adjacent to it. Our mission is to deliver a publication that reflects the principled approach followed by kernel developers and the tenets of Open Source philosophy.
   sponsorships:
-    2013: thanks
+    2013: media
     2015: bronze
     2016: bronze
-    2020: thanks
+    2020: media
 
 - name: Linux Pro Magazine
   url: https://www.linuxpromagazine.com/
@@ -312,8 +314,8 @@
     industrial IoT products, will once again be held in conjunction with Open
     Source Summit.
   sponsorships:
-    2017: thanks
-    2018: thanks
+    2017: media
+    2018: media
     2021: media
 
 - name: PyCascades
@@ -397,8 +399,8 @@
     of Exploitation, Practical Packet Analysis, and The Manga Guides.
   sponsorships:
     2015: bronze
-    2016: thanks
-    2017: thanks
+    2016: media
+    2017: media
 
 - name: LinuxFest Northwest
   url: https://linuxfestnorthwest.org
@@ -552,6 +554,7 @@
     2017: thanks
     2019: thanks
     2020: thanks
+    2021: thanks
 
 - name: Kubuntu
   url: https://kubuntu.org/
@@ -581,6 +584,7 @@
   sponsorships:
     2016: bronze
     2020: silver
+    2021: silver
 
 - name: SEAPHP
   url: https://www.meetup.com/seaphp/
@@ -641,7 +645,7 @@
     square:
   description:
   sponsorships:
-    2017: thanks
+    2017: media
 
 - name: Private Internet Access
   url: https://privateinternetaccess.com
@@ -678,6 +682,7 @@
   description:
   sponsorships:
     2018: thanks
+    2021: platinum
 
 - name: twilio
   url: https://www.twilio.com/
@@ -695,7 +700,7 @@
     square:
   description:
   sponsorships:
-    2018: thanks
+    2018: media
 
 - name: linode
   url: https://www.linode.com/
@@ -704,8 +709,8 @@
     square:
   description:
   sponsorships:
-    2018: thanks
-    2019: thanks
+    2018: media
+    2019: media
 
 - name: Pragmatic Bookshelf
   url: https://pragprog.com
@@ -714,7 +719,7 @@
     square:
   description:
   sponsorships:
-    2018: thanks
+    2018: media
 
 - name: Indeed
   url: https://www.indeed.com
@@ -756,7 +761,7 @@
     top developers, end users, and vendors and runs the largest open source
     developer conferences. CNCF is part of the nonprofit Linux Foundation.
   sponsorships:
-    2019: thanks
+    2019: media
 
 - name: Dragonchain
   url: https://www.dragonchain.com
@@ -841,7 +846,9 @@
     horizontal:
     square: /img/sponsors/OSI/OSI_Standard_Logo.svg
   description: |-
-    For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice. As a global non-profit, the OSI champions software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement.
+    The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.  
+    Open source enables a development method for software that harnesses the power of distributed peer review and transparency of process. The promise of open source is higher quality, better reliability, greater flexibility, lower cost, and an end to predatory vendor lock-in.  
+    One of our most important activities is as a standards body, maintaining the Open Source Definition for the good of the community. The Open Source Initiative Approved License trademark and program creates a nexus of trust around which developers, users, corporations and governments can organize open source cooperation.
   sponsorships:
     2020: thanks
     2021: thanks
@@ -854,8 +861,8 @@
   description: |-
     The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
   sponsorships:
-    2020: thanks
-    2021: thanks
+    2020: media
+    2021: media
 
 - name: Women In Linux
   url: http://www.womeninlinux.com/
@@ -877,6 +884,7 @@
     LAS welcomes application developers, designers, product managers, user experience specialists, community leaders, academics, and anyone who is interested in the state of Linux application design and development!
   sponsorships:
     2020: thanks
+    2021: thanks
 
 - name: ShellCon/RaiseMe
   url: https://shellcon.io/raiseme/
@@ -886,7 +894,8 @@
   description: |-
     The RaiseMe arm of ShellCon is dedicated to supporting our entire community. We have a complete lineup of career talks on Friday and Saturday during ShellCon, and also offer one-on-one assistance in the form of consulting appointments with our volunteer professional staff.
   sponsorships:
-    2020: thanks
+    2020: media
+    2021: media
 
 - name: Phoenix Linux Users Group
   url: https://phxlinux.org/
