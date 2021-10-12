@@ -48,10 +48,15 @@ The logo images below may be used without advance permission, subject to the fol
   - Where possible, the logo hyperlinks to https://seagl.org or an appropriate page on that site.
   - The logo images are not altered, except to proportionally resize.
 
-Available formats:
+#### SeaGL logo
 
   - [Vector image (SVG)](/media-resources/SeaGL logo.svg){:download=""} for general-purpose use
   - [Square raster image (PNG)](/media-resources/SeaGL logo · social media.png){:download=""} suitable for use in a typical social media profile (also available as a [low quality JPEG](/media-resources/SeaGL logo · social media · low quality.jpg){:download=""})
+
+#### SeaGL logo (virtual event edition)
+
+  - [Vector image (SVG)](/media-resources/SeaGL logo (virtual event edition).svg){:download=""} for general-purpose use
+  - [Square raster image (PNG)](/media-resources/SeaGL logo (virtual event edition) · social media.png){:download=""} suitable for use in a typical social media profile (also available as a [low quality JPEG](/media-resources/SeaGL logo (virtual event edition) · social media · low quality.jpg){:download=""})
 
 For other logo uses, contact <a href="mailto:press@seagl.org">press@seagl.org</a>
 
