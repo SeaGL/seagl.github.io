@@ -586,7 +586,7 @@
     2020: silver
     2021: silver
 
-- name: SEAPHP
+- name: SeaPHP UG
   url: https://www.meetup.com/seaphp/
   logo:
     horizontal:
@@ -645,7 +645,7 @@
     square:
   description:
   sponsorships:
-    2017: media
+    2017: thanks
 
 - name: Private Internet Access
   url: https://privateinternetaccess.com
@@ -700,7 +700,7 @@
     square:
   description:
   sponsorships:
-    2018: media
+    2018: thanks
 
 - name: linode
   url: https://www.linode.com/
@@ -709,8 +709,8 @@
     square:
   description:
   sponsorships:
-    2018: media
-    2019: media
+    2018: thanks
+    2019: thanks
 
 - name: Pragmatic Bookshelf
   url: https://pragprog.com
@@ -761,7 +761,7 @@
     top developers, end users, and vendors and runs the largest open source
     developer conferences. CNCF is part of the nonprofit Linux Foundation.
   sponsorships:
-    2019: media
+    2019: thanks
 
 - name: Dragonchain
   url: https://www.dragonchain.com
@@ -861,8 +861,8 @@
   description: |-
     The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
   sponsorships:
-    2020: media
-    2021: media
+    2020: thanks
+    2021: thanks
 
 - name: Women In Linux
   url: http://www.womeninlinux.com/
@@ -894,8 +894,8 @@
   description: |-
     The RaiseMe arm of ShellCon is dedicated to supporting our entire community. We have a complete lineup of career talks on Friday and Saturday during ShellCon, and also offer one-on-one assistance in the form of consulting appointments with our volunteer professional staff.
   sponsorships:
-    2020: media
-    2021: media
+    2020: thanks
+    2021: thanks
 
 - name: Phoenix Linux Users Group
   url: https://phxlinux.org/
