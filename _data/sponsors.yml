@@ -116,6 +116,7 @@
     2014: gold
     2015: gold
     2016: platinum
+    2021: gold
 
 - name: Hewlett-Packard
   url: http://hpcloud.com
@@ -746,9 +747,11 @@
   logo:
     horizontal:
     square: /img/sponsors/MySQL/MySQL-clr.png
-  description:
+  description: |-
+    MySQL is the World’s Most Popular Open Source Database. It powers the most innovative companies including Facebook, Booking, Uber, and Tesla. It is available on-premises and as the MySQL Database Service on Oracle Cloud. For developers, it’s an easy to use, reliable and high-performance database with NoSQL and SQL support. SaaS, ecommerce, financial, telecom, and Fortune 1000 companies rely on the MySQL Enterprise edition advanced security features to protect the privacy of information, prevent data breaches and help meet regulatory requirements such as GDPR, PCI, HIPAA. MySQL High Availability has native HA, fully integrated into the MySQL Server for 99.99% uptime.
   sponsorships:
     2018: thanks
+    2021: thanks
 
 - name: Cloud Native Computing Foundation
   url: https://www.cncf.io
@@ -938,4 +941,34 @@
     We are an organization exploring the realm of free and open source software and encouraging their use in daily life. We love to use Linux (distributions) and learn something new about it every time we meet.
   sponsorships:
     2021: thanks
+
+- name: Ubuntu Community Fund
+  url: https://ubuntu.com/community
+  logo:
+    horizontal: /img/sponsors/Ubuntu/ubuntu_orange_hex.png
+    square:
+  description: |-
+    When downloading Ubuntu, users can donate money to be used by Canonical to support and improve the areas that the contributor feels are most important. Donations made to “Community projects” are used to fund people and projects outside of Canonical in ways that benefit the Ubuntu community.
+  sponsorships:
+    2021: thanks
+
+- name: Tidelift
+  url: https://tidelift.com/
+  logo:
+    horizontal: /img/sponsors/Tidelift/Tidelift_primary-logo.webp
+    square:
+  description: |-
+    Tidelift helps organizations effectively manage the open source behind modern applications. Tidelift enables organizations to accelerate development and reduce risk when building apps with open source, so they can create even more incredible software.
+  sponsorships:
+    2021: silver
+
+- name: Destination Linux Network
+  url: https://destinationlinux.network/
+  logo:
+    horizontal: /img/sponsors/DestinationLinuxNetwork/dln-logo.png
+    square:
+  description: |-
+    Destination Linux Network - A Media Network Powered By Linux & Open Source. Check out Destination Linux, Hardware Addicts, Sudo Show, DLN Xtend, Ask Noah Show and the Fedora Podcast. 
+  sponsorships:
+    2021: media
 
