@@ -951,7 +951,7 @@
   description: |-
     When downloading Ubuntu, users can donate money to be used by Canonical to support and improve the areas that the contributor feels are most important. Donations made to “Community projects” are used to fund people and projects outside of Canonical in ways that benefit the Ubuntu community.
   sponsorships:
-    2021: thanks
+    2021: gold
 
 - name: Tidelift
   url: https://tidelift.com/
