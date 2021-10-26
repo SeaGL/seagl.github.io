@@ -965,7 +965,7 @@
 - name: Destination Linux Network
   url: https://destinationlinux.network/
   logo:
-    horizontal: /img/sponsors/DestinationLinuxNetwork/dln-logo.png
+    horizontal: /img/sponsors/DestinationLinuxNetworks/dln-logo.png
     square:
   description: |-
     Destination Linux Network - A Media Network Powered By Linux & Open Source. Check out Destination Linux, Hardware Addicts, Sudo Show, DLN Xtend, Ask Noah Show and the Fedora Podcast. 
