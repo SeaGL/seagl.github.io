@@ -578,11 +578,12 @@
     2016: thanks
 
 - name: Red Hat
-  url: https://www.redhat.com
+  url: https://community.redhat.com
   logo:
-    horizontal: /img/sponsors/RedHat/RedHat.png
-    square:
-  description:
+    horizontal: /img/sponsors/RedHat/Logo-RedHat-A-Color-RGB.png
+    square: /img/sponsors/RedHat/Logo-RedHat-D-Color-RGB.png
+  description: |-
+    Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.
   sponsorships:
     2016: bronze
     2020: silver
@@ -967,7 +968,7 @@
 - name: Destination Linux Network
   url: https://destinationlinux.network/
   logo:
-    horizontal: /img/sponsors/DestinationLinuxNetworks/dln-logo.png
+    horizontal: /img/sponsors/DestinationLinuxNetwork/dln-logo.png
     square:
   description: |-
     Destination Linux Network - A Media Network Powered By Linux & Open Source. Check out Destination Linux, Hardware Addicts, Sudo Show, DLN Xtend, Ask Noah Show and the Fedora Podcast. 
