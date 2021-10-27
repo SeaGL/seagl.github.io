@@ -977,3 +977,13 @@
   sponsorships:
     2021: media
 
+- name: Jupiter Broadcasting
+  url: https://www.jupiterbroadcasting.com/
+  logo:
+    horizontal: /img/sponsors/JupiterBroadcasting/JBwebLogo.png
+    square: /img/sponsors/JupiterBroadcasting/jb-rocket-medium.png
+  description: |-
+    Jupiter Broadcasting - The best podcasts in the world about Linux, free software, and more.
+  sponsorships:
+    2021: media
+
