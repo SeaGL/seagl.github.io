@@ -987,3 +987,13 @@
   sponsorships:
     2021: media
 
+- name: GeekBeacon Fest
+  url: https://gbfest.org/
+  logo:
+    horizontal:
+    square: /img/sponsors/GBFest/GBFest_Final_design_version_22_modd.png
+  description: |-
+    GeekBeacon Fest's mission is to unify geeks and make the world a better place through a celebration of Mental Health, Gaming, Open Culture, and Open Source. February 18th-19th, 2022
+  sponsorships:
+    2021: thanks
+
