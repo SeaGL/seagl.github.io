@@ -8,7 +8,7 @@ categories: news
 tags: '2020'
 ---
 
-Welcome to the first day of SeaGL 2021!  Please find the full [SeaGL 2021 program](), and you can read on for just today's schedule, for Friday, November 5, 2021.  As a reminder, SeaGL 2021 is completely [virtual]() for the second year in a row.  The conference is also completely "free as in tea" with no registration required.  Everyone is welcome to attend!
+Welcome to the first day of SeaGL 2021!  Please find the full [SeaGL 2021 program](https://seagl.org/news/2021/10/15/schedule.html), and you can read on for just today's schedule, for Friday, November 5, 2021.  As a reminder, SeaGL 2021 is completely [virtual](https://seagl.org/news/2021/06/08/format-2021.html) for the second year in a row.  The conference is also completely "free as in tea" with no registration required.  Everyone is welcome to attend!
 
 You can attend if you go to [attend.seagl.org](https://attend.seagl.org).  Live streams are also available at [seagl.org/watch](https://seagl.org/watch).
 
