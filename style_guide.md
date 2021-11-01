@@ -12,15 +12,9 @@ body_id: style_guide
 
 The goal of this guide is to group the common effort on the creation of design materials for the Seattle GNU/Linux Conference. It describes best practices for creating new materials and applying the visual identity of the event.
 
-All design assets are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>, unless otherwise specified.
+## <a id="Design"></a>Design
 
-A quick overview of the content:
-
-- [The Logo](#TheLogo)
-- [Font Styles](#FontStyles)
-- [Color Palette](#ColorPalette)
-- [Color Usage](#ColorUsage)
-- [Design Assets](#DesignAssets)
+This section contains information about the visual elements of the conference, how to use them and best practices. All design assets are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>, unless otherwise specified.
 
 ### <a id="TheLogo"></a>The Logo
 
@@ -28,7 +22,7 @@ Our logo is the most recognizable SeaGL symbol. Is composed of two elements: The
 
 As the logo is multicolored, we have limited background color options. White and the blue variations described on the color palette are the options for multiple context usage. Also, a special blue-white background with gold separation on the ribbon is used.
 
-A minimum clear space around the logo is required. Using with small size are not recommended, due to the logo complexity. 
+A minimum clear space around the logo is required, about 50% of the diameter on each side. Using with small size are not recommended, due to the logo complexity. 
 
 For the online events, there is a special version where the seagull is with a microphone. It follows the same restrictions as the classic version.
 
@@ -78,7 +72,7 @@ Any used colors should be taken either directly from the palette or be derived f
 |----------------------------------------------------------|-----------|-------------------|--------------------|
 | <span style="background-color: #1D7193;"></span> Blue 1  | `#1D7193` | `RGB 29 113 147`  | `CMYK 82 40 25 14` |
 | <span style="background-color: #0C5A73;"></span> Blue 2  | `#0C5A73` | `RGB 12 90 115`   | `CMYK 87 46 34 25` |
-| <span style="background-color: #074558;"></span> Blue 3  | `#074558` | `RGB 7 69 88`     |                    |
+| <span style="background-color: #074558;"></span> Blue 3  | `#074558` | `RGB 7 69 88`     | `CMYK 89 47 40 47` |
 | <span style="background-color: #FCB320;"></span> Gold 1  | `#FCB320` | `RGB 252 179 32`  | `CMYK 2 34 89 0`   |
 | <span style="background-color: #B1742A;"></span> Gold 2  | `#B1742A` | `RGB 177 116 42`  | `CMYK 24 53 88 17` |
 | <span style="background-color: #E0E0E0;"></span> Gray 1  | `#E0E0E0` | `RGB 224 224 224` | `CMYK 0 0 0 16`    |
@@ -86,7 +80,7 @@ Any used colors should be taken either directly from the palette or be derived f
 | <span style="background-color: #B3B3B3;"></span> Gray 3  | `#B3B3B3` | `RGB 179 179 179` | `CMYK 0 0 0 39`    |
 | <span style="background-color: #565656;"></span> Gray 4  | `#565656` | `RGB 86 86 86`    | `CMYK 0 0 0 80`    |
 | <span style="background-color: #FFFFFF;"></span> White 1 | `#FFFFFF` | `RGB 255 255 255` | `CMYK 0 0 0 0`     |
-| <span style="background-color: #FFFCF7;"></span> White 2 | `#FFFCF7` | `RGB 255 252 247` | -                  |
+| <span style="background-color: #FFFCF7;"></span> White 2 | `#FFFCF7` | `RGB 255 252 247` | _digital only_     |
 | <span style="background-color: #0D0D0D;"></span> Black   | `#0D0D0D` | `RGB 13 13 13`    | `CMYK 0 0 0 100`   |
 
 **Color palette overview:**
@@ -124,13 +118,14 @@ Specific materials and other quick reference files:
 
 </div><div class="col-md-4" markdown="1">
 
-## Contacts
+## Contents:
 
-  - **General questions:** <participate@seagl.org>
-  - **Press inquiries:** <press@seagl.org>
-  - **Code of Conduct:** <CoC@seagl.org>
-  - **Programming:** <cfp-help@seagl.org>
-  - **Sponsorships:** <sponsor@seagl.org>
+- [Design](#Design)
+	- [The Logo](#TheLogo)
+	- [Font Styles](#FontStyles)
+	- [Color Palette](#ColorPalette)
+	- [Color Usage](#ColorUsage)
+	- [Design Assets](#DesignAssets)
 
 </div>
 
