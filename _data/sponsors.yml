@@ -980,7 +980,7 @@
 - name: Jupiter Broadcasting
   url: https://www.jupiterbroadcasting.com/
   logo:
-    horizontal: /img/sponsors/JupiterBroadcasting/JBwebLogo.png
+    horizontal: /img/sponsors/JupiterBroadcasting/jb-website-logo.png
     square: /img/sponsors/JupiterBroadcasting/jb-rocket-medium.png
   description: |-
     Jupiter Broadcasting - The best podcasts in the world about Linux, free software, and more.
