@@ -756,7 +756,7 @@
     MySQL is the World’s Most Popular Open Source Database. It powers the most innovative companies including Facebook, Booking, Uber, and Tesla. It is available on-premises and as the MySQL Database Service on Oracle Cloud. For developers, it’s an easy to use, reliable and high-performance database with NoSQL and SQL support. SaaS, ecommerce, financial, telecom, and Fortune 1000 companies rely on the MySQL Enterprise edition advanced security features to protect the privacy of information, prevent data breaches and help meet regulatory requirements such as GDPR, PCI, HIPAA. MySQL High Availability has native HA, fully integrated into the MySQL Server for 99.99% uptime.
   sponsorships:
     2018: thanks
-    2021: thanks
+    2021: bronze
 
 - name: Cloud Native Computing Foundation
   url: https://www.cncf.io
@@ -995,6 +995,17 @@
     square: /img/sponsors/GBFest/GBFest_Final_design_version_22_modd.png
   description: |-
     GeekBeacon Fest's mission is to unify geeks and make the world a better place through a celebration of Mental Health, Gaming, Open Culture, and Open Source. February 18th-19th, 2022
+  sponsorships:
+    2021: thanks
+
+- name: DevOps Party Games
+  url: https://devopspartygames.com
+  logo:
+    horizontal: /img/sponsors/DevOpsPartyGames/dpg-high-res-logo.png
+    square:
+  description: |-
+    DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, and then streams it live via Twitch for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts (Matt Stratton, Jeremy Meiss, and Dan Maher) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from Dodgeball).
+    The goal here is to have fun and not take things too seriously. A live streamed game show that is most definitely a ridiculous idea, but hopefully entertaining.
   sponsorships:
     2021: thanks
 
