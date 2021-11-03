@@ -1,0 +1,40 @@
+.style-guide {
+  overflow-y: hidden; /* Contain floating images. */
+  position: relative; /* Reference for img.align-* */
+}
+.style-guide img {
+  height: auto;
+  max-width: 80%;
+  display: block;
+}
+.style-guide img.align-left,
+.style-guide img.align-right {
+  margin-bottom: 1em;
+  max-height: 24em;
+  max-width: 25%;
+}
+.style-guide img.align-left {
+  clear: left;
+  float: left;
+  margin-right: 1em;
+}
+.style-guide img.align-right {
+  clear: right;
+  float: right;
+  margin-left: 1em;
+}
+.style-guide table {
+  margin-bottom: 1em;
+}
+.style-guide th, td {
+  border: 1px solid #B3B3B3;
+  padding: .5em;
+}
+.style-guide span {
+  display: inline-block;
+  line-height: 1;
+  width: 0.9em;
+  height: 0.9em;
+  border: 1px solid #565656;
+  border-radius: 2px;
+}
