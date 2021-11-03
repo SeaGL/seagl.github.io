@@ -62,9 +62,7 @@ For other logo uses, contact <a href="mailto:press@seagl.org">press@seagl.org</a
 
 ### Colors
 
-SeaGL's colors are:
-
-A table will go here!
+See the [style guide](/style_guide#ColorPalette) for SeaGL's color palette.
 
 
 [Open Source Initiative]: https://opensource.org/
