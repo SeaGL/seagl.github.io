@@ -1,0 +1,212 @@
+---
+layout: default
+---
+
+<div class="container" id="main-content">
+  <div class="row">
+    <div class="col-md-12">
+    <noscript>
+      <div class="alert alert-danger" role="alert">
+        Sorry, we're using client-side scripting to load everything. If you'd like
+        that to change, please consider volunteering next year.
+      </div>
+    </noscript>
+
+    <div id="messages"></div>
+
+    <div>
+      <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+          <a href="#room-1" aria-controls="room-1" role="tab" data-toggle="tab"
+            >Room 1</a
+          >
+        </li>
+        <li role="presentation">
+          <a href="#room-2" aria-controls="room-1" role="tab" data-toggle="tab"
+            >Room 2</a
+          >
+        </li>
+        <li role="presentation">
+          <a href="#room-3" aria-controls="room-1" role="tab" data-toggle="tab"
+            >Room 3</a
+          >
+        </li>
+      </ul>
+
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="room-1">
+          <figure>
+            <div class="embed-responsive embed-responsive-16by9">
+              <div class="embed-responsive-item embed-placeholder">
+                <p>This video is hosted on YouTube.</p>
+
+                <p class="text-muted" style="position: absolute;bottom: 1em;">Interested in helping us do better? Please consider <a href="/get_involved">volunteering</a> next year!</p>
+      
+                <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/TODO">View</a></p>
+      
+                <template>
+                  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/TODO?autoplay=0&cc_load_policy=1&cc_lang_pref=en&modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+                </template>
+              </div>
+            </div>
+          </figure>
+        </div>
+
+        <div role="tabpanel" class="tab-pane" id="room-2">
+          <figure>
+            <div class="embed-responsive embed-responsive-16by9">
+              <div class="embed-responsive-item embed-placeholder">
+                <p>This video is hosted on YouTube.</p>
+ 
+                <p class="text-muted" style="position: absolute;bottom: 1em;">Interested in helping us do better? Please consider <a href="/get_involved">volunteering</a> next year!</p>
+
+                <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/TODO">View</a></p>
+      
+                <template>
+                  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/TODO?autoplay=0&cc_load_policy=1&cc_lang_pref=en&modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+                </template>
+              </div>
+            </div>
+          </figure>
+        </div>
+
+        <div role="tabpanel" class="tab-pane" id="room-3">
+          <figure>
+            <div class="embed-responsive embed-responsive-16by9">
+              <div class="embed-responsive-item embed-placeholder">
+                <p>This video is hosted on YouTube.</p>
+
+                <p class="text-muted" style="position: absolute;bottom: 1em;">Interested in helping us do better? Please consider <a href="/get_involved">volunteering</a> next year!</p>
+      
+                <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/TODO">View</a></p>
+      
+                <template>
+                  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/TODO?autoplay=0&cc_load_policy=1&cc_lang_pref=en&modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+                </template>
+              </div>
+            </div>
+          </figure>
+        </div>
+      </div>
+    </div>
+
+    <table id="schedule" class="table table-responsive">
+      <thead>
+        <th>Time</th>
+        <th>Room</th>
+        <th>Event</th>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</div>
+
+<script src="/js/vendor/luxon-1.25.0.min.js"></script>
+<script>
+  (function () {
+    const $ = window.jQuery;
+    const DateTime = window.luxon.DateTime;
+
+    const rooms = [ { name: "Room 1" }, { name: "Room 2" }, { name: "Room 3" } ];
+    const roomTabIds = ["room-1", "room-2", "room-3"];
+    const osemIdToRoomIndex = { 46: 0, 47: 1, 48: 2, 50: 0 };
+    const scheduleUrl = "https://osem.seagl.org/api/v2/conferences/seagl2021";
+
+    const messagesRoot = document.getElementById("messages");
+    const records = {};
+    const scheduleBody = document.querySelector("#schedule > tbody");
+
+    const resolve = ({ id, type }) => records[type].get(id);
+
+    fetch(scheduleUrl)
+        .then(async (response) => {
+          const { data: conference, included } = await response.json();
+
+          included.forEach((record) => {
+            if (!(record.type in records)) {
+              records[record.type] = new Map();
+            }
+
+            records[record.type].set(record.id, record);
+          }, {});
+
+          const events = conference.relationships.events.data
+            .map(resolve)
+            .map((event) => ({
+                ...event,
+                beginning: DateTime.fromISO(event.attributes.beginning),
+                end: DateTime.fromISO(event.attributes.end),
+                presenters: event.relationships.presenters.data.map(resolve),
+                room: rooms[osemIdToRoomIndex[event.relationships.room.data.id]]
+              }))
+            .sort((a, b) => {
+              if (a.attributes.beginning !== b.attributes.beginning) {
+                return a.attributes.beginning.localeCompare(b.attributes.beginning);
+              } else if (a.room && b.room && a.room.name !== b.room.name) {
+                return a.room.name.localeCompare(b.room.name);
+              } else {
+                return a.attributes.title.localeCompare(b.attributes.title);
+              }
+            });
+
+          events.forEach((event) => {
+              const tr = document.createElement("tr");
+
+              var td = document.createElement("td");
+              td.innerText = `${event.beginning.toFormat("ccc HH:mm")}–${event.end.toFormat("HH:mm ZZZZ")}`;
+              tr.appendChild(td);
+
+              var td = document.createElement("td");
+              if (event.room) {
+                td.innerText = event.room.name;
+              } else {
+                var a = document.createElement("a");
+                a.href = "https://attend.seagl.org/#/room/#SeaGL2021-Social:seattlematrix.org";
+                a.innerText = "Social";
+                a.rel = "noopener";
+                a.target = "_blank";
+                td.appendChild(a);
+              }
+              tr.appendChild(td);
+
+              var td = document.createElement("td");
+              var a = document.createElement("a");
+              a.href = event.links.self;
+              a.innerText = event.attributes.title;
+              a.rel = "noopener";
+              a.target = "_blank";
+              td.appendChild(a);
+              td.appendChild(
+                document.createTextNode(
+                  ` · ${event.presenters.map((p) => p.attributes.name).join(", ")}`
+                )
+              );
+              tr.appendChild(td);
+
+              event.element = tr;
+              scheduleBody.appendChild(tr);
+            });
+
+            const tick = () => {
+              const now = DateTime.local();
+
+              events.forEach(({ element, end }) => {
+                if (end < now) {
+                  element.classList.add("text-muted");
+                }
+              });
+            };
+
+            tick();
+            setInterval(tick, 60);
+        })
+        .catch((error) => {
+          messages.innerHTML +=
+            '<div class="alert alert-warning" role="alert">Sorry, the schedule failed to load. You can try <a href="https://osem.seagl.org/conferences/seagl2021/schedule/events">viewing it directly</a> or asking for help in <a href="/meet">chat</a>.</div>';
+
+          console.error(error);
+        });
+  })();
+</script>
+
+<script defer src="/js/embed-placeholder.js"></script>
