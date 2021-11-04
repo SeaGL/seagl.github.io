@@ -1027,3 +1027,12 @@
   description:
   sponsorships:
     2021: thanks
+
+- name: Seattle Matrix
+  url: https://seattlematrix.org/
+  logo:
+    horizontal:
+    square: /img/sponsors/SeattleMatrix/SeattleMatrixLogo-web.svg
+  description:
+  sponsorships:
+    2021: thanks
