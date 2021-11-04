@@ -26,7 +26,8 @@
 .style-guide table {
   margin-bottom: 1em;
 }
-.style-guide th, td {
+.style-guide td,
+.style-guide th {
   border: 1px solid #B3B3B3;
   padding: .5em;
 }
