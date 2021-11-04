@@ -65,6 +65,7 @@
     2017: bronze
     2018: gold
     2019: platinum
+    2021: gold
 
 - name: ExtraHop
   url: https://www.extrahop.com.jobs/
@@ -1021,7 +1022,7 @@
 - name: Matrix Foundation
   url: https://matrix.org/
   logo:
-    horizontal: '/img/sponsors/Matrix/matrix-logo.svg
+    horizontal: /img/sponsors/Matrix/matrix-logo.svg
     square:
   description:
   sponsorships:
