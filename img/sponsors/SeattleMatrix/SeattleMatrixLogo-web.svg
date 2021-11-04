@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120mm" height="120mm" version="1.1" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>Seattle Matrix Logo</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Seattle Matrix Logo</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:date>2021-11-04</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Wm Salt Hale</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title>CC BY-SA 4.0</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:identifier>SeattleMatrixLogo</dc:identifier>
+    <dc:source>https://seattlematrix.org</dc:source>
+    <dc:description>Logo for Seattle Matrix</dc:description>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-43 -76.6)">
+  <g transform="translate(-47.4 -7.57)">
+   <text transform="translate(28 -43.6)" font-family="sans-serif" font-size="10.6px" letter-spacing="0px" style="line-height:1.25;shape-inside:url(#rect1930);white-space:pre" xml:space="preserve"><tspan x="73.921875" y="217.3927"><tspan font-family="'Liberation Serif'" font-size="106px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">[ ]</tspan></tspan></text>
+   <path d="m146 177c0.165-1.41 0.314-5.57 0.33-9.26l0.0296-6.7-0.581-3.53c-0.32-1.94-1.13-7.18-1.8-11.6s-1.31-8.62-1.42-9.25l-0.201-1.13-2.13-0.418c-1.17-0.23-2.47-0.708-2.9-1.06l-0.77-0.643 1.59-0.0234v-1.74l-0.682-0.365c-0.375-0.201-1.29-0.368-2.03-0.371-0.74-3e-3 -1.56-0.139-1.82-0.303l-0.47-0.298 2.88-1.15v-2.12h0.844c0.464 0 0.923-0.206 1.02-0.458 0.0968-0.252 1.74-0.989 3.65-1.64s3.64-1.33 3.83-1.51l0.353-0.325-2.23-2 2.41-0.451v-1.38h0.529c0.291 0 0.529 0.159 0.529 0.353 0 0.194 0.397 0.353 0.882 0.353h0.882v-0.853c0-0.469 0.174-0.911 0.387-0.982l0.387-0.129 0.529-9.85 0.0955 4.76c0.0525 2.62 0.0767 4.88 0.0537 5.03s0.117 0.265 0.311 0.265 0.353 0.249 0.353 0.553v0.553l1.41-0.448v1.11h0.717c0.394 0 0.808 0.238 0.92 0.529 0.112 0.291 0.504 0.529 0.871 0.529 0.872 0 0.853 0.584-0.0377 1.14-0.388 0.242-0.706 0.691-0.706 0.997v0.556l2.03 0.639c1.12 0.352 3.26 1.11 4.76 1.68l2.73 1.04v2.04l0.97 0.216c0.534 0.119 1.27 0.298 1.63 0.398l0.664 0.182-0.485 0.299c-0.266 0.165-1.32 0.404-2.34 0.532l-1.86 0.232-0.206 0.821c-0.242 0.964 0.0515 1.57 0.763 1.57 0.28 0 0.508 0.156 0.508 0.346 0 0.368-0.659 0.575-3.83 1.2l-1.99 0.393-2.74 23.3-0.086 21-8.86 1.1e-4zm1.71-31c-0.21-3.83-0.382-7.69-0.382-8.57v-1.6l-0.544-0.209c-0.879-0.337-0.896-0.108-0.366 4.85 0.278 2.6 0.603 6.4 0.723 8.43s0.326 4.34 0.459 5.12l0.242 1.41 0.126-1.23c0.0692-0.679-0.0462-4.37-0.256-8.2zm-1.95-2.94c-0.606-8.08-0.559-7.87-1.72-7.65l-0.834 0.159 0.474 2.7c0.261 1.49 0.87 5.66 1.35 9.27 0.485 3.61 0.912 6.7 0.949 6.88 0.35 1.63 0.206-5.6-0.226-11.4zm9.5 4.43c0.488-3.58 1.04-7.47 1.24-8.63 0.193-1.16 0.351-2.41 0.352-2.76l2e-3 -0.641-1.94 0.223-0.414 5.82c-0.228 3.2-0.525 7.49-0.659 9.52l-0.245 3.7 0.39-0.366c0.214-0.201 0.789-3.3 1.28-6.88zm-1.42-8.89 0.269-3.09h-1.04l-0.227 2.17c-0.125 1.19-0.204 5.28-0.176 9.08l0.0508 6.92 0.427-6c0.235-3.3 0.548-7.39 0.696-9.08z" fill="#010101" stroke-width=".353"/>
+  </g>
+ </g>
+</svg>
