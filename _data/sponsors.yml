@@ -45,7 +45,7 @@
 - name: CSATS
   url: https://www.csats.com
   logo:
-    horizontal:
+    horizontal: /img/sponsors/CSATS/csats-wide.png
     square: /img/sponsors/CSATS/csats.png
   description: |-
     Seattle-based CSATS, Inc. is a venture-backed healthcare technology company
