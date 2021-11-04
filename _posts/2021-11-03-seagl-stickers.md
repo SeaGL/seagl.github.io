@@ -6,6 +6,8 @@ type: post
 published: true
 categories: news
 tags: '2021'
+redirect_from:
+  - /stickers
 ---
 
 Have you always wanted to channel your inner Patch the SeaGL seagull but you didn't know how?
