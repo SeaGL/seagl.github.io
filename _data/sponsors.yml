@@ -1016,4 +1016,13 @@
     square:
   description:
   sponsorships:
+    2021: bronze
+
+- name: Matrix Foundation
+  url: https://matrix.org/
+  logo:
+    horizontal: '/img/sponsors/Matrix/matrix-logo.svg
+    square:
+  description:
+  sponsorships:
     2021: thanks
