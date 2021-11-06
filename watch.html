@@ -34,6 +34,11 @@ nav: watch
             >Room 3</a
           >
         </li>
+        <li role="presentation">
+          <a href="#room-4" aria-controls="room-1" role="tab" data-toggle="tab"
+            >Room 4</a
+          >
+        </li>
       </ul>
 
       <div class="tab-content">
@@ -93,6 +98,24 @@ nav: watch
           </figure>
           <p class="text-center" style="word-wrap: break-word;"><code>rtmp://live.restream.io/pull/play_5039823_3d71eeda4ac5d18fc5ef</code></p>
         </div>
+
+        <div role="tabpanel" class="tab-pane" id="room-4">
+          <figure>
+            <div class="embed-responsive embed-responsive-16by9">
+              <div class="embed-responsive-item embed-placeholder">
+                <p>This video is hosted on YouTube.</p>
+
+                <p class="text-muted" style="position: absolute;bottom: 0;margin: 1em;">Interested in helping us do better? Please consider <a href="/get_involved">volunteering</a> next year!</p>
+      
+                <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/vMI5rIoVMic">View</a></p>
+      
+                <template>
+                  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/vMI5rIoVMic?autoplay=0&cc_load_policy=1&cc_lang_pref=en&modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+                </template>
+              </div>
+            </div>
+          </figure>
+        </div>
       </div>
     </div>
 
@@ -115,9 +138,9 @@ nav: watch
     const $ = window.jQuery;
     const DateTime = window.luxon.DateTime;
 
-    const rooms = [ { name: "Room 1" }, { name: "Room 2" }, { name: "Room 3" } ];
-    const roomTabIds = ["room-1", "room-2", "room-3"];
-    const osemIdToRoomIndex = { 46: 0, 47: 1, 48: 2, 50: 0 };
+    const rooms = [ { name: "Room 1" }, { name: "Room 2" }, { name: "Room 3" }, { name: "Room 4" } ];
+    const roomTabIds = ["room-1", "room-2", "room-3", "room-4"];
+    const osemIdToRoomIndex = { 46: 0, 47: 1, 48: 2, 50: 0, 51: 3 };
     const scheduleUrl = "https://osem.seagl.org/api/v2/conferences/seagl2021";
 
     const messagesRoot = document.getElementById("messages");
