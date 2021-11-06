@@ -21,17 +21,17 @@ nav: watch
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active">
           <a href="#room-1" aria-controls="room-1" role="tab" data-toggle="tab"
-            >Room 1</a
+            >Room 1</a
           >
         </li>
         <li role="presentation">
           <a href="#room-2" aria-controls="room-1" role="tab" data-toggle="tab"
-            >Room 2</a
+            >Room 2</a
           >
         </li>
         <li role="presentation">
           <a href="#room-3" aria-controls="room-1" role="tab" data-toggle="tab"
-            >Room 3</a
+            >Room 3</a
           >
         </li>
       </ul>
@@ -115,7 +115,7 @@ nav: watch
     const $ = window.jQuery;
     const DateTime = window.luxon.DateTime;
 
-    const rooms = [ { name: "Room 1" }, { name: "Room 2" }, { name: "Room 3" } ];
+    const rooms = [ { name: "Room 1" }, { name: "Room 2" }, { name: "Room 3" } ];
     const roomTabIds = ["room-1", "room-2", "room-3"];
     const osemIdToRoomIndex = { 46: 0, 47: 1, 48: 2, 50: 0 };
     const scheduleUrl = "https://osem.seagl.org/api/v2/conferences/seagl2021";
@@ -184,11 +184,8 @@ nav: watch
               a.rel = "noopener";
               a.target = "_blank";
               td.appendChild(a);
-              td.appendChild(
-                document.createTextNode(
-                  ` · ${event.presenters.map((p) => p.attributes.name).join(", ")}`
-                )
-              );
+              td.appendChild(document.createElement("br"));
+              td.appendChild(document.createTextNode(event.presenters.map((p) => p.attributes.name).join(", ")));
               tr.appendChild(td);
 
               event.element = tr;
