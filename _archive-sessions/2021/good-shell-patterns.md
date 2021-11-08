@@ -15,4 +15,4 @@ presenters:
     systems since before he traded in his Apple II+ for his first Unix system.
 ---
 
-We'll discuss tried-and-true code snippets you can use to make your code more reliable, easier to read, and quicker to debug. Enjoy the elegance of "cd $(dirname $0)", performing actions only on successful exit, and informational help messages. We'll cover all those minor changes that continually come up in our code review sessions that reap outsized rewards.
+We'll discuss tried-and-true code snippets you can use to make your code more reliable, easier to read, and quicker to debug. Enjoy the elegance of `cd $(dirname $0)`, performing actions only on successful exit, and informational help messages. We'll cover all those minor changes that continually come up in our code review sessions that reap outsized rewards.

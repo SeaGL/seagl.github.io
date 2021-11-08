@@ -12,7 +12,7 @@ presenters:
 
     Co-founder at Snowdrift.coop. Maintainer of Red Moon; contributor to the F-Droid ecosystem. GNU/Linux user and [FLO](https://wiki.snowdrift.coop/about/free-libre-open#flo)SS advocate since 2010.
 
-    Programmer ("Software Engineer") looking for work near Queens, NYC (or remote). Contact: [seagl-bio-2021@smichel.me](mailto:seagl-bio-2021@smichel.me)
+    Programmer ("Software Engineer") looking for work near Queens, NYC (or remote). Contact: <seagl-bio-2021@smichel.me>
 ---
 
 The Free Software movement's ideals are egalitarian. We aim to bring the benefits of computing freedom to all users. However, we often overlook an uncomfortable inequality: Software Freedom disproportionately empowers programmers and those wealthy enough to hire them.

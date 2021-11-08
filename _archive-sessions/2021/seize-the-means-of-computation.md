@@ -1,13 +1,14 @@
 ---
-title: "[Keynote] Seize the Means of Computation (Cory Doctorow)"
+title: Seize the Means of Computation
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/864
 beginning: '2021-11-06T16:30:00.000-07:00'
 end: '2021-11-06T16:50:00.000-07:00'
+keynote: true
 presenters:
 - name: Cory Doctorow
   osem_url: https://osem.seagl.org/users/1207
   gravatar_id: bdba5f528ac189c448ba674f1d3f0286
-  biography: Cory Doctorow (craphound.com) is a science fiction author, activist and
+  biography: Cory Doctorow ([craphound.com](https://craphound.com/)) is a science fiction author, activist and
     journalist. He is the author of many books, most recently RADICALIZED and WALKAWAY,
     science fiction for adults; HOW TO DESTROY SURVEILLANCE CAPITALISM, nonfiction
     about monopoly and conspiracy; IN REAL LIFE, a graphic novel; and the picture

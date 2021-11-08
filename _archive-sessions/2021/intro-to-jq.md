@@ -15,7 +15,7 @@ presenters:
 
     Currently, he's a CDE manager at Object Rocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
 Want to parse JSON on the command line?

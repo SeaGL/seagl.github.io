@@ -4,8 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/821
 beginning: '2021-11-05T13:15:00.000-07:00'
 end: '2021-11-05T13:45:00.000-07:00'
 presenters:
-- name: davidmstokes
-  affiliation: Oracle -- MySQL Community Team
+- name: David M. Stokes
+  affiliation: Oracle, MySQL Community Team
   osem_url: https://osem.seagl.org/users/310
   gravatar_id: c0fe36ac77bf9a0ebe01f0b7844c8e7f
   biography: |-

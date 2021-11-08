@@ -14,29 +14,29 @@ presenters:
     as the OpenPGP web of trust and the Debian Bug Tracking system!
 ---
 
-Reproducible builds are a set of software development practices that                                                   
-create an independently-verifiable path from source to binary code.  A                                                 
-build is reproducible if given the same source code, build environment                                                 
-and build instructions, any party can recreate bit-by-bit identical                                                    
-copies of all specified artifacts.                                                                                     
+Reproducible builds are a set of software development practices that
+create an independently-verifiable path from source to binary code.  A
+build is reproducible if given the same source code, build environment
+and build instructions, any party can recreate bit-by-bit identical
+copies of all specified artifacts.
 
-I'd like to share with you my process for going about fixing                                                           
-Reproducible Builds issues in Debian, though some of the ideas will be                                                 
-applicable to debugging issues of any kind in any environment.                                                         
+I'd like to share with you my process for going about fixing
+Reproducible Builds issues in Debian, though some of the ideas will be
+applicable to debugging issues of any kind in any environment.
 
-I'll explore how I go about identifying issues to work on, learn more                                                  
-about the specific issues, recreate the problem locally, isolate the                                                   
-potential causes, dissect the problem into identifiable parts, and                                                      
-adapt the packaging and/or source code to fix the issues.                                                              
+I'll explore how I go about identifying issues to work on, learn more
+about the specific issues, recreate the problem locally, isolate the
+potential causes, dissect the problem into identifiable parts, and
+adapt the packaging and/or source code to fix the issues.
 
-This will give you an eye into how I think about, struggle with, and                                                   
-eventually fix all sorts of things.                                                                                    
+This will give you an eye into how I think about, struggle with, and
+eventually fix all sorts of things.
 
-Watching this talk should help you go from someone who "knows a bit of                                                 
-code" to someone ready to submit a fix to your favorite free software                                                  
-project!                                                                                                               
+Watching this talk should help you go from someone who "knows a bit of
+code" to someone ready to submit a fix to your favorite free software
+project!
 
-This talk will mostly focus on the *hows* of Reproducible Builds, not                                                  
-too much on the *whys*, which can be further explored at:                                                              
+This talk will mostly focus on the *hows* of Reproducible Builds, not
+too much on the *whys*, which can be further explored at:
 
-  https://reproducible-builds.org/
+  <https://reproducible-builds.org/>
