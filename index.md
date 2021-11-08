@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: page
 nav: home
 body_id: home
 description: SeaGL is a grassroots technical conference dedicated to spreading awareness and knowledge about the GNU/Linux community and free/libre/open-source software/hardware.
 ---
-
-{% include jumbotron.html %}<div class="container" id="main-content">
 
 <div class="row"><div class="col-md-4 col-md-push-8" markdown="1">
 
@@ -93,5 +91,3 @@ Thank you for your support!
 -->
 
 </div></div>
-
-</div>
