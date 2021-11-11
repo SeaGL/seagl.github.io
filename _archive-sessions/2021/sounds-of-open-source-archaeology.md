@@ -3,6 +3,8 @@ title: 'Sounds of Open Source archaeology: processing sound with sox'
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/856
 beginning: '2021-11-06T14:00:00.000-07:00'
 end: '2021-11-06T14:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Dmitry_Dolgov-Sounds_of_Open_Source_archaeology_processing_sound_with_sox
 presenters:
 - name: Dmitry Dolgov
   osem_url: https://osem.seagl.org/users/1164

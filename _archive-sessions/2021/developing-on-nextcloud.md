@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/861
 beginning: '2021-11-05T14:00:00.000-07:00'
 end: '2021-11-05T14:30:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2021-Elior_Sterling-Developing_on_Nextcloud
   slides_url: https://sustainablysterling.com/sites/default/files/pdfs/DevelopingAppsForNextcloud.pdf
 presenters:
 - name: Elior Sterling

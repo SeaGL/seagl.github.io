@@ -3,6 +3,8 @@ title: Open Source Business Practices
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/819
 beginning: '2021-11-06T14:00:00.000-07:00'
 end: '2021-11-06T14:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Jim_Hall-Open_Source_Business_Practices
 presenters:
 - name: Jim Hall
   affiliation: The FreeDOS Project

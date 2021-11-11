@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/871
 beginning: '2021-11-05T09:35:00.000-07:00'
 end: '2021-11-05T09:55:00.000-07:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2021-Marie_Nordin-How_I_Help_Fedora_RISE
 presenters:
 - name: Marie Nordin
   osem_url: https://osem.seagl.org/users/1222

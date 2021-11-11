@@ -3,6 +3,8 @@ title: Your bug tracker and you
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/849
 beginning: '2021-11-06T15:30:00.000-07:00'
 end: '2021-11-06T16:00:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Ben_Cotton-Your_bug_tracker_and_you
 presenters:
 - name: Ben Cotton
   osem_url: https://osem.seagl.org/users/1053

@@ -3,6 +3,8 @@ title: Lessons Learned from a Ransomware Attack
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/845
 beginning: '2021-11-05T13:15:00.000-07:00'
 end: '2021-11-05T13:45:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Ski-Lessons_Learned_from_a_Ransomware_Attack
 presenters:
 - name: Ski
   affiliation: LOPSA

@@ -3,6 +3,8 @@ title: Software Tools for Collective Self-Governance
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/851
 beginning: '2021-11-05T15:30:00.000-07:00'
 end: '2021-11-05T16:00:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Shauna_Gordon-McKeon-Software_Tools_for_Collective_Self-Governance
 presenters:
 - name: Shauna Gordon-McKeon
   osem_url: https://osem.seagl.org/users/148

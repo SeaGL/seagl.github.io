@@ -3,6 +3,8 @@ title: 'Birds by Starlight: Tracking Nocturnal Flight Calls Using Open Source So
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/844
 beginning: '2021-11-06T14:00:00.000-07:00'
 end: '2021-11-06T14:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Richard_Littauer-Birds_by_Starlight
 presenters:
 - name: Richard Littauer
   affiliation: BirdingInVermont.com

@@ -3,6 +3,8 @@ title: Stories from reviving and extending a university's information security p
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/846
 beginning: '2021-11-06T13:15:00.000-07:00'
 end: '2021-11-06T13:45:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Brian_Callahan-Reviving_and_extending_a_universitys_infosec_program
 presenters:
 - name: Brian Callahan
   affiliation: Rensselaer Polytechnic Institute

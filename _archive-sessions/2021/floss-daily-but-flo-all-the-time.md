@@ -3,6 +3,8 @@ title: FLOSS daily — but FLO all the time
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/836
 beginning: '2021-11-05T10:10:00.000-07:00'
 end: '2021-11-05T10:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Athan_Spathas_Aaron_Wolf_and_Wm_Salt_Hale-FLOSS_daily_but_FLO_all_the_time
 presenters:
 - name: Athan Spathas
   osem_url: https://osem.seagl.org/users/929
