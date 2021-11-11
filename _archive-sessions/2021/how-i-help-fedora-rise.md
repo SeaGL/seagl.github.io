@@ -1,5 +1,5 @@
 ---
-title: Keynote
+title: How I Help Fedora R.I.S.E.
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/871
 beginning: '2021-11-05T09:35:00.000-07:00'
 end: '2021-11-05T09:55:00.000-07:00'

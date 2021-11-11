@@ -1,5 +1,5 @@
 ---
-title: "HACK THE PLANET: how to get stuff done in open source"
+title: how to get stuff done in open source
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/865
 beginning: '2021-11-05T09:10:00.000-07:00'
 end: '2021-11-05T09:30:00.000-07:00'
