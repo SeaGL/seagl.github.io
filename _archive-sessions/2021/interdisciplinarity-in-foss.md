@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/866
 beginning: '2021-11-06T09:30:00.000-07:00'
 end: '2021-11-06T09:50:00.000-07:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2021-Dr_Morgan_Lemmer-Webber_and_Christine_Lemmer-Webber-Interdisciplinarity_in_FOSS
 presenters:
 - name: Dr. Morgan Lemmer-Webber
   osem_url: https://osem.seagl.org/users/1209

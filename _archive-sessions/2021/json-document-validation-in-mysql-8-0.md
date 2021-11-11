@@ -3,6 +3,8 @@ title: JSON Document Validation in MySQL 8.0
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/821
 beginning: '2021-11-05T13:15:00.000-07:00'
 end: '2021-11-05T13:45:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-David_M_Stokes-JSON_Document_Validation_in_MySQL_8_0
 presenters:
 - name: David M. Stokes
   affiliation: Oracle, MySQL Community Team

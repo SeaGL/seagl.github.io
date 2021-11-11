@@ -3,6 +3,8 @@ title: 'Building cloud networks: Terraform or Ansible?'
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/857
 beginning: '2021-11-06T10:45:00.000-07:00'
 end: '2021-11-06T11:15:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Francois_Caen-Building_cloud_networks_Terraform_or_Ansible
 presenters:
 - name: François Caen
   osem_url: https://osem.seagl.org/users/1165

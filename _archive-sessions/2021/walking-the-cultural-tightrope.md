@@ -3,6 +3,8 @@ title: Walking The Cultural Tightrope
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/829
 beginning: '2021-11-06T10:45:00.000-07:00'
 end: '2021-11-06T11:15:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Aeva_Black-Walking_The_Cultural_Tightrope
 presenters:
 - name: Aeva Black
   osem_url: https://osem.seagl.org/users/911

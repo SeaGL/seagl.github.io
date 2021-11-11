@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/854
 beginning: '2021-11-05T13:15:00.000-07:00'
 end: '2021-11-05T13:45:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2021-der_hans-Introduction_to_Nextcloud
   slides_url: https://lufthans.com/Akten/Presentations/2021/SeaGL/SeaGL.Introduction_to_Nextcloud.2021Nov05.pdf
 presenters:
 - name: der.hans

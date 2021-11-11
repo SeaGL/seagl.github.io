@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/832
 beginning: '2021-11-05T10:50:00.000-07:00'
 end: '2021-11-05T11:20:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2021-der_hans-Intro_to_jq_grep_for_JSON
   slides_url: https://lufthans.com/Akten/Presentations/2021/SeaGL/SeaGL.Intro_to_jq__grep_for_JSON.2021Nov05.pdf
 presenters:
 - name: der.hans

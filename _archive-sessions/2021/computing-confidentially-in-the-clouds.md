@@ -3,6 +3,8 @@ title: Computing Confidentially in the Clouds
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/828
 beginning: '2021-11-06T11:30:00.000-07:00'
 end: '2021-11-06T12:00:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Aeva_Black-Computing_Confidentially_in_the_Clouds
 presenters:
 - name: Aeva Black
   osem_url: https://osem.seagl.org/users/911

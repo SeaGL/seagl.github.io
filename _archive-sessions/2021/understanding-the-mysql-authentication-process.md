@@ -3,6 +3,8 @@ title: Understanding the MySQL Authentication Process
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/818
 beginning: '2021-11-06T10:00:00.000-07:00'
 end: '2021-11-06T10:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-David_M_Stokes-Understanding_the_MySQL_Authentication_Process
 presenters:
 - name: David M. Stokes
   affiliation: Oracle, MySQL Community Team
