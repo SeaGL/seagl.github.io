@@ -8,7 +8,7 @@ body_id: style_guide
 
 <div class="row style-guide"><div class="col-md-4 col-md-push-8" markdown="1">
 
-## Contents:
+## Contents
 
 - [Design](#Design)
 	- [The Logo](#TheLogo)
