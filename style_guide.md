@@ -127,5 +127,5 @@ Specific materials and other quick reference files:
 	- [Color Usage](#ColorUsage)
 	- [Design Assets](#DesignAssets)
 
-</div>
+</div></div>
 
