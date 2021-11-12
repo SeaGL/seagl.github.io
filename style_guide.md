@@ -44,7 +44,7 @@ The logo images may be used without advance permission, subject to the following
 - Where possible, the logo hyperlinks to https://seagl.org or an appropriate page on that site.
 - The logo images are not altered, except to proportionally resize.
 
-**Usage examples:**
+#### Usage examples
 
 - Blue Backgrounds
 ![Blue background logo usage example](img/style_guide/logo_usage_example_1.png)
@@ -64,7 +64,7 @@ The SeaGL typography is one of the core elements that defines the conference des
 
 Text alignment can vary by application, the important thing is to stay good in context.
 
-**Usage Examples:**
+### Usage Examples
 
 - Blog post
 ![Blog post example](img/style_guide/blog_post_example.png)
@@ -94,7 +94,7 @@ Any used colors should be taken either directly from the palette or be derived f
 | <span style="background-color: #FFFCF7;"></span> White 2 | `#FFFCF7` | `RGB 255 252 247` | _digital only_     |
 | <span style="background-color: #0D0D0D;"></span> Black   | `#0D0D0D` | `RGB 13 13 13`    | `CMYK 0 0 0 100`   |
 
-**Color palette overview:**
+### Color palette overview
 
 ![Color palette overview grid style](img/style_guide/color_palette_overview.png)
 
@@ -106,7 +106,7 @@ The *White 2* color is used in digital material with focus on text, such as the 
 
 Gold is applied to action links and to contrast with the blue / background, depending on the situation.
 
-**Usage examples**
+### Usage examples
 
 - Website Ribbon
 ![Website color palette example](img/style_guide/website_ribbon_example.png)
