@@ -25,7 +25,7 @@ The goal of this guide is to group the common effort on the creation of design m
 
 ## Design {#Design}
 
-This section contains information about the visual elements of the conference, how to use them and best practices. All design assets are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>, unless otherwise specified.
+This section contains information about the visual elements of the conference, how to use them and best practices. All design assets are licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), unless otherwise specified.
 
 ### The Logo {#TheLogo}
 
@@ -57,7 +57,7 @@ The logo images may be used without advance permission, subject to the following
 
 ## Font Styles {#FontStyles}
 
-The SeaGL typography is one of the core elements that defines the conference design style. We use two fonts, <a href="https://fonts.google.com/specimen/Dosis">Dosis</a> and <a href="https://fonts.google.com/specimen/Lato">Lato</a>, according to the following:
+The SeaGL typography is one of the core elements that defines the conference design style. We use two fonts, [Dosis](https://fonts.google.com/specimen/Dosis) and [Lato](https://fonts.google.com/specimen/Lato), according to the following:
 
 - Dosis (Regular): Applied on headers / titles; capitals only.
 - Lato: Other text elements, like text body.
@@ -116,15 +116,15 @@ Gold is applied to action links and to contrast with the blue / background, depe
 
 ## Design Assets {#DesignAssets}
 
-All design materials are available on the <a href="#">design folder</a> inside organization repository.
+All design materials are available on the [design folder](#) inside organization repository.
 
 Specific materials and other quick reference files:
 
-- <a href="#">Logo (png)</a>
-- <a href="#">Logo (svg)</a>
-- <a href="#">Logo with mic (png)</a>
-- <a href="#">Logo with mic (svg)</a>
-- <a href="#">Color Palette file</a>
-- <a href="#">Templates</a>
+- [Logo (png)](#)
+- [Logo (svg)](#)
+- [Logo with mic (png)](#)
+- [Logo with mic (svg)](#)
+- [Color Palette file](#)
+- [Templates](#)
 
 </div></div>
