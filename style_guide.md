@@ -23,11 +23,11 @@ body_id: style_guide
 
 The goal of this guide is to group the common effort on the creation of design materials for the Seattle GNU/Linux Conference. It describes best practices for creating new materials and applying the visual identity of the event.
 
-## <a id="Design"></a>Design
+## Design {#Design}
 
 This section contains information about the visual elements of the conference, how to use them and best practices. All design assets are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>, unless otherwise specified.
 
-### <a id="TheLogo"></a>The Logo
+### The Logo {#TheLogo}
 
 Our logo is the most recognizable SeaGL symbol. Is composed of two elements: The low-poly seagull illustration with a circular two blue tone background and a gray ribbon underneath with the conference name.
 
@@ -55,7 +55,7 @@ The logo images may be used without advance permission, subject to the following
 - White and White 2 backgrounds
 ![White and White 2 backgrounds logo usage example](img/style_guide/logo_usage_example_3.png)
 
-## <a id="FontStyles"></a>Font Styles
+## Font Styles {#FontStyles}
 
 The SeaGL typography is one of the core elements that defines the conference design style. We use two fonts, <a href="https://fonts.google.com/specimen/Dosis">Dosis</a> and <a href="https://fonts.google.com/specimen/Lato">Lato</a>, according to the following:
 
@@ -75,7 +75,7 @@ Text alignment can vary by application, the important thing is to stay good in c
 - Print handbill:
 ![Print handbill example](img/style_guide/handbill_example.png)
 
-## <a id="ColorPalette"></a>Color Palette
+## Color Palette {#ColorPalette}
 
 Any used colors should be taken either directly from the palette or be derived from the palette:
 
@@ -98,7 +98,7 @@ Any used colors should be taken either directly from the palette or be derived f
 
 ![Color palette overview grid style](img/style_guide/color_palette_overview.png)
 
-## <a id="ColorUsage"></a>Color Usage
+## Color Usage {#ColorUsage}
 
 The color usage must respect others elements rules, like the logo. Mainly, the blue and white variations are used for backgrounds.
 
@@ -114,7 +114,7 @@ Gold is applied to action links and to contrast with the blue / background, depe
 - Profile Banner
 ![Social media banner example](img/style_guide/social_media_banner_example.png)
 
-## <a id="DesignAssets"></a>Design Assets
+## Design Assets {#DesignAssets}
 
 All design materials are available on the <a href="#">design folder</a> inside organization repository.
 
