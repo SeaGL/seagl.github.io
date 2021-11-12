@@ -22,7 +22,7 @@ Our logo is the most recognizable SeaGL symbol. Is composed of two elements: The
 
 As the logo is multicolored, we have limited background color options. White and the blue variations described on the color palette are the options for multiple context usage. Also, a special blue-white background with gold separation on the ribbon is used.
 
-A minimum clear space around the logo is required, about 50% of the diameter on each side. Using with small size are not recommended, due to the logo complexity. 
+A minimum clear space around the logo is required, about 50% of the diameter on each side. Using with small size are not recommended, due to the logo complexity.
 
 For the online events, there is a special version where the seagull is with a microphone. It follows the same restrictions as the classic version.
 
@@ -89,9 +89,9 @@ Any used colors should be taken either directly from the palette or be derived f
 
 ## <a id="ColorUsage"></a>Color Usage
 
-The color usage must respect others elements rules, like the logo. Mainly, the blue and white variations are used for backgrounds. 
+The color usage must respect others elements rules, like the logo. Mainly, the blue and white variations are used for backgrounds.
 
-The *White 2* color is used in digital material with focus on text, such as  the website, for better reading.
+The *White 2* color is used in digital material with focus on text, such as the website, for better reading.
 
 Gold is applied to action links and to contrast with the blue / background, depending on the situation.
 
@@ -128,4 +128,3 @@ Specific materials and other quick reference files:
 	- [Design Assets](#DesignAssets)
 
 </div></div>
-
