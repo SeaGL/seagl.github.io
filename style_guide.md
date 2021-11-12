@@ -6,7 +6,18 @@ nav: style_guide
 body_id: style_guide
 ---
 
-<div class="row style-guide"><div class="col-md-8" markdown="1">
+<div class="row style-guide"><div class="col-md-4 col-md-push-8" markdown="1">
+
+## Contents:
+
+- [Design](#Design)
+	- [The Logo](#TheLogo)
+	- [Font Styles](#FontStyles)
+	- [Color Palette](#ColorPalette)
+	- [Color Usage](#ColorUsage)
+	- [Design Assets](#DesignAssets)
+
+</div><div class="col-md-8 col-md-pull-4" markdown="1">
 
 ## SeaGL Style Guide
 
@@ -115,16 +126,5 @@ Specific materials and other quick reference files:
 - <a href="#">Logo with mic (svg)</a>
 - <a href="#">Color Palette file</a>
 - <a href="#">Templates</a>
-
-</div><div class="col-md-4" markdown="1">
-
-## Contents:
-
-- [Design](#Design)
-	- [The Logo](#TheLogo)
-	- [Font Styles](#FontStyles)
-	- [Color Palette](#ColorPalette)
-	- [Color Usage](#ColorUsage)
-	- [Design Assets](#DesignAssets)
 
 </div></div>
