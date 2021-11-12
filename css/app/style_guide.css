@@ -31,11 +31,12 @@
   border: 1px solid #B3B3B3;
   padding: .5em;
 }
-.style-guide span {
+.style-guide .swatch {
   display: inline-block;
   line-height: 1;
   width: 0.9em;
   height: 0.9em;
+  background-color: currentColor;
   border: 1px solid #565656;
   border-radius: 2px;
 }
