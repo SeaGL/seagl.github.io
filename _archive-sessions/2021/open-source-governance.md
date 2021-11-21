@@ -3,6 +3,8 @@ title: 'Open Source Governance: Six Types and Three Models'
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/859
 beginning: '2021-11-06T13:15:00.000-07:00'
 end: '2021-11-06T13:45:00.000-07:00'
+resources:
+  slides_url: https://jberkus.github.io/gov6
 presenters:
 - name: Josh Berkus
   affiliation: Red Hat Project Atomic

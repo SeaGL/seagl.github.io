@@ -3,6 +3,8 @@ title: Good Shell Patterns
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/839
 beginning: '2021-11-05T15:30:00.000-07:00'
 end: '2021-11-05T16:00:00.000-07:00'
+resources:
+  slides_url: https://www.ifokr.org/bri/presentations/seagl-2021-good-shell-patterns/
 presenters:
 - name: Bri Hatch
   affiliation: ExtraHop Networks

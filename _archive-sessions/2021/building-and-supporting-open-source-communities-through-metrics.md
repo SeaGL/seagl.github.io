@@ -3,6 +3,8 @@ title: Building and Supporting Open Source Communities Through Metrics
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/848
 beginning: '2021-11-05T15:30:00.000-07:00'
 end: '2021-11-05T16:00:00.000-07:00'
+resources:
+  slides_url: https://docs.google.com/presentation/d/1cFfakEzeDEZnF_hk3ev32zTFdjUocWvns-ugi_z-oMo/mobilepresent
 presenters:
 - name: Georg Link
   affiliation: Bitergia

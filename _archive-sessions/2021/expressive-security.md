@@ -3,6 +3,8 @@ title: Expressive Security
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/826
 beginning: '2021-11-06T15:30:00.000-07:00'
 end: '2021-11-06T16:00:00.000-07:00'
+resources:
+  slides_url: https://glasnt.com/talks/expressive-security
 presenters:
 - name: Katie McLaughlin
   osem_url: https://osem.seagl.org/users/752

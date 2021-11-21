@@ -3,6 +3,8 @@ title: Free Security for Open-Source Projects
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/835
 beginning: '2021-11-06T10:00:00.000-07:00'
 end: '2021-11-06T10:30:00.000-07:00'
+resources:
+  resources_url: https://github.com/lisushka/free-security
 presenters:
 - name: Dawn E. Collett
   osem_url: https://osem.seagl.org/users/1143

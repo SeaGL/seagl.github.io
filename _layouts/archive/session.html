@@ -70,6 +70,10 @@ layout: page
         <h3>Resources</h3>
 
         <ul>
+          {% if session.resources.resources_url %}
+          <li><a href="{{ session.resources.resources_url }}">Resources</a></li>
+          {% endif %}
+
           {% if session.resources.slides_url %}
           <li><a href="{{ session.resources.slides_url }}">Slides</a></li>
           {% endif %}

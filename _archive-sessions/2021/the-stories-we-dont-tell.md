@@ -3,6 +3,8 @@ title: The Stories We Don't Tell
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/834
 beginning: '2021-11-05T14:00:00.000-07:00'
 end: '2021-11-05T14:30:00.000-07:00'
+resources:
+  resources_url: https://github.com/lisushka/tswdt
 presenters:
 - name: Dawn E. Collett
   osem_url: https://osem.seagl.org/users/1143

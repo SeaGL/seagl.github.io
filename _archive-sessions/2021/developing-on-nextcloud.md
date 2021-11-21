@@ -3,6 +3,8 @@ title: Developing on Nextcloud
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/861
 beginning: '2021-11-05T14:00:00.000-07:00'
 end: '2021-11-05T14:30:00.000-07:00'
+resources:
+  slides_url: https://sustainablysterling.com/sites/default/files/pdfs/DevelopingAppsForNextcloud.pdf
 presenters:
 - name: Elior Sterling
   affiliation: Geeks Without Bounds

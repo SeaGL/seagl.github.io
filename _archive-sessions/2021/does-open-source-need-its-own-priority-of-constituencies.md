@@ -3,6 +3,8 @@ title: Does open source need its own Priority of Constituencies?
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/838
 beginning: '2021-11-06T10:45:00.000-07:00'
 end: '2021-11-06T11:15:00.000-07:00'
+resources:
+  resources_url: https://speaking.unlockopen.com/ZW2Cp8
 presenters:
 - name: Tobie Langel
   affiliation: UnlockOpen

@@ -3,6 +3,8 @@ title: 'Intro to jq: grep for JSON'
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/832
 beginning: '2021-11-05T10:50:00.000-07:00'
 end: '2021-11-05T11:20:00.000-07:00'
+resources:
+  slides_url: https://lufthans.com/Akten/Presentations/2021/SeaGL/SeaGL.Intro_to_jq__grep_for_JSON.2021Nov05.pdf
 presenters:
 - name: der.hans
   affiliation: Object Rocket

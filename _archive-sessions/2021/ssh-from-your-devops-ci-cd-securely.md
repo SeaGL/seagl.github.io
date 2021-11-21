@@ -3,6 +3,8 @@ title: SSH from your DevOps CI/CD securely
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/841
 beginning: '2021-11-05T10:10:00.000-07:00'
 end: '2021-11-05T10:40:00.000-07:00'
+resources:
+  slides_url: https://www.ifokr.org/bri/presentations/seagl-2021-ssh-cicd/
 presenters:
 - name: Bri Hatch
   affiliation: ExtraHop Networks
