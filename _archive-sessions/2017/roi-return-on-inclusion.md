@@ -1,5 +1,5 @@
 ---
-title: 'ROI:  Return on Inclusion'
+title: 'ROI: Return on Inclusion'
 osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/372
 beginning: '2017-10-06T14:00:00.000-07:00'
 end: '2017-10-06T14:50:00.000-07:00'

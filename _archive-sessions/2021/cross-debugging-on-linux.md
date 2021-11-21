@@ -1,5 +1,5 @@
 ---
-title: 'Cross debugging on Linux : A history, current state of the art and  coming
+title: 'Cross debugging on Linux : A history, current state of the art and coming
   improvements'
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/816
 beginning: '2021-11-06T13:15:00.000-07:00'
