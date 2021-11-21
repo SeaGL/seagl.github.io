@@ -37,9 +37,13 @@ collections:
 
 defaults:
     - scope: { type: archive-conferences }
-      values: { layout: archive/conference }
+      values:
+        layout: archive/conference
+        nav: archive
     - scope: { type: archive-sessions }
-      values: { layout: archive/session }
+      values:
+        layout: archive/session
+        nav: archive
     - scope: { type: sponsor-years }
       values:
         body_id: sponsors
