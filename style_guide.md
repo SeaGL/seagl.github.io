@@ -86,13 +86,13 @@ Any used colors should be taken either directly from the palette or be derived f
 | <span class="swatch" style="color: #074558;"></span> Deep Ocean             | `#074558` | `RGB 7 69 88`     | `CMYK 89 47 40 47` |
 | <span class="swatch" style="color: #FCB320;"></span> French Fry Gold        | `#FCB320` | `RGB 252 179 32`  | `CMYK 2 34 89 0`   |
 | <span class="swatch" style="color: #B1742A;"></span> Wet Sand               | `#B1742A` | `RGB 177 116 42`  | `CMYK 24 53 88 17` |
+| <span class="swatch" style="color: #FFFCF7;"></span> Bread For Screaming At | `#FFFCF7` | `RGB 255 252 247` | _digital only_     |
 | <span class="swatch" style="color: #FFFFFF;"></span> Feather White          | `#FFFFFF` | `RGB 255 255 255` | `CMYK 0 0 0 0`     |
 | <span class="swatch" style="color: #E0E0E0;"></span> Brave Gull             | `#E0E0E0` | `RGB 224 224 224` | `CMYK 0 0 0 16`    |
 | <span class="swatch" style="color: #CCCCCC;"></span> Gloomy Sky             | `#CCCCCC` | `RGB 204 204 204` | `CMYK 0 0 0 23`    |
 | <span class="swatch" style="color: #B3B3B3;"></span> Stormy Sky             | `#B3B3B3` | `RGB 179 179 179` | `CMYK 0 0 0 39`    |
 | <span class="swatch" style="color: #565656;"></span> Storm Cloud            | `#565656` | `RGB 86 86 86`    | `CMYK 0 0 0 80`    |
 | <span class="swatch" style="color: #0D0D0D;"></span> Penguin Black          | `#0D0D0D` | `RGB 13 13 13`    | `CMYK 0 0 0 100`   |
-| <span class="swatch" style="color: #FFFCF7;"></span> Bread For Screaming At | `#FFFCF7` | `RGB 255 252 247` | _digital only_     |
 
 ### Color palette overview
 
