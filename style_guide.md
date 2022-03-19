@@ -96,7 +96,20 @@ Any used colors should be taken either directly from the palette or be derived f
 
 ### Color palette overview
 
-![Color palette overview grid style](img/style_guide/color_palette_overview.png)
+<figure class="palette-overview">
+  <div style="background-color: #1D7193;" class="dark">Tidal Blue<br>#1D7193<br>RGB 29 113 147</div>
+  <div style="background-color: #0C5A73;" class="dark">Puget Sound<br>#0C5A73<br>RGB 12 90 115</div>
+  <div style="background-color: #074558;" class="dark">Deep Ocean<br>#074558<br>RGB 7 69 88</div>
+  <div style="background-color: #FCB320;" class="light">French Fry Gold<br>#FCB320<br>RGB 252 179 32</div>
+  <div style="background-color: #B1742A;" class="dark">Wet Sand<br>#B1742A<br>RGB 177 116 42</div>
+  <div style="background-color: #FFFCF7;" class="bordered light">Bread For Screaming At<br>#FFFCF7<br>RGB 255 252 247</div>
+  <div style="background-color: #FFFFFF;" class="bordered light">Feather White<br>#FFFFFF<br>RGB 255 255 255</div>
+  <div style="background-color: #E0E0E0;" class="light">Brave Gull<br>#E0E0E0<br>RGB 224 224 224</div>
+  <div style="background-color: #CCCCCC;" class="light">Gloomy Sky<br>#CCCCCC<br>RGB 204 204 204</div>
+  <div style="background-color: #B3B3B3;" class="light">Stormy Sky<br>#B3B3B3<br>RGB 179 179 179</div>
+  <div style="background-color: #565656;" class="dark">Storm Cloud<br>#565656<br>RGB 86 86 86</div>
+  <div style="background-color: #0D0D0D;" class="dark">Penguin Black<br>#0D0D0D<br>RGB 13 13 13</div>
+</figure>
 
 ## Color Usage {#ColorUsage}
 
