@@ -78,14 +78,10 @@ Exhibitor space is limited, please contact us right away if you are interested i
 We can't do what we need to do without the support of the community.
 If you would like to offer financial support but don't need an exhibit table, please send an email to {{ site.custom.a.email.sponsor }}.
 
-<!--
 ## Donate now
 
-[Our fiscal sponsor, **Free Software Foundation**](https://www.fsf.org), set up a donation page to support SeaGL.
-It accepts credit card or PayPal and provides instructions for donating via check or Bitcoin.
-Thank you for your support!
+Our fiscal sponsor, [**Open Source Initiative**](https://opensource.org), set up a donation page for SeaGL. Thank you for your support!
 
 {{ site.custom.a.donate }}
--->
 
 </div></div>
