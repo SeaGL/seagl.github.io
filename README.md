@@ -115,6 +115,8 @@ Start the server:
 bundle exec jekyll serve --watch
 ```
 
+To preview future-dated and unpublished posts, add `--future --unpublished` to the above command.
+
 #### Option 2: Containerized
 
 Dependencies:
@@ -132,6 +134,8 @@ Start the server:
 ```bash
 docker run --rm --interactive --tty --publish '4000:4000' --volume "$PWD:/usr/src/app" 'seagldev'
 ```
+
+To preview future-dated and unpublished posts, add `--future --unpublished` at the end of the above command.
 
 ### Visual regression testing
 
