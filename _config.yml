@@ -1,6 +1,6 @@
 safe:           true
 lsi:            false
-future:         false # Workaround for SeaGL/seagl.github.io#170
+future:         false # Restore default behavior of Jekyll overridden by https://github.com/github/pages-gem/pull/302
 timezone:       America/Los_Angeles
 markdown:       kramdown
 highlighter:    rouge
