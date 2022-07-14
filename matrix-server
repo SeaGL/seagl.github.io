@@ -1,0 +1,7 @@
+---
+layout: none
+permalink: .well-known/matrix/server
+---
+{
+  "m.server": "alias.seagl.org:443"
+}
