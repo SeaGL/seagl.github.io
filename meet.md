@@ -77,7 +77,16 @@ In the **long term**, you’ll likely want to:
  1. [Reserve][IRC registration] your nickname.
  1. Consider operating a [*bouncer*][IRC bouncers] or signing up for a [hosted service][IRC hosted] that provides a persistent connection.
 
-</div></div></div></div>
+</div></div>
+
+### Video meetings
+
+Some rooms such as [Office Hours] are set up for optional video meetings. In addition to text chat via Matrix and IRC, a shared video call is available via [Jitsi Meet]. To access it:
+
+  - A **link** to the video call will be available in the topic of the Matrix room and IRC channel. You can join the call by opening the link in your web browser or Jitsi Meet app.
+  - If you’re using [Element], the video call will be **integrated** into your view of the Matrix room.
+
+</div></div>
 
 
 [Element]: https://element.io/
@@ -87,7 +96,9 @@ In the **long term**, you’ll likely want to:
 [IRC clients]: https://libera.chat/guides/clients
 [IRC hosted]: https://libera.chat/guides/clients#connecting-without-installing-anything
 [IRC registration]: https://libera.chat/guides/registration
+[Jitsi Meet]: https://jitsi.org/jitsi-meet/
 [Matrix]: https://matrix.org/
 [Matrix.org]: https://matrix.org/faq/#who-and-how
 [Matrix bridges]: https://matrix.org/bridges/
 [Matrix options]: https://matrix.org/docs/projects/try-matrix-now
+[Office Hours]: /cfp
