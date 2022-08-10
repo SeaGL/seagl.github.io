@@ -28,6 +28,7 @@
     2019: media
     2020: media
     2021: media
+    2022: media
 
 - name: Ansible
   url: https://www.ansible.com
