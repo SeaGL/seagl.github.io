@@ -16,7 +16,7 @@ SeaGL organization for 2022 has kicked off!
 With two virtual conferences under our belt, we hope to round out our first decade with an in-person experience in Seattle in a hybrid setting.
 Would you like to help us build out that community experience?
 
-Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seattlematrix.org "Link directly to SeaGL Matrix channel") or into the [#SeaGL IRC channel](https://irc.seagl.org/ "Web gateway to join IRC") Libera.chat if you would like to help.
+Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") or into the [#SeaGL IRC channel](https://irc.seagl.org/ "Web gateway to join IRC") Libera.chat if you would like to help.
 
 Let us know you'd like to help out and we'll send you an invitation to join our organizing meetings every other Tuesday at 18:00 Pacific Time (UTC-7).
 
