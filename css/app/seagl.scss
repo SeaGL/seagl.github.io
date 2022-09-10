@@ -29,7 +29,7 @@ h1 {
   text-shadow: 0 1px 1px #fff;
   margin-bottom: 0.5em;
 }
-a:not(.btn) {
+a:not(.btn):not(.label) {
   &, &:active {
     color: #0C5A73;
   }
