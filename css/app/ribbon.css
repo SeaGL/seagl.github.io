@@ -17,7 +17,7 @@
      * normally 24 but the ribbon 'graphics' take up 24px
      * themselves so we double it. */
 }
-.ribbon a:not(.btn) {
+.ribbon a:not(.btn):not(.label) {
     color: #FCB320;
     font-weight: bold;
     text-decoration: none;
