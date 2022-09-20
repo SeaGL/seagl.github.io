@@ -79,7 +79,9 @@ If you would like to offer financial support but don't need an exhibit table, pl
 
 ## Donate now
 
-Our fiscal sponsor, [**Open Source Initiative**](https://opensource.org), set up a donation page for SeaGL. Thank you for your support!
+Our fiscal sponsor, [**Open Source Initiative**](https://opensource.org), set up a donation page enabling you to support SeaGL.
+These contributions may be tax deductible as OSI is a 501(c)(3) non-profit organization.
+Thank you for your support!
 
 {{ site.custom.a.donate }}
 
