@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/864
 beginning: '2021-11-06T16:30:00.000-07:00'
 end: '2021-11-06T16:50:00.000-07:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2021-Cory_Doctorow-Seize_the_Means_of_Computation
 presenters:
 - name: Cory Doctorow
   osem_url: https://osem.seagl.org/users/1207

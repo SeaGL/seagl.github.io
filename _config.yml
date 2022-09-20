@@ -1,6 +1,6 @@
 safe:           true
 lsi:            false
-future:         false # Workaround for SeaGL/seagl.github.io#170
+future:         false # Restore default behavior of Jekyll overridden by https://github.com/github/pages-gem/pull/302
 timezone:       America/Los_Angeles
 markdown:       kramdown
 highlighter:    rouge
@@ -66,8 +66,8 @@ exclude:
     - vendor/ruby/
 
 custom:
-    year:                   2021
-    dates:                  November 5th & 6th
+    year:                   2022
+    dates:                  November 4th & 5th
     location:               Virtual
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
@@ -82,7 +82,7 @@ custom:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
         location:           https://seattlecentral.edu
-        prospectus:         /sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2021.pdf
+        prospectus:         /sponsors/SeaGL_Partnership_Sponsor_Prospectus_2022.pdf
         register:           https://osem.seagl.org/conferences/seagl2021/register/new
         cfp:                /news/2021/06/24/cfp
         schedule:           https://osem.seagl.org/conferences/seagl2021/schedule/events

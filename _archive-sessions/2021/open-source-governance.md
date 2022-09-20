@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/859
 beginning: '2021-11-06T13:15:00.000-07:00'
 end: '2021-11-06T13:45:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2021-Josh_Berkus-Open_Source_Governance_Six_Types_and_Three_Models
   slides_url: https://jberkus.github.io/gov6
 presenters:
 - name: Josh Berkus

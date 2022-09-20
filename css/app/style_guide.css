@@ -40,3 +40,14 @@
   border: 1px solid #565656;
   border-radius: 2px;
 }
+
+.style-guide .palette-overview {
+  display: grid;
+  grid-gap: 0.5em;
+  grid-template-columns: repeat(2, 1fr);
+}
+@media (min-width: 768px) { .style-guide .palette-overview { grid-template-columns: repeat(3, 1fr); } }
+.style-guide .palette-overview > * { padding: 1em; }
+.style-guide .palette-overview > .dark { color: #fff; }
+.style-guide .palette-overview > .light { color: #000; }
+.style-guide .palette-overview > .bordered { border: 1px solid #0004; }

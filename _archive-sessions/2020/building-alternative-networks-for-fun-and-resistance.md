@@ -6,22 +6,21 @@ end: '2020-11-14T14:30:00.000-08:00'
 resources:
   internet_archive_identifier: SeaGL2020-Lisha_Sterling-Building_Alternative_Networks_for_Fun_and_Resistance
 presenters:
-- name: Lisha Sterling
+- name: Elior Sterling
   affiliation: Geeks Without Bounds
   osem_url: https://osem.seagl.org/users/398
-  gravatar_id: cd838d798cca487b7880b48267d5c097
-  biography: Lisha Sterling is the executive director of Geeks Without Bounds and
-    president of Frontline Wellness United. A life long proponent of software freedom,
-    she spent the first 15+ years of her career working for companies like Wells Fargo
-    Bank, Amazon.com and a string of startups you barely remember. Her ideas about
-    the importance of Libre software and hardware have been refined in the fires of
-    civic and humanitarian projects that affect marginalized people on the outside
-    of the digital divide. She has worked on software projects to improve public water
-    service in Tanzania, environmental tracking in Guatemala, protection of indigenous
-    lands in Ecuador and the US, and the protection of refugees in Jordan and Mexico.
-    Over the last three years, much of her work has revolved around keeping vulnerable
-    people (and their digital doppelgangers) safe while facing harassment from individuals,
-    hate groups, and governments.
+  gravatar_id: 4fb9fa2a3376d59c42822c6ab1c8c452
+  biography: Elior Sterling is a life long proponent of software freedom. He spent
+    the first 15+ years of his career working for companies like Wells Fargo Bank,
+    Amazon.com and a string of startups you barely remember. His ideas about the importance
+    of Libre software and hardware have been refined in the fires of civic and humanitarian
+    projects that affect marginalized people on the outside of the digital divide.
+    He has worked on software projects to improve public water service in Tanzania,
+    environmental tracking in Guatemala, protection of indigenous lands in Ecuador
+    and the US, and the protection of refugees in Jordan and Mexico. In recent years,
+    much of his work has revolved around keeping vulnerable people (and their digital
+    doppelgangers) safe while facing harassment from individuals, hate groups, and
+    governments.
 ---
 
 If all the networks are owned by a small handful of corporations, how can your network be free (as in speech)? If all the networks are surveilled by the government, how can any network by free? Is there any alternative?

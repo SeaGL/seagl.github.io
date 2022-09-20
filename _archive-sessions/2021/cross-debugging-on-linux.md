@@ -5,6 +5,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/816
 beginning: '2021-11-06T13:15:00.000-07:00'
 end: '2021-11-06T13:45:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2021-Thierry_Bultel-Cross_debugging_on_Linux
   slides_url: https://iot.bzh/images/public/2021/oss/Cross-debugging.pdf
 presenters:
 - name: Thierry Bultel

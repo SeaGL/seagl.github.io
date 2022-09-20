@@ -3,6 +3,8 @@ title: PostgreSQL Participation in Google's Summer of Code
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/827
 beginning: '2021-11-05T10:50:00.000-07:00'
 end: '2021-11-05T11:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Mark_Wong-PostgreSQL_Participation_in_Googles_Summer_of_Code
 presenters:
 - name: Mark Wong
   affiliation: EDB

@@ -28,6 +28,7 @@
     2019: media
     2020: media
     2021: media
+    2022: media
 
 - name: Ansible
   url: https://www.ansible.com
@@ -91,6 +92,7 @@
     2019: bronze
     2020: bronze
     2021: bronze
+    2022: bronze
 
 - name: Fedora
   url: https://getfedora.org/
@@ -420,6 +422,7 @@
     2019: thanks
     2020: thanks
     2021: thanks
+    2022: thanks
 
 - name: Free Software Foundation
   url: https://www.fsf.org/
@@ -471,6 +474,8 @@
   sponsorships:
     2015: thanks
     2020: thanks
+    2021: thanks
+    2022: thanks
 
 - name: Northeastern University Seattle
   url: https://www.northeastern.edu/seattle/
@@ -525,6 +530,7 @@
     2019: thanks
     2020: thanks
     2021: thanks
+    2022: thanks
 
 - name: API City's APIs and IPAs Seattle
   url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
@@ -807,6 +813,7 @@
      2019: thanks
      2020: thanks
      2021: thanks
+     2022: thanks
 
 - name: Ubuntu-PNW
   url: https://wiki.ubuntu.com/PNWTeam
@@ -862,6 +869,7 @@
   sponsorships:
     2020: thanks
     2021: thanks
+    2022: thanks
 
 - name: Electronic Frontier Foundation
   url: https://www.eff.org/
@@ -917,6 +925,7 @@
   sponsorships:
     2020: thanks
     2021: thanks
+    2022: thanks
 
 - name: KODI
   url: https://kodi.tv/
@@ -998,6 +1007,7 @@
     GeekBeacon Fest's mission is to unify geeks and make the world a better place through a celebration of Mental Health, Gaming, Open Culture, and Open Source. February 18th-19th, 2022
   sponsorships:
     2021: thanks
+    2022: media
 
 - name: DevOps Party Games
   url: https://devopspartygames.com
@@ -1027,6 +1037,7 @@
   description:
   sponsorships:
     2021: thanks
+    2022: thanks
 
 - name: Seattle Matrix
   url: https://seattlematrix.org/
@@ -1036,3 +1047,14 @@
   description:
   sponsorships:
     2021: thanks
+    2022: thanks
+
+- name: DevOpsDays Seattle
+  url: https://devopsdays.org/events/2022-seattle/
+  logo:
+    horizontal: /img/sponsors/DevOpsDaysSeattle/DevOpsDaysSeattle.png
+    square: 
+  description: |-
+    DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Our audience is composed primarily of practitioners.
+  sponsorships:
+    2022: thanks

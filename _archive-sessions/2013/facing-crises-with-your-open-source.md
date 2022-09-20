@@ -6,8 +6,7 @@ end: 2013-10-11T13:50-07:00
 resources:
   slides_url: https://prezi.com/iad7ocmvrwcz/facing-crises-with-open-source/
 presenters:
-- name: Lisha Sterling
-  lanyrd_url: http://lanyrd.com/profile/lishevita/
+- name: Elior Sterling
 ---
 
 How open source software is already being used in crises and how the open source community can help in crises situations -- before the crisis hits, and during the crisis itself.

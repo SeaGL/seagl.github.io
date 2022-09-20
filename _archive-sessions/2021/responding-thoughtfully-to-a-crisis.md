@@ -3,6 +3,8 @@ title: Responding Thoughtfully to a Crisis
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/824
 beginning: '2021-11-05T10:10:00.000-07:00'
 end: '2021-11-05T10:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Deb_Nicholson-Responding_Thoughtfully_to_a_Crisis
 presenters:
 - name: Deb Nicholson
   affiliation: SeaGL

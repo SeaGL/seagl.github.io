@@ -3,6 +3,8 @@ title: 'Technically Biased: Taking Free Software''s Niche Appeal Mainstream'
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/822
 beginning: '2021-11-06T15:30:00.000-07:00'
 end: '2021-11-06T16:00:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Stephen_Michel-Technically_Biased_Taking_Free_Softwares_Niche_Appeal_Mainstream
 presenters:
 - name: Stephen Michel
   osem_url: https://osem.seagl.org/users/1148

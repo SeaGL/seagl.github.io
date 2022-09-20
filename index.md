@@ -9,15 +9,13 @@ description: SeaGL is a grassroots technical conference dedicated to spreading a
 
 ## About
 
-SeaGL (the *Seattle GNU/Linux Conference*) is a free—as in freedom and tea—grassroots technical summit dedicated to spreading awareness and knowledge about free / libre / open source software, hardware, and culture.
+Founded in 2013, SeaGL (the *Seattle GNU/Linux Conference*) is a free—as in freedom and tea—grassroots technical summit dedicated to spreading awareness and knowledge about free / libre / open source software, hardware, and culture.
 
 SeaGL strives to be welcoming, enjoyable, and informative for professional technologists, newcomers, enthusiasts, and all other users of free software, regardless of their background knowledge; providing a space to bridge these experiences and strengthen the free software movement through mentorship, collaboration, and community.
 
-SeaGL's first year was 2013.
-
 ### When & where
 
-**{{ site.custom.dates }}, {{ site.custom.year }}**, [online](/news/2021/06/08/format-2021)
+**{{ site.custom.dates }}, {{ site.custom.year }}**, virtual
 
 ### Attend
 
@@ -67,11 +65,10 @@ or join the {{ site.custom.a.mailing_list.seagl_announce }}.
 
 ## Exhibitors
 
-We will have a small hall available for exhibitors.
-Free tables will be available for free/libre/open-source software/hardware and non-profit organizations, and there are several sponsorship levels for everyone else.
-If your organization would like an exhibit table at SeaGL, please send an email to {{ site.custom.a.email.sponsor }} for our vendor prospectus.
-
-Exhibitor space is limited, please contact us right away if you are interested in a table.
+We will have a virtual expo hall available at SeaGL 2022.
+Free/libre/open-source software/hardware projects and non-profit organizations may request gratis space.
+There are several paid sponsorship levels and add-ons for other entities.
+If your group would like to exhibit at SeaGL, please review our <a href="{{ site.custom.url.prospectus }}">Partnership/Sponsor Prospectus</a> or send an email to {{ site.custom.a.email.sponsor }} for more information.
 
 </div><div class="col-md-4" markdown="1">
 

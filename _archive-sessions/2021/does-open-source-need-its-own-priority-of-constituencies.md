@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/838
 beginning: '2021-11-06T10:45:00.000-07:00'
 end: '2021-11-06T11:15:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2021-Tobie_Langel-Does_open_source_need_its_own_Priority_of_Constituencies
   resources_url: https://speaking.unlockopen.com/ZW2Cp8
 presenters:
 - name: Tobie Langel

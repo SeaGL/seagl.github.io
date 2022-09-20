@@ -10,17 +10,21 @@ body_id: get-involved
 
 ## Volunteer for SeaGL
 
-SeaGL organization for 2021 has kicked off!
-Would you like to help with a great virtual only (per pandemic) conference based out of the US Pacific Northwest?
-Our 8th conference last year was also our first virtual conference and we had volunteers from 4 continents.
-This year we are returning to a fully virtual model and need volunteers to make it happen.
-If you'd like to help please email us at {{ site.custom.a.email.participate }} and we'll send you an invitation to join our organizing meetings every other Monday at 17:00 Pacific Time (UTC-7).
+SeaGL organization for 2022 has kicked off!
+
+2022 marks our 10th year as a volunteer run FLOSS conference.
+With two virtual conferences under our belt, we hope to round out our first decade with an in-person experience in Seattle in a hybrid setting.
+Would you like to help us build out that community experience?
+
+Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") or into the [#SeaGL IRC channel](https://irc.seagl.org/ "Web gateway to join IRC") Libera.chat if you would like to help.
+
+Let us know you'd like to help out and we'll send you an invitation to join our organizing meetings every other Tuesday at 18:00 Pacific Time (UTC-7).
 
 ## Sponsors and Non-Profit Exhibitors
 
-Once again, we will have a virtual exhibitor hall for both community and corporate sponsors of SeaGL 2021.
-Groups and companies interested in attending should take a look at our [Exhibitor/Sponsor Prospectus]({{ site.custom.url.prospectus }}) which outlines various tiers and add-ons available.
-We do accept in-kind contributions from local and media partners, and free space is available for non-profit and educational organizations.
+We are currently updating the sponsor prospectus for SeaGL 2022.
+
+We do accept in-kind contributions from media and local partners. We also make free space available for non-profit and educational organizations.
 Please see our [sponsors page](/sponsors/{{ site.custom.year }}) for a list of current supporters and email us at {{ site.custom.a.email.sponsor }} to discuss further partnership opportunities!
 
 </div><div class="col-md-4" markdown="1">

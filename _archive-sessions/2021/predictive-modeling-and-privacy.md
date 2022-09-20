@@ -3,6 +3,8 @@ title: Predictive Modeling and Privacy
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/843
 beginning: '2021-11-05T10:50:00.000-07:00'
 end: '2021-11-05T11:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Molly_de_Blanc-Predictive_Modeling_and_Privacy
 presenters:
 - name: Molly de Blanc
   osem_url: https://osem.seagl.org/users/581

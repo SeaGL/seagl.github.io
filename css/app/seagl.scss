@@ -29,7 +29,7 @@ h1 {
   text-shadow: 0 1px 1px #fff;
   margin-bottom: 0.5em;
 }
-a:not(.btn) {
+a:not(.btn):not(.label) {
   &, &:active {
     color: #0C5A73;
   }
@@ -62,6 +62,9 @@ h4 {
   font-weight: bold;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+}
+figure {
+  margin-bottom: 10px;
 }
 strong {
   font-weight: 600;
@@ -176,7 +179,8 @@ ol > li > ol {
   overflow-y: hidden; /* Contain floating images. */
   position: relative; /* Reference for img.align-* */
 }
-.post img {
+.post img,
+p img {
   height: auto;
   max-width: 100%;
 }
@@ -299,7 +303,7 @@ ol > li > ol {
 }
 .venue-map {
   height: 66vh;
-  max-height: calc(100vh - 2cm);
+  max-height: min(60rem, calc(100vh - 2cm));
   min-height: 20em;
   width: 100%;
 }

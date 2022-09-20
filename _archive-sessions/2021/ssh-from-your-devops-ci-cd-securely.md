@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/841
 beginning: '2021-11-05T10:10:00.000-07:00'
 end: '2021-11-05T10:40:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2021-Bri_Hatch-SSH_from_your_DevOps_CI_CD_securely
   slides_url: https://www.ifokr.org/bri/presentations/seagl-2021-ssh-cicd/
 presenters:
 - name: Bri Hatch

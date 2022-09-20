@@ -3,6 +3,8 @@ title: Know Your Rights as a Tech Worker
 osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/850
 beginning: '2021-11-06T10:00:00.000-07:00'
 end: '2021-11-06T10:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2021-Shauna_Gordon-McKeon-Know_Your_Rights_as_a_Tech_Worker
 presenters:
 - name: Shauna Gordon-McKeon
   osem_url: https://osem.seagl.org/users/148
