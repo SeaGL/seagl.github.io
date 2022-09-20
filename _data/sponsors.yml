@@ -107,6 +107,16 @@
     2016: bronze
     2018: thanks
 
+- name: FOSSlife
+  url: https://www.FOSSlife.org/
+  logo:
+    horizontal: /img/sponsors/FOSSlife/FOSSlife_portrait_rgb.png
+    square:
+  description: |-
+	  FOSSlife is dedicated to the world of free and open source software, focusing on careers, skills, and resources to help you build your future with FOSS. We provide timely information, useful insight, and practical resources for those who want to build or advance their career with open source. Subscribe to our weekly newsletter to get the latest from FOSSlife at https://www.fosslife.org/newsletter
+  sponsorships:
+    2022: media
+
 - name: Google
   url: https://www.google.com
   logo:
@@ -150,6 +160,16 @@
     2015: bronze
     2016: bronze
     2020: media
+
+- name: Linux Magazine
+  url: https://www.Linux-Magazine.com/
+  logo:
+    horizontal: /img/sponsors/LinuxMagazine/LMI_Logo_Transparent.png
+    square:
+  description: |-
+	  Linux Magazine is your guide to the world of Linux and open source. Each monthly issue includes advanced technical information you won't find anywhere else including tutorials, in-depth articles on trending topics, troubleshooting and optimization tips, and more! Subscribe to our free newsletters and get news and articles in your inbox https://bit.ly/Linux-Update
+  sponsorships:
+    2022: media
 
 - name: Linux Pro Magazine
   url: https://www.linuxpromagazine.com/
