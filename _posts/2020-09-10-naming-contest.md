@@ -7,7 +7,7 @@ published: true
 categories: news
 ---
 
-![The inflatable seagull](img/posts/2020_seagull_naming_contest.jpg){:width="50%"}
+![The inflatable seagull](/img/posts/2020_seagull_naming_contest.jpg){:width="50%"}
 
 **Update**: Meet Patch! Patch's pronouns are they/them. Patch loves french fries, photos, and of course free software.
 

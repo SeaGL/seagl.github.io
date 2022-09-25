@@ -47,13 +47,13 @@ The logo images may be used without advance permission, subject to the following
 #### Usage examples
 
 - Blue Backgrounds
-![Blue background logo usage example](img/style_guide/logo_usage_example_1.png)
+![Blue background logo usage example](/img/style_guide/logo_usage_example_1.png)
 
 - Special "badge" background and other formats, with spacing
-![Special badge background and other formats logo usage example](img/style_guide/logo_usage_example_2.png)
+![Special badge background and other formats logo usage example](/img/style_guide/logo_usage_example_2.png)
 
 - White and White 2 backgrounds
-![White and White 2 backgrounds logo usage example](img/style_guide/logo_usage_example_3.png)
+![White and White 2 backgrounds logo usage example](/img/style_guide/logo_usage_example_3.png)
 
 ## Font Styles {#FontStyles}
 
@@ -67,13 +67,13 @@ Text alignment can vary by application, the important thing is to stay good in c
 ### Usage Examples
 
 - Blog post
-![Blog post example](img/style_guide/blog_post_example.png)
+![Blog post example](/img/style_guide/blog_post_example.png)
 
 - Social Media conference call:
-![Social media conference call example](img/style_guide/social_media_conference_call_example.png)
+![Social media conference call example](/img/style_guide/social_media_conference_call_example.png)
 
 - Print handbill:
-![Print handbill example](img/style_guide/handbill_example.png)
+![Print handbill example](/img/style_guide/handbill_example.png)
 
 ## Color Palette {#ColorPalette}
 
@@ -122,10 +122,10 @@ Gold is applied to action links and to contrast with the blue / background, depe
 ### Usage examples
 
 - Website Ribbon
-![Website color palette example](img/style_guide/website_ribbon_example.png)
+![Website color palette example](/img/style_guide/website_ribbon_example.png)
 
 - Profile Banner
-![Social media banner example](img/style_guide/social_media_banner_example.png)
+![Social media banner example](/img/style_guide/social_media_banner_example.png)
 
 ## Design Assets {#DesignAssets}
 
