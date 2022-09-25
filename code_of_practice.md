@@ -49,5 +49,5 @@ You are encouraged to copy, modify, and redistribute this Code of Practice howev
 
 
 [CC BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
-[SeaGL]: https://seagl.org
-[SeaGL Code of Conduct]: https://seagl.org/code_of_conduct
+[SeaGL]: /
+[SeaGL Code of Conduct]: /code_of_conduct
