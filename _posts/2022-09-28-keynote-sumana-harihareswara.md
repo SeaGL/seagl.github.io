@@ -23,7 +23,7 @@ and OSCON, performed standup comedy and theater at several tech
 conferences, and manages and maintains open source projects as
 [Changeset Consulting](http://changeset.nyc/).  Her work has earned her
 an Open Source Citizen Award and a Google Open Source Peer Bonus. She
-lives in New York City
+lives in New York City.
 
 Sumana microblogs [in the Fediverse](https://social.coop/@brainwane/)
 and [on Twitter](https://twitter.com/brainwane).
