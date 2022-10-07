@@ -34,7 +34,7 @@ Perfect answers may not exist for each of these, but we feel like we've come up 
 
   - **Socially:** Interacting through text and video is just not the same as in-person. Text is clumsy and can easily lead to misunderstandings. Video calls may introduce latency and exclude the context/space that each person is in. Being behind a screen makes it all too easy to tune out or multi-task.
 
-What's more, it's 2022 and we're all tired of virtual everything...
+What's more, it's 2022 and we're all tired of virtual everything…
 
 But these are all challenges we believe that we can meaningfully improve upon. Again, our solutions may not be perfect, but we've strived to prioritize the social conference experience.
 
@@ -42,10 +42,10 @@ But these are all challenges we believe that we can meaningfully improve upon. A
 
   - **Community:** In-person conferences are very time-bound. Participants may look forward to the next one, but rarely do they stay connected with each other in-between. The virtual environment provides new opportunities to bring people into a year-round space, holding both the conference and free software movement together.
 
-So... what's the tech stack powering all these values?
+So… what's the tech stack powering all these values?
 
 For our first virtual conference, we mashed together [IRC](https://libera.chat/), [Kiwi](https://kiwiirc.com/), [BigBlueButton](https://bigbluebutton.org/), and [Restreamer](https://datarhei.github.io/restreamer/). It was a hit and the next year we expanded from IRC by bridging into [Matrix](https://matrix.org/). Our excitement has only grown about the Matrix project and its goal of creating an open network for secure, decentralized communication. Thus, this year we've decided to double-down and run the event primarily on Matrix.
 
-With November rapidly approaching, we're assembling the pieces yet again! During this process we are trying to responsibly balance the competing goals and questions outlined above. Some of these are fundamentally at odds, some we might have a cleaver solution for, and some are stuck competing for volunteer bandwidth...
+With November rapidly approaching, we're assembling the pieces yet again! During this process we are trying to responsibly balance the competing goals and questions outlined above. Some of these are fundamentally at odds, some we might have a cleaver solution for, and some are stuck competing for volunteer bandwidth…
 
 Does this vision excite you? Want to hear more details about how we're solving these problems? We welcome additional wings and beaks! Please contact {{ site.custom.a.email.participate }} to volunteer today!
