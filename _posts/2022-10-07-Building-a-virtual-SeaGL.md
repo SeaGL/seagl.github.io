@@ -44,7 +44,7 @@ And of course, our enthusiastic team of volunteers has been working hard to keep
 
 While metadata is unavoidable with networked devices, we have continued to ask ourselves tough questions. How little tracking can we get away with? Is a virtual conference possible without user accounts? Must privacy be compromised for security?
 
-Perfect answers may not exist for each of these, but we feel like we've come up with some darned good ones that are continually refined. The last one is especially tricky given that we are exposed to more potential abuse online.
+Perfect answers may not exist for each of these, but we feel like we've come up with some darned good ones that are continually refined. The last question about privacy vs. security is especially tricky given that we are exposed to more potential abuse online.
 
 ## Socially
 
