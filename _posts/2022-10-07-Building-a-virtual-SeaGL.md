@@ -48,7 +48,7 @@ Perfect answers may not exist for each of these, but we feel like we've come up 
 
 ## Socially
 
-Interacting through text and video is just not the same as in-person. Text is clumsy and can easily lead to misunderstandings. Video calls may introduce latency and exclude the space that each person is in. Being behind a screen it is all too easy to tune out or multi-task.
+Interacting through text and video is just not the same as in-person. Text is clumsy and can easily lead to misunderstandings. Video calls may introduce latency and exclude the space that each person is in. Being behind a screen makes it all too easy to tune out or multi-task.
 
 What's more, it's 2022 and we're all tired of virtual everything...
 
