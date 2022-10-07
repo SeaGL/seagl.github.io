@@ -22,7 +22,7 @@ Avoiding the collection of personal data can be tricky, our primary solution has
 
 ## They're social
 
-People attend conferences for much more than scheduled programming. A term that encompasses this well is "hallway track". We've always built in dedicated social time, whether through extended breaks between talks or socializing opportunities such as TeaGL.
+People attend conferences for much more than scheduled programming - a concept commonly referred to as the "hallway track". We've always built in dedicated social time, whether through extended breaks between talks or socializing opportunities such as TeaGL.
 
 ## They're civil
 
