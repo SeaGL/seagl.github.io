@@ -64,7 +64,7 @@ In-person conferences are very time-bound. Participants may look forward to the 
 
 ---
 
-Now... onto the tech!
+So... what's the tech stack that powers all these values?
 
 For our first virtual conference, we mashed together IRC, Kiwi, BigBlueButton, and Restreamer. It was a hit and the next year we expanded from IRC by bridging into Matrix. Our excitement has only grown about the Matrix project and its goal of creating an open network for secure, decentralized communication. Thus, this year we've decided to double-down and run the event primarily on Matrix.
 
