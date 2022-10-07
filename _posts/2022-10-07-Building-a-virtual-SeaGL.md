@@ -10,7 +10,7 @@ tags: '2022'
 
 As SeaGL turns ten, relying on the virtual format for a third year, it's time to talk foundations. How does a Free Software conference approach the transition from in-person to Internet?
 
-First, we considered what we like about _our_ conferences:
+First, we considered what we like about our _in-person_ conferences:
 
 ## They're accessible
 
