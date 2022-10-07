@@ -24,19 +24,19 @@ Now, how do we translate these values to a virtual setting? (Aside from the obvi
 
   - **Access:** Going remote has at least one huge advantage over the physical space; people can participate from all over the planet! Whether attending, presenting, sponsoring, or volunteering; we have spread our wings and welcomed folks from at least four continents.
 
-Aside from location, we have also been able to provide resources for disabled participants. For instance, talks now have closed captioning and are recorded for later review (something we always struggled with in-person). Additionally, local residents who might have been mobility impaired can now attend without the strains of transportation.
+    Aside from location, we have also been able to provide resources for disabled participants. For instance, talks now have closed captioning and are recorded for later review (something we always struggled with in-person). Additionally, local residents who might have been mobility impaired can now attend without the strains of transportation.
 
-And of course, our enthusiastic team of volunteers has been working hard to keep the event cost-free to attend.
+    And of course, our enthusiastic team of volunteers has been working hard to keep the event cost-free to attend.
 
   - **Privacy:** While metadata is unavoidable with networked devices, we have continued to ask ourselves tough questions. How little tracking can we get away with? Is a virtual conference possible without user accounts? Must privacy be compromised for security?
 
-Perfect answers may not exist for each of these, but we feel like we've come up with some darned good ones that are continually refined. The last question about privacy vs. security is especially tricky given that we are exposed to more potential abuse online.
+    Perfect answers may not exist for each of these, but we feel like we've come up with some darned good ones that are continually refined. The last question about privacy vs. security is especially tricky given that we are exposed to more potential abuse online.
 
   - **Socially:** Interacting through text and video is just not the same as in-person. Text is clumsy and can easily lead to misunderstandings. Video calls may introduce latency and exclude the context/space that each person is in. Being behind a screen makes it all too easy to tune out or multi-task.
 
-What's more, it's 2022 and we're all tired of virtual everything…
+    What's more, it's 2022 and we're all tired of virtual everything…
 
-But these are all challenges we believe that we can meaningfully improve upon. Again, our solutions may not be perfect, but we've strived to prioritize the social conference experience.
+    But these are all challenges we believe that we can meaningfully improve upon. Again, our solutions may not be perfect, but we've strived to prioritize the social conference experience.
 
   - **Civility:** For some reason, people tend towards being more mean over the Internet. Misunderstandings may escalate and, especially for a technical audience, abuse tools become a real concern. Traditional moderation methods are still relevant but the speed and scale of a response may be much more challenging.
 
