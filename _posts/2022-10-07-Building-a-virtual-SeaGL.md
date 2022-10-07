@@ -52,7 +52,7 @@ Interacting through text and video is just not the same as in-person. Text is cl
 
 What's more, it's 2022 and we're all tired of virtual everything...
 
-But these are all challenges we believe we can meaningfully improve. Again, our solutions may not be perfect, but we've strived to prioritize the social conference experience.
+But these are all challenges we believe that we can meaningfully improve upon. Again, our solutions may not be perfect, but we've strived to prioritize the social conference experience.
 
 ## Civility
 
