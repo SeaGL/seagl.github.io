@@ -56,7 +56,7 @@ That said, these are all just challenges and considerations that we've taken int
 
 ## Civility
 
-For some reason, people tend towards being more mean over the Internet. Misunderstandings may escalate and, for a technical audience, abuse tools become a real concern. Traditional moderation methods are still relevant, but the speed and scale of a response may be much more challenging.
+For some reason, people tend towards being more mean over the Internet. Misunderstandings may escalate and, especially for a technical audience, abuse tools become a real concern. Traditional moderation methods are still relevant, but the speed and scale of a response may be much more challenging.
 
 ## Community
 
