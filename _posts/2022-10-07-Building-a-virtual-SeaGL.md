@@ -30,7 +30,7 @@ Our conference attracts people from many different backgrounds, holding many con
 
 ---
 
-Now, how do we translate these values to a virtual setting? (aside from the obvious: avoiding non-free software)
+Now, how do we translate these values to a virtual setting? (Aside from the obvious: avoiding non-free software!)
 
 ## Access
 
