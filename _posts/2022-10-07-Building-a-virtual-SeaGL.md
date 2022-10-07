@@ -70,4 +70,4 @@ For our first virtual conference, we mashed together IRC, Kiwi, BigBlueButton, a
 
 With November rapidly approaching, we're assembling the pieces yet again! During this process we are trying to responsibly balance the competing goals and questions outlined above. Some of these are fundamentally at odds, some we might have a cleaver solution for, and some are stuck competing for volunteer bandwidth...
 
-Does this vision excite you? We welcome additional wings and beaks! Please contact participate@seagl.org to volunteer today!
+Does this vision excite you? Want to hear more details about how we're solving these problems? We welcome additional wings and beaks! Please contact participate@seagl.org to volunteer today!
