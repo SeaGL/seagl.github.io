@@ -14,7 +14,7 @@ First, we considered what we like about our _in-person_ conferences:
 
 ## They're accessible
 
-We are trying to build an open and welcoming community, not an exclusive club. To accomplish this, there is no fee to attend and we minimize the number of barriers to entry. Additionally, we have been hosted in a central location that is near transit lines, eateries, and lodging. In recent years, we've also been able to provide childcare for those too young to attend.
+We're trying to build an open and welcoming community, not an exclusive club. To accomplish this, there is no fee to attend and we minimize the number of barriers to entry. Additionally, we have been hosted in a central location that is near transit lines, eateries, and lodging. In recent years, we've also been able to provide childcare for those too young to attend.
 
 ## They respect privacy
 
