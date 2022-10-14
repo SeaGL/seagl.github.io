@@ -11,7 +11,7 @@ tags: '2022'
 If you're looking for good news this week, we've got it: Aeva Black will be one of our keynote
 presenters at SeaGL 2022!
 
-![Aeva Black](/img/posts/2022_Keynote_Aeva.jpg)
+![Aeva Black](/img/posts/2022_Keynote_Aeva.jpg){:.align-right}
 
 [Aeva Black](https://aeva.online) is an incurably queer geek, passionate about privacy and ethics in
 tech. They're an open source hacker in Azure's Office of the CTO, focusing on community safety and
