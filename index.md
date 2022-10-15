@@ -2,6 +2,7 @@
 layout: page
 nav: home
 body_id: home
+title: Seattle GNU/Linux Conference
 description: SeaGL is a grassroots technical conference dedicated to spreading awareness and knowledge about the GNU/Linux community and free/libre/open-source software/hardware.
 ---
 

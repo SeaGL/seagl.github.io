@@ -2,6 +2,7 @@
 layout: page
 redirect_from:
   - /chat
+title: Community Chat
 ---
 
 <div class="row"><div class="col col-md-10 col-md-offset-1" markdown="1">
