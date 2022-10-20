@@ -20,4 +20,4 @@ If the speaker provided us with slides, those are available, too.
 Whether you missed a talk you really wanted to see or loved a talk so much that you want to re-watch it, the [SeaGL archive](/archive) has what you're looking for.
 We hope you enjoy SeaGLs past as we start thinking about SeaGL 2022!
 SeaGL is run by all-volunteer team.
-If you'd like to be involved, [reach out to us](/get_involved.html).
+If you'd like to be involved, [reach out to us](/get_involved).
