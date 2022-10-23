@@ -1078,3 +1078,13 @@
     DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Our audience is composed primarily of practitioners.
   sponsorships:
     2022: thanks
+
+- name: DevITjobs.us
+  url: https://devitjobs.us/events
+  logo:
+    horizontal: 
+    square: /img/sponsors/DevITjobs.us/devitUS-logo-name-long-square-rounded.png
+  description: |-
+    DevITJobs.us is the first job board built with Software Engineers in mind.
+  sponsorships:
+    2022: media
