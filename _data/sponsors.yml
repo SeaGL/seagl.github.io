@@ -323,7 +323,7 @@
   logo:
     horizontal: /img/sponsors/LinuxFoundation/OSS-ELC-Black.png
     square:
-  description:
+  description: |-
     Open Source Summit + Embedded Linux Conference is taking place September
     27-30, in Seattle, Washington. Register today to join us in-person or
     virtually.
@@ -355,12 +355,14 @@
 - name: GNOME
   url: https://www.gnome.org/
   logo:
-    horizontal: /img/sponsors/GNOME/GnomeLogo.jpg
+    horizontal: /img/sponsors/GNOME-LogoHorizontal-Blue.png
     square:
-  description:
+  description: |-
+    GNOME is a free and open-source desktop environment project supported by a non-profit foundation. Together, the community of contributors and the Foundation create a computing platform and software ecosystem composed entirely of free software designed to be elegant, efficient, and easy to use.
   sponsorships:
     2017: thanks
     2018: thanks
+    2022: thanks
 
 - name: Geeks Without Bounds
   url: http://gwob.org/
