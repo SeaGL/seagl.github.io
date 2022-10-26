@@ -355,7 +355,7 @@
 - name: GNOME
   url: https://www.gnome.org/
   logo:
-    horizontal: /img/sponsors/GNOME-LogoHorizontal-Blue.png
+    horizontal: /img/sponsors/GNOME/GNOME-LogoHorizontal-Blue.png
     square:
   description: |-
     GNOME is a free and open-source desktop environment project supported by a non-profit foundation. Together, the community of contributors and the Foundation create a computing platform and software ecosystem composed entirely of free software designed to be elegant, efficient, and easy to use.
