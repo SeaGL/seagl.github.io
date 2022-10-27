@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_from:
+  - /attend-ephemeral
 title: Attend SeaGL 2022
 description: How to attend SeaGL 2022 with an ephemeral Matrix account
 ---
