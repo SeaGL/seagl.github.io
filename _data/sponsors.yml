@@ -1012,6 +1012,16 @@
   sponsorships:
     2021: media
 
+- name: TuxDigital
+  url: https://TuxDigital.com/
+  logo:
+    horizontal: /img/sponsors/TuxDigital/tuxdigital-logo-blue-horizontal.png
+    square: /img/sponsors/TuxDigital/tuxdigital-logo-blue-stacked.png
+  description: |-
+    TuxDigital - A Media Network Powered By Linux & Open Source. Check out Destination Linux, This Week In Linux, Hardware Addicts, Sudo Show, Linux Out Loud, Linux Saloon, Game Sphere and the Fedora Podcast. 
+  sponsorships:
+    2022: media
+
 - name: Jupiter Broadcasting
   url: https://www.jupiterbroadcasting.com/
   logo:
