@@ -26,11 +26,11 @@ TODO screenshot
 
 Getting here is simple but can be difficult to find on your own. First make sure the spaces list on the far left is expanded (you may have to hover your mouse over the left side to see the arrow):
 
-TODO screenshot
+<img class="align-center" alt="Screenshot of the top-left of the Element client pointing out the arrow directly to the right of the profile picture in the upper-left corner" src="/img/element-sidebar-arrow.webp" />
 
 Then hover over the SeaGL space and click the three dots menu:
 
-TODO screenshot
+<img class="align-center" alt="Screenshot of the SeaGL space item in the Element left pane, with the three dots button at the right of the list item highlighted" src="/img/element-three-dots-menu.webp" />
 
 You can also click the arrow on the left side of the SeaGL space to see the subspaces, which can help with navigation.
 TODO screenshot
