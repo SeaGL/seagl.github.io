@@ -16,7 +16,7 @@ SeaGL uses [Matrix] to run our virtual conference. The whole conference is in a 
 
 TODO make this button point at the production space
 
-Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org>.
+Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org>. Remember, participation in any room in the SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
 
 ## Navigating spaces
 
