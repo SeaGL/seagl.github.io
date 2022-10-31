@@ -10,7 +10,11 @@ description: How to attend SeaGL 2022 with an existing Matrix account
 
 SeaGL uses [Matrix] to run our virtual conference. The whole conference is in a Matrix space and is primarily designed with [Element]'s interface in mind. You can of course use your own preferred Matrix client - just bear in mind we won't be able to help you out as much. Here's the button to get into the space:
 
-TODO button
+<div class="text-center">
+  <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#PuFN-2022:kvalhe.im">Join the SeaGL space</a></p>
+</div>
+
+TODO make this button point at the production space
 
 Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org>.
 
