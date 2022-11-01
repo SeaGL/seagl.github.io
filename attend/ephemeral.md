@@ -8,17 +8,18 @@ description: How to attend SeaGL 2022 with an ephemeral Matrix account
 
 # Attending SeaGL
 
-SeaGL uses a chat system called [Matrix] to run our virtual conference. We've got things set up so Matrix is super easy to use for you - just follow these 3 steps. But if you _do_ run into any trouble, you can email <matrix-help@seagl.org> and we'll help you get it sorted out. TODO - possibly link to Kiwi IRC too.
+SeaGL's virtual conference space exists in [Matrix], an open, decentralized chat network. We've set things up so that using Matrix should be easy—just follow these 3 steps. If you _do_ run into any trouble, email <matrix-help@seagl.org> and we'll help you get it sorted out ASAP. TODO - possibly link to Kiwi IRC too.
 
 ## Step 1 - get your 2022 attendee account
 
-The first step is to get an account! (This doesn't require any of your personal information.) Come back to this page after you're signed up.
+The first step is to get an account! This won't require any of your personal information and the account will be deleted once the conference has finished. However, for the duration of the conference this account will let you do everything a regular, permanent Matrix account would.
+
+Come back to this page after you're signed up.
 
 <div class="text-center">
-  <p><a class="btn btn-primary btn-large" href="https://attend.seagl.org/">Get my account</a></p>
+  <p><a class="btn btn-primary btn-large" href="https://attend.seagl.org/#/register?hs=ephemeral">Get my account</a></p>
 </div>
 
-This account will be deleted after the conference is over, but for the duration of the conference it will be a full Matrix account and will let you do everything a regular, permanent Matrix account would.
 
 ## Step 2 - get oriented
 
