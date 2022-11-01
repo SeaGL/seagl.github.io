@@ -39,6 +39,6 @@ Some things to know about Matrix and your ephemeral account:
 
 ## Step 3 - have fun at SeaGL!
 
-We hope you enjoy hanging out with the flock this year. Our friendly Matrix bot, Patch, will help guide you around the conference. If you have any questions, please bring them up in the ["Welcome"](https://matrix.to/#/#welcome:2022.seagl.org) or ["Info Booth"](https://matrix.to/#/#info-booth:2022.seagl.org) rooms.
+We hope you enjoy hanging out with the flock this year. Our friendly Matrix bot, Patch, will help guide you around the conference. If you have any questions, please bring them up in the ["Welcome"](https://matrix.to/#/#2022-welcome:seagl.org) or ["Info Booth"](https://matrix.to/#/#2022-info-booth:seagl.org) rooms.
 
 As a reminder, participation in any SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
