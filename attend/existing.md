@@ -8,54 +8,58 @@ description: How to attend SeaGL 2022 with an existing Matrix account
 
 # Attend with your Matrix account 
 
-SeaGL uses [Matrix] to run our virtual conference. The whole conference is in a Matrix space and is primarily designed with [Element]'s interface in mind. You can of course use your own preferred Matrix client - just bear in mind we won't be able to help you out as much. Here's the button to get into the space:
+SeaGL's virtual conference exists on a Matrix homeserver operated by [Seattle Matrix](https://seattlematrix.org/). The whole conference is a series of rooms and subspaces in a Matrix space—it is primarily designed with [Element](https://element.io/)'s interface in mind. You can of course use your own preferred Matrix client—just bear in mind we won't be able to help you out as much.
+
+Here's a button to get into the main conference space:
 
 <div class="text-center">
-  <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#2022:seagl.org">Join the SeaGL space</a></p>
+  <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#2022:seagl.org">Join the SeaGL 2022 space</a></p>
 </div>
 
-TODO make this button point at the production space
+Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org> or find us in the [Info Booth](https://matrix.to/#/#info-booth:2022.seagl.org) room.
 
-Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org>. Remember, participation in any room in the SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
+As a reminder, participation in any SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
+
 
 ## Navigating spaces
 
-Spaces in Element can be confusing if you're not used to them. There's a page that will show you all rooms in the SeaGL space which will give you an overview of the conference layout and allow you to jump directly to any room:
+Spaces in Element can be confusing if you're not used to them. You can access this page which will show you an overview of all rooms in the SeaGL space, allowing you to jump directly into any of them:
 
 TODO screenshot
 
-Getting here is simple but can be difficult to find on your own. First make sure the spaces list on the far left is expanded (you may have to hover your mouse over the left side to see the arrow):
+We recommend you expand the sidebar for quicker access to the main space and subspaces. First, expand the spaces list on the far left (you may have to hover your mouse over the left side to see the arrow):
 
 <img class="align-center" alt="Screenshot of the top-left of the Element client pointing out the arrow directly to the right of the profile picture in the upper-left corner" src="/img/element-sidebar-arrow.webp" />
 
-Then hover over the SeaGL space and click the three dots menu:
+Then hover over the SeaGL 2022 space—or a relevant subspace—and click the three dots menu, then "Space home":
 
 <img class="align-center" alt="Screenshot of the SeaGL space item in the Element left pane, with the three dots button at the right of the list item highlighted" src="/img/element-three-dots-menu.webp" />
 
-You can also click the arrow on the left side of the SeaGL space to see the subspaces, which can help with navigation.
-TODO screenshot
 
 ## Widget prompts
 
-SeaGL makes heavy use of Matrix widgets to provide the conference experience. In particular, widgets are the way we embed YouTube streams into Matrix rooms so you can watch the talks. Because of this, you'll see quite a few permission prompts like this:
+SeaGL makes heavy use of Matrix widgets to provide the conference experience. In particular, widgets are how we embed video streams into Matrix rooms—enabling chat participation while watching the talks. Because of this, you may see quite a few permission prompts like this:
 
 TODO screenshot
 
-You'll need to allow these widgets in order for the conference to work properly.
+Please allow these widgets in order to experience the conference properly.
+
 
 ## Call buttons
 
-The audio and video call buttons in Element aren't used in the Matrix rooms that are streaming talks from YouTube - don't click them. If you lose the YouTube stream by accident, here's how to get it back:
+The audio and video call buttons in Element aren't used in the Matrix rooms where presentations are being streaming—don't click them. If you lose the video stream by accident, here's how to get it back:
 
 TODO instructions
 
 TODO confirm that this is ok for social rooms
 
+
 ## Advanced usage: use our Element client
 
-One option that will solve the above caveats is to use our customized version of Element, available at https://attend.seagl.org/. The reason we don't recommend this in the first place is because submitting your Matrix credentials into random websites is bad practice, and we don't want to encourage it. We're mentioning this option mostly for completeness.
+One option that will solve the above caveats is to use our customized version of Element, available at https://attend.seagl.org/. The reason we don't recommend this in the first place is because submitting your Matrix credentials into random websites is bad practice, and we don't want to encourage it. However, we're mentioning this option for completeness and would happily share our service.
 
-If you insist on using our version of Element - hopefully because you really _do_ have reason to trust the SeaGL staff with your Matrix credentials - TODO instructions for clicking into the attend portal.
+If you insist on using our version of Element—hopefully because you really _do_ trust the SeaGL staff with your Matrix credentials, visit https://attend.seagl.org/ and click "Sign In".
 
-[Element]: https://element.io/
-[Matrix]: https://matrix.org/
+TODO instructions for clicking into the attend portal.
+
+To be clear, we will not that store, save, or otherwise misuse your credentials—but there are risk that we feel are important to share.
