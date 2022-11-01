@@ -16,7 +16,7 @@ Here's a button to get into the main conference space:
   <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#2022:seagl.org">Join the SeaGL 2022 space</a></p>
 </div>
 
-Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org> or find us in the [Info Booth](https://matrix.to/#/#info-booth:2022.seagl.org) room.
+Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org> or find us in the [Info Booth](https://matrix.to/#/#2022-info-booth:seagl.org) room.
 
 As a reminder, participation in any SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
 
@@ -62,4 +62,4 @@ If you insist on using our version of Element—hopefully because you really _do
 
 TODO instructions for clicking into the attend portal.
 
-To be clear, we will not that store, save, or otherwise misuse your credentials—but there are risk that we feel are important to share.
+To be clear, we have no intention to store, save, or otherwise misuse your credentials—but there are risk that we feel are important to share.
