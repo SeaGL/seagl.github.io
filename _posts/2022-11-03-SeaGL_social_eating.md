@@ -5,7 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
-tags: '2022' 'Social'
+tags: 2022 Social
 ---
 
 Since SeaGL is virtual this year we've been challenged on how to provide social meal events.
