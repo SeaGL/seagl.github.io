@@ -1,0 +1,75 @@
+---
+layout: default
+nav: watch
+---
+
+{% include jumbotron.html %}
+
+<div class="container" id="main-content">
+  <div class="row">
+    <div class="col-md-12">
+    <noscript>
+      <div class="alert alert-danger" role="alert">
+        Sorry, we're using client-side scripting to load everything. If you'd like
+        that to change, please consider volunteering next year.
+      </div>
+    </noscript>
+
+    <div id="messages"></div>
+
+    <div>
+      <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+          <a href="#room-1" aria-controls="room-1" role="tab" data-toggle="tab"
+            >Room 1</a
+          >
+        </li>
+        <li role="presentation">
+          <a href="#room-2" aria-controls="room-1" role="tab" data-toggle="tab"
+            >Room 2</a
+          >
+        </li>
+      </ul>
+
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="room-1">
+          <figure>
+            <div class="embed-responsive embed-responsive-16by9">
+              <div class="embed-responsive-item embed-placeholder">
+                <p>This video is hosted on YouTube.</p>
+
+                <p class="text-muted" style="position: absolute;bottom: 0;margin: 1em;">Interested in helping us do better? Please consider <a href="/get_involved">volunteering</a> next year!</p>
+
+                <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/mQS7Fm_GIs4">View</a></p>
+
+                <template>
+                  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/mQS7Fm_GIs4?autoplay=0&cc_load_policy=1&cc_lang_pref=en&modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+                </template>
+              </div>
+            </div>
+          </figure>
+        </div>
+
+        <div role="tabpanel" class="tab-pane" id="room-2">
+          <figure>
+            <div class="embed-responsive embed-responsive-16by9">
+              <div class="embed-responsive-item embed-placeholder">
+                <p>This video is hosted on YouTube.</p>
+
+                <p class="text-muted" style="position: absolute;bottom: 0;margin: 1em;">Interested in helping us do better? Please consider <a href="/get_involved">volunteering</a> next year!</p>
+
+                <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/zgo3165GvvQ">View</a></p>
+
+                <template>
+                  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/zgo3165GvvQ?autoplay=0&cc_load_policy=1&cc_lang_pref=en&modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+                </template>
+              </div>
+            </div>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script defer src="/js/embed-placeholder.js"></script>
