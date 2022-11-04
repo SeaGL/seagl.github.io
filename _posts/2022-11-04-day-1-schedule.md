@@ -18,9 +18,9 @@ Normal talk blocks are 30m. There are 20m for the talk, and 10m for optional Q&A
 
 All times are listed in Pacific Daylight Time, which is UTC-07:00. (Note: The US time change happens the evening AFTER the conclusion of the conference early on Sunday morning)
 
-### 9:00am-9:30am
-* 9:00am Opening Announcements
-* 9:10am Keynote by Aeva Black
+### 9:10am-9:35am
+* 9:10am Opening Announcements
+* 9:15am Keynote by Aeva Black
 
 #### 9:40am-10:10am
 * Alexander Krizhanovsky - Building a CDN edge using open source
