@@ -59,8 +59,8 @@ The audio and video call buttons in Element aren't used in the Matrix rooms wher
 
 ## Advanced usage: use our Element client
 
-One option that will solve the above caveats is to use our customized version of Element, available at https://attend.seagl.org/. The reason we don't recommend this in the first place is because submitting your Matrix credentials into random websites is bad practice, and we don't want to encourage it. However, we're mentioning this option for completeness and would happily share our service.
+One option that will solve the above caveats is to use our customized version of Element, available at [attend.seagl.org](https://attend.seagl.org). The reason we don't recommend this in the first place is because submitting your Matrix credentials into random websites is bad practice, and we don't want to encourage it. However, we're mentioning this option for completeness and would happily share our service.
 
-If you insist on using our version of Element—hopefully because you really _do_ trust the SeaGL staff with your Matrix credentials, visit https://attend.seagl.org/ and click "Sign In" under the "Create 2022 Account" button.
+If you insist on using our version of Element—hopefully because you really _do_ trust the SeaGL staff with your Matrix credentials, visit [attend.seagl.org](https://attend.seagl.org/) and click "Sign In" under the "Create 2022 Account" button.
 
 To be clear, we have no intention to store, save, or otherwise misuse your credentials—but there are risk that we feel are important to share.
