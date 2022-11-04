@@ -40,26 +40,27 @@ Then hover over the SeaGL 2022 space—or a relevant subspace—and click the th
 
 SeaGL makes heavy use of Matrix widgets to provide the conference experience. In particular, widgets are how we embed video streams into Matrix rooms—enabling chat participation while watching the talks. Because of this, you may see quite a few permission prompts like this:
 
-TODO screenshot
+<img class="align-center" alt="Screenshot of a widget prompt in Element - a box above the main chat window labeled Welcome to SeaGL 2022 with text that says 'Using this widget may share data with attend.seagl.org' and a button that says 'Continue'" src="/img/element-widget-prompt.webp" />
 
 Please allow these widgets in order to experience the conference properly.
 
 
 ## Call buttons
 
-The audio and video call buttons in Element aren't used in the Matrix rooms where presentations are being streaming—don't click them. If you lose the video stream by accident, here's how to get it back:
+The audio and video call buttons in Element aren't used in the Matrix rooms where presentations are being streamed—don't click them. If you lose the video stream by accident, here's how to get it back:
 
-TODO instructions
+1. Click the room info button in the upper-right corner.
+2. Under "Widgets", click the pin icon.
 
-TODO confirm that this is ok for social rooms
+<!-- TODO screenshots -->
+
+<!-- TODO confirm that this is ok for social rooms -->
 
 
 ## Advanced usage: use our Element client
 
 One option that will solve the above caveats is to use our customized version of Element, available at https://attend.seagl.org/. The reason we don't recommend this in the first place is because submitting your Matrix credentials into random websites is bad practice, and we don't want to encourage it. However, we're mentioning this option for completeness and would happily share our service.
 
-If you insist on using our version of Element—hopefully because you really _do_ trust the SeaGL staff with your Matrix credentials, visit https://attend.seagl.org/ and click "Sign In".
-
-TODO instructions for clicking into the attend portal.
+If you insist on using our version of Element—hopefully because you really _do_ trust the SeaGL staff with your Matrix credentials, visit https://attend.seagl.org/ and click "Sign In" under the "Create 2022 Account" button.
 
 To be clear, we have no intention to store, save, or otherwise misuse your credentials—but there are risk that we feel are important to share.
