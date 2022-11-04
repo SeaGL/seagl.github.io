@@ -25,7 +25,7 @@ As a reminder, participation in any SeaGL space is subject to our [Code of Condu
 
 Spaces in Element can be confusing if you're not used to them. You can access this page which will show you an overview of all rooms in the SeaGL space, allowing you to jump directly into any of them:
 
-TODO screenshot
+<img class="align-center" alt="Screenshot of a screen in Element showing a hierarchical list of all rooms in the SeaGL space" src="/img/element-explore-rooms.webp" />
 
 We recommend you expand the sidebar for quicker access to the main space and subspaces. First, expand the spaces list on the far left (you may have to hover your mouse over the left side to see the arrow):
 
