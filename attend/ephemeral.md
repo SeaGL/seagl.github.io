@@ -30,7 +30,7 @@ Some things to know about Matrix and your 2022 account:
 
 1. Matrix is decentralized, which means that your account is “at” the provider of your choice, but you can communicate seamlessly across providers - similar to email.
 2. We're acting as the Matrix provider for the account you just made to attend SeaGL. Because your account is primarily intended for you to attend, it will be deleted on **November 12th** (one week after the end of the conference). Before that day, though, it will function as a full Matrix account. (Try joining the Matrix room of a free software project you hear about at the conference!) <!-- TODO it would be rad if we could actually see how many talks are about projects with Matrix rooms -->
-3. If you decide you like Matrix, we encourage you to get a permanent account and hang out in the [SeaGL space](https://matrix.to/#/#SeaGL:seattlematrix.org) year-round! There are lots of [options][Matrix options] for using Matrix, but we often recommend [Matrix*.org*][Matrix.org] as a service provider (since it's a public service operated by a non-profit) and [Element] as the client you use to get on Matrix (since it's open source and available on many platforms, including the web).
+3. If you decide you like Matrix, we encourage you to get a permanent account and hang out in the [year-round SeaGL space](https://matrix.to/#/#SeaGL:seattlematrix.org)! There are lots of [options][Matrix options] for using Matrix, but we often recommend [Matrix*.org*][Matrix.org] as a service provider (since it's a public service operated by a non-profit) and [Element] as the client you use to get on Matrix (since it's open source and available on many platforms, including the web).
 
 ## Step 3 - have fun at SeaGL!
 
