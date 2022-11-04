@@ -49,13 +49,11 @@ Please allow these widgets in order to experience the conference properly.
 
 The audio and video call buttons in Element aren't used in the Matrix rooms where presentations are being streamed—don't click them. If you lose the video stream by accident, here's how to get it back:
 
-1. Click the room info button in the upper-right corner.
-2. Under "Widgets", click the pin icon.
+1. Click the room info button in the upper-right corner:<img class="align-center" alt='Screenshot of the "i" Room Info button in the top-right corner' src="/img/element-room-info-button.webp" />
+
+2. Under "Widgets", click the pin icon next to "Live Stream" or "Video Conference":<img class="align-center" alt='Screenshot of the "Pin" icon next to a widget item labeled "Live Stream" in the "Widgets" section of the Element Room Info sidebar on the right' src="/img/element-pin-widget.webp" />
 
 <!-- TODO screenshots -->
-
-<!-- TODO confirm that this is ok for social rooms -->
-
 
 ## Advanced usage: use our Element client
 

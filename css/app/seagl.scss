@@ -418,4 +418,7 @@ p img {
 img.align-center {
   display: block;
   margin: auto;
+  /* TODO this is a hack for the 2022 conference, plz extract into its own class */
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
