@@ -12,21 +12,21 @@ SeaGL uses a chat system called [Matrix] to run our virtual conference. We've go
 
 ## Step 1 - get your 2022 attendee account
 
-The first step is to get an account! (This doesn't require any of your personal information.) Come back to this page after you're signed up.
+The first step is to get a 2022 attendee account! This won't require any of your personal information. Come back to this page after you're signed up.
 
 <div class="text-center">
-  <p><a class="btn btn-primary btn-large" href="https://attend.seagl.org/">Get my account</a></p>
+  <p><a class="btn btn-primary btn-large" href="https://attend.seagl.org/#/register?hs=ephemeral">Get my account</a></p>
 </div>
 
 This account will be deleted after the conference is over, but for the duration of the conference it will be a full Matrix account and will let you do everything a regular, permanent Matrix account would.
 
 ## Step 2 - get oriented
 
+This is the home screen of SeaGL's version of [Element], an open source, free software client that you can use to get onto Matrix. Our Element is slightly modified to give you an even better conference experience.
+
 TODO screenshot of Element here
 
-This is the home screen of SeaGL's version of [Element], an open source, free software client that you can use to get onto Matrix. Our version is slightly tweaked to give you an even better conference experience.
-
-Here's some things to know about Matrix, and about the Matrix account we'll set you up with:
+Some things to know about Matrix and your 2022 attendee account:
 
 1. Matrix is decentralized, which means that your account is “at” the provider of your choice, but you can communicate seamlessly across providers - similar to email.
 2. We're acting as the Matrix provider for the account you just made to attend SeaGL. Because your account is primarily intended for you to attend, it will be deleted on **November 12th** (one week after the end of the conference). Before that day, though, it will function as a full Matrix account. (Try joining the Matrix room of a free software project you hear about at the conference!) <!-- TODO it would be rad if we could actually see how many talks are about projects with Matrix rooms -->
@@ -34,9 +34,9 @@ Here's some things to know about Matrix, and about the Matrix account we'll set 
 
 ## Step 3 - have fun at SeaGL!
 
-We hope you enjoy hanging out with our flock this year. Our friendly Matrix bot, Patch, will help guide you around the conference, and if you have any questions you can either ask in the "Welcome" room or click here (TODO make this a link) to go directly there.
+We hope you enjoy hanging out with our flock this year. Our friendly Matrix bot, Patch, will help guide you around the conference. If you have any questions, please bring them up in the ["Welcome"]( https://attend.seagl.org/#/room/#2022-welcome:seagl.org) or ["Info Booth"]( https://attend.seagl.org/#/room/#2022-info-booth:seagl.org) rooms.
 
-As a reminder, participation in SeaGL is subject to our [Code of Conduct](/code_of_conduct).
+As a reminder, participation in any SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
 
 [Element]: https://element.io/
 [Matrix]: https://matrix.org/
