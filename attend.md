@@ -30,3 +30,5 @@ title: Attend SeaGL 2022
     </div>
   </div>
 </div>
+
+<div class="text-center"><a href="/watch">Watch Live</a></div>
