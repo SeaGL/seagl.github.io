@@ -31,7 +31,7 @@ All times are listed in Pacific Daylight Time, which is UTC-07:00. (Note: The US
 * der.hans - Intermediate jq: sed for json
 
 #### 11:10am-11:40am
-* Alanna Burke - The struggle of getting an open-source community off the ground
+* Alanna Burke - The struggle of getting an open-source community off the ground (Re-Scheduled to Saturday, November 5 at 10:00am)
 * jberkus - The Cloud Native Burrito
 
 #### 11:55am-12:25pm
