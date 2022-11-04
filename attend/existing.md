@@ -13,7 +13,7 @@ SeaGL's virtual conference exists on a Matrix homeserver operated by [Seattle Ma
 Here's a button to get into the main conference space:
 
 <div class="text-center">
-  <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#2022:seagl.org">Join the SeaGL 2022 space</a></p>
+  <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#SeaGL2022:seattlematrix.org">Join the SeaGL 2022 space</a></p>
 </div>
 
 Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org> or find us in the [Info Booth](https://matrix.to/#/#2022-info-booth:seagl.org) room.
