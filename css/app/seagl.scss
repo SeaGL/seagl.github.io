@@ -47,6 +47,8 @@ a:not(.btn):not(.label) {
   }
 }
 figcaption {
+  text-align: center;
+
   &.text-muted {
     font-size: 10pt;
   }
