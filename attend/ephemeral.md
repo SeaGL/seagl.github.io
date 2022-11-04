@@ -24,7 +24,7 @@ This account will be deleted after the conference is over, but for the duration 
 
 This is the home screen of SeaGL's version of [Element], an open source, free software client that you can use to get onto Matrix. Our Element is slightly modified to give you an even better conference experience.
 
-todo lol
+<img class="align-center" alt="Screenshot of attend.seagl.org" src="/img/attend-portal.webp" />
 
 Some things to know about Matrix and your 2022 account:
 
