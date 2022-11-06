@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/897
 beginning: '2022-11-05T15:40:00.000-07:00'
 end: '2022-11-05T16:10:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2022-Kaylea_Champion-TIL_2022_FLOSS_Research_Roundup
   slides_url: https://kayleachampion.com/2022/11/03/presenting-at-seagl-2022/
 presenters:
 - name: Kaylea Champion

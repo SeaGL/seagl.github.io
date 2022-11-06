@@ -3,6 +3,8 @@ title: Self-hosting Simple Web Apps With Traefik and Docker Compose
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/881
 beginning: '2022-11-05T15:40:00.000-07:00'
 end: '2022-11-05T16:10:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Charlotte_McGraw-Self-hosting_Simple_Web_Apps_With_Traefik_and_Docker_Compose
 presenters:
 - name: Charlotte McGraw
   affiliation: NorCalGeekDad.com

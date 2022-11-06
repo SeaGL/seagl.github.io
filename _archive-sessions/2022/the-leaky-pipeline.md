@@ -3,6 +3,8 @@ title: The Leaky Pipeline
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/918
 beginning: '2022-11-05T10:45:00.000-07:00'
 end: '2022-11-05T11:15:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Aarti_Ramkrishna-The_Leaky_Pipeline
 presenters:
 - name: Aarti Ramkrishna
   osem_url: https://osem.seagl.org/users/1601

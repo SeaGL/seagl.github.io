@@ -3,6 +3,8 @@ title: Choose Your Candidate
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/917
 beginning: '2022-11-04T15:45:00.000-07:00'
 end: '2022-11-04T16:15:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Josh_Berkus-Choose_Your_Candidate
 presenters:
 - name: Josh Berkus
   affiliation: Red Hat Project Atomic

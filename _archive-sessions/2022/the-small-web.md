@@ -3,6 +3,8 @@ title: The Small Web
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/884
 beginning: '2022-11-05T14:55:00.000-07:00'
 end: '2022-11-05T15:25:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Adrian_Cochrane-The_Small_Web
 presenters:
 - name: Adrian Cochrane
   osem_url: https://osem.seagl.org/users/1072

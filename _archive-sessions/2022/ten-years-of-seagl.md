@@ -3,6 +3,8 @@ title: Ten years of SeaGL
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/900
 beginning: '2022-11-05T11:30:00.000-07:00'
 end: '2022-11-05T12:00:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Ten_years_of_SeaGL
 presenters:
 - name: Wm Salt Hale
   affiliation: Snowdrift.coop

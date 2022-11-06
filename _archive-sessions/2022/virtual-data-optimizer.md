@@ -3,6 +3,8 @@ title: VDO - Virtual Data Optimizer
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/906
 beginning: '2022-11-05T14:10:00.000-07:00'
 end: '2022-11-05T14:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Brian_Peters-Virtual_Data_Optimizer
 presenters:
 - name: Brian Peters
   osem_url: https://osem.seagl.org/users/1433

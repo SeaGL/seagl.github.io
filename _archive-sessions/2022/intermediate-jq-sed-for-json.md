@@ -3,6 +3,8 @@ title: 'Intermediate jq: sed for json'
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/886
 beginning: '2022-11-04T10:25:00.000-07:00'
 end: '2022-11-04T10:55:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-der_hans-Intermediate_jq_sed_for_json
 presenters:
 - name: der.hans
   affiliation: ObjectRocket

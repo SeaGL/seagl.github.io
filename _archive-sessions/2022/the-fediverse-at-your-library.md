@@ -3,6 +3,8 @@ title: The Fediverse @ Your Library
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/880
 beginning: '2022-11-04T11:55:00.000-07:00'
 end: '2022-11-04T12:25:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Alex_Byrne-The_Fediverse_at_Your_Library
 presenters:
 - name: Alex Byrne
   osem_url: https://osem.seagl.org/users/1415

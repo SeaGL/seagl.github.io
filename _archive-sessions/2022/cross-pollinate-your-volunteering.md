@@ -3,6 +3,8 @@ title: Cross-Pollinate Your Volunteering
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/887
 beginning: '2022-11-04T13:30:00.000-07:00'
 end: '2022-11-04T14:00:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Deb_Nicholson-Cross-Pollinate_Your_Volunteering
 presenters:
 - name: Deb Nicholson
   affiliation: SeaGL

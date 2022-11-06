@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/911
 beginning: '2022-11-05T14:55:00.000-07:00'
 end: '2022-11-05T15:25:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2022-Bri_Hatch-Tab_completion_for_your_custom_commands
   slides_url: https://www.ifokr.org/bri/presentations/seagl-2022-bash-completions/
 presenters:
 - name: Bri Hatch

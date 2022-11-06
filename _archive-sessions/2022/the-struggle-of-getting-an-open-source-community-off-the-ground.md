@@ -3,6 +3,8 @@ title: The struggle of getting an open-source community off the ground
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/889
 beginning: '2022-11-05T10:00:00.000-07:00'
 end: '2022-11-05T10:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Alanna_Burke-The_struggle_of_getting_an_open-source_community_off_the_ground
 presenters:
 - name: Alanna Burke
   affiliation: amazee.io
