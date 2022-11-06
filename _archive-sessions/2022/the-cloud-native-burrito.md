@@ -3,6 +3,8 @@ title: The Cloud Native Burrito
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/916
 beginning: '2022-11-04T11:10:00.000-07:00'
 end: '2022-11-04T11:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Josh_Berkus-The_Cloud_Native_Burrito
 presenters:
 - name: Josh Berkus
   affiliation: Red Hat Project Atomic

@@ -4,6 +4,8 @@ title: 'Gulls do gull: Using Node, D3, React and occasionally grep to get insigh
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/915
 beginning: '2022-11-04T14:15:00.000-07:00'
 end: '2022-11-04T14:45:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Richard_Littauer-Gulls_do_gull_Using_Node_D3_React_and_occasionally_grep_to_get_insight
 presenters:
 - name: Richard Littauer
   affiliation: BirdingInVermont.com

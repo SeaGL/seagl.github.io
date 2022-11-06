@@ -3,6 +3,8 @@ title: A brief introduction to the Fediverse.
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/913
 beginning: '2022-11-05T13:25:00.000-07:00'
 end: '2022-11-05T13:55:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Bob_Murphy-A_brief_introduction_to_the_Fediverse
 presenters:
 - name: Bob Murphy
   affiliation: Just a long time desktop Linux user.

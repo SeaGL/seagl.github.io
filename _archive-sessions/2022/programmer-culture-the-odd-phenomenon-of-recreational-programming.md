@@ -3,6 +3,8 @@ title: 'Programmer Culture: The Odd Phenomenon of Recreational Programming'
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/896
 beginning: '2022-11-05T14:10:00.000-07:00'
 end: '2022-11-05T14:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Brian_Raiter-Programmer_Culture_The_Odd_Phenomenon_of_Recreational_Programming
 presenters:
 - name: Brian Raiter
   pronouns: he/him

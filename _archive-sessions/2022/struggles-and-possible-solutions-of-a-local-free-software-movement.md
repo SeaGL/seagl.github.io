@@ -3,6 +3,8 @@ title: Struggles and possible solutions of a local free software movement
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/909
 beginning: '2022-11-04T09:40:00.000-07:00'
 end: '2022-11-04T10:10:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Neslihan_Turan-Struggles_and_possible_solutions_of_a_local_free_software_movement
 presenters:
 - name: Neslihan Turan
   osem_url: https://osem.seagl.org/users/1436

@@ -3,6 +3,8 @@ title: Building a CDN edge using open source
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/883
 beginning: '2022-11-04T09:40:00.000-07:00'
 end: '2022-11-04T10:10:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Alexander_Krizhanovsky-Building_a_CDN_edge_using_open_source
 presenters:
 - name: Alexander Krizhanovsky
   affiliation: Tempesta Technologies

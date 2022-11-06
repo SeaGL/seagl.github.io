@@ -3,6 +3,8 @@ title: Grow Your FOSS Project with this One Weird Trick
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/888
 beginning: '2022-11-05T13:25:00.000-07:00'
 end: '2022-11-05T13:55:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-Deb_Nicholson-Grow_Your_FOSS_Project_with_this_One_Weird_Trick
 presenters:
 - name: Deb Nicholson
   affiliation: SeaGL
