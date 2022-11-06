@@ -1,5 +1,5 @@
 ---
-title: 'ON GROWTH: TIPS TO GROW A HEALTHY OPEN SOURCE COMMUNITY'
+title: 'On Growth: Tips to Grow a Healthy Open Source Community'
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/890
 beginning: '2022-11-05T10:00:00.000-07:00'
 end: '2022-11-05T10:30:00.000-07:00'

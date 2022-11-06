@@ -11,4 +11,4 @@ presenters:
 
 Web accessibility aims at making the web more usable for disabled folks. We tend to think about accessibility from the perspective of only a few groups. Blind screen reader users or deaf users, to name a couple. But there are many different groups, relying on different assistive technologies, who benefit from accessibility.
 
-I will feature important aspects of accessibility that aren't as well know as others. And I will use findings from usability testing  as well as quotes from disabled users about the barriers they experience on the web. Because disabled folks are the best people to explain what makes using the web difficult or painful for them.
+I will feature important aspects of accessibility that aren't as well know as others. And I will use findings from usability testing as well as quotes from disabled users about the barriers they experience on the web. Because disabled folks are the best people to explain what makes using the web difficult or painful for them.

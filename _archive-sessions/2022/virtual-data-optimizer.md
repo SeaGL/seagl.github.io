@@ -14,5 +14,3 @@ presenters:
 ---
 
 Introduction to Virtual Data Optimizer (VDO), an advanced storage technology for maximizing drive space. In this presentation we'll discuss use cases for VDO, advantages & disadvantages, and demo configuring & testing a drive using Virtual Data Optimizer.
-
-I am a new presenter, however, I have given this presentation previously at Phoenix Linux Users Group (PLUG) in August 2022.

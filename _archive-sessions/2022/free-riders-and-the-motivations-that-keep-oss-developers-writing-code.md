@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/882
 beginning: '2022-11-04T10:25:00.000-07:00'
 end: '2022-11-04T10:55:00.000-07:00'
 presenters:
-- name: justinribeiro
+- name: Justin Ribeiro
   osem_url: https://osem.seagl.org/users/1419
   gravatar_id: 6e2c36824a832b778c14b89fbd5ab0c8
   biography: I ♥ the open web. Film photographer and mediocre darkroom printer. Maker

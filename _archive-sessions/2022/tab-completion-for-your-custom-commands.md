@@ -15,4 +15,4 @@ presenters:
     into systems since before he traded in his Apple II+ for his first Unix system.
 ---
 
-Tab completion saves time typing keys, and helps you remember those --long-esoteric-options without pulling up a man page. You can create bash completions for your custom tools as well, which can help your coworkers and yourself down the road. We'll build up simple and advanced bash tab completions so you can build your own and save time!
+Tab completion saves time typing keys, and helps you remember those `--long-esoteric-options` without pulling up a man page. You can create bash completions for your custom tools as well, which can help your coworkers and yourself down the road. We'll build up simple and advanced bash tab completions so you can build your own and save time!

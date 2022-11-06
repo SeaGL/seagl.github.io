@@ -12,5 +12,6 @@ presenters:
     EFF supporter.
 ---
 
-The Fediverse is a collection of communities that is a bit of a throwback to a smaller, more personal time on the internet.  There are services for short messaging, audio and video sharing, and event organizing, among other things.
-Mastodon is a fully open source social media platform, with no advertising, monetizing, or venture capital.  It is a part of the Fediverse, a social network that is truly a network, by incorporating ideas and protocols that allow users and information to freely spread throughout a wide diaspora of servers and services.  Explore how you might wish to join into the rich, new world that has more of a resemblance of the internet as it was envisioned to be.
+The Fediverse is a collection of communities that is a bit of a throwback to a smaller, more personal time on the internet. There are services for short messaging, audio and video sharing, and event organizing, among other things.
+
+Mastodon is a fully open source social media platform, with no advertising, monetizing, or venture capital. It is a part of the Fediverse, a social network that is truly a network, by incorporating ideas and protocols that allow users and information to freely spread throughout a wide diaspora of servers and services. Explore how you might wish to join into the rich, new world that has more of a resemblance of the internet as it was envisioned to be.

@@ -15,10 +15,10 @@ presenters:
 
     Currently, he's an engineering support manager at ObjectRocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
-Part 2 of the jq trilogy ( part 1 was given at SeaGL 2021 ).
+Part 2 of the jq trilogy (part 1 was given at SeaGL 2021).
 
 In this part we cover using jq to change JSON documents from the command line.
 

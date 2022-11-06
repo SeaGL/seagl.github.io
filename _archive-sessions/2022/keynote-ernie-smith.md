@@ -3,7 +3,7 @@ title: 'Keynote: Ernie Smith'
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/920
 beginning: '2022-11-04T16:30:00.000-07:00'
 end: '2022-11-04T16:50:00.000-07:00'
-presenters: []
+keynote: true
+presenters:
+- name: Ernie Smith
 ---
-
-Keynote: Ernie Smith

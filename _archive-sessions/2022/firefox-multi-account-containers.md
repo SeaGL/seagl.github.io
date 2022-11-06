@@ -15,7 +15,7 @@ presenters:
 
     Currently, he's an engineering support manager at ObjectRocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
 Firefox Multi-Account Containers (FMAC) is a great tool for isolating web sites in a browser session.
