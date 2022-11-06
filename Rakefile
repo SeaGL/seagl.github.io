@@ -1,9 +1,7 @@
 desc 'Import data from OSEM into Jekyll data'
 task :import, [:year] do |_t, args|
   require 'active_support/core_ext/hash/deep_transform_values'
-  require 'active_support/core_ext/hash/keys'
-  require 'active_support/core_ext/object/blank'
-  require 'active_support/core_ext/string/inflections'
+  require 'active_support/core_ext/numeric/time'
   require 'json'
   require 'open-uri'
   require 'pathname'
@@ -12,65 +10,53 @@ task :import, [:year] do |_t, args|
   year = args.year
 
   # Retrieve data
-  url = "https://osem.seagl.org/api/v2/conferences/seagl#{year}"
-  puts "Retrieving #{url}"
-  response = JSON.parse(URI.open(url).read)
-                 .deep_symbolize_keys!
-                 .deep_transform_values! { |v| normalize(v) }
-
-  # Parse records
-  conference_record = response[:data]
-  records = response[:included].map { |r| [[r[:type], r[:id]], r] }.to_h
+  conference = get("https://osem.seagl.org/api/v1/conferences/seagl#{year}")[:conferences][0]
+  events = get("https://osem.seagl.org/api/v1/conferences/seagl#{year}/events")[:events]
+  speakers = get("https://osem.seagl.org/api/v1/conferences/seagl#{year}/speakers")[:speakers]
 
   # Create a file for the conference
-  frontmatter = {
-    'osem_url' => conference_record[:links][:self],
-  }.compact
-  path = Pathname.new("_archive-conferences/#{year}.md")
-  puts "Creating #{path}"
-  path.dirname.mkpath
-  path.write("#{frontmatter.to_yaml}---\n")
+  write "_archive-conferences/#{year}.md", {
+    osem_url: conference[:url]
+  }
 
   # Create a file for each event
-  conference_record[:relationships][:events][:data].each do |e|
-    event_record = records[[e[:type], e[:id]]]
-
-    presenters = event_record[:relationships][:presenters][:data].map do |p|
-      presenter_record = records[[p[:type], p[:id]]]
-
-      {
-        'name' => presenter_record[:attributes][:name],
-        'affiliation' => presenter_record[:attributes][:affiliation],
-        'osem_url' => presenter_record[:links][:self],
-        'gravatar_id' => presenter_record[:attributes][:'gravatar-id'],
-        'biography' => presenter_record[:attributes][:biography]
-      }.compact
-    end
-
-    slug = event_record[:attributes][:title].parameterize
-    frontmatter = {
-      'title' => event_record[:attributes][:title],
-      'osem_url' => event_record[:links][:self],
-      'beginning' => event_record[:attributes][:beginning],
-      'end' => event_record[:attributes][:end],
-      'presenters' => presenters
-    }.compact
-    body = event_record[:attributes][:abstract]
-
-    path = Pathname.new("_archive-sessions/#{year}/#{slug}.md")
-    puts "Creating #{path}"
-    path.dirname.mkpath
-    path.write("#{frontmatter.to_yaml}---\n\n#{body}\n")
+  events.each do |event|
+    write "_archive-sessions/#{year}/#{event[:title].parameterize}.md", {
+      title: event[:title],
+      osem_url: event[:url],
+      beginning: event[:scheduled_date],
+      end: (DateTime.iso8601(event[:scheduled_date]) + event[:length].minutes).iso8601(3),
+      presenters: event[:speaker_ids].map do |id|
+        presenter = speakers.find { |s| s[:url].end_with?("/#{id}") }
+        {
+          name: presenter[:name],
+          affiliation: presenter[:affiliation],
+          osem_url: presenter[:url],
+          gravatar_id: presenter[:gravatar_id],
+          biography: presenter[:biography]
+        }.compact
+      end
+    }.compact, event[:abstract]
   end
+end
+
+def get(url)
+  puts "Retrieving #{url}"
+  JSON.parse(URI.open(url).read).deep_symbolize_keys!.deep_transform_values! { |v| normalize(v) }
 end
 
 def normalize(value)
   value = value.presence
 
   case value
-  when String
-    value.gsub("\t", ' ' * 4).gsub(/(?:(?<=[^ ]) )?(?:^ +)?\r?\n/, "\n").strip
-  else
-    value
+  when String then value.gsub("\t", ' ' * 4).gsub(/(?:(?<=[^ ]) )?(?:^ +)?\r?\n/, "\n").strip
+  else value
   end
+end
+
+def write(path, frontmatter, body = nil)
+  puts "Creating #{path}"
+  pathname = Pathname.new(path)
+  pathname.dirname.mkpath
+  pathname.write("#{frontmatter.deep_stringify_keys.to_yaml}---\n#{body && "\n#{body}\n"}")
 end
