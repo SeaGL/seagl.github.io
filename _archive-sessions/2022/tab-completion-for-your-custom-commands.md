@@ -3,6 +3,8 @@ title: Tab completion for your custom commands
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/911
 beginning: '2022-11-05T14:55:00.000-07:00'
 end: '2022-11-05T15:25:00.000-07:00'
+resources:
+  slides_url: https://www.ifokr.org/bri/presentations/seagl-2022-bash-completions/
 presenters:
 - name: Bri Hatch
   affiliation: ExtraHop Networks
