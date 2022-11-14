@@ -3,8 +3,10 @@ title: 'The internet is unusable: The disabled view.'
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/905
 beginning: '2022-11-04T11:55:00.000-07:00'
 end: '2022-11-04T12:25:00.000-07:00'
+resources:
+  slides_url: https://slides.nicolas-steenhout.com/in-their-own-words
 presenters:
-- name: vavroom
+- name: Nicolas Steenhout
   osem_url: https://osem.seagl.org/users/1431
   gravatar_id: 6ac935e1c3f5f02f3bb02e028fa71e3e
 ---

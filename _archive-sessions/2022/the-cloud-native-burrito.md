@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/916
 beginning: '2022-11-04T11:10:00.000-07:00'
 end: '2022-11-04T11:40:00.000-07:00'
 presenters:
-- name: jberkus
+- name: Josh Berkus
   affiliation: Red Hat Project Atomic
   osem_url: https://osem.seagl.org/users/358
   gravatar_id: e49b70b058716dd9dea73a14a1d9856e
