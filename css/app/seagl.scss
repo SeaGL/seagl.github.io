@@ -90,8 +90,9 @@ ol > li > ol {
     margin-right: 1ch;
   }
 }
-.nav-pills > li.active > a {
+.nav-pills > li.active > a:not(.btn):not(.label) {
   &, &:focus, &:hover {
+    color: #fff;
     background-color: #0C5A73;
   }
 }
