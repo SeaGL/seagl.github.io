@@ -28,27 +28,31 @@ levels:
 </div>
 
 {% for level in layout.levels %}
-  <h2>{{ level[1] }}</h2>
-
-  <div class="logo-wall level-{{ level[0] }}">
-    {% for sponsor in sponsors %}
-      {% for sponsorship in sponsor.sponsorships %}
-        {% if sponsorship[0] == year and sponsorship[1] == level[0] %}
+  {%- capture logos -%}
+    {%- for sponsor in sponsors -%}
+      {%- for sponsorship in sponsor.sponsorships -%}
+        {%- if sponsorship[0] == year and sponsorship[1] == level[0] -%}
           <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
-            {% if sponsor.logo.horizontal %}
+            {%- if sponsor.logo.horizontal -%}
               <img src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
-            {% elsif sponsor.logo.square %}
+            {%- elsif sponsor.logo.square -%}
               <img src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
-            {% else %}
+            {%- else -%}
               {{ sponsor.name }}
-            {% endif %}
+            {%- endif -%}
           </a>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-  </div>
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endfor -%}
+  {%- endcapture -%}
 
-  <hr>
+  {% unless logos == empty %}
+    <h2>{{ level[1] }}</h2>
+
+    <div class="logo-wall level-{{ level[0] }}">{{ logos }}</div>
+
+    <hr>
+  {% endunless %}
 {% endfor %}
 
 <ul class="nav nav-pills nav-pills-centered" style="margin-bottom: 2em;margin-top: 3em;">
