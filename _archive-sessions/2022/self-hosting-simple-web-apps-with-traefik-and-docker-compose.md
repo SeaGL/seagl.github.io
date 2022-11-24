@@ -7,7 +7,7 @@ presenters:
 - name: Charlotte McGraw
   affiliation: NorCalGeekDad.com
   osem_url: https://osem.seagl.org/users/921
-  gravatar_id: cca39e2324a56c3e96cff8a4465dd584
+  gravatar_id: 40f7a1c02e2a1226a6b8f26a0847e357
   biography: Charlotte McGraw is a stay-home-parent of 3 great kids. She is a technology
     advocate and full-time Linux user. Her passions are self-hosting all the things,
     security and privacy, and decentralization of the web. In addition, she enjoys

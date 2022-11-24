@@ -16,6 +16,27 @@ presenters:
     topics including: communication, crowdmatching, internet technologies, linux,
     music, sci-fi/fantasy, security, and windsports. Salt is very approachable and
     will always be found wearing a kilt."
+- name: Deb Nicholson
+  affiliation: SeaGL
+  osem_url: https://osem.seagl.org/users/32
+  gravatar_id: ad818bec4900cb3354d2aa536a7bf207
+  biography: Deb Nicholson is a free software policy expert and a passionate community
+    advocate. She is the General Manager at the Open Source Initiative which stewards
+    the Open Source Definition and works to raise awareness and adoption of open source
+    software. She is also a founding organizer of the Seattle GNU/Linux Conference,
+    an annual event dedicated to surfacing new voices and welcoming new people to
+    the free software community. She lives with her husband and her lucky black cat
+    in Cambridge, Massachusetts.
+- name: Rob Smith
+  osem_url: https://osem.seagl.org/users/12
+  gravatar_id: f3a5f3841e22dbe2a718d296b181076b
+- name: Adam Monsen
+  affiliation: SeaGL
+  osem_url: https://osem.seagl.org/users/9
+  gravatar_id: '0458eb0a01a197b5ab476c956e243e8d'
+  biography: SeaGL founder. Into [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+    Seattleite. [VP Engineering at C-SATS](https://www.csats.com/about-us). Baker,
+    biker, father of two.
 ---
 
 Welcome to the Seattle GNU/Linux Conference! We can hardly believe it's we've made it ten years. Come hear how we got here and where we're going next!
