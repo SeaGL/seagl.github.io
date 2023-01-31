@@ -10,15 +10,16 @@ body_id: get-involved
 
 ## Volunteer for SeaGL
 
-SeaGL organization for 2022 has kicked off!
+Organization for SeaGL 2023 has kicked off!
 
-2022 marks our 10th year as a volunteer run FLOSS conference.
-With two virtual conferences under our belt, we hope to round out our first decade with an in-person experience in Seattle in a hybrid setting.
-Would you like to help us build out that community experience?
+2023 marks our 11th year as an all-volunteer staffed FLOSS conference.
+With three virtual events under our belt, the plan is to begin our second decade with a return to an in-person experience in Seattle.
+However, to maintain the remote participants who have joined us, we will be pushing for a hybrid setting.
+Would you like to lend a beak or wing to the effort?
 
-Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") or into the [#SeaGL IRC channel](https://irc.seagl.org/ "Web gateway to join IRC") Libera.chat if you would like to help.
+Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") or the [#SeaGL IRC channel](https://irc.seagl.org/ "Web gateway to join IRC") on Libera.chat and say hi!
 
-Let us know you'd like to help out and we'll send you an invitation to join our organizing meetings every other Tuesday at 18:00 Pacific Time (UTC-7).
+Let us know you'd like to help out and we'll send an invitation to our bi-monthly organizing meetings.
 
 
 ## Staff Committees
@@ -38,9 +39,10 @@ The volunteer work needed to put SeaGL together is roughly organized into the fo
 
 ## Sponsors and Non-Profit Exhibitors
 
-We are currently updating the sponsor prospectus for SeaGL 2022.
+We are currently updating the sponsor prospectus for SeaGL 2023.
 
-We do accept in-kind contributions from media and local partners. We also make free space available for non-profit and educational organizations.
+In-kind contributions are accepted from media and local partners.
+Free space is made available for non-profit and educational organizations.
 Please see our [sponsors page](/sponsors/{{ site.custom.year }}) for a list of current supporters and email us at {{ site.custom.a.email.sponsor }} to discuss further partnership opportunities!
 
 </div><div class="col-md-4" markdown="1">

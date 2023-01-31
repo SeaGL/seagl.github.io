@@ -66,9 +66,9 @@ exclude:
     - vendor/ruby/
 
 custom:
-    year:                   2022
-    dates:                  November 4th & 5th
-    location:               Virtual
+    year:                   2023
+    dates:                  November 3rd & 4th
+    location:               In-Person & Virtual
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
 
