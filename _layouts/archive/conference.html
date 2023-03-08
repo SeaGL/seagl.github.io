@@ -1,5 +1,13 @@
 ---
 layout: page
+
+levels:
+  platinum: Platinum
+  gold: Gold
+  silver: Silver
+  bronze: Bronze
+  media: Media Sponsors
+  thanks: Special Thanks To
 ---
 
 {% assign conference = page %}
@@ -10,6 +18,8 @@ layout: page
   | sort: 'beginning'
   | group_by_exp: 'session', 'session.beginning | date: "%A"' %}
 {% assign posts = site.tags[year] | where: 'categories','news' | reverse %}
+{% assign sponsors = site.data.sponsors | sort: "name" %}
+{% assign year = year | plus: 0 %}
 
 <div class="row">
   <div class="col-xs-12 col-lg-10 col-lg-push-1">
@@ -50,6 +60,34 @@ layout: page
       </div>
       {% endfor %}
     </div>
+
+    <h2>Sponsors</h2>
+
+    {% for level in layout.levels %}
+      {%- capture logos -%}
+        {%- for sponsor in sponsors -%}
+          {%- for sponsorship in sponsor.sponsorships -%}
+            {%- if sponsorship[0] == year and sponsorship[1] == level[0] -%}
+              <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
+                {%- if sponsor.logo.horizontal -%}
+                  <img src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
+                {%- elsif sponsor.logo.square -%}
+                  <img src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
+                {%- else -%}
+                  {{ sponsor.name }}
+                {%- endif -%}
+              </a>
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endfor -%}
+      {%- endcapture -%}
+
+      {% unless logos == empty %}
+        <h3 class="text-center">{{ level[1] }}</h3>
+
+        <div class="logo-wall logo-wall-summary level-{{ level[0] }}">{{ logos }}</div>
+      {% endunless %}
+    {% endfor %}
 
     {% unless posts == empty %}
     <h2>News</h2>
