@@ -16,7 +16,7 @@ SeaGL strives to be welcoming, enjoyable, and informative for professional techn
 
 ### When & where
 
-**{{ site.custom.dates }}, {{ site.custom.year }}**, virtual
+**{{ site.custom.dates }}, {{ site.custom.year }}**, online and in-person in Seattle
 
 ### Attend
 
