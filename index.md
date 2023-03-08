@@ -16,7 +16,7 @@ SeaGL strives to be welcoming, enjoyable, and informative for professional techn
 
 ### When & where
 
-**{{ site.custom.dates }}, {{ site.custom.year }}**, online and in-person in Seattle
+**{{ site.custom.dates }}, {{ site.custom.year }}**, [in-person and online](/news/2023/02/20/seagl-2023-kicks-off)
 
 ### Attend
 
