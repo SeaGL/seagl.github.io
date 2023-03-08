@@ -49,7 +49,7 @@ We encourage almost any topic related to open source that you have a personal en
   * [The internet is unusable: the disabled view](https://archive.org/details/SeaGL2022-Nicolas_Steenhout-The_internet_is_unusable_The_disabled_view), by Nicolas Steenhout at SeaGL 2022
   * [Patently Obvious](https://archive.org/details/SeaGL2020-Neil_McGovern-Patently_Obvious), by Neil McGovern at SeaGL 2020
 
-### TWhat we are and aren't looking for
+### What we are and aren't looking for
 
 SeaGL is a very special conference.  We're a community-focused Free/Libre Open Source Software annual event in Seattle, and since 2020, all over the world virtually!  
 
