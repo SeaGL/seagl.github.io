@@ -8,7 +8,7 @@ categories: news
 tags: '2023'
 ---
 
-If you're thinking of submitting to SeaGL 2023, you've come to the right place to learn more!  For details on how to submit, go [here](./2023-03-08-CFP-Open.md).
+If you're thinking of submitting to SeaGL 2023, you've come to the right place to learn more!  For details on how to submit, go [here](/news/2023/03/08/CFP-Open).
 
 ### Talk Categories
 We encourage almost any topic related to open source that you have a personal engagement with. We have created a list of topic ideas you might choose to use — these might give you some ideas.
@@ -55,7 +55,7 @@ SeaGL is a very special conference.  We're a community-focused Free/Libre Open S
 
 We're an independent bunch but we still like to take care of each other.
 
-We are not looking for sponsored talks, however we'd love to welcome you over at our [Sponsorship Prospectus](http://seagl.org/sponsors/2022.html) and give you an opportunity to reach our attendees in other ways.  As a small community event, our attendees tend to be university students, open source hobbyists and engineers, security professionals, technical writers, and more, skewing toward community rather than a corporate feel.
+We are not looking for sponsored talks, however we'd love to welcome you over at our [Sponsorship Prospectus](/sponsors/2022) and give you an opportunity to reach our attendees in other ways.  As a small community event, our attendees tend to be university students, open source hobbyists and engineers, security professionals, technical writers, and more, skewing toward community rather than a corporate feel.
 
 We're not very likely to accept broad introductory talks, but specific, scoped introductions to a discrete part of the Operations or Network/Sysadmin world are very sought after, and we also love talks on the broad theme of "hacking for good", and personal security as well.  Are you making choices for your personal technology outside of Amazon/Google/Apple/other giants?  We would love to hear about that too!
 
