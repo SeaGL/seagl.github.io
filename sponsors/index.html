@@ -3,15 +3,58 @@ layout: page
 nav: sponsors
 body_id: sponsors
 title: Sponsors
+
+levels:
+  platinum: Platinum
+  gold: Gold
+  bronze: Bronze
 ---
 
 {% assign sponsor_years = site.sponsor-years | reverse %}
+{% assign sponsors = site.data.sponsors | sort: "name" %}
 
 <div class="hero-unit">
   <h1>SeaGL Sponsors</h1>
 
+  <div class="lead text-center">
+    {% capture md %}{% include sponsor_message.md %}{% endcapture %}{{ md | markdownify }}
+  </div>
+
   {% for sponsor_year in sponsor_years %}
-  {% capture year %}{{ sponsor_year.slug }}{% endcapture %}
-  <h2><a href="{{ sponsor_year.url }}">SeaGL {{ year }} Sponsors</a></h2>
+    {% capture year %}{{ sponsor_year.slug }}{% endcapture %}{% assign year = year | plus: 0 %}
+
+    <h2><a href="{{ sponsor_year.url }}">SeaGL {{ year }} Sponsors</a></h2>
+
+    {% for level in page.levels %}
+      {%- capture logos -%}
+        {%- for sponsor in sponsors -%}
+          {%- for sponsorship in sponsor.sponsorships -%}
+            {%- if sponsorship[0] == year and sponsorship[1] == level[0] -%}
+              <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
+                {%- if sponsor.logo.horizontal -%}
+                  <img src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
+                {%- elsif sponsor.logo.square -%}
+                  <img src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
+                {%- else -%}
+                  {{ sponsor.name }}
+                {%- endif -%}
+              </a>
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endfor -%}
+      {%- endcapture -%}
+
+      {% unless logos == empty %}
+        <h3 class="text-center">{{ level[1] }}</h3>
+
+        <div class="logo-wall logo-wall-summary level-{{ level[0] }}">{{ logos }}</div>
+      {% endunless %}
+    {% endfor %}
+
+    <p class="text-center">
+      <a class="btn btn-primary" href="{{ sponsor_year.url }}">View All {{ year }} Sponsors</a>
+    </p>
+
+    <hr>
   {% endfor %}
 </div>

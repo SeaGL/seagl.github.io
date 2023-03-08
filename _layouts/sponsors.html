@@ -16,13 +16,9 @@ levels:
 <div class="hero-unit">
   <h1>SeaGL {{ year }} Sponsors</h1>
 
-  <p class="lead text-center">
-    Our community sponsors are the lifeblood of SeaGL and we can't thank them enough.
-    <br class="hidden-xs hidden-sm" />
-    Their contributions will have a real and lasting effect in the FLOSS community. Thank you all.
-    <br>
-    To become one, take a look at our <a href="{{ site.custom.url.prospectus }}">Partnership/Sponsor Prospectus</a>. Or email us at {{ site.custom.a.email.sponsor }} to discuss opportunities.
-  </p>
+  <div class="lead text-center">
+    {% capture md %}{% include sponsor_message.md %}{% endcapture %}{{ md | markdownify }}
+  </div>
 
   {{ content }}
 </div>

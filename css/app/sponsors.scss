@@ -12,12 +12,16 @@
   justify-content: center;
   margin-left: -0.75em;
   margin-right: -0.75em;
+  margin-bottom: 0.5em;
 
-  // Logo sizes
-  & { font-size: 2.25em; }
-  &.level-silver { font-size: 2.5em; }
-  &.level-gold { font-size: 2.75em; }
-  &.level-platinum { font-size: 3.25em; }
+  // Base size
+  font-size: 2.25em;
+  &.logo-wall-summary { font-size: 1.25em; }
+
+  // Level sizes
+  &.level-silver .logo-wall-item { font-size: 1.1em; }
+  &.level-gold .logo-wall-item { font-size: 1.2em; }
+  &.level-platinum .logo-wall-item { font-size: 1.4em; }
 }
 
 .logo-wall-item {
