@@ -18,7 +18,7 @@ levels:
   | sort: 'beginning'
   | group_by_exp: 'session', 'session.beginning | date: "%A"' %}
 {% assign posts = site.tags[year] | where: 'categories','news' | reverse %}
-{% assign sponsors = site.data.sponsors | sort: "name" %}
+{% assign sponsors = site.data.sponsorship | sort: "name" %}
 {% assign year = year | plus: 0 %}
 
 <div class="row">
