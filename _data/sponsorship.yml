@@ -1,5 +1,13 @@
 ---
 
+levels:
+  platinum: Platinum
+  gold: Gold
+  silver: Silver
+  bronze: Bronze
+  media: Media Sponsors
+  thanks: Special Thanks To
+
 sponsors:
   - name: ActiveBuilding
     url: https://activebuilding.com

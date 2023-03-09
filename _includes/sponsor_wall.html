@@ -1,0 +1,32 @@
+{% assign heading = include.heading | default: "h3" %}
+{% assign size = include.size | default: "medium"  %}
+{% assign sponsors = site.data.sponsorship.sponsors | sort: "name" %}
+{% assign year = include.year | plus: 0 %}
+
+{% for level in site.data.sponsorship.levels %}
+  {% if include.levels %}{% unless include.levels contains level[0] %}{% continue %}{% endunless %}{% endif %}
+
+  {%- capture logos -%}
+    {%- for sponsor in sponsors -%}
+      {%- for sponsorship in sponsor.sponsorships -%}
+        {%- if sponsorship[0] == year and sponsorship[1] == level[0] -%}
+          <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
+            {%- if sponsor.logo.horizontal -%}
+              <img src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
+            {%- elsif sponsor.logo.square -%}
+              <img src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
+            {%- else -%}
+              {{ sponsor.name }}
+            {%- endif -%}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+
+  {% unless logos == empty %}
+    <{{ heading }} class="text-center">{{ level[1] }}</{{ heading }}>
+
+    <div class="logo-wall {{ size }} level-{{ level[0] }}">{{ logos }}</div>
+  {% endunless %}
+{% endfor %}

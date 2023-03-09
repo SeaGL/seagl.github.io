@@ -1,16 +1,8 @@
 ---
 layout: page
-
-levels:
-  platinum: Platinum
-  gold: Gold
-  silver: Silver
-  bronze: Bronze
-  media: Media Sponsors
-  thanks: Special Thanks To
 ---
 
-{% capture year %}{{ page.slug }}{% endcapture %}{% assign year = year | plus: 0 %}
+{% capture year %}{{ page.slug }}{% endcapture %}
 {% assign sponsors = site.data.sponsorship.sponsors | sort: "name" %}
 
 <div class="hero-unit">
@@ -23,38 +15,11 @@ levels:
   {{ content }}
 </div>
 
-{% for level in layout.levels %}
-  {%- capture logos -%}
-    {%- for sponsor in sponsors -%}
-      {%- for sponsorship in sponsor.sponsorships -%}
-        {%- if sponsorship[0] == year and sponsorship[1] == level[0] -%}
-          <a class="logo-wall-item {% if sponsor.logo.horizontal %}horizontal{% endif %}" href="{{ sponsor.url }}">
-            {%- if sponsor.logo.horizontal -%}
-              <img src="{{ sponsor.logo.horizontal }}" alt="{{ sponsor.name }}">
-            {%- elsif sponsor.logo.square -%}
-              <img src="{{ sponsor.logo.square }}" alt="{{ sponsor.name }}">
-            {%- else -%}
-              {{ sponsor.name }}
-            {%- endif -%}
-          </a>
-        {%- endif -%}
-      {%- endfor -%}
-    {%- endfor -%}
-  {%- endcapture -%}
-
-  {% unless logos == empty %}
-    <h2>{{ level[1] }}</h2>
-
-    <div class="logo-wall level-{{ level[0] }}">{{ logos }}</div>
-
-    <hr>
-  {% endunless %}
-{% endfor %}
+{% include sponsor_wall.html heading="h2" size="large" year=year %}
 
 <ul class="nav nav-pills nav-pills-centered" style="margin-bottom: 2em;margin-top: 3em;">
   {% for sponsor_year in site.sponsor-years %}
-  {% capture y %}{{ sponsor_year.slug }}{% endcapture %}{% assign y = y | plus: 0 %}
-  <li class="{% if y == year %}active{% endif %}"><a href="{{ sponsor_year.url }}">{{ y }}</a></li>
+  <li class="{% if sponsor_year.slug == page.slug %}active{% endif %}"><a href="{{ sponsor_year.url }}">{{ sponsor_year.slug }}</a></li>
   {% endfor %}
 </ul>
 
