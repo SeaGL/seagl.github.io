@@ -7,7 +7,7 @@ resources:
   internet_archive_identifier: SeaGL2021-Dawn_E_Collett-Free_Security_for_Open-Source_Projects
   resources_url: https://github.com/lisushka/free-security
 presenters:
-- name: Dawn E. Collett
+- name: Dawn Cooper
   osem_url: https://osem.seagl.org/users/1143
   gravatar_id: b319f5fed942d643d22bf0f93aff0b48
   biography: |-

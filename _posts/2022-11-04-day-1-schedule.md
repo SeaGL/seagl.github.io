@@ -43,7 +43,7 @@ All times are listed in Pacific Daylight Time, which is UTC-07:00. (Note: The US
 * Bradley Molinaro - Accessible Data Visualization
 
 #### 2:15pm-2:45pm
-* Dawn E. Collett - Finding the right tools for your new job
+* Dawn Cooper - Finding the right tools for your new job
 * Richard Littauer - Gulls do gull: Using Node, D3, React and occasionally grep to get insight into bird subspecies distribution
 
 ### 3:00pm-3:30pm

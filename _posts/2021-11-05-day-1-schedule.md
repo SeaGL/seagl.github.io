@@ -43,7 +43,7 @@ All times are listed in Pacific Daylight Time, which is UTC -07:00.  (note: the 
 * der.hans - Introduction to Nextcloud
 
 #### 2pm-2:30 block
-* Dawn E. Collett - The Stories We Don't Tell
+* Dawn Cooper - The Stories We Don't Tell
 * Elior Sterling - Developing on Nextcloud
 
 #### 2:45pm-3:15pm break block

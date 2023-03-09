@@ -6,7 +6,7 @@ end: '2022-11-04T14:45:00.000-07:00'
 resources:
   internet_archive_identifier: SeaGL2022-Dawn_E_Collett-Finding_the_right_tools_for_your_new_job
 presenters:
-- name: Dawn E. Collett
+- name: Dawn Cooper
   osem_url: https://osem.seagl.org/users/1143
   gravatar_id: b319f5fed942d643d22bf0f93aff0b48
   biography: |-

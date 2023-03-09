@@ -21,7 +21,7 @@ All times are listed in Pacific Daylight Time, which is UTC -07:00.  (note: the 
 * 9:30am Keynote by Christine Lemmer-Webber and Dr. Morgan Lemmer-Webber
 
 #### 10am-10:30am block
-* Dawn E. Collett - Free Security for Open-Source Projects
+* Dawn Cooper - Free Security for Open-Source Projects
 * David M. Stokes - Understanding the MySQL Authentication Process
 * Shauna Gordon-McKeon - Know Your Rights as a Tech Worker
 
