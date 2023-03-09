@@ -1,1104 +1,1105 @@
 ---
 
-- name: ActiveBuilding
-  url: https://activebuilding.com
-  logo:
-    horizontal: /img/sponsors/ActiveBuilding/old_logo.png
-    square:
-  description: |-
-    ActiveBuilding makes everyday apartment life easy. For owners, managers and
-    residents alike. And when a building’s happy, that’s good for relationships,
-    retention and your building’s reputation.
-  sponsorships:
-    2013: silver
-
-- name: Ada's Technical Books
-  url: https://www.adasbooks.com/
-  logo:
-    horizontal: /img/sponsors/AdasTechnicalBooks/HORIZONTAL_LOGO_WITH_TRADEMARK_CMYK_2.png
-    square:
-  description: |-
-    Ada's Technical Books & Cafe is Seattle's technical bookstore. We build
-    community through science minded literature, a vegetarian cafe, specialty
-    coffee, coworking, and an intimate event venue. 
-  sponsorships:
-    2016: bronze
-    2017: media
-    2018: media
-    2019: media
-    2020: media
-    2021: media
-    2022: media
-
-- name: Ansible
-  url: https://www.ansible.com
-  logo:
-    horizontal: /img/sponsors/Ansible/ansible_badge.png
-    square:
-  description: |-
-    Ansible is a powerful automation engine that makes systems and applications
-    simple to deploy. No custom scripting or custom code. No agents. All using
-    an automation language that's easy for anyone to understand and learn. Just
-    get in, get it done, and make some time for other strategic projects.
-  sponsorships:
-    2014: bronze
-
-- name: CSATS
-  url: https://www.csats.com
-  logo:
-    horizontal: /img/sponsors/CSATS/csats-wide.png
-    square: /img/sponsors/CSATS/csats.png
-  description: |-
-    Seattle-based CSATS, Inc. is a venture-backed healthcare technology company
-    on a mission to empower the nation's 16 million healthcare workers and
-    institutions to assess and improve their performance continuously,
-    accurately and objectively. Based on technology developed at the University
-    of Washington by a team of surgeons, engineers and biostatisticians, CSATS'
-    performance management system utilizes a unique combination of distributed
-    experts and non-medically trained people available 24/7 from the Internet
-    to assess healthcare professionals' technical performance with accuracy
-    equivalent to current gold standards...but at 80+% savings in cost and time
-    to results.
-  sponsorships:
-    2014: thanks
-    2015: bronze
-    2016: bronze
-    2017: bronze
-    2018: gold
-    2019: platinum
-    2021: gold
-
-- name: ExtraHop
-  url: https://www.extrahop.com/jobs/
-  logo:
-    horizontal: /img/sponsors/ExtraHop/ExtraHop_black_logo_w_tagline.png
-    square:
-  description: |-
-    ExtraHop is the global leader in real-time wire data analytics. The ExtraHop
-    Operational Intelligence platform analyzes all L2-L7 communications,
-    including full bidirectional transactional payloads. This innovative
-    approach provides the correlated, cross-tier visibility essential for
-    application performance, availability, and security in today's complex and
-    dynamic IT environments. The winner of numerous awards from Interop and
-    others, the ExtraHop platform scales up to 20 Gbps, deploys without agents,
-    and delivers tangible value in less than 15 minutes.
-  sponsorships:
-    2013: bronze
-    2014: bronze
-    2015: bronze
-    2016: bronze
-    2017: bronze
-    2018: bronze
-    2019: bronze
-    2020: bronze
-    2021: bronze
-    2022: bronze
-
-- name: Fedora
-  url: https://getfedora.org/
-  logo:
-    horizontal: /img/sponsors/Fedora/fedora-logo.png
-    square:
-  description: |-
-    Choose Freedom. Choose Fedora.
-    Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs,
-    and get to work right away.
-  sponsorships:
-    2016: bronze
-    2018: thanks
-
-- name: FOSSlife
-  url: https://www.FOSSlife.org/
-  logo:
-    horizontal: /img/sponsors/FOSSlife/FOSSlife_portrait_rgb.png
-    square:
-  description: |-
-    FOSSlife is dedicated to the world of free and open source software, focusing on careers, skills, and resources to help you build your future with FOSS. We provide timely information, useful insight, and practical resources for those who want to build or advance their career with open source. Subscribe to our weekly newsletter to get the latest from FOSSlife at https://www.fosslife.org/newsletter
-  sponsorships:
-    2022: media
-
-- name: Google
-  url: https://www.google.com
-  logo:
-    horizontal: /img/sponsors/Google/googlelogo_clr_520x172px.png
-    square:
-  description: |-
-    Google's mission is to organize the world's information and make it
-    universally accessible and useful.
-  sponsorships:
-    2014: gold
-    2015: gold
-    2016: platinum
-    2021: gold
-
-- name: Hewlett-Packard
-  url: http://hpcloud.com
-  logo:
-    horizontal: /img/sponsors/HPCloud/HPENew.png
-    square:
-  description: |-
-    Hewlett-Packard is long term supporter of Linux and of Open Source. HP is a
-    Platinum member of the Linux Foundation and a Founding and Platinum member
-    of the OpenStack Foundation.  HP ships a new Linux server every minute, and
-    operates an OpenStack public cloud at
-    <a href="http://hpcloud.com">http://hpcloud.com</a>
-  sponsorships:
-    2013: bronze
-    2014: bronze
-    2015: bronze
-    2016: bronze
-
-- name: Linux Journal
-  url: https://www.linuxjournal.com
-  logo:
-    horizontal: /img/sponsors/LinuxJournal/linux-journal.png
-    square:
-  description: |-
-    Linux Journal covers all aspects of the world's most essential operating system and the emerging technologies adjacent to it. Our mission is to deliver a publication that reflects the principled approach followed by kernel developers and the tenets of Open Source philosophy.
-  sponsorships:
-    2013: media
-    2015: bronze
-    2016: bronze
-    2020: media
-
-- name: Linux Magazine
-  url: https://www.Linux-Magazine.com/
-  logo:
-    horizontal: /img/sponsors/LinuxMagazine/LMI_Logo_Transparent.png
-    square:
-  description: |-
-    Linux Magazine is your guide to the world of Linux and open source. Each monthly issue includes advanced technical information you won't find anywhere else including tutorials, in-depth articles on trending topics, troubleshooting and optimization tips, and more! Subscribe to our free newsletters and get news and articles in your inbox https://bit.ly/Linux-Update
-  sponsorships:
-    2022: media
-
-- name: Linux Pro Magazine
-  url: https://www.linuxpromagazine.com/
-  logo:
-    horizontal: /img/sponsors/LinuxProMag/linux-pro.png
-    square:
-  description: |-
-    Linux Magazine is your guide to the world of Linux. Linux Magazine provides advanced technical information you won't find anywhere else including tutorials, in-depth articles on trending topics, troubleshooting and optimization tips, and more!
-  sponsorships:
-    2021: media
-
-- name: Pogo Linux, Inc
-  url: https://www.pogolinux.com
-  logo:
-    horizontal: /img/sponsors/PogoLinux/logo_pogolinux.png
-    square:
-  description: |-
-    Founded in 1999, Pogo Linux, Inc. is an open-source systems integrator based
-    out of Seattle, WA. With a multi-OS focus and in-house technical expertise,
-    we offer a wide range of workstations, servers and network storage solutions
-    for the technology needs of IT departments in organizations of all sizes.
-  sponsorships:
-    2013: bronze
-    2014: bronze
-    2015: bronze
-    2016: silver
-    2017: silver
-
-- name: Rackspace
-  url: https://www.rackspace.com
-  logo:
-    horizontal: /img/sponsors/Rackspace/Rackspace_Cloud_Company_Logo_clr.png
-    square:
-  description: |-
-    Fanatical Support® has made Rackspace the service leader in cloud
-    computing. We deliver enterprise-class hybrid cloud infrastructures to
-    businesses of all sizes and kinds around the world. We started in 1998
-    and we host hundreds of thousands of customers worldwide. Rackspace
-    combines public cloud, private cloud, and dedicated bare metal computing
-    to provide the perfect infrastructure for each customer’s specific
-    needs. And, the Rackspace Hybrid Cloud is powered by OpenStack® and
-    backed by Fanatical Support.
-  sponsorships:
-    2013: gold
-    2014: gold
-
-- name: Schedules Direct
-  url: https://www.schedulesdirect.org/
-  logo:
-    horizontal: /img/sponsors/SchedulesDirect/sd_long.png
-    square:
-  description: |-
-    Schedules Direct is a non-profit organization whose mission is to
-    educate the public about the benefits of Open Source Software and other
-    free software, provide support functions for such software, and provide
-    funding for research that facilitates the improvement or creation of
-    Open Source Software and other free software for the benefit of the
-    public at large.
-  sponsorships:
-    2013: gold
-    2014: gold
-    2015: gold
-    2016: platinum
-    2017: gold
-    2018: silver
-    2019: gold
-    2020: gold
-    2021: gold
-    2022: gold
-
-- name: Seattle Central College
-  url: https://seattlecentral.edu
-  logo:
-    horizontal: /img/sponsors/SCC/seattle-central-college-logo.png
-    square:
-  description: |-
-    Seattle Central College is located on Capitol Hill, the vibrant urban
-    center of Seattle life. We are an educational home for our students, a
-    leadership incubator for our community and an economic catalyst for our
-    state and beyond. Since 1966, the college has served the higher
-    education and workforce training needs of more than 500,000 students.
-
-    Seattle Central is committed to creating a learning environment that is
-    accessible, diverse, responsive, and innovative.
-  sponsorships:
-    2013: platinum
-    2014: platinum
-    2015: platinum
-    2016: platinum
-    2017: platinum
-    2018: platinum
-    2019: platinum
-
-- name: Silicon Mechanics
-  url: https://www.siliconmechanics.com
-  logo:
-    horizontal: /img/sponsors/SiliconMechanics/SiMechTrimmed.png
-    square:
-  description: |-
-    Silicon Mechanics is an industry-leading provider of server, storage, and
-    high-performance computing solutions. Deploying the latest innovations in
-    hardware and software technology, we work in collaboration with our
-    customers to design and build the most efficient, cost-effective technology
-    solution for their needs. Our guiding principle, "Expert included," is our
-    promise that reflects our passion for complete customer satisfaction, from
-    server and component selection to superior installation and ongoing
-    technical support.
-  sponsorships:
-    2013: platinum
-    2015: silver
-    2016: silver
-
-- name: The Greater Seattle Linux Users Group
-  url: https://gslug.org
-  logo:
-    horizontal: /img/sponsors/GSLUG/logo.png
-    square:
-  description: |-
-    The Greater Seattle Linux Users Group is a local organization of people in
-    the Seattle Metropolitan area that wish to collaborate on subjects
-    pertaining to Linux and Open Source Software in general. Monthly meetings
-    since 1994 and an active mailing list help to make this possible.
-
-    GSLUG is a Linux Users Group, which means it's mainly comprised of people
-    who use Linux on a day-to-day basis for work and fun, and it is also the
-    premier place for people to come and learn more about Linux and Open Source
-    Software, whether you've never used Linux before, or if you're a seasoned
-    kernel developer, GSLUG is an excellent place to meet new people, learn
-    things you never knew before, and share great ideas.
-  sponsorships:
-    2013: thanks
-    2014: thanks
-    2015: thanks
-    2016: thanks
-    2017: thanks
-    2018: thanks
-
-- name: Rainier Connect
-  url: https://www.rainierconnect.com/
-  logo:
-    horizontal: /img/sponsors/RainierConnect/logo.png
-    square:
-  description: |-
-    Rainier Connect is South Puget Sound’s premiere phone, cable TV & high-speed
-    Internet provider. Homes & businesses choose us for quality phone, DSL, cable
-    & TV service in Tacoma, Puyallup, Centralia, Eatonville, Graham & beyond.
-  sponsorships:
-    2015: bronze
-
-- name: Linux Foundation
-  url: https://www.linuxfoundation.org/
-  logo:
-    horizontal: /img/sponsors/LinuxFoundation/OSS-ELC-Black.png
-    square:
-  description: |-
-    Open Source Summit + Embedded Linux Conference is taking place September
-    27-30, in Seattle, Washington. Register today to join us in-person or
-    virtually.
-    
-    Open Source Summit (OSS) is the leading conference for developers,
-    architects and other technologists – as well as open source community and
-    industry leaders – to collaborate, share information, learn about the latest
-    technologies and gain a competitive advantage by using innovative open
-    solutions.
-    
-    Embedded Linux Conference (ELC), the leading, vendor-neutral technical
-    conference for companies and developers using Linux in embedded and
-    industrial IoT products, will once again be held in conjunction with Open
-    Source Summit.
-  sponsorships:
-    2017: media
-    2018: media
-    2021: media
-
-- name: PyCascades
-  url: https://www.pycascades.com/
-  logo:
-    horizontal: /img/sponsors/PyCascades/pycascades.png
-    square:
-  description:
-  sponsorships:
-    2017: thanks
-
-- name: GNOME
-  url: https://www.gnome.org/
-  logo:
-    horizontal: /img/sponsors/GNOME/GNOME-LogoHorizontal-Blue.png
-    square:
-  description: |-
-    GNOME is a free and open-source desktop environment project supported by a non-profit foundation. Together, the community of contributors and the Foundation create a computing platform and software ecosystem composed entirely of free software designed to be elegant, efficient, and easy to use.
-  sponsorships:
-    2017: thanks
-    2018: thanks
-    2022: thanks
-
-- name: Geeks Without Bounds
-  url: http://gwob.org/
-  logo:
-    horizontal: /img/sponsors/GWOB/GWOB.png
-    square:
-  description:
-  sponsorships:
-    2017: thanks
-
-- name: Microsoft
-  url: https://opensource.microsoft.com/
-  logo:
-    horizontal: /img/sponsors/Microsoft/Microsoft_2019.png
-    square:
-  description:
-  sponsorships:
-    2015: silver
-    2019: bronze
-
-- name: Jenkins
-  url: https://jenkins.io/
-  logo:
-    horizontal: /img/sponsors/Jenkins/JenkinsLogo.png
-    square:
-  description:
-  sponsorships:
-    2016: thanks
-
-- name: LibreOffice
-  url: https://www.libreoffice.org/
-  logo:
-    horizontal: /img/sponsors/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
-    square:
-  description: |-
-    LibreOffice is a powerful office suite; Its clean interface and its powerful
-    tools let you unleash your creativity and grow your productivity. LibreOffice
-    embeds several applications that make it the most powerful Free & Open Source
-    Office suite on the market
-  sponsorships:
-    2015: thanks
-    2016: thanks
-
-- name: Mozilla
-  url: https://www.mozilla.org/en-US/
-  logo:
-    horizontal: /img/sponsors/Mozilla/MozillaLogo.jpeg
-    square:
-  description:
-  sponsorships:
-    2016: bronze
-
-- name: No Starch Press
-  url: https://www.nostarch.com/
-  logo:
-    horizontal:
-    square: /img/sponsors/NoStarchPress/nsp_logo_black.png
-  description: |-
-    No Starch Press publishes the finest in geek entertainment — distinctive books
-    on computing, such as bestsellers Steal This Computer Book, Hacking -- The Art
-    of Exploitation, Practical Packet Analysis, and The Manga Guides.
-  sponsorships:
-    2015: bronze
-    2016: media
-    2017: media
-
-- name: LinuxFest Northwest
-  url: https://linuxfestnorthwest.org
-  logo:
-    horizontal: /img/sponsors/LFNW/lfnw_logo_banner.png
-    square: /img/sponsors/LFNW/lfnw_logo_square.png
-  description: |-
-    LinuxFest Northwest (est. 2000), an annual Open Source event co-produced by Bellingham Linux Users Group and the Information Technology department at BTC. LFNW features presentations and exhibits on free and open source topics, as well as Linux distributions & applications, InfoSec, and privacy; something for everyone from the novice to the professional!
-  sponsorships:
-    2015: thanks
-    2016: thanks
-    2017: thanks
-    2018: thanks
-    2019: thanks
-    2020: thanks
-    2021: thanks
-    2022: thanks
-
-- name: Free Software Foundation
-  url: https://www.fsf.org/
-  logo:
-    horizontal: /img/sponsors/FSF/logo-fsf.org.png
-    square:
-  description: |-
-    The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to
-    promote computer user freedom and to defend the rights of all free software users.
-  sponsorships:
-    2015: thanks
-    2016: thanks
-    2017: platinum
-    2018: platinum
-    2019: platinum
-    2020: platinum
-
-- name: Write The Docs Seattle
-  url: https://www.meetup.com/Write-The-Docs-Seattle/
-  logo:
-    horizontal:
-    square: /img/sponsors/WriteTheDocsSeattle/WriteTheDocs.jpeg
-  description: |-
-    A group for Seattle technical writers, software developers, content managers, or
-    editors who want to share ideas about how to produce great software and
-    documentation that creates a positive customer experience.
-  sponsorships:
-    2015: thanks
-
-- name: Seattle Area System Administrators Guild
-  url: https://www.sasag.org/
-  logo:
-    horizontal: /img/sponsors/SASAG/sasag-top-1.png
-    square:
-  description: |-
-    Seattle Area System Administrators Guild (SASAG) is a local group for systems
-    administrators in the Seattle and Pacific Northwest areas (North Western Washington).
-  sponsorships:
-    2015: thanks
-    2016: thanks
-    2020: thanks
-
-- name: Oregon State University Open Source Lab
-  url: https://osuosl.org/
-  logo:
-    horizontal: /img/sponsors/OSL/osuosl-tag.png
-    square:
-  description:
-  sponsorships:
-    2015: thanks
-    2020: thanks
-    2021: thanks
-    2022: thanks
-
-- name: Northeastern University Seattle
-  url: https://www.northeastern.edu/seattle/
-  logo:
-    horizontal: /img/sponsors/NortheasternUniversitySeattle/NortheasternSeattle.jpg
-    square:
-  description:
-  sponsorships:
-    2015: thanks
-
-- name: The FreeBSD Project
-  url: https://www.freebsd.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/FreeBSD/FREEBSD_Logo_Vert_Pos_RGB.png
-  description: |-
-    FreeBSD is an advanced computer operating system used to power modern servers, desktops
-    and embedded platforms. A large community has continually developed it for more than
-    thirty years. Its advanced networking, security and storage features have made FreeBSD
-    the platform of choice for many of the busiest web sites and most pervasive embedded
-    networking and storage devices.
-  sponsorships:
-    2015: thanks
-    2017: thanks
-    2019: thanks
-
-- name: Pacific Northwest PHP Conference
-  url: http://pnwphp.com
-  logo:
-    horizontal:
-    square: /img/sponsors/PNWPHP/pnwphp.png
-  description: |-
-    The Pacific Northwest PHP Conference is a 3-day event for PHP developers living in the
-    Pacific Northwest region. We've invited world-renowned speakers from the PHP community
-    to teach about topics ranging from continuous integration to the cloud. Join us for the
-    amazing presentations, catered food, musical numbers, the hackathon, and the live blog.
-  sponsorships:
-    2015: thanks
-    2017: thanks
-
-- name: West Seattle Linux User Group
-  url: https://wsealug.net
-  logo:
-    horizontal: /img/sponsors/WSLUG/wsea-g.png
-    square:
-  description: |-
-    Anyone who is interested in Linux and talking about it with your neighbors. We have bi-weekly meet-ups and are currently meeting at the West Seattle & Fauntleroy YMCA. (https://www.seattleymca.org/locations/west-seattle-fauntleroy-ymca)
-    At each meeting we plan to have a 30 minute demonstration of something GNU/Linux related. We are keeping track of these and suggestions on a public Trello board: https://trello.com/b/duBE2Tpr/wsealug
-  sponsorships:
-    2017: thanks
-    2018: thanks
-    2019: thanks
-    2020: thanks
-    2021: thanks
-    2022: thanks
-
-- name: API City's APIs and IPAs Seattle
-  url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
-  logo:
-    horizontal:
-    square: /img/sponsors/APICity/apicity.jpg
-  description: |-
-    This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community.
-    We want to support your local tech community, and we want to get to know developers everywhere.
-  sponsorships:
-    2017: thanks
-
-- name: PostgreSQL
-  url:
-  logo:
-    horizontal:
-    square: /img/sponsors/PostGreSQL/PostgreSQL.png
-  description:
-  sponsorships:
-    2017: thanks
-    2018: thanks
-
-- name: Software Freedom Conservancy
-  url: https://sfconservancy.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/SFC/SFC-logo.png
-  description:
-  sponsorships:
-    2016: thanks
-    2017: thanks
-    2019: thanks
-    2020: thanks
-    2021: thanks
-
-- name: Kubuntu
-  url: https://kubuntu.org/
-  logo:
-    horizontal: /img/sponsors/Kubuntu/kubuntu-logo-lucid.svg
-    square:
-  description: |-
-    Kubuntu is a community developed and supported project. Since its launch in October 2004, Kubuntu has become one of the most highly regarded Linux distributions with millions of users around the world.  Our mission is to provide the latest stable KDE software, which includes the flagship project Plasma, our desktop environment on top of a stable Ubuntu core.  We release in 6 monthly cycles, following the same freezes/milestones as Ubuntu.
-  sponsorships:
-    2016: thanks
-    2017: thanks
-    2021: thanks
-
-- name: Lubuntu
-  url: https://lubuntu.me/
-  logo:
-    horizontal: /img/sponsors/Lubuntu/Lubuntu-logo.png
-    square:
-  description:
-  sponsorships:
-    2016: thanks
-
-- name: Red Hat
-  url: https://community.redhat.com
-  logo:
-    horizontal: /img/sponsors/RedHat/Logo-RedHat-A-Color-RGB.png
-    square: /img/sponsors/RedHat/Logo-RedHat-D-Color-RGB.png
-  description: |-
-    Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.
-  sponsorships:
-    2016: bronze
-    2020: silver
-    2021: silver
-
-- name: SeaPHP UG
-  url: https://www.meetup.com/seaphp/
-  logo:
-    horizontal:
-    square: /img/sponsors/SEAPHP/SEAPHP.png
-  description:
-  sponsorships:
-    2016: thanks
-    2017: thanks
-
-- name: SoDo Makerspace
-  url: http://sodo.ms/
-  logo:
-    horizontal:
-    square: /img/sponsors/SoDo/sodo.png
-  description:
-  sponsorships:
-    2016: thanks
-
-- name: Cascadia Wikimedians
-  url: https://meta.wikimedia.org/wiki/Cascadia_Wikimedians
-  logo:
-    horizontal:
-    square: /img/sponsors/CascadiaWikimedians/cascwiki.png
-  description:
-  sponsorships:
-    2016: thanks
-
-- name: TA3M & SPC
-  url: https://seattleprivacy.org/ta3m/
-  logo:
-    horizontal: /img/sponsors/TA3M/TA3M.png
-    square:
-  description: |-
-    Techno-Activism Third Mondays (TA3M) is an informal meetup designed to connect software creators and activists who are interested in censorship, surveillance, and open technology. Currently, TA3M are held in various cities throughout the world, with many more launching in the near future.
-    TA3M is explicitly informal and open. You are invited to hack the process, ask questions, and be critical. You are very welcome to join in if you have something you want to share or discuss.
-  sponsorships:
-    2016: thanks
-    2017: thanks
-    2018: thanks
-    2019: thanks
-    2020: thanks
-
-- name: Comcast Technology Solutions
-  url: https://www.comcasttechnologysolutions.com/
-  logo:
-    horizontal: /img/sponsors/Comcast/cts.png
-    square:
-  description:
-  sponsorships:
-    2017: bronze
-
-- name: Redfin
-  url: https://www.redfin.com/city/16163/WA/Seattle
-  logo:
-    horizontal: /img/sponsors/Redfin/redfin-logo.png
-    square:
-  description:
-  sponsorships:
-    2017: thanks
-
-- name: Private Internet Access
-  url: https://privateinternetaccess.com
-  logo:
-    horizontal: /img/sponsors/PrivateInternetAccess/pia-logo-black.png
-    square:
-  description:
-  sponsorships:
-    2018: platinum
-
-- name: Polyverse
-  url: https://polyverse.io
-  logo:
-    horizontal: /img/sponsors/Polyverse/polyverse-logo.png
-    square:
-  description:
-  sponsorships:
-    2018: bronze
-
-- name: IBM
-  url: https://developer.ibm.com
-  logo:
-    horizontal: /img/sponsors/IBM/ibmpos_blurgb.jpg
-    square:
-  description:
-  sponsorships:
-    2018: gold
-
-- name: JMP.chat
-  url: https://jmp.chat/
-  logo:
-    horizontal:
-    square: /img/sponsors/JMP.chat/jmp.svg
-  description:
-  sponsorships:
-    2018: thanks
-    2021: platinum
-    2022: bronze
-
-- name: twilio
-  url: https://www.twilio.com/
-  logo:
-    horizontal: /img/sponsors/twilio/twilio-logo-red.png
-    square:
-  description:
-  sponsorships:
-    2018: platinum
-
-- name: Yubico
-  url: https://www.Yubico.com/
-  logo:
-    horizontal: /img/sponsors/Yubico/Yubico-logo-website.png
-    square:
-  description:
-  sponsorships:
-    2018: thanks
-
-- name: linode
-  url: https://www.linode.com/
-  logo:
-    horizontal: /img/sponsors/linode/linode-logo_standard_light_medium.png
-    square:
-  description:
-  sponsorships:
-    2018: thanks
-    2019: thanks
-
-- name: Pragmatic Bookshelf
-  url: https://pragprog.com
-  logo:
-    horizontal: /img/sponsors/PragmaticBookshelf/pragprog.jpg
-    square:
-  description:
-  sponsorships:
-    2018: media
-
-- name: Indeed
-  url: https://www.indeed.com
-  logo:
-    horizontal: /img/sponsors/indeed/indeed.png
-    square:
-  description:
-  sponsorships:
-    2018: bronze
-    2019: silver
-    2020: platinum
-
-- name: Open Humans
-  url: https://www.OpenHumans.org/
-  logo:
-    horizontal: /img/sponsors/OpenHumans/open-humans-logo-horizontal-80px.f71a97b4a07d.png
-    square:
-  description:
-  sponsorships:
-    2018: thanks
-
-- name: MySQL
-  url: https://www.mysql.com/
-  logo:
-    horizontal:
-    square: /img/sponsors/MySQL/MySQL-clr.png
-  description: |-
-    MySQL is the World’s Most Popular Open Source Database. It powers the most innovative companies including Facebook, Booking, Uber, and Tesla. It is available on-premises and as the MySQL Database Service on Oracle Cloud. For developers, it’s an easy to use, reliable and high-performance database with NoSQL and SQL support. SaaS, ecommerce, financial, telecom, and Fortune 1000 companies rely on the MySQL Enterprise edition advanced security features to protect the privacy of information, prevent data breaches and help meet regulatory requirements such as GDPR, PCI, HIPAA. MySQL High Availability has native HA, fully integrated into the MySQL Server for 99.99% uptime.
-  sponsorships:
-    2018: thanks
-    2021: bronze
-
-- name: Cloud Native Computing Foundation
-  url: https://www.cncf.io
-  logo:
-    horizontal:
-    square: /img/sponsors/CNCF/cncf-banner.png
-  description: |-
-    The Cloud Native Computing Foundation (CNCF) hosts critical components of
-    the global technology infrastructure. CNCF brings together the world's
-    top developers, end users, and vendors and runs the largest open source
-    developer conferences. CNCF is part of the nonprofit Linux Foundation.
-  sponsorships:
-    2019: thanks
-
-- name: Dragonchain
-  url: https://www.dragonchain.com
-  logo:
-    horizontal:
-    square: /img/sponsors/Dragonchain/Jojo+Dragonchaintext-02.png
-  description: |-
-    Dragonchain is a U.S.-based technology leader, offering Blockchain as a
-    Service with security and scalability at the forefront of its operations.
-    Dragonchain is an open sourced public/private hybrid blockchain platform
-    combines high performance and comprehensive ease of use, allowing any
-    developer or enterprise to build and deploy a blockchain solution in minutes.
-    As a service provider, Dragonchain empowers developers and businesses with an
-    enterprise-grade blockchain solution. For more information on Dragonchain,
-    please visit https://dragonchain.com/
-
-    Twitter https://twitter.com/dragonchain
-    LinkedIn https://www.linkedin.com/company/dragonchain/
-    Facebook https://facebook.com/Dragonchaingang/
-    YouTube https://www.youtube.com/c/DragonchainOfficial
-    GitHub https://github.com/dragonchain-inc
-    Telegram https://t.me/dragontalk
-  sponsorships:
-    2019: bronze
-
-- name: Snowdrift.coop
-  url: https://snowdrift.coop
-  logo:
-    horizontal: /img/sponsors/Snowdrift/snowdrift-logo_symbol-wordmark_dark-blue.svg.png
-    square: /img/sponsors/Snowdrift/snowdrift-logo_symbol_dark-blue.svg.png
-  description: |-
-    Snowdrift.coop is a fundraising platform for public goods like free software. It uses a new approach called "crowdmatching" where patrons pledge to increase their monthly donations by a tiny amount for _each_ patron who will give with them.
-  sponsorships:
-     2019: thanks
-     2020: thanks
-     2021: thanks
-     2022: thanks
-
-- name: Ubuntu-PNW
-  url: https://wiki.ubuntu.com/PNWTeam
-  logo:
-    horizontal: /img/sponsors/Ubuntu/pnw-logo-medium.png
-    square:
-  description: |-
-    PNWTeam is the Ubuntu user group for the Pacific Northwest region of the United States. If you haven't found a local community (loco) team to call home yet please feel free to jump in and help out.
-
-    Mailing List https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-pnw
-    Forum http://pnw.ubuntu-us.org/forum
-  sponsorships:
-    2018: thanks
-    2019: thanks
-
-- name: Amazon
-  url: https://www.amazon.com/
-  logo:
-    horizontal: /img/sponsors/Amazon/Amazon_logo.svg
-    square:
-  description:
-  sponsorships:
-    2020: platinum
-
-- name: Amazon AWS
-  url: https://aws.amazon.com/opensource/
-  logo:
-    horizontal:
-    square: /img/sponsors/AWS/AWS_logo_RGB.svg
-  description:
-  sponsorships:
-    2019: bronze
-    2021: platinum
-
-- name: SeaPUG
-  url: https://www.meetup.com/Seattle-Postgres/
-  logo:
-    horizontal:
-    square: /img/sponsors/SeaPUG/SeaPUG.jpeg
-  description:
-  sponsorships:
-    2019: thanks
-
-- name: Open Source Initiative
-  url: https://opensource.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/OSI/OSI_Standard_Logo.svg
-  description: |-
-    The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.  
-    Open source enables a development method for software that harnesses the power of distributed peer review and transparency of process. The promise of open source is higher quality, better reliability, greater flexibility, lower cost, and an end to predatory vendor lock-in.  
-    One of our most important activities is as a standards body, maintaining the Open Source Definition for the good of the community. The Open Source Initiative Approved License trademark and program creates a nexus of trust around which developers, users, corporations and governments can organize open source cooperation.
-  sponsorships:
-    2020: thanks
-    2021: thanks
-    2022: thanks
-
-- name: Electronic Frontier Foundation
-  url: https://www.eff.org/
-  logo:
-    horizontal: /img/sponsors/EFF/EFF-logo-lockup-red.png
-    square:
-  description: |-
-    The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
-  sponsorships:
-    2020: thanks
-    2021: thanks
-
-- name: Women In Linux
-  url: https://www.womeninlinux.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/WomenInLinux/WIL_250x250.png
-  description: |-
-    Women In Linux is a non-profit organization supporting women in Linux-centric tech careers who want to obtain and sustain a thriving career in tech.
-  sponsorships:
-    2020: thanks
-    2021: thanks
-
-- name: Linux App Summit
-  url: https://linuxappsummit.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/LinuxAppSummit/LAS_400x400.jpg
-  description: |-
-    LAS welcomes application developers, designers, product managers, user experience specialists, community leaders, academics, and anyone who is interested in the state of Linux application design and development!
-  sponsorships:
-    2020: thanks
-    2021: thanks
-
-- name: ShellCon/RaiseMe
-  url: https://shellcon.io/raiseme/
-  logo:
-    horizontal:
-    square: /img/sponsors/ShellCon/RaiseMeMedusaLogo.png
-  description: |-
-    The RaiseMe arm of ShellCon is dedicated to supporting our entire community. We have a complete lineup of career talks on Friday and Saturday during ShellCon, and also offer one-on-one assistance in the form of consulting appointments with our volunteer professional staff.
-  sponsorships:
-    2020: thanks
-    2021: thanks
-
-- name: Phoenix Linux Users Group
-  url: https://phxlinux.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/PLUG/PLUG-covid-logo.jpg
-  description: |-
-    PLUG is a group of people in the Phoenix, Arizona, USA area who get together several times a month. We have various meetings in several different formats all with the common goal of educating the public about the Linux operating system.  No knowledge of Linux is presumed or required, although most members are running Linux in some application.
-  sponsorships:
-    2020: thanks
-    2021: thanks
-    2022: thanks
-
-- name: KODI
-  url: https://kodi.tv/
-  logo:
-    horizontal: /img/sponsors/KODI/KODI-banner.png
-    square:
-  description: |-
-    Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.
-  sponsorships:
-    2020: thanks
-    2021: thanks
-
-- name: Black Lodge Research
-  url: https://www.black-lodge.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/BlackLodgeResearch/BLR.png
-  description: |-
-    Black Lodge Research, founded in 2007, is a hackerspace located in Redmond, Washington that serves the greater Seattle Hacker community. BLR is unique in that it is the only space in greater Seattle area focusing on the topics of Information Security and Privacy. The Lodge offers educational workshops, presentations and demonstrations; as well as a shop area with electronics and power tools for members to use.
-  sponsorships:
-    2021: thanks
-
-- name: HuskyFOSS
-  url: https://huskylink.washington.edu/organization/huskyfoss
-  logo:
-    horizontal:
-    square: /img/sponsors/HuskyFOSS/HuskyFOSS.png
-  description: |-
-    We are an organization exploring the realm of free and open source software and encouraging their use in daily life. We love to use Linux (distributions) and learn something new about it every time we meet.
-  sponsorships:
-    2021: thanks
-
-- name: Ubuntu Community Fund
-  url: https://ubuntu.com/community
-  logo:
-    horizontal: /img/sponsors/Ubuntu/ubuntu_orange_hex.png
-    square:
-  description: |-
-    When downloading Ubuntu, users can donate money to be used by Canonical to support and improve the areas that the contributor feels are most important. Donations made to “Community projects” are used to fund people and projects outside of Canonical in ways that benefit the Ubuntu community.
-  sponsorships:
-    2021: gold
-
-- name: Tidelift
-  url: https://tidelift.com/
-  logo:
-    horizontal: /img/sponsors/Tidelift/Tidelift_primary-logo.webp
-    square:
-  description: |-
-    Tidelift helps organizations effectively manage the open source behind modern applications. Tidelift enables organizations to accelerate development and reduce risk when building apps with open source, so they can create even more incredible software.
-  sponsorships:
-    2021: silver
-
-- name: Destination Linux Network
-  url: https://destinationlinux.network/
-  logo:
-    horizontal: /img/sponsors/DestinationLinuxNetwork/dln-logo.png
-    square:
-  description: |-
-    Destination Linux Network - A Media Network Powered By Linux & Open Source. Check out Destination Linux, Hardware Addicts, Sudo Show, DLN Xtend, Ask Noah Show and the Fedora Podcast. 
-  sponsorships:
-    2021: media
-
-- name: TuxDigital
-  url: https://TuxDigital.com/
-  logo:
-    horizontal: /img/sponsors/TuxDigital/tuxdigital-logo-blue-horizontal.png
-    square: /img/sponsors/TuxDigital/tuxdigital-logo-blue-stacked.png
-  description: |-
-    TuxDigital - A Media Network Powered By Linux & Open Source. Check out Destination Linux, This Week In Linux, Hardware Addicts, Sudo Show, Linux Out Loud, Linux Saloon, Game Sphere and the Fedora Podcast. 
-  sponsorships:
-    2022: media
-
-- name: Jupiter Broadcasting
-  url: https://www.jupiterbroadcasting.com/
-  logo:
-    horizontal: /img/sponsors/JupiterBroadcasting/jb-website-logo.png
-    square: /img/sponsors/JupiterBroadcasting/jb-rocket-medium.png
-  description: |-
-    Jupiter Broadcasting - The best podcasts in the world about Linux, free software, and more.
-  sponsorships:
-    2021: media
-
-- name: GeekBeacon Fest
-  url: https://gbfest.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/GBFest/GBFest_Final_design_version_22_modd.png
-  description: |-
-    GeekBeacon Fest's mission is to unify geeks and make the world a better place through a celebration of Mental Health, Gaming, Open Culture, and Open Source. February 18th-19th, 2022
-  sponsorships:
-    2021: thanks
-    2022: media
-
-- name: DevOps Party Games
-  url: https://devopspartygames.com
-  logo:
-    horizontal: /img/sponsors/DevOpsPartyGames/dpg-high-res-logo.png
-    square:
-  description: |-
-    DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, and then streams it live via Twitch for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts (Matt Stratton, Jeremy Meiss, and Dan Maher) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from Dodgeball).
-    The goal here is to have fun and not take things too seriously. A live streamed game show that is most definitely a ridiculous idea, but hopefully entertaining.
-  sponsorships:
-    2021: thanks
-
-- name: Leadingbit Solutions
-  url: https://www.leadingbit.com
-  logo:
-    horizontal: '/img/sponsors/Leadingbit/Leadingbit Logo White- BKG (1920 x 580 px).png'
-    square:
-  description:
-  sponsorships:
-    2021: bronze
-
-- name: Matrix Foundation
-  url: https://matrix.org/
-  logo:
-    horizontal: /img/sponsors/Matrix/matrix-logo.svg
-    square:
-  description:
-  sponsorships:
-    2021: thanks
-    2022: thanks
-
-- name: Seattle Matrix
-  url: https://seattlematrix.org/
-  logo:
-    horizontal:
-    square: /img/sponsors/SeattleMatrix/SeattleMatrixLogo-web.svg
-  description:
-  sponsorships:
-    2021: thanks
-    2022: thanks
-
-- name: DevOpsDays Seattle
-  url: https://devopsdays.org/events/2022-seattle/
-  logo:
-    horizontal: /img/sponsors/DevOpsDaysSeattle/DevOpsDaysSeattle.png
-    square: 
-  description: |-
-    DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Our audience is composed primarily of practitioners.
-  sponsorships:
-    2022: thanks
-
-- name: DevITjobs.us
-  url: https://devitjobs.us/events
-  logo:
-    horizontal: 
-    square: /img/sponsors/DevITjobs.us/devitUS-logo-name-long-square-rounded.png
-  description: |-
-    DevITJobs.us is the first job board built with Software Engineers in mind.
-  sponsorships:
-    2022: media
+sponsors:
+  - name: ActiveBuilding
+    url: https://activebuilding.com
+    logo:
+      horizontal: /img/sponsors/ActiveBuilding/old_logo.png
+      square:
+    description: |-
+      ActiveBuilding makes everyday apartment life easy. For owners, managers and
+      residents alike. And when a building’s happy, that’s good for relationships,
+      retention and your building’s reputation.
+    sponsorships:
+      2013: silver
+
+  - name: Ada's Technical Books
+    url: https://www.adasbooks.com/
+    logo:
+      horizontal: /img/sponsors/AdasTechnicalBooks/HORIZONTAL_LOGO_WITH_TRADEMARK_CMYK_2.png
+      square:
+    description: |-
+      Ada's Technical Books & Cafe is Seattle's technical bookstore. We build
+      community through science minded literature, a vegetarian cafe, specialty
+      coffee, coworking, and an intimate event venue. 
+    sponsorships:
+      2016: bronze
+      2017: media
+      2018: media
+      2019: media
+      2020: media
+      2021: media
+      2022: media
+
+  - name: Ansible
+    url: https://www.ansible.com
+    logo:
+      horizontal: /img/sponsors/Ansible/ansible_badge.png
+      square:
+    description: |-
+      Ansible is a powerful automation engine that makes systems and applications
+      simple to deploy. No custom scripting or custom code. No agents. All using
+      an automation language that's easy for anyone to understand and learn. Just
+      get in, get it done, and make some time for other strategic projects.
+    sponsorships:
+      2014: bronze
+
+  - name: CSATS
+    url: https://www.csats.com
+    logo:
+      horizontal: /img/sponsors/CSATS/csats-wide.png
+      square: /img/sponsors/CSATS/csats.png
+    description: |-
+      Seattle-based CSATS, Inc. is a venture-backed healthcare technology company
+      on a mission to empower the nation's 16 million healthcare workers and
+      institutions to assess and improve their performance continuously,
+      accurately and objectively. Based on technology developed at the University
+      of Washington by a team of surgeons, engineers and biostatisticians, CSATS'
+      performance management system utilizes a unique combination of distributed
+      experts and non-medically trained people available 24/7 from the Internet
+      to assess healthcare professionals' technical performance with accuracy
+      equivalent to current gold standards...but at 80+% savings in cost and time
+      to results.
+    sponsorships:
+      2014: thanks
+      2015: bronze
+      2016: bronze
+      2017: bronze
+      2018: gold
+      2019: platinum
+      2021: gold
+
+  - name: ExtraHop
+    url: https://www.extrahop.com/jobs/
+    logo:
+      horizontal: /img/sponsors/ExtraHop/ExtraHop_black_logo_w_tagline.png
+      square:
+    description: |-
+      ExtraHop is the global leader in real-time wire data analytics. The ExtraHop
+      Operational Intelligence platform analyzes all L2-L7 communications,
+      including full bidirectional transactional payloads. This innovative
+      approach provides the correlated, cross-tier visibility essential for
+      application performance, availability, and security in today's complex and
+      dynamic IT environments. The winner of numerous awards from Interop and
+      others, the ExtraHop platform scales up to 20 Gbps, deploys without agents,
+      and delivers tangible value in less than 15 minutes.
+    sponsorships:
+      2013: bronze
+      2014: bronze
+      2015: bronze
+      2016: bronze
+      2017: bronze
+      2018: bronze
+      2019: bronze
+      2020: bronze
+      2021: bronze
+      2022: bronze
+
+  - name: Fedora
+    url: https://getfedora.org/
+    logo:
+      horizontal: /img/sponsors/Fedora/fedora-logo.png
+      square:
+    description: |-
+      Choose Freedom. Choose Fedora.
+      Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs,
+      and get to work right away.
+    sponsorships:
+      2016: bronze
+      2018: thanks
+
+  - name: FOSSlife
+    url: https://www.FOSSlife.org/
+    logo:
+      horizontal: /img/sponsors/FOSSlife/FOSSlife_portrait_rgb.png
+      square:
+    description: |-
+      FOSSlife is dedicated to the world of free and open source software, focusing on careers, skills, and resources to help you build your future with FOSS. We provide timely information, useful insight, and practical resources for those who want to build or advance their career with open source. Subscribe to our weekly newsletter to get the latest from FOSSlife at https://www.fosslife.org/newsletter
+    sponsorships:
+      2022: media
+
+  - name: Google
+    url: https://www.google.com
+    logo:
+      horizontal: /img/sponsors/Google/googlelogo_clr_520x172px.png
+      square:
+    description: |-
+      Google's mission is to organize the world's information and make it
+      universally accessible and useful.
+    sponsorships:
+      2014: gold
+      2015: gold
+      2016: platinum
+      2021: gold
+
+  - name: Hewlett-Packard
+    url: http://hpcloud.com
+    logo:
+      horizontal: /img/sponsors/HPCloud/HPENew.png
+      square:
+    description: |-
+      Hewlett-Packard is long term supporter of Linux and of Open Source. HP is a
+      Platinum member of the Linux Foundation and a Founding and Platinum member
+      of the OpenStack Foundation.  HP ships a new Linux server every minute, and
+      operates an OpenStack public cloud at
+      <a href="http://hpcloud.com">http://hpcloud.com</a>
+    sponsorships:
+      2013: bronze
+      2014: bronze
+      2015: bronze
+      2016: bronze
+
+  - name: Linux Journal
+    url: https://www.linuxjournal.com
+    logo:
+      horizontal: /img/sponsors/LinuxJournal/linux-journal.png
+      square:
+    description: |-
+      Linux Journal covers all aspects of the world's most essential operating system and the emerging technologies adjacent to it. Our mission is to deliver a publication that reflects the principled approach followed by kernel developers and the tenets of Open Source philosophy.
+    sponsorships:
+      2013: media
+      2015: bronze
+      2016: bronze
+      2020: media
+
+  - name: Linux Magazine
+    url: https://www.Linux-Magazine.com/
+    logo:
+      horizontal: /img/sponsors/LinuxMagazine/LMI_Logo_Transparent.png
+      square:
+    description: |-
+      Linux Magazine is your guide to the world of Linux and open source. Each monthly issue includes advanced technical information you won't find anywhere else including tutorials, in-depth articles on trending topics, troubleshooting and optimization tips, and more! Subscribe to our free newsletters and get news and articles in your inbox https://bit.ly/Linux-Update
+    sponsorships:
+      2022: media
+
+  - name: Linux Pro Magazine
+    url: https://www.linuxpromagazine.com/
+    logo:
+      horizontal: /img/sponsors/LinuxProMag/linux-pro.png
+      square:
+    description: |-
+      Linux Magazine is your guide to the world of Linux. Linux Magazine provides advanced technical information you won't find anywhere else including tutorials, in-depth articles on trending topics, troubleshooting and optimization tips, and more!
+    sponsorships:
+      2021: media
+
+  - name: Pogo Linux, Inc
+    url: https://www.pogolinux.com
+    logo:
+      horizontal: /img/sponsors/PogoLinux/logo_pogolinux.png
+      square:
+    description: |-
+      Founded in 1999, Pogo Linux, Inc. is an open-source systems integrator based
+      out of Seattle, WA. With a multi-OS focus and in-house technical expertise,
+      we offer a wide range of workstations, servers and network storage solutions
+      for the technology needs of IT departments in organizations of all sizes.
+    sponsorships:
+      2013: bronze
+      2014: bronze
+      2015: bronze
+      2016: silver
+      2017: silver
+
+  - name: Rackspace
+    url: https://www.rackspace.com
+    logo:
+      horizontal: /img/sponsors/Rackspace/Rackspace_Cloud_Company_Logo_clr.png
+      square:
+    description: |-
+      Fanatical Support® has made Rackspace the service leader in cloud
+      computing. We deliver enterprise-class hybrid cloud infrastructures to
+      businesses of all sizes and kinds around the world. We started in 1998
+      and we host hundreds of thousands of customers worldwide. Rackspace
+      combines public cloud, private cloud, and dedicated bare metal computing
+      to provide the perfect infrastructure for each customer’s specific
+      needs. And, the Rackspace Hybrid Cloud is powered by OpenStack® and
+      backed by Fanatical Support.
+    sponsorships:
+      2013: gold
+      2014: gold
+
+  - name: Schedules Direct
+    url: https://www.schedulesdirect.org/
+    logo:
+      horizontal: /img/sponsors/SchedulesDirect/sd_long.png
+      square:
+    description: |-
+      Schedules Direct is a non-profit organization whose mission is to
+      educate the public about the benefits of Open Source Software and other
+      free software, provide support functions for such software, and provide
+      funding for research that facilitates the improvement or creation of
+      Open Source Software and other free software for the benefit of the
+      public at large.
+    sponsorships:
+      2013: gold
+      2014: gold
+      2015: gold
+      2016: platinum
+      2017: gold
+      2018: silver
+      2019: gold
+      2020: gold
+      2021: gold
+      2022: gold
+
+  - name: Seattle Central College
+    url: https://seattlecentral.edu
+    logo:
+      horizontal: /img/sponsors/SCC/seattle-central-college-logo.png
+      square:
+    description: |-
+      Seattle Central College is located on Capitol Hill, the vibrant urban
+      center of Seattle life. We are an educational home for our students, a
+      leadership incubator for our community and an economic catalyst for our
+      state and beyond. Since 1966, the college has served the higher
+      education and workforce training needs of more than 500,000 students.
+
+      Seattle Central is committed to creating a learning environment that is
+      accessible, diverse, responsive, and innovative.
+    sponsorships:
+      2013: platinum
+      2014: platinum
+      2015: platinum
+      2016: platinum
+      2017: platinum
+      2018: platinum
+      2019: platinum
+
+  - name: Silicon Mechanics
+    url: https://www.siliconmechanics.com
+    logo:
+      horizontal: /img/sponsors/SiliconMechanics/SiMechTrimmed.png
+      square:
+    description: |-
+      Silicon Mechanics is an industry-leading provider of server, storage, and
+      high-performance computing solutions. Deploying the latest innovations in
+      hardware and software technology, we work in collaboration with our
+      customers to design and build the most efficient, cost-effective technology
+      solution for their needs. Our guiding principle, "Expert included," is our
+      promise that reflects our passion for complete customer satisfaction, from
+      server and component selection to superior installation and ongoing
+      technical support.
+    sponsorships:
+      2013: platinum
+      2015: silver
+      2016: silver
+
+  - name: The Greater Seattle Linux Users Group
+    url: https://gslug.org
+    logo:
+      horizontal: /img/sponsors/GSLUG/logo.png
+      square:
+    description: |-
+      The Greater Seattle Linux Users Group is a local organization of people in
+      the Seattle Metropolitan area that wish to collaborate on subjects
+      pertaining to Linux and Open Source Software in general. Monthly meetings
+      since 1994 and an active mailing list help to make this possible.
+
+      GSLUG is a Linux Users Group, which means it's mainly comprised of people
+      who use Linux on a day-to-day basis for work and fun, and it is also the
+      premier place for people to come and learn more about Linux and Open Source
+      Software, whether you've never used Linux before, or if you're a seasoned
+      kernel developer, GSLUG is an excellent place to meet new people, learn
+      things you never knew before, and share great ideas.
+    sponsorships:
+      2013: thanks
+      2014: thanks
+      2015: thanks
+      2016: thanks
+      2017: thanks
+      2018: thanks
+
+  - name: Rainier Connect
+    url: https://www.rainierconnect.com/
+    logo:
+      horizontal: /img/sponsors/RainierConnect/logo.png
+      square:
+    description: |-
+      Rainier Connect is South Puget Sound’s premiere phone, cable TV & high-speed
+      Internet provider. Homes & businesses choose us for quality phone, DSL, cable
+      & TV service in Tacoma, Puyallup, Centralia, Eatonville, Graham & beyond.
+    sponsorships:
+      2015: bronze
+
+  - name: Linux Foundation
+    url: https://www.linuxfoundation.org/
+    logo:
+      horizontal: /img/sponsors/LinuxFoundation/OSS-ELC-Black.png
+      square:
+    description: |-
+      Open Source Summit + Embedded Linux Conference is taking place September
+      27-30, in Seattle, Washington. Register today to join us in-person or
+      virtually.
+      
+      Open Source Summit (OSS) is the leading conference for developers,
+      architects and other technologists – as well as open source community and
+      industry leaders – to collaborate, share information, learn about the latest
+      technologies and gain a competitive advantage by using innovative open
+      solutions.
+      
+      Embedded Linux Conference (ELC), the leading, vendor-neutral technical
+      conference for companies and developers using Linux in embedded and
+      industrial IoT products, will once again be held in conjunction with Open
+      Source Summit.
+    sponsorships:
+      2017: media
+      2018: media
+      2021: media
+
+  - name: PyCascades
+    url: https://www.pycascades.com/
+    logo:
+      horizontal: /img/sponsors/PyCascades/pycascades.png
+      square:
+    description:
+    sponsorships:
+      2017: thanks
+
+  - name: GNOME
+    url: https://www.gnome.org/
+    logo:
+      horizontal: /img/sponsors/GNOME/GNOME-LogoHorizontal-Blue.png
+      square:
+    description: |-
+      GNOME is a free and open-source desktop environment project supported by a non-profit foundation. Together, the community of contributors and the Foundation create a computing platform and software ecosystem composed entirely of free software designed to be elegant, efficient, and easy to use.
+    sponsorships:
+      2017: thanks
+      2018: thanks
+      2022: thanks
+
+  - name: Geeks Without Bounds
+    url: http://gwob.org/
+    logo:
+      horizontal: /img/sponsors/GWOB/GWOB.png
+      square:
+    description:
+    sponsorships:
+      2017: thanks
+
+  - name: Microsoft
+    url: https://opensource.microsoft.com/
+    logo:
+      horizontal: /img/sponsors/Microsoft/Microsoft_2019.png
+      square:
+    description:
+    sponsorships:
+      2015: silver
+      2019: bronze
+
+  - name: Jenkins
+    url: https://jenkins.io/
+    logo:
+      horizontal: /img/sponsors/Jenkins/JenkinsLogo.png
+      square:
+    description:
+    sponsorships:
+      2016: thanks
+
+  - name: LibreOffice
+    url: https://www.libreoffice.org/
+    logo:
+      horizontal: /img/sponsors/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
+      square:
+    description: |-
+      LibreOffice is a powerful office suite; Its clean interface and its powerful
+      tools let you unleash your creativity and grow your productivity. LibreOffice
+      embeds several applications that make it the most powerful Free & Open Source
+      Office suite on the market
+    sponsorships:
+      2015: thanks
+      2016: thanks
+
+  - name: Mozilla
+    url: https://www.mozilla.org/en-US/
+    logo:
+      horizontal: /img/sponsors/Mozilla/MozillaLogo.jpeg
+      square:
+    description:
+    sponsorships:
+      2016: bronze
+
+  - name: No Starch Press
+    url: https://www.nostarch.com/
+    logo:
+      horizontal:
+      square: /img/sponsors/NoStarchPress/nsp_logo_black.png
+    description: |-
+      No Starch Press publishes the finest in geek entertainment — distinctive books
+      on computing, such as bestsellers Steal This Computer Book, Hacking -- The Art
+      of Exploitation, Practical Packet Analysis, and The Manga Guides.
+    sponsorships:
+      2015: bronze
+      2016: media
+      2017: media
+
+  - name: LinuxFest Northwest
+    url: https://linuxfestnorthwest.org
+    logo:
+      horizontal: /img/sponsors/LFNW/lfnw_logo_banner.png
+      square: /img/sponsors/LFNW/lfnw_logo_square.png
+    description: |-
+      LinuxFest Northwest (est. 2000), an annual Open Source event co-produced by Bellingham Linux Users Group and the Information Technology department at BTC. LFNW features presentations and exhibits on free and open source topics, as well as Linux distributions & applications, InfoSec, and privacy; something for everyone from the novice to the professional!
+    sponsorships:
+      2015: thanks
+      2016: thanks
+      2017: thanks
+      2018: thanks
+      2019: thanks
+      2020: thanks
+      2021: thanks
+      2022: thanks
+
+  - name: Free Software Foundation
+    url: https://www.fsf.org/
+    logo:
+      horizontal: /img/sponsors/FSF/logo-fsf.org.png
+      square:
+    description: |-
+      The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to
+      promote computer user freedom and to defend the rights of all free software users.
+    sponsorships:
+      2015: thanks
+      2016: thanks
+      2017: platinum
+      2018: platinum
+      2019: platinum
+      2020: platinum
+
+  - name: Write The Docs Seattle
+    url: https://www.meetup.com/Write-The-Docs-Seattle/
+    logo:
+      horizontal:
+      square: /img/sponsors/WriteTheDocsSeattle/WriteTheDocs.jpeg
+    description: |-
+      A group for Seattle technical writers, software developers, content managers, or
+      editors who want to share ideas about how to produce great software and
+      documentation that creates a positive customer experience.
+    sponsorships:
+      2015: thanks
+
+  - name: Seattle Area System Administrators Guild
+    url: https://www.sasag.org/
+    logo:
+      horizontal: /img/sponsors/SASAG/sasag-top-1.png
+      square:
+    description: |-
+      Seattle Area System Administrators Guild (SASAG) is a local group for systems
+      administrators in the Seattle and Pacific Northwest areas (North Western Washington).
+    sponsorships:
+      2015: thanks
+      2016: thanks
+      2020: thanks
+
+  - name: Oregon State University Open Source Lab
+    url: https://osuosl.org/
+    logo:
+      horizontal: /img/sponsors/OSL/osuosl-tag.png
+      square:
+    description:
+    sponsorships:
+      2015: thanks
+      2020: thanks
+      2021: thanks
+      2022: thanks
+
+  - name: Northeastern University Seattle
+    url: https://www.northeastern.edu/seattle/
+    logo:
+      horizontal: /img/sponsors/NortheasternUniversitySeattle/NortheasternSeattle.jpg
+      square:
+    description:
+    sponsorships:
+      2015: thanks
+
+  - name: The FreeBSD Project
+    url: https://www.freebsd.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/FreeBSD/FREEBSD_Logo_Vert_Pos_RGB.png
+    description: |-
+      FreeBSD is an advanced computer operating system used to power modern servers, desktops
+      and embedded platforms. A large community has continually developed it for more than
+      thirty years. Its advanced networking, security and storage features have made FreeBSD
+      the platform of choice for many of the busiest web sites and most pervasive embedded
+      networking and storage devices.
+    sponsorships:
+      2015: thanks
+      2017: thanks
+      2019: thanks
+
+  - name: Pacific Northwest PHP Conference
+    url: http://pnwphp.com
+    logo:
+      horizontal:
+      square: /img/sponsors/PNWPHP/pnwphp.png
+    description: |-
+      The Pacific Northwest PHP Conference is a 3-day event for PHP developers living in the
+      Pacific Northwest region. We've invited world-renowned speakers from the PHP community
+      to teach about topics ranging from continuous integration to the cloud. Join us for the
+      amazing presentations, catered food, musical numbers, the hackathon, and the live blog.
+    sponsorships:
+      2015: thanks
+      2017: thanks
+
+  - name: West Seattle Linux User Group
+    url: https://wsealug.net
+    logo:
+      horizontal: /img/sponsors/WSLUG/wsea-g.png
+      square:
+    description: |-
+      Anyone who is interested in Linux and talking about it with your neighbors. We have bi-weekly meet-ups and are currently meeting at the West Seattle & Fauntleroy YMCA. (https://www.seattleymca.org/locations/west-seattle-fauntleroy-ymca)
+      At each meeting we plan to have a 30 minute demonstration of something GNU/Linux related. We are keeping track of these and suggestions on a public Trello board: https://trello.com/b/duBE2Tpr/wsealug
+    sponsorships:
+      2017: thanks
+      2018: thanks
+      2019: thanks
+      2020: thanks
+      2021: thanks
+      2022: thanks
+
+  - name: API City's APIs and IPAs Seattle
+    url: http://startupseattle.com/2013/02/06/apis-ipas-seattle/
+    logo:
+      horizontal:
+      square: /img/sponsors/APICity/apicity.jpg
+    description: |-
+      This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community.
+      We want to support your local tech community, and we want to get to know developers everywhere.
+    sponsorships:
+      2017: thanks
+
+  - name: PostgreSQL
+    url:
+    logo:
+      horizontal:
+      square: /img/sponsors/PostGreSQL/PostgreSQL.png
+    description:
+    sponsorships:
+      2017: thanks
+      2018: thanks
+
+  - name: Software Freedom Conservancy
+    url: https://sfconservancy.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/SFC/SFC-logo.png
+    description:
+    sponsorships:
+      2016: thanks
+      2017: thanks
+      2019: thanks
+      2020: thanks
+      2021: thanks
+
+  - name: Kubuntu
+    url: https://kubuntu.org/
+    logo:
+      horizontal: /img/sponsors/Kubuntu/kubuntu-logo-lucid.svg
+      square:
+    description: |-
+      Kubuntu is a community developed and supported project. Since its launch in October 2004, Kubuntu has become one of the most highly regarded Linux distributions with millions of users around the world.  Our mission is to provide the latest stable KDE software, which includes the flagship project Plasma, our desktop environment on top of a stable Ubuntu core.  We release in 6 monthly cycles, following the same freezes/milestones as Ubuntu.
+    sponsorships:
+      2016: thanks
+      2017: thanks
+      2021: thanks
+
+  - name: Lubuntu
+    url: https://lubuntu.me/
+    logo:
+      horizontal: /img/sponsors/Lubuntu/Lubuntu-logo.png
+      square:
+    description:
+    sponsorships:
+      2016: thanks
+
+  - name: Red Hat
+    url: https://community.redhat.com
+    logo:
+      horizontal: /img/sponsors/RedHat/Logo-RedHat-A-Color-RGB.png
+      square: /img/sponsors/RedHat/Logo-RedHat-D-Color-RGB.png
+    description: |-
+      Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.
+    sponsorships:
+      2016: bronze
+      2020: silver
+      2021: silver
+
+  - name: SeaPHP UG
+    url: https://www.meetup.com/seaphp/
+    logo:
+      horizontal:
+      square: /img/sponsors/SEAPHP/SEAPHP.png
+    description:
+    sponsorships:
+      2016: thanks
+      2017: thanks
+
+  - name: SoDo Makerspace
+    url: http://sodo.ms/
+    logo:
+      horizontal:
+      square: /img/sponsors/SoDo/sodo.png
+    description:
+    sponsorships:
+      2016: thanks
+
+  - name: Cascadia Wikimedians
+    url: https://meta.wikimedia.org/wiki/Cascadia_Wikimedians
+    logo:
+      horizontal:
+      square: /img/sponsors/CascadiaWikimedians/cascwiki.png
+    description:
+    sponsorships:
+      2016: thanks
+
+  - name: TA3M & SPC
+    url: https://seattleprivacy.org/ta3m/
+    logo:
+      horizontal: /img/sponsors/TA3M/TA3M.png
+      square:
+    description: |-
+      Techno-Activism Third Mondays (TA3M) is an informal meetup designed to connect software creators and activists who are interested in censorship, surveillance, and open technology. Currently, TA3M are held in various cities throughout the world, with many more launching in the near future.
+      TA3M is explicitly informal and open. You are invited to hack the process, ask questions, and be critical. You are very welcome to join in if you have something you want to share or discuss.
+    sponsorships:
+      2016: thanks
+      2017: thanks
+      2018: thanks
+      2019: thanks
+      2020: thanks
+
+  - name: Comcast Technology Solutions
+    url: https://www.comcasttechnologysolutions.com/
+    logo:
+      horizontal: /img/sponsors/Comcast/cts.png
+      square:
+    description:
+    sponsorships:
+      2017: bronze
+
+  - name: Redfin
+    url: https://www.redfin.com/city/16163/WA/Seattle
+    logo:
+      horizontal: /img/sponsors/Redfin/redfin-logo.png
+      square:
+    description:
+    sponsorships:
+      2017: thanks
+
+  - name: Private Internet Access
+    url: https://privateinternetaccess.com
+    logo:
+      horizontal: /img/sponsors/PrivateInternetAccess/pia-logo-black.png
+      square:
+    description:
+    sponsorships:
+      2018: platinum
+
+  - name: Polyverse
+    url: https://polyverse.io
+    logo:
+      horizontal: /img/sponsors/Polyverse/polyverse-logo.png
+      square:
+    description:
+    sponsorships:
+      2018: bronze
+
+  - name: IBM
+    url: https://developer.ibm.com
+    logo:
+      horizontal: /img/sponsors/IBM/ibmpos_blurgb.jpg
+      square:
+    description:
+    sponsorships:
+      2018: gold
+
+  - name: JMP.chat
+    url: https://jmp.chat/
+    logo:
+      horizontal:
+      square: /img/sponsors/JMP.chat/jmp.svg
+    description:
+    sponsorships:
+      2018: thanks
+      2021: platinum
+      2022: bronze
+
+  - name: twilio
+    url: https://www.twilio.com/
+    logo:
+      horizontal: /img/sponsors/twilio/twilio-logo-red.png
+      square:
+    description:
+    sponsorships:
+      2018: platinum
+
+  - name: Yubico
+    url: https://www.Yubico.com/
+    logo:
+      horizontal: /img/sponsors/Yubico/Yubico-logo-website.png
+      square:
+    description:
+    sponsorships:
+      2018: thanks
+
+  - name: linode
+    url: https://www.linode.com/
+    logo:
+      horizontal: /img/sponsors/linode/linode-logo_standard_light_medium.png
+      square:
+    description:
+    sponsorships:
+      2018: thanks
+      2019: thanks
+
+  - name: Pragmatic Bookshelf
+    url: https://pragprog.com
+    logo:
+      horizontal: /img/sponsors/PragmaticBookshelf/pragprog.jpg
+      square:
+    description:
+    sponsorships:
+      2018: media
+
+  - name: Indeed
+    url: https://www.indeed.com
+    logo:
+      horizontal: /img/sponsors/indeed/indeed.png
+      square:
+    description:
+    sponsorships:
+      2018: bronze
+      2019: silver
+      2020: platinum
+
+  - name: Open Humans
+    url: https://www.OpenHumans.org/
+    logo:
+      horizontal: /img/sponsors/OpenHumans/open-humans-logo-horizontal-80px.f71a97b4a07d.png
+      square:
+    description:
+    sponsorships:
+      2018: thanks
+
+  - name: MySQL
+    url: https://www.mysql.com/
+    logo:
+      horizontal:
+      square: /img/sponsors/MySQL/MySQL-clr.png
+    description: |-
+      MySQL is the World’s Most Popular Open Source Database. It powers the most innovative companies including Facebook, Booking, Uber, and Tesla. It is available on-premises and as the MySQL Database Service on Oracle Cloud. For developers, it’s an easy to use, reliable and high-performance database with NoSQL and SQL support. SaaS, ecommerce, financial, telecom, and Fortune 1000 companies rely on the MySQL Enterprise edition advanced security features to protect the privacy of information, prevent data breaches and help meet regulatory requirements such as GDPR, PCI, HIPAA. MySQL High Availability has native HA, fully integrated into the MySQL Server for 99.99% uptime.
+    sponsorships:
+      2018: thanks
+      2021: bronze
+
+  - name: Cloud Native Computing Foundation
+    url: https://www.cncf.io
+    logo:
+      horizontal:
+      square: /img/sponsors/CNCF/cncf-banner.png
+    description: |-
+      The Cloud Native Computing Foundation (CNCF) hosts critical components of
+      the global technology infrastructure. CNCF brings together the world's
+      top developers, end users, and vendors and runs the largest open source
+      developer conferences. CNCF is part of the nonprofit Linux Foundation.
+    sponsorships:
+      2019: thanks
+
+  - name: Dragonchain
+    url: https://www.dragonchain.com
+    logo:
+      horizontal:
+      square: /img/sponsors/Dragonchain/Jojo+Dragonchaintext-02.png
+    description: |-
+      Dragonchain is a U.S.-based technology leader, offering Blockchain as a
+      Service with security and scalability at the forefront of its operations.
+      Dragonchain is an open sourced public/private hybrid blockchain platform
+      combines high performance and comprehensive ease of use, allowing any
+      developer or enterprise to build and deploy a blockchain solution in minutes.
+      As a service provider, Dragonchain empowers developers and businesses with an
+      enterprise-grade blockchain solution. For more information on Dragonchain,
+      please visit https://dragonchain.com/
+
+      Twitter https://twitter.com/dragonchain
+      LinkedIn https://www.linkedin.com/company/dragonchain/
+      Facebook https://facebook.com/Dragonchaingang/
+      YouTube https://www.youtube.com/c/DragonchainOfficial
+      GitHub https://github.com/dragonchain-inc
+      Telegram https://t.me/dragontalk
+    sponsorships:
+      2019: bronze
+
+  - name: Snowdrift.coop
+    url: https://snowdrift.coop
+    logo:
+      horizontal: /img/sponsors/Snowdrift/snowdrift-logo_symbol-wordmark_dark-blue.svg.png
+      square: /img/sponsors/Snowdrift/snowdrift-logo_symbol_dark-blue.svg.png
+    description: |-
+      Snowdrift.coop is a fundraising platform for public goods like free software. It uses a new approach called "crowdmatching" where patrons pledge to increase their monthly donations by a tiny amount for _each_ patron who will give with them.
+    sponsorships:
+      2019: thanks
+      2020: thanks
+      2021: thanks
+      2022: thanks
+
+  - name: Ubuntu-PNW
+    url: https://wiki.ubuntu.com/PNWTeam
+    logo:
+      horizontal: /img/sponsors/Ubuntu/pnw-logo-medium.png
+      square:
+    description: |-
+      PNWTeam is the Ubuntu user group for the Pacific Northwest region of the United States. If you haven't found a local community (loco) team to call home yet please feel free to jump in and help out.
+
+      Mailing List https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-pnw
+      Forum http://pnw.ubuntu-us.org/forum
+    sponsorships:
+      2018: thanks
+      2019: thanks
+
+  - name: Amazon
+    url: https://www.amazon.com/
+    logo:
+      horizontal: /img/sponsors/Amazon/Amazon_logo.svg
+      square:
+    description:
+    sponsorships:
+      2020: platinum
+
+  - name: Amazon AWS
+    url: https://aws.amazon.com/opensource/
+    logo:
+      horizontal:
+      square: /img/sponsors/AWS/AWS_logo_RGB.svg
+    description:
+    sponsorships:
+      2019: bronze
+      2021: platinum
+
+  - name: SeaPUG
+    url: https://www.meetup.com/Seattle-Postgres/
+    logo:
+      horizontal:
+      square: /img/sponsors/SeaPUG/SeaPUG.jpeg
+    description:
+    sponsorships:
+      2019: thanks
+
+  - name: Open Source Initiative
+    url: https://opensource.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/OSI/OSI_Standard_Logo.svg
+    description: |-
+      The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.  
+      Open source enables a development method for software that harnesses the power of distributed peer review and transparency of process. The promise of open source is higher quality, better reliability, greater flexibility, lower cost, and an end to predatory vendor lock-in.  
+      One of our most important activities is as a standards body, maintaining the Open Source Definition for the good of the community. The Open Source Initiative Approved License trademark and program creates a nexus of trust around which developers, users, corporations and governments can organize open source cooperation.
+    sponsorships:
+      2020: thanks
+      2021: thanks
+      2022: thanks
+
+  - name: Electronic Frontier Foundation
+    url: https://www.eff.org/
+    logo:
+      horizontal: /img/sponsors/EFF/EFF-logo-lockup-red.png
+      square:
+    description: |-
+      The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
+    sponsorships:
+      2020: thanks
+      2021: thanks
+
+  - name: Women In Linux
+    url: https://www.womeninlinux.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/WomenInLinux/WIL_250x250.png
+    description: |-
+      Women In Linux is a non-profit organization supporting women in Linux-centric tech careers who want to obtain and sustain a thriving career in tech.
+    sponsorships:
+      2020: thanks
+      2021: thanks
+
+  - name: Linux App Summit
+    url: https://linuxappsummit.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/LinuxAppSummit/LAS_400x400.jpg
+    description: |-
+      LAS welcomes application developers, designers, product managers, user experience specialists, community leaders, academics, and anyone who is interested in the state of Linux application design and development!
+    sponsorships:
+      2020: thanks
+      2021: thanks
+
+  - name: ShellCon/RaiseMe
+    url: https://shellcon.io/raiseme/
+    logo:
+      horizontal:
+      square: /img/sponsors/ShellCon/RaiseMeMedusaLogo.png
+    description: |-
+      The RaiseMe arm of ShellCon is dedicated to supporting our entire community. We have a complete lineup of career talks on Friday and Saturday during ShellCon, and also offer one-on-one assistance in the form of consulting appointments with our volunteer professional staff.
+    sponsorships:
+      2020: thanks
+      2021: thanks
+
+  - name: Phoenix Linux Users Group
+    url: https://phxlinux.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/PLUG/PLUG-covid-logo.jpg
+    description: |-
+      PLUG is a group of people in the Phoenix, Arizona, USA area who get together several times a month. We have various meetings in several different formats all with the common goal of educating the public about the Linux operating system.  No knowledge of Linux is presumed or required, although most members are running Linux in some application.
+    sponsorships:
+      2020: thanks
+      2021: thanks
+      2022: thanks
+
+  - name: KODI
+    url: https://kodi.tv/
+    logo:
+      horizontal: /img/sponsors/KODI/KODI-banner.png
+      square:
+    description: |-
+      Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.
+    sponsorships:
+      2020: thanks
+      2021: thanks
+
+  - name: Black Lodge Research
+    url: https://www.black-lodge.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/BlackLodgeResearch/BLR.png
+    description: |-
+      Black Lodge Research, founded in 2007, is a hackerspace located in Redmond, Washington that serves the greater Seattle Hacker community. BLR is unique in that it is the only space in greater Seattle area focusing on the topics of Information Security and Privacy. The Lodge offers educational workshops, presentations and demonstrations; as well as a shop area with electronics and power tools for members to use.
+    sponsorships:
+      2021: thanks
+
+  - name: HuskyFOSS
+    url: https://huskylink.washington.edu/organization/huskyfoss
+    logo:
+      horizontal:
+      square: /img/sponsors/HuskyFOSS/HuskyFOSS.png
+    description: |-
+      We are an organization exploring the realm of free and open source software and encouraging their use in daily life. We love to use Linux (distributions) and learn something new about it every time we meet.
+    sponsorships:
+      2021: thanks
+
+  - name: Ubuntu Community Fund
+    url: https://ubuntu.com/community
+    logo:
+      horizontal: /img/sponsors/Ubuntu/ubuntu_orange_hex.png
+      square:
+    description: |-
+      When downloading Ubuntu, users can donate money to be used by Canonical to support and improve the areas that the contributor feels are most important. Donations made to “Community projects” are used to fund people and projects outside of Canonical in ways that benefit the Ubuntu community.
+    sponsorships:
+      2021: gold
+
+  - name: Tidelift
+    url: https://tidelift.com/
+    logo:
+      horizontal: /img/sponsors/Tidelift/Tidelift_primary-logo.webp
+      square:
+    description: |-
+      Tidelift helps organizations effectively manage the open source behind modern applications. Tidelift enables organizations to accelerate development and reduce risk when building apps with open source, so they can create even more incredible software.
+    sponsorships:
+      2021: silver
+
+  - name: Destination Linux Network
+    url: https://destinationlinux.network/
+    logo:
+      horizontal: /img/sponsors/DestinationLinuxNetwork/dln-logo.png
+      square:
+    description: |-
+      Destination Linux Network - A Media Network Powered By Linux & Open Source. Check out Destination Linux, Hardware Addicts, Sudo Show, DLN Xtend, Ask Noah Show and the Fedora Podcast. 
+    sponsorships:
+      2021: media
+
+  - name: TuxDigital
+    url: https://TuxDigital.com/
+    logo:
+      horizontal: /img/sponsors/TuxDigital/tuxdigital-logo-blue-horizontal.png
+      square: /img/sponsors/TuxDigital/tuxdigital-logo-blue-stacked.png
+    description: |-
+      TuxDigital - A Media Network Powered By Linux & Open Source. Check out Destination Linux, This Week In Linux, Hardware Addicts, Sudo Show, Linux Out Loud, Linux Saloon, Game Sphere and the Fedora Podcast. 
+    sponsorships:
+      2022: media
+
+  - name: Jupiter Broadcasting
+    url: https://www.jupiterbroadcasting.com/
+    logo:
+      horizontal: /img/sponsors/JupiterBroadcasting/jb-website-logo.png
+      square: /img/sponsors/JupiterBroadcasting/jb-rocket-medium.png
+    description: |-
+      Jupiter Broadcasting - The best podcasts in the world about Linux, free software, and more.
+    sponsorships:
+      2021: media
+
+  - name: GeekBeacon Fest
+    url: https://gbfest.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/GBFest/GBFest_Final_design_version_22_modd.png
+    description: |-
+      GeekBeacon Fest's mission is to unify geeks and make the world a better place through a celebration of Mental Health, Gaming, Open Culture, and Open Source. February 18th-19th, 2022
+    sponsorships:
+      2021: thanks
+      2022: media
+
+  - name: DevOps Party Games
+    url: https://devopspartygames.com
+    logo:
+      horizontal: /img/sponsors/DevOpsPartyGames/dpg-high-res-logo.png
+      square:
+    description: |-
+      DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, and then streams it live via Twitch for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts (Matt Stratton, Jeremy Meiss, and Dan Maher) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from Dodgeball).
+      The goal here is to have fun and not take things too seriously. A live streamed game show that is most definitely a ridiculous idea, but hopefully entertaining.
+    sponsorships:
+      2021: thanks
+
+  - name: Leadingbit Solutions
+    url: https://www.leadingbit.com
+    logo:
+      horizontal: '/img/sponsors/Leadingbit/Leadingbit Logo White- BKG (1920 x 580 px).png'
+      square:
+    description:
+    sponsorships:
+      2021: bronze
+
+  - name: Matrix Foundation
+    url: https://matrix.org/
+    logo:
+      horizontal: /img/sponsors/Matrix/matrix-logo.svg
+      square:
+    description:
+    sponsorships:
+      2021: thanks
+      2022: thanks
+
+  - name: Seattle Matrix
+    url: https://seattlematrix.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/SeattleMatrix/SeattleMatrixLogo-web.svg
+    description:
+    sponsorships:
+      2021: thanks
+      2022: thanks
+
+  - name: DevOpsDays Seattle
+    url: https://devopsdays.org/events/2022-seattle/
+    logo:
+      horizontal: /img/sponsors/DevOpsDaysSeattle/DevOpsDaysSeattle.png
+      square: 
+    description: |-
+      DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Our audience is composed primarily of practitioners.
+    sponsorships:
+      2022: thanks
+
+  - name: DevITjobs.us
+    url: https://devitjobs.us/events
+    logo:
+      horizontal: 
+      square: /img/sponsors/DevITjobs.us/devitUS-logo-name-long-square-rounded.png
+    description: |-
+      DevITJobs.us is the first job board built with Software Engineers in mind.
+    sponsorships:
+      2022: media

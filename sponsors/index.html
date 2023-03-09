@@ -12,7 +12,7 @@ levels:
 ---
 
 {% assign sponsor_years = site.sponsor-years | reverse %}
-{% assign sponsors = site.data.sponsorship | sort: "name" %}
+{% assign sponsors = site.data.sponsorship.sponsors | sort: "name" %}
 
 <div class="hero-unit">
   <h1>SeaGL Sponsors</h1>

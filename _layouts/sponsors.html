@@ -11,7 +11,7 @@ levels:
 ---
 
 {% capture year %}{{ page.slug }}{% endcapture %}{% assign year = year | plus: 0 %}
-{% assign sponsors = site.data.sponsorship | sort: "name" %}
+{% assign sponsors = site.data.sponsorship.sponsors | sort: "name" %}
 
 <div class="hero-unit">
   <h1>SeaGL {{ year }} Sponsors</h1>
