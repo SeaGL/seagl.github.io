@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/834
 beginning: '2021-11-05T14:00:00.000-07:00'
 end: '2021-11-05T14:30:00.000-07:00'
 resources:
-  internet_archive_identifier: SeaGL2021-Dawn_E_Collett-The_Stories_We_Dont_Tell
+  internet_archive_identifier: SeaGL2021-Dawn_Cooper-The_Stories_We_Dont_Tell
   resources_url: https://github.com/lisushka/tswdt
 presenters:
 - name: Dawn Cooper

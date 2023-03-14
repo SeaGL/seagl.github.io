@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2021/program/proposals/835
 beginning: '2021-11-06T10:00:00.000-07:00'
 end: '2021-11-06T10:30:00.000-07:00'
 resources:
-  internet_archive_identifier: SeaGL2021-Dawn_E_Collett-Free_Security_for_Open-Source_Projects
+  internet_archive_identifier: SeaGL2021-Dawn_Cooper-Free_Security_for_Open-Source_Projects
   resources_url: https://github.com/lisushka/free-security
 presenters:
 - name: Dawn Cooper

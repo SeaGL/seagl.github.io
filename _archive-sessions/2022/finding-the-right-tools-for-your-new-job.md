@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/898
 beginning: '2022-11-04T14:15:00.000-07:00'
 end: '2022-11-04T14:45:00.000-07:00'
 resources:
-  internet_archive_identifier: SeaGL2022-Dawn_E_Collett-Finding_the_right_tools_for_your_new_job
+  internet_archive_identifier: SeaGL2022-Dawn_Cooper-Finding_the_right_tools_for_your_new_job
 presenters:
 - name: Dawn Cooper
   osem_url: https://osem.seagl.org/users/1143
