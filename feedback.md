@@ -1,5 +1,5 @@
 ---
 redirect_from:
   - /Feedback
-redirect_to: https://docs.google.com/forms/d/e/1FAIpQLSd0-N613UxJO27gRUm-0x_2lyVbUU482Y43hHEAUPaaxyJCng/viewform?usp=sf_link
+redirect_to: https://docs.google.com/forms/d/e/1FAIpQLSfsX4An6Wf5mLjnqFpJUMM3it9um5VaMrgXraFkCQEoMin02A/viewform?usp=sf_link
 ---
