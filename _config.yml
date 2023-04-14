@@ -7,6 +7,7 @@ highlighter:    rouge
 
 # Allowed plugins: https://pages.github.com/versions/
 plugins: &plugins
+    - jekyll-github-metadata
     - jekyll-paginate
     - jekyll-redirect-from
 whitelist: *plugins
@@ -18,6 +19,9 @@ name:           Seattle GNU/Linux Conference
 short_name:     SeaGL
 description:    Seattle GNU/Linux Conference
 origin: &origin https://seagl.org
+
+# jekyll-github-metadata configuration
+repository: SeaGL/seagl.github.io
 
 # jekyll-redirect-from configuration
 url: *origin
