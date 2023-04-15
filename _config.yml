@@ -35,6 +35,7 @@ collections:
     archive-sessions:
         output: true
         permalink: /archive/:path
+    calendars: { output: true }
     sponsor-years:
         output: true
         permalink: /sponsors/:path
@@ -48,6 +49,8 @@ defaults:
       values:
         layout: archive/session
         nav: archive
+    - scope: { type: calendars }
+      values: { layout: calendar }
     - scope: { type: sponsor-years }
       values:
         body_id: sponsors

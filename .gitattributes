@@ -1,0 +1,2 @@
+# RFC 5545 specifies CRLF in iCalendar objects
+*.ics text eol=crlf

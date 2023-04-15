@@ -1,0 +1,36 @@
+{%- capture crlf %}
+{% endcapture -%}{% assign jekyll_issue_6523 = crlf | slice: 1 %}
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:{{ site.github.repository_nwo }}@{{ site.github.build_revision }}
+VERSION:2.0
+{% if site.timezone == 'America/Los_Angeles' %}BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:https://www.tzurl.org/zoneinfo/America/Los_Angeles.ics
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+{% endif %}{% for entry in page.events %}{% assign id = entry[0] %}{% assign event = entry[1] %}BEGIN:VEVENT
+UID:{{ site.origin }}{{ page.url }}#{{ id }}
+DTSTAMP;TZID={{ site.timezone }}:{{ page.date | date: '%Y%m%dT%H%M%SZ' }}
+ORGANIZER;CN={{ site.name }}:{{ site.origin }}/
+SUMMARY:{{ event.title | replace: '\', '\\\\' | replace: ';', '\\;' | replace: ',', '\\,' | strip | replace: jekyll_issue_6523, '\\n' }}
+{% if event.description %}DESCRIPTION:{{ event.description | replace: '\', '\\\\' | replace: ';', '\\;' | replace: ',', '\\,' | strip | replace: jekyll_issue_6523, '\\n' }}
+{% endif %}DTSTART{% if event.all_day %};VALUE=DATE{% endif %};TZID={{ site.timezone }}:{% if event.all_day %}{{ event.beginning | date: '%Y%m%d' }}{% else %}{{ event.beginning | date: '%Y%m%dT%H%M%S' }}{% endif %}
+{% if event.end %}DTEND{% if event.all_day %};VALUE=DATE{% endif %};TZID={{ site.timezone }}:{% if event.all_day %}{{ event.end | date: '%Y%m%d' }}{% else %}{{ event.end | date: '%Y%m%dT%H%M%S' }}{% endif %}
+{% endif %}{% if event.duration %}DURATION:P{% unless event.all_day %}T{% endunless %}{{ event.duration | upcase }}
+{% endif %}{% if event.repeat %}RRULE:FREQ={{ event.repeat.frequency | upcase }}{% if event.repeat.interval %};INTERVAL={{ event.repeat.interval }}{% endif %}{% if event.repeat.until_utc %};UNTIL={{ event.repeat.until_utc | date: '%Y%m%dT%H%M%SZ' }}{% endif %}
+{% endif %}END:VEVENT
+{% endfor %}END:VCALENDAR
