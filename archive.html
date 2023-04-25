@@ -14,15 +14,34 @@ redirect_from:
 
   {% for conference in conferences %}
   {% capture year %}{{ conference.slug }}{% endcapture %}
+  {% capture session_path_prefix %}/{{ year }}/{% endcapture %}
+  {% assign keynotes = site.archive-sessions
+    | where_exp: 'session', 'session.relative_path contains session_path_prefix'
+    | where_exp: 'session', 'session.keynote'
+    | sort: 'beginning' %}
 
-  <div style="margin-bottom: 1em;">
+  <div style="margin: 3em 0;">
     <h2>
       <a href="{{ conference.url }}">SeaGL {{ year }}</a>
+
+      {% if conference.subtitle %}
+      <span class="subtitle">{{ conference.subtitle }}</span>
+      {% endif %}
     </h2>
 
-    {% if conference.subtitle %}
-    <div style="font-style: italic;">{{ conference.subtitle }}</div>
-    {% endif %}
+    {% unless keynotes == empty %}
+    <div style="margin-bottom: 2em;">
+      <h4>Keynotes</h4>
+
+      {% for keynote in keynotes %}
+      {% for presenter in keynote.presenters %}
+      <p>{{ presenter.name }}{% if presenter.affiliation %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}</p>
+      {% endfor %}
+      {% endfor %}
+    </div>
+    {% endunless %}
+
+    <p><a class="btn btn-primary" href="{{ conference.url }}">View All {{ year }} Sessions</a></p>
   </div>
 
   {% endfor %}
