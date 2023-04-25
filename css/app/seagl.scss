@@ -23,11 +23,21 @@ h1, h2, h3, h5, h6 {
   font-family: 'Dosis', sans-serif;
 }
 h1 {
-  font-size: 500%;
+  font-size: 5rem;
   text-transform: uppercase;
   color: #FCB320;
   text-shadow: 0 1px 1px #fff;
-  margin-bottom: 0.5em;
+  margin-bottom: 2rem;
+}
+h2 {
+  font-size: 3.5rem;
+  margin-bottom: 2rem;
+}
+h3 {
+  font-size: 2.5rem;
+}
+.with-heading {
+  h2 + & { margin: -1em 0 2em; }
 }
 a:not(.btn):not(.label) {
   &, &:active {
@@ -237,7 +247,10 @@ p img {
 .subtitle {
   color: #999;
   display: block;
-  font-size: 2.5rem;
+  margin-top: 0.5rem;
+
+  h1 > & { font-size: 3rem; }
+  h2 > & { font-size: 2.25rem; }
 }
 .well {
   $bootstrap-padding: 20px;
