@@ -25,7 +25,7 @@ We _encourage_ attendees to wear [facial coverings recommended by the United Sta
 
 We _require_ attendees, aside from the active presenter, to wear [facial coverings recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) in all presentation spaces, including the keynote auditorium.
 
-We _encourage_ the use of masks with an N95 or similar rating. These are particularly effective at reducing exposure to viruses, as well as allergens that are likely to be in high concentration at our venue and may cause COVID/flu-like symptoms.
+We _encourage_ the use of masks with an N95 or similar rating. These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that  may cause COVID/flu-like symptoms.
 
 We _commit_ to having a supply of high-quality facial coverings at the event and will supply any attendee who needs one, free of charge.
 
@@ -87,7 +87,7 @@ We _require_ attendees not attend the conference if their presence would create 
 
 Increased risk factors include:
 
-- Experiencing known COVID-19 or flu-like symptoms, in ways that are uncommon
+- Experiencing known COVID-19 or flu-like symptoms, in ways that are unusual to you
 - Testing positive to COVID-19 during the conference, or before the conference without subsequently testing negative (for example, by 2 non-positive rapid antigen tests taken 48 hours apart, or a negative PCR test)
 - Experiencing extended close contact with someone who has tested positive to COVID-19, influenza, or other communicable respiratory infections
 - Any significant risk factor identified by the State of Washington or United States Public Health authorities
