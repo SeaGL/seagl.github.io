@@ -116,7 +116,7 @@ We _commit_ to offer a refund, should we have a paid ticket option, prorated to 
 
 ## Reporting
 
-We _expect_ attendees who test positive for COVID-19, influenza, or other communicable respitory infections within the seven (7) days following the event to inform the organizing team, in order that other attendees can be notified and adopt appropriate risk management.
+We _expect_ attendees who test positive for COVID-19, influenza, or other communicable respiratory infections within the seven (7) days following the event to inform the organizing team, in order that other attendees can be notified and adopt appropriate risk management.
 
 We _commit_ to providing an anonymous reporting channel, and not identifying attendees who report testing positive.
 
