@@ -30,6 +30,8 @@ This gives us more accurate estimates of attendance, which help us raise money f
 The registration system is free / libre / open source software and we promise to protect your data.
 -->
 
+All attendees must abide by the [Code of Conduct](/coc), and if participating in-person, the [Health and Safety Policy](/health).
+
 ### Stay informed
 
 Sign up for our low-traffic [announcement mailing list]({{ site.custom.url.mailing_list.seagl_announce }}) or subscribe to our [RSS news feed](/feed.xml).
