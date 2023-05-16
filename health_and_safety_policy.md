@@ -15,8 +15,6 @@ redirect_from:
   - /Safety
 ---
 
-<!-- Source: https://github.com/SeaGL/seagl.github.io/blob/main/health_and_safety_policy.md -->
-
 # Health and Safety Policy
 
 SeaGL, the Seattle GNU/Linux Conference, is more than just a gathering; it is a community. As such, we all have a duty to protect one another and keep our community safe.

@@ -9,8 +9,6 @@ redirect_from:
   - /CoC
 ---
 
-<!-- Source: https://github.com/SeaGL/organization/blob/main/Code-of-Conduct.md -->
-
 # Code of Conduct
 
 **Contact:** <CoC@seagl.org>
