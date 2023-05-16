@@ -5,13 +5,17 @@ description: Health and Safety Policy
 nav: health_and_safety
 body_id: health
 redirect_from:
+  - /covid19
+  - /COVID19
+  - /covid-19
+  - /COVID-19
   - /health
   - /Health
   - /safety
   - /Safety
 ---
 
-<!-- Source: https://github.com/SeaGL/organization/blob/main/Health-and-Safety-Policy.md -->
+<!-- Source: https://github.com/SeaGL/seagl.github.io/blob/main/health_and_safety_policy.md -->
 
 # Health and Safety Policy
 
