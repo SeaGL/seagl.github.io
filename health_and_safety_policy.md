@@ -50,7 +50,7 @@ We _commit_ to having a supply of high-quality facial coverings at the event and
 
 We _commit_ to providing outdoor space for attendees who wish to eat, drink, or socialize without wearing a facial covering.
 
-The first two violations of this masking policy by a participant will result in verbal or written warnings. A third violation will result in removal from the conference with no recourse.
+The first two (2) violations of this masking policy by a participant will result in verbal or written warnings. A third (3rd) violation will result in removal from the conference with no recourse.
 
 Note that there are spaces on our venue’s premises which are not subject to our policy.
 
@@ -70,9 +70,9 @@ We _encourage_ anyone with concerns about the available COVID-19 vaccines review
 
 ## Testing
 
-We _expect_ attendees to have completed a COVID-19 PCR test within 72 hours or a rapid antigen test within 3 hours before attending the event.
+We _expect_ attendees to have completed a COVID-19 PCR test within 72 hours or a rapid antigen test within three (3) hours before attending the event.
 
-We _encourage_ attendees to test daily during the event, during travel days to or from Seattle, and on the 5th day following the conclusion of the event to account for an incubation period.
+We _encourage_ attendees to test daily during the event, during travel days to or from Seattle, and on the fifth (5th) day following the conclusion of the event to account for an incubation period.
 
 We _strive_ to offer COVID-19 rapid antigen tests for those with financial need, including financial aid recipients.
 
@@ -88,7 +88,7 @@ We _commit_ to using CO₂ monitors as a proxy for ventilation levels throughout
 
 ## Physical Distancing
 
-We _encourage_ attendees to maintain 6 feet of open space between one another where able.
+We _encourage_ attendees to maintain six (6) feet of open space between one another where able.
 
 We _expect_ attendees to respect one another's boundaries, especially if a request for distancing is made.
 
@@ -107,7 +107,7 @@ We _require_ attendees not attend the conference if their presence would create 
 Increased risk factors include:
 
 - Experiencing known COVID-19 or flu-like symptoms, in ways that are unusual to you
-- Testing positive to COVID-19 during the conference, or before the conference without subsequently testing negative (for example, by 2 non-positive rapid antigen tests taken 48 hours apart, or a negative PCR test)
+- Testing positive to COVID-19 during the conference, or before the conference without subsequently testing negative (for example, by two (2) non-positive rapid antigen tests taken 48 hours apart, or a negative PCR test)
 - Experiencing extended close contact with someone who has tested positive to COVID-19, influenza, or other communicable respiratory infections
 - Any significant risk factor identified by the State of Washington or United States Public Health authorities
 
