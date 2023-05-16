@@ -78,7 +78,6 @@ custom:
 
         site_code:          <a href="https://github.com/SeaGL/seagl.github.io/blob/main/LICENSE">GPL v3.0</a>
     url:
-        edit_page_base:     https://github.com/SeaGL/seagl.github.io/blob/main
         irc:
             network:        https://libera.chat/
             webchat:        https://seagl.org/meet

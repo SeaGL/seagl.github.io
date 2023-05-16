@@ -65,6 +65,6 @@ Please join our {{ site.custom.a.mailing_list.seagl_announce }}.
 
 ### GitHub
 
-Website changes can be proposed via pull request [on GitHub](https://github.com/SeaGL/seagl.github.io).
+Website changes can be proposed via pull request [on GitHub]({{ site.github.repository_url }}).
 
 </div></div>
