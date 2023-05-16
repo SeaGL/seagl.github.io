@@ -125,7 +125,7 @@ We _strive_ to provide remote participation options for social events.
 
 ---
 
-This Health and Safety Policy is based in part on North Bay Python's found here, https://2023.northbaypython.org/health-and-safety-policy
+This Health and Safety Policy is based in part on North Bay Python's found here, <https://2023.northbaypython.org/health-and-safety-policy>, and is available under the Creative Commons Zero License.
 
 We are eager to consider any additions to this Health and Safety Policy that you might find valuable, to better support you or others, or to clarify our objective.
 
