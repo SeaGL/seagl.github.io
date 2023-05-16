@@ -2,7 +2,7 @@
 
 SeaGL, the Seattle GNU/Linux Conference, is more than just a gathering; it is a community. As such, we all have a duty to protect one another and keep our community safe.
 
-This year, as we return to hosting an in-person event, SeaGL has added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
+This year, as we return to hosting in-person activities, SeaGL has added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
 
 Our Health and Safety Policy encourages facial coverings in spaces where distancing cannot be maintained, expects full vaccination and voluntary testing by attendees, and includes mitigations in the form of outdoor ventilation, as suggested by the [Public Health Pledge’s badging standard](https://publichealthpledge.com/badging).
 
@@ -53,7 +53,7 @@ We _encourage_ anyone with concerns about the available COVID-19 vaccines review
 
 We _expect_ attendees to have completed a COVID-19 PCR test within 72 hours or a rapid antigen test within 3 hours before attending the event.
 
-We _encourage_ attendees to test daily during the event, during travel days to or from Seattle, and on the 5th day following the conclusion of the event.
+We _encourage_ attendees to test daily during the event, during travel days to or from Seattle, and on the 5th day following the conclusion of the event to account for an incubation period.
 
 We _strive_ to offer COVID-19 rapid antigen tests for those with financial need, including financial aid recipients.
 
