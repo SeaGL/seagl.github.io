@@ -1,3 +1,18 @@
+---
+layout: page
+title: Health and Safety Policy
+description: Health and Safety Policy
+nav: health_and_safety
+body_id: health
+redirect_from:
+  - /health
+  - /Health
+  - /safety
+  - /Safety
+---
+
+<!-- Source: https://github.com/SeaGL/organization/blob/main/Health-and-Safety-Policy.md -->
+
 # Health and Safety Policy
 
 SeaGL, the Seattle GNU/Linux Conference, is more than just a gathering; it is a community. As such, we all have a duty to protect one another and keep our community safe.
@@ -12,7 +27,7 @@ Any policy updates we publish will not be weakened before the 2023 event held on
 ## Definitions
 
 - **Require** means that a measure is a strict condition of entry. Violations will be acted on by the organizers, and may result in removal from the conference without recourse.
-- **Expect** means that a measure is considered to be reasonable conduct at the event, and reports of non-compliance will be treated as incidents of Harassment (as referred to in our [Code of Conduct](https://seagl.org/coc)).
+- **Expect** means that a measure is considered to be reasonable conduct at the event, and reports of non-compliance will be treated as incidents of Harassment (as referred to in our [Code of Conduct](/coc)).
 - **Encourage** means that a measure is voluntary, however, compliance will improve the health and safety standards for attendees.
 - **Commit** means that the organizers will ensure that a measure will be in place during the conference.
 - **Strive** means that the organizers will attempt to set a measure in place during the conference.
