@@ -4,6 +4,10 @@ future:         false # Restore default behavior of Jekyll overridden by https:/
 timezone:       America/Los_Angeles
 markdown:       kramdown
 highlighter:    rouge
+liquid:
+    error_mode: strict
+    strict_filters: true
+    strict_variables: true
 
 # Allowed plugins: https://pages.github.com/versions/
 plugins: &plugins
@@ -40,14 +44,23 @@ collections:
         permalink: /sponsors/:path
 
 defaults:
+    - scope: { path: "" }
+      values:
+        body_id: null # Workaround for Shopify/liquid#1034
+        description: null # Workaround for Shopify/liquid#1034
+        nav: null # Workaround for Shopify/liquid#1034
     - scope: { type: archive-conferences }
       values:
         layout: archive/conference
         nav: archive
+        subtitle: null # Workaround for Shopify/liquid#1034
     - scope: { type: archive-sessions }
       values:
         layout: archive/session
         nav: archive
+        keynote: null # Workaround for Shopify/liquid#1034
+        presenters: null # Workaround for Shopify/liquid#1034
+        resources: null # Workaround for Shopify/liquid#1034
     - scope: { type: sponsor-years }
       values:
         body_id: sponsors
