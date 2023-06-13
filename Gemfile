@@ -8,3 +8,6 @@ gem 'jekyll-github-metadata'
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
 gem 'rake'
+
+# Needed for Ruby >3.0
+gem 'webrick', '~> 1.8'
