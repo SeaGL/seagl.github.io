@@ -129,7 +129,7 @@ Gold is applied to action links and to contrast with the blue / background, depe
 
 ## Design Assets {#DesignAssets}
 
-All design materials are available on the [design folder](https://github.com/SeaGL/outreach/tree/main/design) inside organization repository.
+All design materials are available in the [design folder](https://github.com/SeaGL/outreach/tree/main/design) inside the [SeaGL outreach](https://github.com/SeaGL/outreach) repository.
 
 Specific materials and other quick reference files:
 
