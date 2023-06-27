@@ -1119,3 +1119,14 @@ sponsors:
       DevITJobs.us is the first job board built with Software Engineers in mind.
     sponsorships:
       2022: media
+
+  - name: FOSSY
+    url: https://2023.fossy.us/
+    logo:
+      horizontal: /img/sponsors/FOSSY/fossy23.png
+      square: 
+    description: |-
+      FOSSY is a new conference dedicated to showcasing how Free and Open Source Software is used around the world to help cultivate community, innovate and let us live freely with technology.
+    sponsorships:
+      2023: thanks
+
