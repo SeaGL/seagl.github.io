@@ -8,24 +8,27 @@
     git clone 'https://github.com/openmaptiles/openmaptiles.git'
     cd openmaptiles
     ./quickstart.sh 'washington'
+    rm './data/washington.bbox'
     ```
 
  1. Render tiles:
 
-    ```bash
-    # Render low-resolution tiles for the region.
-    docker-compose run --rm \
-        -e BBOX='-122.4162,47.5799,-122.2234,47.6529' \
-        -e MIN_ZOOM='12' \
-        -e MAX_ZOOM='13' \
-        'generate-vectortiles'
+    ```ini
+    # Low resolution region
+    BBOX=-122.4375,47.5683,-122.2404,47.6902
+    MIN_ZOOM=11
+    MAX_ZOOM=12
+    ```
 
-    # Render high-resolution tiles for the neighborhood.
-    docker-compose run --rm \
-        -e BBOX='-122.33429,47.6104,-122.30871,47.62316' \
-        -e MIN_ZOOM='12' \
-        -e MAX_ZOOM='16' \
-        'generate-vectortiles'
+    ```ini
+    # High resolution neighborhood
+    BBOX=-122.3167,47.64745,-122.29706,47.66128
+    MIN_ZOOM=13
+    MAX_ZOOM=14
+    ```
+
+    ```bash
+    make generate-tiles-pg
     ```
 
  1. Convert tiles to PBF using [MBUtil]:
@@ -33,9 +36,6 @@
     ```bash
     # Extract PBF tiles.
     mb-util --image_format='pbf' 'data/tiles.mbtiles' 'tiles'
-
-    # Delete unused zoom levels.
-    rm -r 'tiles/'{0..11}
 
     # Decompress tiles.
     find 'tiles' -type 'f' -name '*.pbf' -exec mv {} {}.gz \;

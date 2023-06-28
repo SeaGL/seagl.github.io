@@ -1,0 +1,48 @@
+---
+layout: page
+nav: maps
+body_id: maps
+title: 2023 Maps
+---
+
+<h1>Maps & Directions</h1>
+
+<h2>Conference Venue</h2>
+
+<div class="row">
+  <div class="col-xs-12 col-md-6 col-md-push-6">
+    <div class='venue-map' id='maplibre-root'></div>
+  </div>
+
+  <div class="col-xs-12 col-md-6 col-md-pull-6">
+    <address>The HUB<br>University of Washington<br>Seattle, WA, USA</address>
+
+    <p><a href="https://hub.washington.edu/about/plan-your-visit/#directions">Directions & Parking</a></p>
+  </div>
+</div>
+
+<link href="/css/vendor/maplibre-gl-3.1.0.css" rel="stylesheet" />
+<script src="/js/vendor/maplibre-gl-3.1.0.js"></script>
+<script>
+  const map = new maplibregl.Map({
+    boxZoom: false,
+    center: [-122.30512, 47.65533],
+    container: "maplibre-root",
+    dragRotate: false,
+    maxBounds: [[-122.4375, 47.5683], [-122.2404, 47.6902]],
+    maxZoom: 14 + 3,
+    minZoom: 11,
+    pitchWithRotate: false,
+    style: "/map-data/uw/osm-liberty/styles.custom.json",
+    touchZoomRotate: false,
+    zoom: 15.5
+  });
+
+  map.on("load", () => console.log("map loaded"));
+
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }));
+
+  new maplibregl.Marker({ color: "#1d7193" })
+    .setLngLat([-122.30545, 47.65557])
+    .addTo(map);
+</script>
