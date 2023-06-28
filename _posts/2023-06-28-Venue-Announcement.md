@@ -16,10 +16,10 @@ As usual, we're planning a variety of social events, organized and otherwise, to
 
 Travel and wayfinding details about the UW Seattle campus can be found here:
 
-- [HUB Location and Directions](https://hub.washington.edu/about/plan-your-visit/#directions)
+- [HUB location and directions](https://hub.washington.edu/about/plan-your-visit/#directions)
 - [Getting around on campus](https://www.washington.edu/accessibility/getting-around/)
 
-The HUB has the following accessibility and diversity features. If there are additional ones that are important to you, [please reach out]({{ site.custom.a.email.program }}) and we will see if accommodations can be made:
+The HUB has the following accessibility and diversity features. If there are additional ones that are important to you, please reach out to {{ site.custom.a.email.program }} and we will see if accommodations can be made:
 
 - ADA ramps and elevators throughout the building
 - single stall, all gender, family-friendly, and disability accessible restroom on the 3rd floor
