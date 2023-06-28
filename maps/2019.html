@@ -11,7 +11,7 @@ title: 2019 Maps
 
 <div class="row">
   <div class="col-xs-12 col-md-6 col-md-push-6">
-    <div class='venue-map' id='mapbox-root'></div>
+    <div class='venue-map' id='maplibre-root'></div>
   </div>
 
   <div class="col-xs-12 col-md-6 col-md-pull-6">
@@ -58,13 +58,13 @@ title: 2019 Maps
   </div>
 </div>
 
-<link href="/css/vendor/mapbox-gl-1.4.1.css" rel="stylesheet" />
-<script src="/js/vendor/mapbox-gl-1.4.1.js"></script>
+<link href="/css/vendor/maplibre-gl-3.1.0.css" rel="stylesheet" />
+<script src="/js/vendor/maplibre-gl-3.1.0.js"></script>
 <script>
-  const map = new mapboxgl.Map({
+  const map = new maplibregl.Map({
     boxZoom: false,
     center: [-122.32152, 47.61642],
-    container: "mapbox-root",
+    container: "maplibre-root",
     dragRotate: false,
     maxBounds: [[-122.4162, 47.5799], [-122.2234, 47.6529]],
     maxZoom: 16 + 2,
@@ -77,9 +77,9 @@ title: 2019 Maps
 
   map.on("load", () => console.log("map loaded"));
 
-  map.addControl(new mapboxgl.NavigationControl({ showCompass: false }));
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }));
 
-  new mapboxgl.Marker({ color: "#1d7193" })
+  new maplibregl.Marker({ color: "#1d7193" })
     .setLngLat([-122.32116, 47.61623])
     .addTo(map);
 </script>
