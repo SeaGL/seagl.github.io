@@ -36,7 +36,7 @@ title: 2023 Maps
 <script>
   const map = new maplibregl.Map({
     boxZoom: false,
-    center: [-122.30512, 47.65533],
+    center: [-122.305476, 47.655322],
     container: "maplibre-root",
     dragRotate: false,
     maxBounds: [[-122.4375, 47.5683], [-122.2404, 47.6902]],
@@ -53,6 +53,6 @@ title: 2023 Maps
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }));
 
   new maplibregl.Marker({ color: "#1d7193" })
-    .setLngLat([-122.30545, 47.65557])
+    .setLngLat([-122.305476, 47.655322])
     .addTo(map);
 </script>
