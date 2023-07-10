@@ -58,7 +58,7 @@ layout: page
         {% for presenter in session.presenters %}
         <div class="media">
           <div class="media-left">
-            <img class="img-circle" width="64" height="64" alt="{{ presenter.name }}" src="https://s.gravatar.com/avatar/{{ presenter.gravatar_id }}?d=mp&s=128">
+            <img class="img-circle" width="64" height="64" alt="{{ presenter.name }}" src="https://s.gravatar.com/avatar/{{ presenter.gravatar_id | default: '00000000000000000000000000000000' }}?d=mp&s=128">
           </div>
           <div class="media-body media-middle">
             <h4 class="media-heading">{{ presenter.name }}{% if presenter.pronouns %}<span class="text-muted"> ({{ presenter.pronouns }})</span>{% endif %}{% if presenter.affiliation %}<span class="text-muted">, {{ presenter.affiliation }}</span>{% endif %}</h4>
