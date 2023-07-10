@@ -16,7 +16,7 @@ SeaGL strives to be welcoming, enjoyable, and informative for professional techn
 
 ### When & where
 
-**{{ site.custom.dates }}, {{ site.custom.year }}**, [in-person and online](/news/2023/02/20/seagl-2023-kicks-off)
+**{{ site.custom.dates }}, {{ site.custom.year }}** at {{ site.custom.a.location }} and online
 
 ### Attend
 
