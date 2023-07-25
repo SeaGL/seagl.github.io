@@ -17,7 +17,7 @@ With three virtual events under our belt, the plan is to begin our second decade
 However, to maintain the remote participants who have joined us, we will be pushing for a hybrid setting.
 Would you like to lend a beak or wing to the effort?
 
-Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seattlematrix.org "Link directly to SeaGL Matrix channel") or the [#SeaGL IRC channel](https://irc.seagl.org/ "Web gateway to join IRC") on Libera.chat and say hi!
+Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") or the [#SeaGL IRC channel](https://irc.seagl.org/ "Web gateway to join IRC") on Libera.chat and say hi!
 
 Let us know you'd like to help out and we'll send an invitation to our bi-monthly organizing meetings.
 
