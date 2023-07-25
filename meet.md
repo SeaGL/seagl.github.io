@@ -17,8 +17,8 @@ SeaGL’s community meets on both Matrix and IRC:
     <div class="panel panel-primary text-center">
       <div class="panel-heading"><h2 class="panel-title">Matrix</h2></div>
       <div class="panel-body">
-        <p>Join <code>#SeaGL:seattlematrix.org</code> in your preferred client, or:</p>
-        <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#SeaGL:seattlematrix.org">Join Space</a></p>
+        <p>Join <code>#SeaGL:seagl.org</code> in your preferred client, or:</p>
+        <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#SeaGL:seagl.org">Join Space</a></p>
       </div>
     </div>
   </div>
@@ -56,7 +56,7 @@ To begin:
 
  1. Open the [Element web interface]{:target="_blank" rel="noopener"}.
  1. Create an account.
- 1. At <samp>Add room</samp> → <samp>Explore public rooms</samp>, enter `#SeaGL:seattlematrix.org` and click <samp>Join</samp>.
+ 1. At <samp>Add room</samp> → <samp>Explore public rooms</samp>, enter `#SeaGL:seagl.org` and click <samp>Join</samp>.
 
 </div><div class="col col-sm-6" markdown="1">
 
