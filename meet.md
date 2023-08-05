@@ -87,6 +87,10 @@ Some rooms such as [Office Hours] are set up for optional video meetings. In add
   - A **link** to the video call will be available in the topic of the Matrix room and IRC channel. You can join the call by opening the link in your web browser or Jitsi Meet app.
   - If you’re using [Element], the video call will be **integrated** into your view of the Matrix room.
 
+### Help
+
+Please feel free to reach out to <matrix-help@seagl.org> if you have any trouble connecting.
+
 </div></div>
 
 
