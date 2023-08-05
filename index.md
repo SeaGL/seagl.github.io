@@ -59,6 +59,8 @@ Please join us in [Matrix or IRC](/meet).
 | {{ site.custom.a.social.facebook}}
 | {{ site.custom.a.social.youtube}}
 
+An overview of SeaGL’s social media activity is available in [`#social-media:seagl.org`](https://matrix.to/#/#social-media:seagl.org).
+
 ### Email
 
 {{ site.custom.a.email.participate }} | {{ site.custom.a.email.press }}  
