@@ -1,5 +1,5 @@
 ---
 redirect_from:
   - /Feedback
-redirect_to: https://docs.google.com/forms/d/e/1FAIpQLSfsX4An6Wf5mLjnqFpJUMM3it9um5VaMrgXraFkCQEoMin02A/viewform?usp=sf_link
+redirect_to: https://cloud.seagl.org/index.php/apps/forms/s/Ky4mckSpjyzgCX3md8K3s234
 ---
