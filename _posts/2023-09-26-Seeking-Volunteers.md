@@ -8,8 +8,6 @@ categories: news
 tags: '2023'
 ---
 
-# Seeking SeaGL 2023 Volunteers
-
 Hello FLO (free/libre/open) friends! With the return to in-person activities this year, we are looking to expand our all-volunteer conference committees with new volunteers for SeaGL 2023 - and a chairperson to help recruit these volunteers. Think you might be a good fit or have a friend to put forward? You're in the right place!
 
 As an all-volunteer staff, there aren't enough of us to run an entire conference by ourselves. For example, we need people to help answer questions and run the video streams too. As the event is rapidly approaching, we are therefore actively seeking someone to coordinate our at-event volunteers! This person would:
