@@ -228,10 +228,10 @@ sponsors:
       2014: gold
 
   - name: Schedules Direct
-    url: https://www.schedulesdirect.org/
+    url: https://schedulesdirect.org/
     logo:
       horizontal: /img/sponsors/SchedulesDirect/sd_long.png
-      square:
+      square: /img/sponsors/SchedulesDirect/sd_square.png
     description: |-
       Schedules Direct is a non-profit organization whose mission is to
       educate the public about the benefits of Open Source Software and other
@@ -250,6 +250,7 @@ sponsors:
       2020: gold
       2021: gold
       2022: gold
+      2023: gold
 
   - name: Seattle Central College
     url: https://seattlecentral.edu
