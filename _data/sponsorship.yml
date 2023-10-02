@@ -130,16 +130,16 @@ sponsors:
   - name: Google
     url: https://www.google.com
     logo:
-      horizontal: /img/sponsors/Google/googlelogo_clr_520x172px.png
+      horizontal: /img/sponsors/Google/logo_Google_FullColor_hdpi_830x271px.png
       square:
     description: |-
-      Google's mission is to organize the world's information and make it
-      universally accessible and useful.
+      Google believes that open source is good for everyone. By being open and freely available, it enables and encourages collaboration and the development of technology.
     sponsorships:
       2014: gold
       2015: gold
       2016: platinum
       2021: gold
+      2023: silver
 
   - name: Hewlett-Packard
     url: http://hpcloud.com
