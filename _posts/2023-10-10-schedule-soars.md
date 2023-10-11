@@ -14,7 +14,7 @@ See you in-person or virtually on Friday and Saturday, November 3rd & 4th! As al
 
 As a reminder, all speakers, sponsors, volunteers, staff, and anyone else involved in SeaGL are required to abide by the [Code of Conduct](/coc) and any in-person attendees must abide by the [Health and Safety Policy](/health).
 
-Schedule: https://osem.seagl.org/conferences/seagl2023/schedule
+Schedule: [https://osem.seagl.org/conferences/seagl2023/schedule](https://osem.seagl.org/conferences/seagl2023/schedule)
 
 ## Keynotes
 
