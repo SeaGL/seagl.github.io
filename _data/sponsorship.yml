@@ -912,15 +912,16 @@ sponsors:
       2023: thanks
 
   - name: Electronic Frontier Foundation
-    url: https://www.eff.org/
+    url: https://www.eff.org/pages/tools
     logo:
       horizontal: /img/sponsors/EFF/EFF-logo-lockup-red.png
       square:
     description: |-
-      The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
+      The Electronic Frontier Foundation (EFF) is the leading organization defending civil liberties in the digital world. We defend free speech on the internet, fight illegal surveillance, support freedom-enhancing technologies, promote the rights of digital innovators, and work to ensure that the rights and freedoms we enjoy are enhanced, rather than eroded, as our use of technology grows.
     sponsorships:
       2020: thanks
       2021: thanks
+      2023: thanks
 
   - name: Women In Linux
     url: https://www.womeninlinux.org/
@@ -1130,4 +1131,54 @@ sponsors:
       FOSSY is a new conference dedicated to showcasing how Free and Open Source Software is used around the world to help cultivate community, innovate and let us live freely with technology.
     sponsorships:
       2023: thanks
+
+  - name: Seattle Blender User Group
+    url: https://www.meetup.com/seabug
+    logo:
+      horizontal: /img/sponsors/SeaBUG/seabug.webp
+      square: 
+    description: |-
+      Seattle Blender User Group
+    sponsorships:
+      2023: thanks
+
+  - name: FOSSASIA
+    url: https://fossasia.org/
+    logo:
+      horizontal: /img/sponsors/FOSSASIA/fossasia.png
+      square: 
+    description: |-
+      Founded in 2009, FOSSASIA has developed a wide-range of open source projects from software to hardware, organized developer events and run coding programs. We want to provide access to open technologies and knowledge that enable people to build solutions according to their own ideas and needs. It is our mission to foster the free and open source movement in Asia and sustain the FOSS ecosystem.
+    sponsorships:
+      2023: thanks
+
+  - name: AlmaLinux OS Foundation
+    url: https://almalinux.org/
+    logo:
+      horizontal: /img/sponsors/AlmaLinux/almalinux_logo_dark_text.svg
+      square: 
+    description: |-
+      AlmaLinux, the forever-free enterprise linux, is fully compatible with Red Hat, but community owned and managed.
+    sponsorships:
+      2023: thanks
+
+  - name: Digital Freedom Foundation
+    url: https://digitalfreedomfoundation.org/
+    logo:
+      horizontal: /img/sponsors/DigitalFreedomFoundation/softwarefreedomday.png
+      square: 
+    description: |-
+      Digital Freedom Foundation organizes events such as Software Freedom Day, Document Freedom Day and Hardware Freedom Day.  These worldwide annual events celebrate, encourage the use of and educate the public about Free Software, Free and Open document formats and Open Hardware.
+    sponsorships:
+      2023: media
+
+  - name: Intel Corporation
+    url: https://oneapi.io/
+    logo:
+      horizontal: /img/sponsors/Intel/Intel_logo_2023.svg
+      square: 
+    description: |-
+      Intel is the world leading manufacturer of microprocessors and gpus.
+    sponsorships:
+      2023: bronze
 
