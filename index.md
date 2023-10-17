@@ -49,7 +49,7 @@ Sign up for our low-traffic [announcement mailing list]({{ site.custom.url.maili
 
 ### Chat
 
-Please join us in [Matrix or IRC](/meet).
+Please join us in [Matrix](/meet).
 
 ### Social Media
 

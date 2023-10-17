@@ -10,16 +10,13 @@ body_id: get-involved
 
 ## Volunteer for SeaGL
 
-Organization for SeaGL 2023 has kicked off!
-
 2023 marks our 11th year as an all-volunteer staffed FLOSS conference.
 With three virtual events under our belt, the plan is to begin our second decade with a return to an in-person experience in Seattle.
 However, to maintain the remote participants who have joined us, we will be pushing for a hybrid setting.
+
 Would you like to lend a beak or wing to the effort?
-
-Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") or the [#SeaGL IRC channel](https://irc.seagl.org/ "Web gateway to join IRC") on Libera.chat and say hi!
-
-Let us know you'd like to help out and we'll send an invitation to our bi-monthly organizing meetings.
+Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") and say hi!
+You can also fill out our [Volunteer Interest Form](/volunteer) to let us know how you'd like to help out.
 
 
 ## Staff Committees
@@ -53,7 +50,7 @@ Please see our [sponsors page](/sponsors/{{ site.custom.year }}) for a list of c
 
 ### Chat
 
-Please join us in [Matrix or IRC](/meet).
+Please join us in [Matrix](/meet).
 
 ### Organizer List
 

@@ -24,9 +24,9 @@ SeaGL’s community meets on both Matrix and IRC:
   </div>
   <div class="col col-sm-6 col-md-5 col-lg-4">
     <div class="panel panel-primary text-center">
-      <div class="panel-heading"><h2 class="panel-title">IRC</h2></div>
+      <div class="panel-heading"><h2 class="panel-title">IRC</h2> (deprecated)</div>
       <div class="panel-body">
-        <p>Join <code>#SeaGL</code> on <a href="https://libera.chat/">Libera.Chat</a> in your preferred client, or:</p>
+        <p><s>Join <code>#SeaGL</code> on <a href="https://libera.chat/">Libera.Chat</a> in your preferred client, or:</s></p>
         <p><a class="btn btn-primary btn-large" href="https://irc.seagl.org/">Open Web Chat</a></p>
       </div>
     </div>
@@ -61,6 +61,8 @@ To begin:
 </div><div class="col col-sm-6" markdown="1">
 
 ### About IRC
+
+(**deprecated**)
 
 [IRC] (*Internet Relay Chat*) is a text-based chat system that:
 
