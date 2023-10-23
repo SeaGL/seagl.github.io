@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IDEA Sharing at SeaGL'
-status: draft
+status: publish
 type: post
 published: true
 categories: news
