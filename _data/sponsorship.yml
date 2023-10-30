@@ -1185,7 +1185,7 @@ sponsors:
   - name: Institute for Systems Biology
     url: https://isbscience.org/
     logo:
-      horizontal: /img/sponsors/InstituteSystemsBiology/ISB_logo_lt-1.webp
+      horizontal: /img/sponsors/InstituteSystemsBiology/ISB_logo_dk.png
       square: 
     description: |-
       ISB serves as the ultimate environment where scientific collaboration stretches across disciplines and across academic and industrial organizations, where our researchers have the intellectual freedom to challenge the status quo, and where grand visions for breakthroughs in human health inspire a collective drive to achieve the seemingly impossible.
@@ -1196,7 +1196,7 @@ sponsors:
     url: https://techhut.tv/
     logo:
       horizontal: 
-      square: /img/sponsors/TechHutMedia/tux.png
+      square: /img/sponsors/TechHutMedia/TechHutBanner.png
     description: |-
       TechHut Media LLC
     sponsorships:
