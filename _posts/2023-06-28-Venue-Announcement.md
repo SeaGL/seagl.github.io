@@ -19,7 +19,7 @@ Travel and wayfinding details about the UW Seattle campus can be found here:
 - [HUB location and directions](https://hub.washington.edu/about/plan-your-visit/#directions)
 - [Getting around on campus](https://www.washington.edu/accessibility/getting-around/)
 
-The HUB has the following accessibility and diversity features. If there are additional ones that are important to you, please suggest them in [this form](https://docs.google.com/forms/d/e/1FAIpQLSewDqI1XqypsdmEE7UvwCXU2LEqaeho8jGk8Cecf2BNZK7YNw/viewform) and we will see if accommodations can be made:
+The HUB has the following accessibility and diversity features. If there are additional ones that are important to you, please suggest them in [this form](/IDEA_suggestions) and we will see if accommodations can be made:
 
 - ADA ramps and elevators throughout the building
 - single stall, all gender, family-friendly, and disability accessible restroom on the 3rd floor
