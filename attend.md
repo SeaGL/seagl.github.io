@@ -9,7 +9,7 @@ title: Attend SeaGL 2022
 {:.text-center}
 
 <div class="text-center">
-    <p>SeaGL is <b>free to attend</b>, and you <b>do not need to register—</b>just show up!</p>
+    <p>SeaGL is <b>free to attend</b>, and you <b>do not need to register</b>—just show up!</p>
     <p>You may attend SeaGL without identifying yourself, and you are encouraged to do so to protect your privacy.</p>
     <p>All attendees must abide by the <a href="/code_of_conduct">Code of Conduct</a>, and if participating in-person,
     <a href="/health_and_safety_policy">the Health and Safety Policy</a></p>
