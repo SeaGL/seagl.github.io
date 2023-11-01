@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Attend SeaGL 2022
+title: Attend SeaGL 2023
 ---
 
 <div class="row"><div class="col col-md-10 col-md-offset-1" markdown="1">
