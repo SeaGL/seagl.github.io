@@ -126,6 +126,7 @@ sponsors:
       FOSSlife is dedicated to the world of free and open source software, focusing on careers, skills, and resources to help you build your future with FOSS. We provide timely information, useful insight, and practical resources for those who want to build or advance their career with open source. Subscribe to our weekly newsletter to get the latest from FOSSlife at https://www.fosslife.org/newsletter
     sponsorships:
       2022: media
+      2023: media
 
   - name: Google
     url: https://opensource.google/
@@ -955,6 +956,7 @@ sponsors:
     sponsorships:
       2020: thanks
       2021: thanks
+      2023: thanks
 
   - name: Phoenix Linux Users Group
     url: https://phxlinux.org/
@@ -967,6 +969,7 @@ sponsors:
       2020: thanks
       2021: thanks
       2022: thanks
+      2023: thanks
 
   - name: KODI
     url: https://kodi.tv/
@@ -1039,6 +1042,7 @@ sponsors:
       TuxDigital - A Media Network Powered By Linux & Open Source. Check out Destination Linux, This Week In Linux, Hardware Addicts, Sudo Show, Linux Out Loud, Linux Saloon, Game Sphere and the Fedora Podcast. 
     sponsorships:
       2022: media
+      2023: media
 
   - name: Jupiter Broadcasting
     url: https://www.jupiterbroadcasting.com/
@@ -1103,7 +1107,7 @@ sponsors:
       2023: thanks
 
   - name: DevOpsDays Seattle
-    url: https://devopsdays.org/events/2022-seattle/
+    url: https://devopsdays.org/events/2024-seattle/
     logo:
       horizontal: /img/sponsors/DevOpsDaysSeattle/DevOpsDaysSeattle.png
       square: 
@@ -1122,6 +1126,7 @@ sponsors:
       DevITJobs.us is the first job board built with Software Engineers in mind.
     sponsorships:
       2022: media
+      2023: media
 
   - name: FOSSY
     url: https://2023.fossy.us/
