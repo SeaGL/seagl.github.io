@@ -10,14 +10,14 @@ redirect_from:
   - /stickers
 ---
 
-*Edited 4 Nov 2021 to add Matrix instructions*
+*Edited 26 Oct 2023 to add new Signal pack*
 
 Have you always wanted to channel your inner Patch the SeaGL seagull but you didn't know how?
 We have good news for you: you can now add Patch sticker sets to popular messaging applications!
 Click the links below to add them to your app of choice.
 
 * [Telegram](https://t.me/addstickers/PatchSeagull)
-* [Signal](https://signal.art/addstickers/#pack_id=37da6dc461d100aef3eb1fd134aaa363&pack_key=82badb0ba139c941cc6e89e4cb8dc2d20f60ed858877553ca95f7b71c0f23722)
+* [Signal](https://signal.art/addstickers/#pack_id=73f9746a68484a03524e5478e9b37df3&pack_key=a54f322a949fe606fbc01c0d9a7ba768f452e95cdb730bb8d9d439f8a63b8c8f)
 * Matrix (see instructions below)
 
 These digital stickers allow you to express yourself the way Patch would in a variety of situations, including their two favorite activities: eating fries and drinking tea!
