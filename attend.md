@@ -74,4 +74,9 @@ title: Attend SeaGL 2022
   </div>
 </div>
 
-<div class="text-center">Click <a href="/watch">here</a> to just watch and not participate in chat.</div></div></div>
+<div class="text-center">Click <a href="/watch">here</a> to just watch and not participate in chat.</div>
+
+<!-- class="row" -->
+</div>
+<!-- class="col ..." -->
+</div>
