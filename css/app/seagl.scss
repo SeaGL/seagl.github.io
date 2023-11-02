@@ -324,6 +324,52 @@ p img {
   width: 100%;
 }
 
+.jumbotron {
+  background-color: #2a2a2a;
+  border-radius: 0;
+  color: #fff;
+
+  a:not(.btn):not(.label) {
+    color: #2f8db3;
+  }
+
+  h1 {
+    color: inherit;
+    text-shadow: none;
+  }
+
+  .btn-primary {
+    background-color: #FCB320;
+    border-color: darken(#FCB320, 5%);
+    color: #000;
+
+    &:active, &:focus, &:hover {
+      background-color: darken(#FCB320, 10%);
+    }
+  }
+
+  .message {
+    margin-bottom: 48px;
+    margin-top: 24px;
+    max-width: 80ch;
+  }
+
+  .subtitle {
+    color: #ccc;
+    font-style: italic;
+
+    a:not(:active):not(:focus):not(:hover) {
+      color: inherit;
+      text-decoration: inherit;
+    }
+  }
+
+  .text-small {
+    color: #ccc;
+    font-size: 14px;
+  }
+}
+
 @media (max-width: 910px) {
   ul.pull-left,
   ul.pull-right {
