@@ -30,7 +30,7 @@ SeaGL, like free software, is for everyone. It’s paramount to us that all atte
 
 To that end all staff, presenters, and attendees of SeaGL are expected to obey the [Code of Conduct](/coc) not only at SeaGL but also in all SeaGL-associated spaces including but not limited to associated social events and virtual channels.
 
-In-person attendees are also expected to obey the [Health and Safety Policy](/health) for the duration of the conference. This includes wearing masks inside presentation rooms.
+In-person attendees are also expected to obey the [Health and Safety Policy](/health) for the duration of the conference. This includes requiring masks inside presentation rooms and encouraging them in other areas. If you don't have your own we are providing them gratis.
 
 If you have any concerns that are at all of a Code of Conduct nature, please email `coc AT seagl.org` as soon as possible. If you need immediate help, please locate any SeaGL staffer.
 
@@ -71,9 +71,9 @@ Finally, the afternoon talks will be separate by a special event we like to call
 
 If you're a fan of tea, we've got just the event for you!
 
-We'll have a variety of grab-and-go teas, including an herbal blend named "Lunar Orchard" that turns purple.
+We'll have a variety of grab-and-go teas, hot water, and disposable cups for those wanting to hold something warm while socializing.
 
-However, for the patient and persistent, this year will feature a sampling of black, green, white, oolong, and pu-erh Chinese teas.
+However, for the patient and persistent, this year will feature a sampling of black, green, white, oolong, and pu-erh Chinese teas, as well as an herbal blend named "Lunar Orchard" that turns purple.
 
 Additionally, if you'd like to bring your favorite teas along to sample and share, please do! But make sure they are in an unopened package to keep the venue satisfied.
 
