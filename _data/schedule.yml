@@ -1,6 +1,4 @@
 streams:
-  - name: Room 1
-    youtube_id: J2UCFUHrtek
   - name: Room 2
     youtube_id: NjIsALWCt7s
   - name: Room 3
