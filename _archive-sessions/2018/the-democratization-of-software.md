@@ -6,6 +6,7 @@ end: '2018-11-10T09:55:00.000-08:00'
 keynote: true
 resources:
   internet_archive_identifier: seagl2018-stephenwalli-keynote
+  slides_url: https://www.slideshare.net/stephenrwalli/the-democratization-of-software-seagl-2018
 presenters:
 - name: Stephen Walli
   osem_url: https://osem.seagl.org/users/576
@@ -17,5 +18,3 @@ In 1995 everything changed with the creation of the World Wide Web. Anything tha
 But the industry we never talk about is the one that was already digital – software. Software was democratized as well. We’ve shared software for as long as we’ve written software. By pulling the friction out of the pipeline around software and sharing it liberally through open source licensing, we’ve ended up in a completely new software industry over the past 20 years.
 
 This talk presents the trends that got the industry to where it is, as well as ideas for the coming challenges for the next twenty years of open source software. It might be a cautionary tale.
-
-[Slides](https://www.slideshare.net/stephenrwalli/the-democratization-of-software-seagl-2018)

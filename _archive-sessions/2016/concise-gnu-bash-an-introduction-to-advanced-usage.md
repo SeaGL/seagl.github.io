@@ -3,6 +3,8 @@ title: 'Concise GNU Bash: An Introduction to Advanced Usage'
 osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/196
 beginning: '2016-11-12T15:30:00.000-08:00'
 end: '2016-11-12T16:30:00.000-08:00'
+resources:
+  slides_url: http://talk.jpnc.info/bash_seagl_2016.pdf
 presenters:
 - name: James Pannacciulli
   affiliation: Media Temple
@@ -14,8 +16,6 @@ presenters:
     of free/libre software, with other interests including natural language, entomophagy,
     and brewing. James has presented on Bash usage at SCALE, OSCON, and LinuxCon Europe.
 ---
-
-Slides: [`bash_seagl_2016.pdf`](http://talk.jpnc.info/bash_seagl_2016.pdf)
 
 A fast paced, broad (but not too shallow) introduction to Bash features for users familiar with command line environments who want to go beyond simple command execution.  Exciting concepts and syntax illustrated in the slides and demonstrated with live examples.
 

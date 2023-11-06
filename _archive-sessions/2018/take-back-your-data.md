@@ -3,6 +3,8 @@ title: Take Back Your Data
 osem_url: https://osem.seagl.org/conferences/seagl2018/program/proposals/510
 beginning: '2018-11-10T16:00:00.000-08:00'
 end: '2018-11-10T16:20:00.000-08:00'
+resources:
+  slides_url: https://andschwa.com/public/Take_Back_Your_Data.pdf
 presenters:
 - name: Andy Schwartzmeyer
   osem_url: https://osem.seagl.org/users/430
@@ -14,8 +16,6 @@ presenters:
     and personally license my own code under the GNU licenses. Also, I am an Emacs
     user.
 ---
-
-[Slides!](https://andschwa.com/public/Take_Back_Your_Data.pdf)
 
 This talk is aimed at those with a beginner to intermediate level of experience using technology, and falls under the category of (personal) "Information Security."
 

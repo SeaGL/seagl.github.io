@@ -3,6 +3,8 @@ title: Blockchain and Cryptocurrency for Free and Open Source Project Governance
 osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/121
 beginning: '2016-11-12T10:45:00.000-08:00'
 end: '2016-11-12T11:45:00.000-08:00'
+resources:
+  slides_url: https://www.slideshare.net/createTank/seagl-2016-blockchain-and-cryptocurrency-for-open-source-project-governance
 presenters:
 - name: Joe Roets
   affiliation: Dragonchain
@@ -31,5 +33,3 @@ Speaker is Joe Roets:
 - Overstock.com Project Medici - Former Senior Technical Advisor
 
 Resume: <https://goo.gl/wobjM3>
-
-Slides: <https://www.slideshare.net/createTank/seagl-2016-blockchain-and-cryptocurrency-for-open-source-project-governance>

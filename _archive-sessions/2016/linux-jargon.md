@@ -3,6 +3,8 @@ title: Linux Jargon
 osem_url: https://osem.seagl.org/conferences/seagl2016/program/proposals/126
 beginning: '2016-11-11T10:45:00.000-08:00'
 end: '2016-11-11T11:45:00.000-08:00'
+resources:
+  slides_url: https://slides.lucywyman.me/linux-jargon
 presenters:
 - name: Lucy Wyman
   affiliation: OSU Open Source Lab
@@ -17,5 +19,3 @@ presenters:
 ---
 
 Join me on a cultural, technical, and philosophical journey through time and space.  Not sure what BDFL, Backus-Naur Form, gparted, astroturfing, or The Evil Bit are?  I've got you covered.  This talk aims to introduce common phrases, tools, protocols, cultural references, and other tech jargon to help you keep up with technical discussions.
-
-Slides available at <https://slides.lucywyman.me/linux-jargon>

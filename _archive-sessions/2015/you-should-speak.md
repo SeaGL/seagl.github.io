@@ -3,6 +3,8 @@ title: You Should Speak
 osem_url: https://osem.seagl.org/conferences/seagl2015/program/proposals/20
 beginning: '2015-10-23T14:00:00.000-07:00'
 end: '2015-10-23T14:50:00.000-07:00'
+resources:
+  slides_url: https://talks.edunham.net/seagl2015/
 presenters:
 - name: E. Dunham
   affiliation: Mozilla
@@ -34,5 +36,3 @@ many of the problems which aspiring speakers encounter, including:
 
 These tricks will be helpful for experienced presenters looking to learn new
 skills, as well as novice speakers who need some help getting started.
-
-Slides at <https://talks.edunham.net/seagl2015/>

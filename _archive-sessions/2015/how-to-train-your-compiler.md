@@ -3,6 +3,8 @@ title: How to Train Your Compiler
 osem_url: https://osem.seagl.org/conferences/seagl2015/program/proposals/43
 beginning: '2015-10-24T13:30:00.000-07:00'
 end: '2015-10-24T14:20:00.000-07:00'
+resources:
+  slides_url: https://github.com/iankronquist/how-to-train-your-compiler
 presenters:
 - name: Ian Kronquist
   affiliation: The Open Source Lab
@@ -20,7 +22,3 @@ We'll look at the major components of compilers and interpreters and the theory 
 
 This talk has been presented at Beaver BarCamp in April, 2015 and is being
 further refined.
-
-The source code for the slides can be found at <https://github.com/iankronquist/how-to-train-your-compiler>
-
-A relatively recent build of the slides can be found at <http://people.oregonstate.edu/~kronquii/build/slides/#2>

@@ -5,6 +5,7 @@ beginning: '2017-10-06T13:00:00.000-07:00'
 end: '2017-10-06T13:20:00.000-07:00'
 resources:
   internet_archive_identifier: AutomaticChickenDoorHOWTOATalkByAdamMonsenAtSeaGL2017
+  slides_url: https://github.com/meonkeys/seagl2017-rpi-talk
 presenters:
 - name: Adam Monsen
   affiliation: SeaGL
