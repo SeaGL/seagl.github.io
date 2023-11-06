@@ -4,7 +4,7 @@ lanyrd_url: http://lanyrd.com/2013/seagl/scqdhq/
 beginning: 2013-10-12T12:00-07:00
 end: 2013-10-12T12:50-07:00
 resources:
-  slides_url: https://docs.google.com/a/systems-deployment.com/presentation/d/1W1plgpZ4S9qgvt-5MWyAbty26uHpu-K-Fe5qfM61u3I/
+  slides_url: https://docs.google.com/a/systems-deployment.com/presentation/d/1W1plgpZ4S9qgvt-5MWyAbty26uHpu-K-Fe5qfM61u3I/mobilepresent
 presenters:
 - name: Morris Bernstein
   lanyrd_url: http://lanyrd.com/profile/morris-3861/

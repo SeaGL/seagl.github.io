@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2017/program/proposals/257
 beginning: '2017-10-07T14:00:00.000-07:00'
 end: '2017-10-07T14:50:00.000-07:00'
 resources:
-  slides_url: https://docs.google.com/presentation/d/1ohEaLzaUMDy5uA2VcdEw4WtdZyqroOhK8a_W32bU_T8/edit?usp=sharing
+  slides_url: https://docs.google.com/presentation/d/1ohEaLzaUMDy5uA2VcdEw4WtdZyqroOhK8a_W32bU_T8/mobilepresent
 presenters:
 - name: Dmitry Polyakovsky
   osem_url: https://osem.seagl.org/users/563
