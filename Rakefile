@@ -19,8 +19,8 @@ task :import, [:year] do |_t, args|
     osem_url: conference[:url]
   }
 
-  # Create a file for each event
-  events.each do |event|
+  # Create a file for each scheduled event
+  events.select { |e| e[:scheduled_date] }.each do |event|
     write "_archive-sessions/#{year}/#{event[:title].parameterize}.md", {
       title: event[:title],
       osem_url: event[:url],
