@@ -22,11 +22,9 @@ redirect_from:
 
   <div style="margin: 3em 0;">
     <h2>
-      <a href="{{ conference.url }}">SeaGL {{ year }}</a>
+      <a href="{{ conference.url }}">SeaGL {{ year }}{% if conference.subtitle %}: “{{ conference.subtitle }}”{% endif %}</a>
 
-      {% if conference.subtitle %}
-      <span class="subtitle">{{ conference.subtitle }}</span>
-      {% endif %}
+      <span class="subtitle">{{ conference.dates }}</span>
     </h2>
 
     {% unless keynotes == empty %}
