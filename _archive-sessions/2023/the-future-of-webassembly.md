@@ -1,6 +1,5 @@
 ---
-title: 'The Future of WebAssembly: Revolutionalizing Computing Across Platforms and
-  Industries'
+title: 'The Future of WebAssembly: Revolutionalizing Computing Across Platforms and Industries'
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/931
 beginning: '2023-11-04T14:50:00.000-07:00'
 end: '2023-11-04T15:10:00.000-07:00'

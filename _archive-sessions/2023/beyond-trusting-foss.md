@@ -40,4 +40,4 @@ solving decades-old deeply pervasive fundamental security issues...
 
 Learn how to verify and demonstrate trust, rather than simply hoping everything is OK!
 
-https://reproducible-builds.org
+<https://reproducible-builds.org>

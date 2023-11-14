@@ -11,7 +11,7 @@ presenters:
   biography: |-
     Garrett Honeycutt, Principal at Tailored Automation, has been working with open source software and spreading its merits for over twenty years. He is passionate about automating systems and teaching others. Regularly sharing his experiences, he has had the opportunity to speak at conferences across the globe and now organizes DevOpsDays Indianapolis.
 
-    [https://tailoredautomation.io/](https://tailoredautomation.io/)
+    <https://tailoredautomation.io/>
 ---
 
 Introduction to using the open source tool, Choria, to handle your orchestration needs. Choria is secure platform using mTLS and handles AAA (Authentication, Authorization, and Auditing) for you so you can focus on the automation. It uses NATS middleware for massive scale and geographically distributed networks. Besides learning about Choria we will also more generally cover orchestration and message brokers.

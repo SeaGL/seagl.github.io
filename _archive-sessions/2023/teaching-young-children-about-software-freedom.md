@@ -21,8 +21,8 @@ Most tech-for-kids stuff emphasizes basic computer use and learning programming.
 
 We started with command-line and then moved into bash scripting. My aspiration is see kids sharing scripts with each other and modifying one anothers' programs. That helps them understand free/libre/open collaboration and then be able to start dabbling with the source code of more advanced programs.
 
-Along the way, we have been reviewing which free software games and programs are most accessible. Now, we have a guide that we invite others to check out and help develop: https://codeberg.org/FLO-Conscience/FLO-kids
+Along the way, we have been reviewing which free software games and programs are most accessible. Now, we have a guide that we invite others to check out and help develop: <https://codeberg.org/FLO-Conscience/FLO-kids>
 
 In this talk, we'll share the stories of what we've learned and discuss the importance of framing kids' computing with understanding of the political and social issues in technology.
 
-Note that the first iteration of this talk was given at LibrePlanet 2023: https://media.libreplanet.org/u/libreplanet/m/kids-need-to-experience-software-freedom-not-just-the-idea-of-it/
+Note that the first iteration of this talk was given at LibrePlanet 2023: <https://media.libreplanet.org/u/libreplanet/m/kids-need-to-experience-software-freedom-not-just-the-idea-of-it/>

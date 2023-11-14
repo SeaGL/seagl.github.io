@@ -1,6 +1,5 @@
 ---
-title: 'Fortify Your DevOps Castle: Security Considerations and Best Practices for
-  Open-Source Infrastructure'
+title: 'Fortify Your DevOps Castle: Security Considerations and Best Practices for Open-Source Infrastructure'
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/947
 beginning: '2023-11-04T12:00:00.000-07:00'
 end: '2023-11-04T12:20:00.000-07:00'

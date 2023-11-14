@@ -8,7 +8,7 @@ presenters:
   affiliation: SigNoz
   osem_url: https://osem.seagl.org/users/1035
   gravatar_id: e6912e84cf94d7f6fde581d16a22548e
-  biography: Nočnica is a dev advocate  specializing in cloud applications, serverless,
+  biography: Nočnica is a dev advocate specializing in cloud applications, serverless,
     and containerization. She writes regularly for The New Stack and has been published
     in Information Age and Forbes. She blogs on dev.to, streams LinkedIn and YouTube,
     and spends her weekends caring for her dozens of houseplants.

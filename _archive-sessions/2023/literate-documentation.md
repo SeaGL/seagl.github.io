@@ -3,6 +3,8 @@ title: Literate Documentation with Emacs and Org Mode
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/952
 beginning: '2023-11-04T14:50:00.000-07:00'
 end: '2023-11-04T15:40:00.000-07:00'
+resources:
+  resources_url: https://gitlab.com/spudlyo/orgdemo2
 presenters:
 - name: Mike Hamrick
   osem_url: https://osem.seagl.org/users/365
@@ -20,5 +22,3 @@ Wouldn’t it be great if the tool you used for writing knew how to run code in 
 We'll also show how these literate documents can be exported to LaTeX and ultimately PDF format to create professional looking output that looks stunning when printed or viewed.
 
 **Note**: _This is an updated version of the talk I gave at SeaGL 2019 that features new techniques and workflow improvements I've developed over the intervening years_.
-
-You can find all the source materials used in this presentation at my [GitLab repository](https://gitlab.com/spudlyo/orgdemo2).

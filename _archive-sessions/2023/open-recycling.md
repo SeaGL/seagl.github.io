@@ -14,4 +14,5 @@ presenters:
 ---
 
 There are many parallels between the principles of Free/Libre/Openness and Sustainability but how do they relate in general? Can they exist without each other, or are they just two sides of the same coin?
+
 This talk is about reconciling ideas across these two complicated paradigms and some more simple / practical examples in which they can align very directly. It was born out of trying to repurpose and reuse materials and industrial parts on the supply side: while considering ways to incentivize the implementation of both Sustainability and FLO(SS) which, at the least, are interdependently entwined.

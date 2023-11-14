@@ -15,12 +15,12 @@ presenters:
 
     Currently, he's a database support manager at ObjectRocket. Most likely anything he says publicly was not approved by $dayjob.
 
-    https://floss.social/@FLOX_advocate
+    <https://floss.social/@FLOX_advocate>
 ---
 
 Part 3 of the jq trilogy ( part 1 was given at SeaGL 2021, part 2 at SeaGL 2022 ).
 
-In this part we cover using scripring with jq to programatically change JSON documents.
+In this part we cover using scripting with jq to programmatically change JSON documents.
 
 Today's APIs and databases feed us lots of JSON.
 It's a structured, line-independent data format, and our normal line-based tools such as grep, sed and awk fall a bit short.

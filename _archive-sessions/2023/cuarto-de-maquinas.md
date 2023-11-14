@@ -1,6 +1,5 @@
 ---
-title: 'Cuarto de Máquinas: Building a Hack(er)space in Mexico''s Bajío Region (and
-  why you should too)'
+title: "Cuarto de Máquinas: Building a Hack(er)space in Mexico's Bajío Region (and why you should too)"
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/988
 beginning: '2023-11-03T14:20:00.000-07:00'
 end: '2023-11-03T14:40:00.000-07:00'
