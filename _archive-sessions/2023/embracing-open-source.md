@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1015
 beginning: '2023-11-04T09:10:00.000-07:00'
 end: '2023-11-04T09:30:00.000-07:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2023-Embracing_Open_Source_Pioneering_Sustainable_Solutions_for_a_Thriving_Future
 presenters:
 - name: Hong Phuc Dang
   affiliation: FOSSASIA

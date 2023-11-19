@@ -3,6 +3,8 @@ title: Free Software Policy with Semi-Firm Firmware
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/963
 beginning: '2023-11-04T13:50:00.000-07:00'
 end: '2023-11-04T14:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Free_Software_Policy_with_Semi-Firm_Firmware
 presenters:
 - name: Kyle Rankin
   osem_url: https://osem.seagl.org/users/1640

@@ -3,6 +3,8 @@ title: 'Secure Coding: Fix from the root'
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/981
 beginning: '2023-11-04T10:30:00.000-07:00'
 end: '2023-11-04T11:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Secure_Coding_Fix_from_the_root
 presenters:
 - name: Gopika Subramanian
   osem_url: https://osem.seagl.org/users/1659

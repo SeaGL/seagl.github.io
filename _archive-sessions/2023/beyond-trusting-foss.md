@@ -3,6 +3,8 @@ title: Beyond Trusting FOSS
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/939
 beginning: '2023-11-04T12:00:00.000-07:00'
 end: '2023-11-04T12:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Beyond_Trusting_FOSS
 presenters:
 - name: Vagrant Cascadian
   affiliation: Reproducible Builds, Debian, Aikidev

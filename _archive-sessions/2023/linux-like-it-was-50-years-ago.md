@@ -3,6 +3,8 @@ title: Linux like it was 50 years ago
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/998
 beginning: '2023-11-03T11:30:00.000-07:00'
 end: '2023-11-03T12:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Linux_like_it_was_50_years_ago
 presenters:
 - name: Jim Hall
   affiliation: The FreeDOS Project

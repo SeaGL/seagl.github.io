@@ -3,6 +3,8 @@ title: They told me I couldn't game on Linux, so I started a game hosting compan
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/938
 beginning: '2023-11-04T11:30:00.000-07:00'
 end: '2023-11-04T11:50:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-They_told_me_I_couldnt_game_on_Linux_so_I_started_a_game_hosting_company_on_Linux
 presenters:
 - name: Cyra Westmere
   affiliation: Capitol Hosting Solutions, LLC

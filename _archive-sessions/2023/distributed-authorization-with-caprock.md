@@ -3,6 +3,8 @@ title: Distributed Authorization with CAProck
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/969
 beginning: '2023-11-04T10:30:00.000-07:00'
 end: '2023-11-04T10:50:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Distributed_Authorization_with_CAProck
 presenters:
 - name: Jens Finkhaeuser
   affiliation: Interpeer gUG

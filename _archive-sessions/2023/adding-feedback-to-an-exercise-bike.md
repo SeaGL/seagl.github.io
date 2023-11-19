@@ -3,6 +3,8 @@ title: Adding feedback to an exercise bike using Linux
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/933
 beginning: '2023-11-04T15:20:00.000-07:00'
 end: '2023-11-04T15:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Adding_feedback_to_an_exercise_bike_using_Linux
 presenters:
 - name: Colin Foster
   affiliation: Innovative Advantage

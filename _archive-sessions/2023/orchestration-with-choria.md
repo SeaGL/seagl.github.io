@@ -3,6 +3,8 @@ title: Orchestration with Choria
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/997
 beginning: '2023-11-04T16:40:00.000-07:00'
 end: '2023-11-04T17:00:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Orchestration_with_Choria
 presenters:
 - name: Garrett Honeycutt
   affiliation: Tailored Automation
