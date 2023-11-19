@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1014
 beginning: '2023-11-04T09:40:00.000-07:00'
 end: '2023-11-04T10:00:00.000-07:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2023-Simple_Dreams_and_Complicated_Nightmares_Innovation_Trust_and_Risk_in_FLOSS
 presenters:
 - name: Kaylea Champion
   affiliation: University of Washington

@@ -4,6 +4,8 @@ osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1017
 beginning: '2023-11-03T09:40:00.000-07:00'
 end: '2023-11-03T10:00:00.000-07:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2023-The_Linux_App_Ecosystem_A_renaissance_that_nobody_is_watching
 presenters:
 - name: Sriram Ramkrishna
   affiliation: GNOME Foundation

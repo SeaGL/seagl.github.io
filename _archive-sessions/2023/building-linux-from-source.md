@@ -3,6 +3,8 @@ title: Building Linux from source with LFS and Physix Project
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/979
 beginning: '2023-11-03T14:50:00.000-07:00'
 end: '2023-11-03T15:10:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Building_Linux_from_source_with_LFS_and_Physix_Project
 presenters:
 - name: tree
   osem_url: https://osem.seagl.org/users/1657

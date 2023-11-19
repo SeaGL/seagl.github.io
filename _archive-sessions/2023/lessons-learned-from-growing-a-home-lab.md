@@ -3,6 +3,8 @@ title: Lessons learned from growing a Home Lab
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/975
 beginning: '2023-11-03T10:30:00.000-07:00'
 end: '2023-11-03T11:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Lessons_learned_from_growing_a_Home_Lab
 presenters:
 - name: Guilherme Carvalho Trindade
   osem_url: https://osem.seagl.org/users/1652

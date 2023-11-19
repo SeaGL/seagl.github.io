@@ -3,6 +3,8 @@ title: Trust in an Open Source Community
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/984
 beginning: '2023-11-04T15:20:00.000-07:00'
 end: '2023-11-04T15:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Trust_in_an_Open_Source_Community
 presenters:
 - name: Jay Faulkner
   affiliation: G-Research Open Source Software

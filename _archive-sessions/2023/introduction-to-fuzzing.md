@@ -3,6 +3,8 @@ title: A Gentle Introduction to Fuzzing for Developers
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1004
 beginning: '2023-11-04T11:30:00.000-07:00'
 end: '2023-11-04T12:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-A_Gentle_Introduction_to_Fuzzing_for_Developers
 presenters:
 - name: Allison Naaktgeboren
   affiliation: Portland State University

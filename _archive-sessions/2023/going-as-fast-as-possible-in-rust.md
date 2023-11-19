@@ -3,6 +3,8 @@ title: Going as fast as possible in Rust
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/940
 beginning: '2023-11-04T10:30:00.000-07:00'
 end: '2023-11-04T11:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Going_as_fast_as_possible_in_Rust
 presenters:
 - name: Christopher Swenson
   osem_url: https://osem.seagl.org/users/1636

@@ -3,6 +3,8 @@ title: Open Source Observability with the OpenTelemetry Collector
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/994
 beginning: '2023-11-04T14:20:00.000-07:00'
 end: '2023-11-04T14:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Open_Source_Observability_with_the_OpenTelemetry_Collector
 presenters:
 - name: Nočnica Mellifera
   affiliation: SigNoz
