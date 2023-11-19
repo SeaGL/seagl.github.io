@@ -3,6 +3,8 @@ title: How do you build LEGOs for code?
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/971
 beginning: '2023-11-04T17:10:00.000-07:00'
 end: '2023-11-04T17:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-How_do_you_build_LEGOs_for_code
 presenters:
 - name: Chris Thompson
   osem_url: https://osem.seagl.org/users/1650

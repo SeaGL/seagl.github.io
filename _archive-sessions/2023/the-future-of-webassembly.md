@@ -3,6 +3,8 @@ title: 'The Future of WebAssembly: Revolutionalizing Computing Across Platforms 
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/931
 beginning: '2023-11-04T14:50:00.000-07:00'
 end: '2023-11-04T15:10:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-The_Future_of_WebAssembly_Revolutionalizing_Computing_Across_Platforms_and_Industries
 presenters:
 - name: Desmond Obisi
   affiliation: Flanksource

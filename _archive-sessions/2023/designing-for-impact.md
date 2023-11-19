@@ -3,6 +3,8 @@ title: Designing for impact
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/935
 beginning: '2023-11-03T12:00:00.000-07:00'
 end: '2023-11-03T12:05:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Designing_for_impact
 presenters:
 - name: Ibi
   affiliation: Gruve Tickets

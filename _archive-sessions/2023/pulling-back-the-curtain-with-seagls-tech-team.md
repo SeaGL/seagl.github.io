@@ -3,6 +3,8 @@ title: Pulling back the curtain with SeaGL's Tech team
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/983
 beginning: '2023-11-03T13:50:00.000-07:00'
 end: '2023-11-03T14:10:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Pulling_back_the_curtain_with_SeaGLs_Tech_team
 presenters:
 - name: AJ Jordan
   osem_url: https://osem.seagl.org/users/83

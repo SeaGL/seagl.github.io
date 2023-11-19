@@ -3,6 +3,8 @@ title: Open Recycling? The Juxtaposition of Sustainability and FLO(SS)
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1008
 beginning: '2023-11-03T10:30:00.000-07:00'
 end: '2023-11-03T10:50:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Open_Recycling_The_Juxtaposition_of_Sustainability_and_FLOSS
 presenters:
 - name: Athan Spathas
   osem_url: https://osem.seagl.org/users/929

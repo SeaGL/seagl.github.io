@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/978
 beginning: '2023-11-03T14:50:00.000-07:00'
 end: '2023-11-03T15:40:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2023-Whats_REALLY_going_on_when_you_use_your_browser_to_access_something_on_the_web
   slides_url: https://jeffsilverm.ddns.net/under_the_hood.html
 presenters:
 - name: Jeff Silverman
