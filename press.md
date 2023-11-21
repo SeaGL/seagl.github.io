@@ -24,6 +24,7 @@ The [Open Source Initiative] is our 501(c)(3) fiscal sponsor.
   - First held in 2013.
   - Held at [Seattle Central College] through 2019.
   - Held online in 2020 and 2021.
+  - Held at [University of Washington] and online since 2023.
 
 </div><div class="col-md-4" markdown="1">
 
@@ -67,3 +68,4 @@ See the [style guide](/style_guide#ColorPalette) for SeaGL's color palette.
 
 [Open Source Initiative]: https://opensource.org/
 [Seattle Central College]: https://seattlecentral.edu/
+[University of Washington]: https://www.washington.edu/
