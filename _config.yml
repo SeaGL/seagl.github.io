@@ -70,8 +70,8 @@ exclude:
     - vendor/ruby/
 
 custom:
-    year:                   2023
-    dates:                  November 3rd & 4th
+    year:                   2024
+    dates:                  November 8th & 9th
     location:               In-Person & Virtual
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
@@ -84,11 +84,11 @@ custom:
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
-        location:           /maps/2023
-        prospectus:         /sponsors/SeaGL_Partnership_Sponsor_Prospectus_2023.pdf
-        register:           https://osem.seagl.org/conferences/seagl2023/register/new
-        cfp:                /news/2023/03/08/CFP-Open
-        schedule:           https://osem.seagl.org/conferences/seagl2023/schedule/events
+        location:           /maps/2024
+        prospectus:         
+        register:           
+        cfp:                
+        schedule:           
         press_kit:          /press
     a:
         email:
@@ -111,7 +111,7 @@ custom:
         mailing_list:
             seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
-        location:           <a href="/maps/2023">University of Washington</a>
+        location:           <a href="/maps/2024">University of Washington</a>
         donate:             <a href="https://opensource.org/civicrm/contribute/transact?reset=1&id=4">Donate to SeaGL</a>
     maps:
       google:
