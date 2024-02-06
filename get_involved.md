@@ -11,8 +11,7 @@ body_id: get-involved
 ## Volunteer for SeaGL
 
 2024 marks our 12th year as an all-volunteer staffed FLOSS conference.
-With three virtual events under our belt, the plan is to begin our second decade with a return to an in-person experience in Seattle.
-However, to maintain the remote participants who have joined us, we will be pushing for a hybrid setting.
+With three virtual events and a hybrid one under our belt, the plan is to continue improving on an in-person experience in Seattle and online.
 
 Would you like to lend a beak or wing to the effort?
 Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") and say hi!

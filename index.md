@@ -16,7 +16,7 @@ SeaGL strives to be welcoming, enjoyable, and informative for professional techn
 
 ### When & where
 
-**{{ site.custom.dates }}, {{ site.custom.year }}** at {{ site.custom.a.location }} and online
+**{{ site.custom.dates }}, {{ site.custom.year }}** at {{ site.custom.a.location }} and online.
 
 ### Attend
 
@@ -70,7 +70,7 @@ or join the {{ site.custom.a.mailing_list.seagl_announce }}.
 
 ## Exhibitors
 
-We will have a virtual expo hall available at SeaGL 2022.
+We will have a small hall available for in-person exhibitors as well as virtual expo hall space available at SeaGL 2024.
 Free/libre/open-source software/hardware projects and non-profit organizations may request gratis space.
 There are several paid sponsorship levels and add-ons for other entities.
 If your group would like to exhibit at SeaGL, please review our <a href="{{ site.custom.url.prospectus }}">Partnership/Sponsor Prospectus</a> or send an email to {{ site.custom.a.email.sponsor }} for more information.

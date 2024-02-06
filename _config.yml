@@ -85,10 +85,10 @@ custom:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
         location:           /maps/2024
-        prospectus:         
-        register:           
+        prospectus:         /sponsors/SeaGL_Partnership_Sponsor_Prospectus_2024.pdf
+        register:           https://osem.seagl.org/conferences/seagl2024/register/new
         cfp:                
-        schedule:           
+        schedule:           https://osem.seagl.org/conferences/seagl2024/schedule/events
         press_kit:          /press
     a:
         email:
