@@ -8,11 +8,11 @@ categories: news
 tags: '2020'
 ---
 
-We need YOU!  To help us select keynoters for SeaGL 2020!  Please use our form to [nominate a keynote speaker](https://docs.google.com/forms/d/e/1FAIpQLScpDCLYLXC4OecykkvhotT1XboOFOZ22X-OyM4go6EzLW95gg/viewform).  We are looking for open source community members with experiences and stories to share.  We are, as always, looking for new candidates who have not keynoted before, who have a different perspective to share.  Our community is vast, therefore our keynotes must represent our community.  
+We need YOU!  To help us select keynoters for SeaGL 2020!  Please use our form to [nominate a keynote speaker](https://docs.google.com/forms/d/e/1FAIpQLScpDCLYLXC4OecykkvhotT1XboOFOZ22X-OyM4go6EzLW95gg/viewform).  We are looking for open source community members with experiences and stories to share.  We are, as always, looking for new candidates who have not keynoted before, who have a different perspective to share.  Our community is vast, therefore our keynotes must represent our community.
 
 Submissions are anonymous and you can fill in the (very short) form for as many wonderful humans as you'd like to nominate, one form per nomination.  This form will be open til **May 24, 2020**.
 
-So, please, share 
+So, please, share
 * your pie in the sky picks
 * your mentor from your local user group
 * someone who has advocated for open source outside of traditional tech

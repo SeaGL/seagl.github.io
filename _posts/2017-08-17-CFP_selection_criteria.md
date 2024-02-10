@@ -14,9 +14,9 @@ So here it is! What follows is more or less exactly the guidance we sent our rev
 
 ### Audience profile
 
-The audience runs the gamut from experienced FOSS technologists to the uninitiated/students, leaning quite heavily to the latter rather than the former. 
+The audience runs the gamut from experienced FOSS technologists to the uninitiated/students, leaning quite heavily to the latter rather than the former.
 
-Therefore talks about how to scale your unicorn are less applicable than more introductory topics. 
+Therefore talks about how to scale your unicorn are less applicable than more introductory topics.
 
 Which isn't to say there's no space for unicorn scaling type talks, just that they will be in the minority for the program.
 

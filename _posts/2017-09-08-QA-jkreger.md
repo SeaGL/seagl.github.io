@@ -25,6 +25,3 @@ A: This will be my first visit to SeaGL. I had hopes of trying to visit last yea
 Q: Are you excited?
 
 A: I am really excited. I feel that local communities are the foundation of larger communities, and every time I have attended a smaller community event, while I feel awkward, I've had some of the best discussions and learned some of the most interesting things by people in that community.
-
-
-

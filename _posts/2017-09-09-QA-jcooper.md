@@ -27,8 +27,3 @@ A: I attended SeaGL two years ago and had a great time. I enjoyed the do-it-your
 Q: What prerequisite knowledge is required for the talk?
 
 A: I don't plan to get very technical with regards to the implementation of Docker and Swarm so this talk should be accessible to almost anyone with an interest in containers.  Prior knowledge of Docker will be helpful, but my hope is that those completely unfamiliar with containers should also be able to follow along as well.
-
-
- 
-
-

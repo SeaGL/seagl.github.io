@@ -26,7 +26,6 @@ Our talk format is generally 50 minutes of speaking followed by 10 minutes of qu
 
 Right now, since we're a relatively new community organized and non-profit event, we're unable to provide travel funding for speakers.
 
-
 Feel free to contact us if you have any questions, either by
 emailing {{ site.custom.a.email.participate }}
 or visting us on IRC on

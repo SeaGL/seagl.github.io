@@ -30,7 +30,7 @@ We're _very_ grateful that people proposed multiple talks. It allowed us a lot o
 
 [![Bar chart of accepted talks, broken down by track](/img/posts/seagl2018-tracks.png){:width="400"}](/img/posts/seagl2018-tracks.png)
 
-Sysadmin/Ops/DevOps was far and away the most popular track among the accepted talks, but Programming and InfoSec weren't too far behind. 
+Sysadmin/Ops/DevOps was far and away the most popular track among the accepted talks, but Programming and InfoSec weren't too far behind.
 
 Bringing up the rear is Data/AI/ML with only a single accepted talk. Considering the current popularity of AI and Machine Learning, we were really surprised we didn't receive more good proposals on this topic.
 

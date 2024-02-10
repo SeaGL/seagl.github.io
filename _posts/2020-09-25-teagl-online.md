@@ -19,7 +19,7 @@ receive someone else's favorite.
 If you'd like to participate [please sign up
 here](https://gnu-cloud.yourownnet.cloud/apps/forms/qsiw2pCb5sKPPaCg) by **October 9th at 11:59pm**.
 Concerned about privacy? We have an anonymi-tea mode that will ensure your TeaGL trade pal doesn't
-know your name or address details. 
+know your name or address details.
 
 We're excited to continue this SeaGL tradition, and look forward to seeing what teas y'all bring to
 the tea-ble. Until then, pinkies up!

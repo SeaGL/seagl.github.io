@@ -8,8 +8,6 @@ categories: news
 tags: '2014'
 ---
 
-
-
 We are pleased to announce that Karen Sandler will be delivering a talk about free software and medical devices at 9:30 am on Saturday in the Broadway Performance Hall. The talk is titled, "Freedom in My Heart and Everywhere: Lessons from a Cyborg Lawyer" and we hope you'll join us.
 
 One more note about SeaGL, you absolutely don't have to register in advance. The event is 100% free, so all you have to do is show-up. However, if you'd like to help us get a sense of expected attendance then we'd love it if you did choose to register through [Lanyrd](http://lanyrd.com/2014/seagl/), thanks!

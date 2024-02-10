@@ -42,7 +42,7 @@ We _encourage_ attendees to wear [facial coverings recommended by the United Sta
 
 We _require_ attendees, aside from the active presenter, to wear [facial coverings recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) in all presentation spaces, including the keynote auditorium.
 
-We _encourage_ the use of masks with an N95 or similar rating. These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that  may cause COVID/flu-like symptoms.
+We _encourage_ the use of masks with an N95 or similar rating. These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that may cause COVID/flu-like symptoms.
 
 We _commit_ to having a supply of high-quality facial coverings at the event and will supply any attendee who needs one, free of charge.
 
@@ -132,4 +132,3 @@ This Health and Safety Policy is based in part on North Bay Python's found here,
 We are eager to consider any additions to this Health and Safety Policy that you might find valuable, to better support you or others, or to clarify our objective.
 
 Thank you!
-

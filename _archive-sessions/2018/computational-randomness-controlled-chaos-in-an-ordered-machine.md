@@ -17,7 +17,7 @@ presenters:
     at Urbana-Champaign.
 ---
 
-There are many computational needs for randomness, from virtual card shuffling to creating a cryptographically secure id. Generally, using the default random libraries to create random numbers is sufficient, but for secure cases we might need to use something better. Come learn about the best methods for common scenarios that require random number generation.  Attendees will learn how to evaluate different kinds of  random number generators and select the best one for a specific purpose.
+There are many computational needs for randomness, from virtual card shuffling to creating a cryptographically secure id. Generally, using the default random libraries to create random numbers is sufficient, but for secure cases we might need to use something better. Come learn about the best methods for common scenarios that require random number generation.  Attendees will learn how to evaluate different kinds of random number generators and select the best one for a specific purpose.
 
 First, we will discuss some high profile examples of randomness gone wrong. Next we will look at both pseudo-random number generators, which use statistically repeatable processes to generate seemingly random series and then true random number generators, which inject physical processes like atmospheric noise to generate sequences of numbers. Finally, we will look at modern methods for creating randomness, including the secrets module and cryptography.io in python.
 

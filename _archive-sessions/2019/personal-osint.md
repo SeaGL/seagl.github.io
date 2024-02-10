@@ -20,7 +20,7 @@ DOES THE FOLLOWING SOUND LIKE YOU OR SOMEONE YOU KNOW?
 > In any case, I'm already out there, have accepted the risk and have nothing to hide.
 
 There are plenty of reasons you should care, and let me give you a hint --
- it's not about what you actually post on these sites. It is much worse.
+it's not about what you actually post on these sites. It is much worse.
 
 It's about your email address.
 

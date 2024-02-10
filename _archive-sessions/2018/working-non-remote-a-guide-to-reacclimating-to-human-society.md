@@ -15,7 +15,7 @@ presenters:
 
 Unpopular opinion: remote work may be one of the best "perks" to ever be popularized by the tech industry, but it is also one of the worst.
 
-On one hand, it allows employers access to a more diverse pool of  employees, and employees greater schedule flexibility and the ability to customize their working conditions to better fit their needs. On the other, it presents a complex and often frustrating set of challenges not present in any other working environment. For many, the added flexibility more than makes up for the additional complications that often arise from working remote.
+On one hand, it allows employers access to a more diverse pool of employees, and employees greater schedule flexibility and the ability to customize their working conditions to better fit their needs. On the other, it presents a complex and often frustrating set of challenges not present in any other working environment. For many, the added flexibility more than makes up for the additional complications that often arise from working remote.
 
 But what if, like many, you come to realize that working remotely just doesn’t work well for you? What next?
 

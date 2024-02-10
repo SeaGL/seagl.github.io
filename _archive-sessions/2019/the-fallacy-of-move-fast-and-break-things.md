@@ -18,9 +18,7 @@ presenters:
 
 The phrase "move fast, and break things" has been echoing down the halls of tech companies for years. While this may sound like a good way to operate it will be challenging without having processes in place to set teams and individuals up for success. You might be thinking "Ugh process. Processes stifle innovation, slow things down, and introduce unnecessary hurdles to jump through." But in order to move quickly and know what to do when things breaks processes are needed.
 
- To successfully move fast and break things processes are needed for:
-
-
+To successfully move fast and break things processes are needed for:
 
 - Releasing a new feature to production. How and when is code deployed? What is the path to production—are features first made available to internal users, then a gradual rollout to all users?
 - Alerting and notifying the correct individuals that something is broken. What mechanisms are in place to monitor applications and systems? Who is part of the on-call rotation? What is the escalation procedure?

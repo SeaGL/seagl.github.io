@@ -8,13 +8,13 @@ categories: news
 tags: '2017'
 ---
 
-**Volunteer with SeaGL this Year!** 
+**Volunteer with SeaGL this Year!**
 
 We'd love to have you! SeaGL is an all-volunteer conference, which means it's very easy to become part of the action.
 
-We're looking for folks to sign up to be room monitors. Maybe you'll meet your idol? Duties include: 
+We're looking for folks to sign up to be room monitors. Maybe you'll meet your idol? Duties include:
 
-* Introduce the speaker 
+* Introduce the speaker
 * Be on hand in case they need anything
 * Possibly help with the mic or the projector
 * Make sure your session finishes on time
@@ -26,13 +26,9 @@ We're also looking for general day-of volunteers. Full of (hopefully) mild surpr
 * Help with tidying up at the end of each day
 * Carrying cables or fruit from one place to another
 
-We also have some easy opportunities to help promote SeaGL; bringing flyers to a meet-up, coffee shop or another local nerdy event. 
+We also have some easy opportunities to help promote SeaGL; bringing flyers to a meet-up, coffee shop or another local nerdy event.
 
-Interested? Just email us! {{ site.custom.a.email.participate }} 
+Interested? Just email us! {{ site.custom.a.email.participate }}
 or visit us on IRC at
 [Freenode]({{ site.custom.url.irc.network }}) in
 [#seagl]({{ site.custom.url.irc.webchat }}).
-
-
-
-

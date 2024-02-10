@@ -16,4 +16,3 @@ Furthermore, we condemn in the strongest of terms, the actions of the Seattle Po
 
 Thank you,  
 SeaGL Staff
-

@@ -16,7 +16,7 @@ A: I've been in technology for a long time, longer than I've been knitting and s
 
 Q: Without tipping your hand on the actual talk, can you give us an idea of what we might expect?
 
-A:  I think a lot of people think of crafting as soft and creative, a long way from the blinking cursor of code and administration. I want to point out that learning new things follows many of the same patterns, and that there is nothing magical about learning technology. I am also planning pictures of adorable sheep.
+A: I think a lot of people think of crafting as soft and creative, a long way from the blinking cursor of code and administration. I want to point out that learning new things follows many of the same patterns, and that there is nothing magical about learning technology. I am also planning pictures of adorable sheep.
 
 Q: Is this your first visit to SeaGL? If so, what are your expectations? If not, can you give us your impressions of the event?
 
@@ -25,6 +25,3 @@ A: This is the first time I get to go! I was supposed to come last year, but I h
 Q: What's your favorite sculpture in the Olympic Sculpture Park?
 
 A: Wake, by Richard Serra. I was working in downtown Seattle when the park opened, and I love this piece for its vastness and rust and ambiguity.
- 
-
-

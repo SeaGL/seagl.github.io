@@ -74,7 +74,7 @@ For the actual file content, you can make your changes either in the GitHub web 
         * Enter a filename (according to the instruction above if a blog post)
     * To edit an existing file:
         * Click on the file to select it
-        * Click the little pencil icon 
+        * Click the little pencil icon
     * Either way, you may now edit the file in the web interface.
 1. Commit your changes using the `Commit changes` form below the editing interface.
     * Enter a brief but descriptive title such as "Adding 2017 CFP opening announcement".
@@ -165,7 +165,7 @@ You can either send a PR in the GitHub interface or from your local machine.
 
 1. On your browser, navigate to your fork of the seagl.github.io repo.
 1. Click in the `Pull requests` tab.
-1. Click the `New pull request button`. 
+1. Click the `New pull request button`.
 1. GitHub recognises that your repo is a fork and defaults to having the PR be the main branch of your fork requesting against the main branch of seagl.github.io. Odds are very good this is what you want. If it's not, you'll know enough to realise this. :-)
 1. Click `Create pull request`.
 1. Enter a brief but descriptive title such as "Adding 2017 CFP opening announcement".

@@ -20,7 +20,6 @@ Considering submitting a proposal or two to the SeaGL CFP, but perhaps you aren'
 * We also have lots of experienced free software users who attend SeaGL and want to hear what's happening with BSD or GNU as well as nerd out on the latest automation tweaks.
 * Privacy and policy topics are welcome and unifying topics at SeaGL. Please share your tips & tricks (or concerns & fears) about vulnerabilities, proposed legislation, terrible court cases, etc.
 
-
 [Submit your presentation](https://osem.seagl.org/conference/seagl2016/program/proposal/new) now.
 
 **The CFP deadline is midnight PDT, August 1, 2016.**
@@ -30,7 +29,6 @@ If you'd like CFP support, join our team for one of our [CFP office hours](/news
 Our talk format is generally 50 minutes of speaking followed by 10 minutes of questions, so an hour total.
 
 Right now, since we're a relatively new community organized and non-profit event, we're unable to provide travel funding for speakers.
-
 
 Feel free to contact us if you have any questions, either by
 emailing {{ site.custom.a.email.participate }}

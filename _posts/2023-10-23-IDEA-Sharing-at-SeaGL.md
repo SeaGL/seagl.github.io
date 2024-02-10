@@ -25,6 +25,5 @@ Once again, if there's anyone else that you think might be interested, please pa
 
 Note that if you are planning on attending in-person, we have released a new [health and safety policy](/health) which will apply at the event. We'd like to thank the [Public Health Pledge](https://publichealthpledge.com) for their leadership in encouraging conferences to have health and safety policies!
 
-
 Regards,  
 The SeaGL 2023 IDEA committee

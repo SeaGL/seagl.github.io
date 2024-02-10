@@ -25,6 +25,3 @@ A: It's my first visit and I'm excited. I'm going to meet so many people with ne
 Q: Why do you think computer people would want to listen to a talk by a musician?
 
 A: So many of the computer people I know are musicians too, and seem to be intrigued by the maths and patterns in music.
- 
-
-

@@ -25,6 +25,3 @@ A: It is my first visit! Knowing the people who are involved, I'm hoping for a w
 Q: Where should attendees go for a delicious cheap meal?
 
 A: Take the Link down to the International District and grab some scallion pancakes and cold peanut sauce noodles at Szechuan Noodle Bowl. Bring friends!
-
-
-

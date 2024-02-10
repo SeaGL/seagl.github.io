@@ -9,7 +9,7 @@ presenters:
   gravatar_id: dd657f0f52acf88c8385b43a7670495f
 ---
 
-The New York Times has been innovating journalism with technology for the past 164 years.   Since our first website launched in 1996, we’ve faced the unique challenges of running a high-traffic website from the moment we launched, something incredibly challenging for a company where digital started off as an afterthought. Without the open source tools available today, this required building web servers, ad networks, and caches all from scratch.
+The New York Times has been innovating journalism with technology for the past 164 years. Since our first website launched in 1996, we’ve faced the unique challenges of running a high-traffic website from the moment we launched, something incredibly challenging for a company where digital started off as an afterthought. Without the open source tools available today, this required building web servers, ad networks, and caches all from scratch.
 
 The Times has been around a long time and will be around for the foreseeable future. This presents a unique problem-how do you build software to last decades? Any piece of software we build is immediately in the hands of hundreds of thousands of users and we have core pieces of our architecture that have lasted 10, even 20 years.
 

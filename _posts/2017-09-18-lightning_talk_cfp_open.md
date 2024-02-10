@@ -18,7 +18,7 @@ This year the SeaGL lightning talks will take place during the conference party 
 
 ### About lightning talks
 
-Lighting talks are five minute talks. You may use as many (or as few) slides as you wish. 
+Lighting talks are five minute talks. You may use as many (or as few) slides as you wish.
 
 SeaGL's attendees are fascinating and well-rounded individuals with a lot of different interests. Therefore SeaGL lightning talks may be on any topic whatsoever. There's no need to stick to technical matters.
 
@@ -28,7 +28,7 @@ There are three criteria for a SeaGL lightning talk:
 1. You can present it in five minutes.
 1. The presentation does not violate the [code of conduct](/code_of_conduct).
 
-That's it! Pretty easy, really. 
+That's it! Pretty easy, really.
 
 [Propose a lightning talk now](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 
@@ -47,7 +47,7 @@ Lightning talks can be about anything which you think would hold the interest of
 * So you want to buy a house: What to expect
 * How to mingle at parties and events
 
-Technical talks, funny talks, WTF talks… If you can make it interesting, then we'd love a proposal about it. 
+Technical talks, funny talks, WTF talks… If you can make it interesting, then we'd love a proposal about it.
 
 [Propose a lightning talk now](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 

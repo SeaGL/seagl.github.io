@@ -20,7 +20,7 @@ title: Attend SeaGL 2024
     <div class="panel panel-primary text-center">
       <div class="panel-heading"><h2 class="panel-title">Venue Details</h2></div>
       <div class="panel-body">
-        <p>SeaGL takes place on the University of Washington campus at the Husky Union Building (known as the HUB). 
+        <p>SeaGL takes place on the University of Washington campus at the Husky Union Building (known as the HUB).
             This is located on the central campus, west of Stevens Way NE.</p>
         <p>We recommend viewing the indoor map to get familar with the general layout of the conference.</p>
         <p><a class="btn btn-primary btn-large" href="/maps/2024">View Conference Maps</a></p>
@@ -33,7 +33,7 @@ title: Attend SeaGL 2024
       <!-- HTML/CSS is not my strong suit, apologies if there's a better way-->
       <!-- to margin these to make this the same size as the other row -->
       <div class="panel-body" style="margin-top: 0.7em; margin-bottom: 0.7em;">
-        <p>There are several bus routes that take you to the HUB, which can be found on the 
+        <p>There are several bus routes that take you to the HUB, which can be found on the
             <a href="https://tripplanner.kingcounty.gov/#/app/tripplanning">Metro Trip Planner</a>
             (Search Husky Union Building).</p>
         <p>Parking can be found at the <a href="https://www.washington.edu/maps/#!/padelford-garage-n16-n18-n20-n21">

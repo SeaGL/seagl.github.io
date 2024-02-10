@@ -25,5 +25,3 @@ A: This is my first SeaGL, although I've been to conferences in other parts of t
 Q: Do you know the story behind the animal covers on O'Reilly books?
 
 A: I do! And if someone asks about it at the session, I'll tell it.
-
-

@@ -25,7 +25,7 @@ In addition to our Code of Conduct, we continue to take active steps to welcome 
 
 * Holding office hours to help prospective speakers with their proposals as part of our CFP process
 * Reaching out directly to underserved communities to encourage speaking and attendance
-* Actively encouraging new speakers 
+* Actively encouraging new speakers
 * Conducting the CfP according to our published [Code of Practice](/code_of_practice)
 
 All that said, SeaGL is a big-and-little-F free grassroots technical event organized by volunteers.

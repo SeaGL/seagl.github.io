@@ -50,7 +50,7 @@ Our technical decisions were driven by a few guiding principles:
 
 Given the demands on our team of volunteers (and the Free Software ethos), we wanted to reuse wherever we could instead of writing new functionality from scratch.
 _Not-invented-here is a feature in FOSS._
-For the chat functionality, we've embedded a [Kiwi IRC](https://kiwiirc.com/) instance into the SeaGL portal which connects to the [freenode](https://freenode.net/) IRC network. 
+For the chat functionality, we've embedded a [Kiwi IRC](https://kiwiirc.com/) instance into the SeaGL portal which connects to the [freenode](https://freenode.net/) IRC network.
 
 Presenters will connect to a [BigBlueButton](https://bigbluebutton.org/) instance graciously provided to us by the [Free Software Foundation](https://www.fsf.org/).
 Their video will be broadcast to a variety of third party streaming sites, as well as being sent to Azure for [live transcription](https://docs.microsoft.com/en-us/azure/media-services/latest/live-transcription) for display within our embedded chat.

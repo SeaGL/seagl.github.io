@@ -40,7 +40,7 @@ If you have a great idea for a talk on open-source which doesn't fit into these 
   * [Know Your Rights as a Tech Worker](https://archive.org/details/SeaGL2021-Shauna_Gordon-McKeon-Know_Your_Rights_as_a_Tech_Worker), by Shauna Gordon-McKeon at SeaGL 2021
 - **Performance Art**: This category encompasses both performance art about the tech community, and art projects which are supported by open-source software.  From stand-up comedy to generative art to knitting with software, we would love to see what you can come up with!
   * [Stand-up comedy about FLOSS](https://archive.org/details/SeaGL2020-Sumana_Harihareswara-Stand_up_comedy_about_FLOSS), by Sumana Harihareswara at SeaGL 2020
-- **Security and Privacy**: Open-source communities have been at the forefront of security and privacy for many years.  As well as securing your tech stack, talks in this category will look at the human side of security, and the privacy impacts of today's tech ecosystem. 
+- **Security and Privacy**: Open-source communities have been at the forefront of security and privacy for many years.  As well as securing your tech stack, talks in this category will look at the human side of security, and the privacy impacts of today's tech ecosystem.
   * [What's Anonymity Worth?](https://archive.org/details/SeaGL2022-Kaylea_Champion-Whats_Anonymity_Worth), by Kaylea Champion at SeaGL 2022
   * [Computing Confidentially in the Clouds](https://archive.org/details/SeaGL2021-Aeva_Black-Computing_Confidentially_in_the_Clouds), by Aeva Black at SeaGL 2021
   * [Open Source Secrets Management](https://archive.org/details/SeaGL2020-Gareth_J_Greenaway-Open_Source_Secrets_Management), by Gareth J. Greenway at SeaGL 2020

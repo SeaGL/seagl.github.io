@@ -8,7 +8,6 @@ categories: news
 tags: '2017'
 ---
 
-
 Adam Monsen gives his talk titled, "Automatic Chicken Door HOWTO (No it will not hurt a chicken)" on [Friday afternoon](https://osem.seagl.org/conferences/seagl2017/program/proposals/290).
 
 Q: Could you please introduce yourself and tell us a little about your background?
@@ -26,4 +25,3 @@ A: I've been to every SeaGL so far. I heart heart heart SeaGL because we focus o
 Q: Would I rather have a frontal lobotomy or a bottle in front of me?
 
 A: What the heck... I guess I'd go for the bottle. Wait, for you, or me? And bottle of what?
-

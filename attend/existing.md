@@ -6,7 +6,7 @@ title: Attend SeaGL 2023 Virtually
 description: How to attend SeaGL 2023 with an existing Matrix account
 ---
 
-# Attend with your Matrix account 
+# Attend with your Matrix account
 
 SeaGL's virtual conference exists on a Matrix homeserver operated by [Seattle Matrix](https://seattlematrix.org/). The whole conference is a series of rooms and subspaces in a Matrix space—it is primarily designed with [Element](https://element.io/)'s interface in mind. You can of course use your own preferred Matrix client—just bear in mind we won't be able to help you out as much.
 

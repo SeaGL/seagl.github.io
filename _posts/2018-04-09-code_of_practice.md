@@ -8,7 +8,7 @@ categories: news
 tags: '2018'
 ---
 
-SeaGL 2018 organising is moving along nicely! We're talking about our A/V requirements and what sort of fun stuff we'd like to do onsite. We're also starting to reach out to potential sponsors who want to be a part of our sixth year. We would love it if you would share our [prospectus](/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2018.pdf) with your company or organisation! 
+SeaGL 2018 organising is moving along nicely! We're talking about our A/V requirements and what sort of fun stuff we'd like to do onsite. We're also starting to reach out to potential sponsors who want to be a part of our sixth year. We would love it if you would share our [prospectus](/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2018.pdf) with your company or organisation!
 
 The Program Committee is the group responsibile for choosing and scheduling all of the great talks you enjoy at SeaGL. This year the committee is:
 
@@ -38,7 +38,7 @@ What _is_ new in 2018 is the Program Committee Code of Practice. It's inspired b
 
 This is what we believe in and how we operate as we go about our business of building the best possible program and schedule for [SeaGL](/).
 
-As members of the SeaGL program committee and proposal reviewers, aside from the [SeaGL Code of Conduct](/code_of_conduct), we also agree to operate according to these values and statements: 
+As members of the SeaGL program committee and proposal reviewers, aside from the [SeaGL Code of Conduct](/code_of_conduct), we also agree to operate according to these values and statements:
 
 ### Values
 

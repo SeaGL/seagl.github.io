@@ -13,7 +13,7 @@ presenters:
   biography: Cameron Bielstein is a software engineer at the Allen Institute for Brain
     Science in Seattle. He holds a Master of Science in Computer Science from The
     University of Texas at Austin and is a proud community college graduate. Additional
-    professional experience includes time at Microsoft, some  freelance experience,
+    professional experience includes time at Microsoft, some freelance experience,
     and volunteering to mentor computer science students. When not writing code, Cameron
     can be found playing with his dog, eating tacos, or sailing.
 ---

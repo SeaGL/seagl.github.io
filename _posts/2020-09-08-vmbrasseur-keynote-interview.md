@@ -18,7 +18,7 @@ Writing a book is no small feat and I won't diminish that, but the content itsel
 
 I've learned that the process of writing the book takes a lot longer than you'd expect.  Scope creep: it's not just for software. You need to keep your work focused. Also similar to software, it's important to have someone else review your work. The book is so much better because of the feedback from the technical reviewers. I'm so grateful to them for all of their insights, and especially to my friend and editor Brian MacDonald for helping to keep me on task and on topic.
 
-There are two things I'd like people to take away from the book, one each for different audiences. For contributors—potential or otherwise—I want you to recognise that you _can_ contribute, you _do_ belong in FOSS, that FOSS needs you whatever your skillset, and that you can and should take the time to ensure that your efforts help _you_ as much as they help FOSS. The book helps with these things so you have a better chance of being successful with your contributions and overall FOSS experience. 
+There are two things I'd like people to take away from the book, one each for different audiences. For contributors—potential or otherwise—I want you to recognise that you _can_ contribute, you _do_ belong in FOSS, that FOSS needs you whatever your skillset, and that you can and should take the time to ensure that your efforts help _you_ as much as they help FOSS. The book helps with these things so you have a better chance of being successful with your contributions and overall FOSS experience.
 
 Secondly, for maintainers—who can learn a lot from the book, too—I want you to rediscover the newbie mindset. Many maintainers have been doing FOSS for a long time and have lost the perspective of someone new to our world. Reading the book can help to regain some of that so you can identify ways to make your project more welcoming and easier to use and contribute to, opening the door to better sustainability for your project and the entire ecosystem.
 
@@ -46,7 +46,6 @@ It's not ready to launch quite yet, but I've been working on a catalog of govern
 
 > What is something interesting about you that most people might not be aware of?
 
-One of my bachelor's degrees is in Latin, but that's mostly because my uni didn't offer a degree in Ancient Greek. I have four years of university-level training in Latin but five and a half in Ancient Greek. Had that job offer in tech not landed in my lap in the late 90s, I'd have headed to grad school for Classics instead, eventually becoming a [papyrologist](https://en.wikipedia.org/wiki/Papyrology). 
+One of my bachelor's degrees is in Latin, but that's mostly because my uni didn't offer a degree in Ancient Greek. I have four years of university-level training in Latin but five and a half in Ancient Greek. Had that job offer in tech not landed in my lap in the late 90s, I'd have headed to grad school for Classics instead, eventually becoming a [papyrologist](https://en.wikipedia.org/wiki/Papyrology).
 
 Of those two languages, Latin is the one that still gets the most direct workout, mostly from people asking me to translate phrases from English so they can put them on a patch, seal, or tattoo to look more impressive. The Greek training, however, is used every single day of my life. The teachings of that professor rewrote how my brain works and I've never looked at the world the same again. Thank you, Carl. I think about you all the time. You're wonderful and have changed my life for the better.
-

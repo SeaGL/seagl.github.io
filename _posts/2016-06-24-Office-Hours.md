@@ -12,7 +12,6 @@ Get Help with Your SeaGL Proposal!
 
 SeaGL is committed to promoting new voices and helping newer speakers get in front of our friendly audience. So whether you want help with your first proposal or guidance tailoring a talk to SeaGL's audience, we invite you to join us for Office Hours. You can either use an IRC channel to find us at #seagl on freenode.net or visit [https://webchat.freenode.net/](https://webchat.freenode.net/) via any web browser. You'll choose a nickname, type #seagl into the channel box, confirm that you aren't a robot and then connect.
 
-
 * Monday, June 27th, 2-4pm (PDT)
 
 * Thursday, July 7th, 6-8pm (PDT)
@@ -22,7 +21,6 @@ SeaGL is committed to promoting new voices and helping newer speakers get in fro
 * Monday, July 11th, 4-6pm (PDT)
 
 * Wednesday, July 13th, 6-8pm (PDT)
-
 
 We have a great roster of volunteers who will be happy to help you turn your ideas into a proposal. You can find more information about our call for presentations [here.](/news/2016/05/13/CFP-Open)
 

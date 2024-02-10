@@ -17,10 +17,10 @@ that we can accommodate speakers from all over the world!
 We’re looking for any community focused talks.
 A few examples are:
 
-* Tech examples: Event organization, coding, design, documentation, open source, etc. 
+* Tech examples: Event organization, coding, design, documentation, open source, etc.
 * Non-tech examples: non-profit work, hobbies/programs (eg. community gardens), sports teams, theater, etc.
 
-Our one request is that there are no promotions of any kind - meaning, please no video resumes, no company/product promos, etc. 
+Our one request is that there are no promotions of any kind - meaning, please no video resumes, no company/product promos, etc.
 
 We’re looking forward to hearing from you, our community. Please [submit your talk ideas](https://forms.gle/3iVpzavUxmjLTXmm8) as soon as possible,
 as we will be reviewing them on a rolling basis.

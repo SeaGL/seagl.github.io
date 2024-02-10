@@ -16,7 +16,7 @@ Less than one week remains to submit your talk proposals to the [SeaGL Call For 
 
 ### CFP by the numbers
 
-In 2016 we received 149 talk proposals for a total of 50 talk slots. 
+In 2016 we received 149 talk proposals for a total of 50 talk slots.
 
 So far this year we've received 50 talk proposals. We don't know how many slots there'll be since we've added a new [20 minute talk type](/news/2017/06/19/CFP-open). The number of talk slots will depend on the number of short and long talks we receive.
 
@@ -81,9 +81,9 @@ Here's our target timeline for proposal review, notification, and schedule publi
 
 As SeaGL is a **free to attend community-organized conference**, we regret that at this time we are unable to help with the cost of travel and accommodation for speakers.
 
-### Code of Conduct 
+### Code of Conduct
 
-All speakers and attendees of SeaGL must agree and adhere to the [Code of Conduct](/code_of_conduct) for the safety and enjoyment of all organizers, volunteers, speakers, and attendees. We ask that all prospective speakers review and confirm their willingness to abide by the Code of Conduct terms and expectations when interacting within SeaGL community spaces. 
+All speakers and attendees of SeaGL must agree and adhere to the [Code of Conduct](/code_of_conduct) for the safety and enjoyment of all organizers, volunteers, speakers, and attendees. We ask that all prospective speakers review and confirm their willingness to abide by the Code of Conduct terms and expectations when interacting within SeaGL community spaces.
 
 ### Propose today!
 

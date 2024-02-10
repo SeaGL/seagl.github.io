@@ -12,22 +12,22 @@ Thank you, everyone, for participating in and sharing our CFP. It closed this pa
 
 ### CFP by the numbers
 
-This year we received a grand total of 138 proposals. This is slightly fewer than last year's 149, but we suspect that what we've lost in quantity we're making up in quality. 
+This year we received a grand total of 138 proposals. This is slightly fewer than last year's 149, but we suspect that what we've lost in quantity we're making up in quality.
 
 We tried something new in 2017: both 50 and 20 minute time slots. This seems to have been a good idea, since 36 of the 138 proposals (26 percent) are the shorter 20 minute format. This leads to some really interesting possibilities for scheduling, but of course it will depend on which talks our reviewers select.
 
 As far as topics, we have a nice distribution in the proposals:
 
-* Systems/Ops: 29 
-* Programming: 24 
+* Systems/Ops: 29
+* Programming: 24
 * Something different: 22
-* People: 20 
-* Security/InfoSec: 18 
-* Hardware/IoT: 7 
-* Documentation: 6 
-* Data/AI/ML: 5 
+* People: 20
+* Security/InfoSec: 18
+* Hardware/IoT: 7
+* Documentation: 6
+* Data/AI/ML: 5
 * Education: 4
-* Design/UI/UX/Accessibility: 1 
+* Design/UI/UX/Accessibility: 1
 
 It's disappointing that we received so few proposals on _Design/UI/UX/Accessibility_, but that just shows where we can spend more effort in outreach next year. That _Something different_ category is very exciting though. We can't wait to see what sort of treasures are hidden in there.
 

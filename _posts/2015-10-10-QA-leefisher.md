@@ -11,7 +11,7 @@ tags: '2015'
 SeaGL speaker Lee Fisher shares information about his upcoming UEFI
 presentation:
 
-Q: Could you please introduce yourself and tell us a little about your 
+Q: Could you please introduce yourself and tell us a little about your
 background?
 
 I've been working on computers for many years, mostly at the OS level,

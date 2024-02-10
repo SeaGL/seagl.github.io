@@ -22,10 +22,8 @@ Q: Is this your first visit to SeaGL? If so, what are your expectations? If not,
 
 A: First time at SeaGL. I'm expecting something like Linuxfest Northwest but smaller. People, talks, vendors, and parties. Also bad wifi.*
 
-Q:  If you cut a sandwich in half, do you have two halves of a sandwich or two sandwiches? 
+Q:  If you cut a sandwich in half, do you have two halves of a sandwich or two sandwiches?
 
 A: The answer is two sandwiches and if you say differently then you're just factually wrong. Open a dictionary.
 
-
 <i>* Editor's note: the wifi was fine last year except in that one room -- which we're keeping a surprise for new attendees.</i>
-

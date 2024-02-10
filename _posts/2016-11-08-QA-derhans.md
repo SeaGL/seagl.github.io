@@ -12,11 +12,9 @@ der.hans gives his talk titled, "MySQL for the system administrator: !DBA MySQL 
 
 Q: Could you please introduce yourself and tell us a little about your background?
 
-
 A: I've mostly been a sysadmin for many years, but have also been a full-time developer, managed IT and engineering teams, taught at a community college, pretended to be a DBA and generally tried to automate myself out of a job. I annually do not set myself on fire.
 
 Q: Without tipping your hand on the actual talk, can you give us an idea of what we might expect?
-
 
 A: Pinatas. We should definitely have pinatas. They would be great. Since we just had candy fest the presentation will instead cover database stuff from a system administrator's perspective. Leveraging the CLI, automating, restorals, usernames longer than 16 characters and generally keeping our standard sysadminny toolchest.
 

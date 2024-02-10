@@ -9,7 +9,7 @@ presenters:
   osem_url: https://osem.seagl.org/users/579
   gravatar_id: ec4291ec4dfcfcfad1723d0bb5347ef0
   biography: |-
-    Andy  is the Regional Manager for Customer Success at CyberArk. He is responsible for providing guidance in securing organizations with technologies and security best practices in order to prevent credential theft and breach. Andy spent the last 21 years in the fields of information security, systems administration, architecture, and web development;  focusing primarily on large retail organizations. Andy is also active in the information security communities of Texas as a member of North Texas ISSA, Shadow Systems Hacker Collective, and the Dallas Hackers Association.
+    Andy is the Regional Manager for Customer Success at CyberArk. He is responsible for providing guidance in securing organizations with technologies and security best practices in order to prevent credential theft and breach. Andy spent the last 21 years in the fields of information security, systems administration, architecture, and web development;  focusing primarily on large retail organizations. Andy is also active in the information security communities of Texas as a member of North Texas ISSA, Shadow Systems Hacker Collective, and the Dallas Hackers Association.
 
     Andy holds a Bachelor's of Science degree in Information Systems from the University of Texas at Arlington as well as the Certified Information Systems Security Professional (CISSP), and Systems Security Certified Practitioner (SSCP) certifications from (ISC)2. He is also COMPTIA Security+ certified as well as a GIAC certified penetration tester (GPEN). Andy is also a member of the SANS advisory council and a SANS CISSP instructor.
 ---

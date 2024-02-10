@@ -22,7 +22,6 @@ To nominate someone, please send us an email {{ site.custom.a.email.award }} wit
 
 If you want to speak with us in real-time, come visit us on IRC on Freenode in #seagl.
 
-
 Feel free to contact us if you have any questions, either by
 emailing {{ site.custom.a.email.participate }}
 or visting us on IRC on

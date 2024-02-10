@@ -17,12 +17,9 @@ presenters:
 
 Democratizing knowledge has always been a core value of open source and activist communities alike. However, as open source has grown into an institution in its own right, the norms of each community have become cemented, and thus barriers to participation built.
 
-
 As these barriers have become increasingly apparent, we have seen the rise of a new kind of technical content- zines, which have long been used in activist communities to interrogate, subvert, and topple exclusion via the free sharing of information which has traditionally been available to a privileged few.
 
-
 In this high level talk, attendees will learn about:
-
 
 - Where zines came from
 - Zine culture as an implementation of the “New Hacker Ethic”

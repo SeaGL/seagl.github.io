@@ -27,16 +27,16 @@ The number of proposals that are from who self-identify as first-time speakers. 
 The number of talks in the track with the most proposals, _Systems, sysadmin, ops, DevOps_. The breakdown of all of the proposals by track/topic:
 
 * Systems, sysadmin, ops, DevOps: 32
-* People: 30 
-* Programming: 29 
-* Something different: 21 
-* Security, Information Security: 19 
-* Education: 9 
-* Hardware, IoT: 8 
-* Data, AI, ML: 6 
-* Design, UX, UI, Accessibility: 5 
-* Documentation: 4 
-* Legal, Licensing: 2 
+* People: 30
+* Programming: 29
+* Something different: 21
+* Security, Information Security: 19
+* Education: 9
+* Hardware, IoT: 8
+* Data, AI, ML: 6
+* Design, UX, UI, Accessibility: 5
+* Documentation: 4
+* Legal, Licensing: 2
 
 The final schedule of the conference is _very_ unlikely to reflect these numbers. Our aim is to provide value to the SeaGL audience. As the audience is diverse, so much be the schedule. We'll aim to balance things as much as possible so there's something good in there for everyone.
 

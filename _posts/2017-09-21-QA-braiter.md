@@ -8,7 +8,6 @@ categories: news
 tags: '2017'
 ---
 
-
 Brain Raiter gives his talk titled, "Introduction to the Godot Game Engine" on [Friday afternoon](https://osem.seagl.org/conferences/seagl2017/program/proposals/389).
 
 Q: Could you please introduce yourself and tell us a little about your background?
@@ -26,4 +25,3 @@ A: This is my fifth time attending SeaGL. Talks cover a wide range of topics, gi
 Q: What's the first computer game you ever played?
 
 A: Mainframe "Star Trek", on an IBM S/36 where my father worked.
-

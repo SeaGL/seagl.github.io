@@ -18,7 +18,7 @@ presenters:
     will always be found wearing a kilt."
 ---
 
-Over the last three years, I have _really_ gotten into bicycling. From a  negligible cycling past, I broke the 10,000 mile mark a while ago.
+Over the last three years, I have _really_ gotten into bicycling. From a negligible cycling past, I broke the 10,000 mile mark a while ago.
 
 Last year, while riding from Seattle to Bellingham, from my biking community to my Linux community, I considered just how Freeing each transition had been. Historically biking has been associated with many things including health, happiness, and feminism. What about Free Software?
 

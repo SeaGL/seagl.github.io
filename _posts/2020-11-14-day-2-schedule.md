@@ -23,7 +23,7 @@ All times are listed in Pacific Standard Time, which is UTC -08:00
 
 #### 10:00am-10:45am block
 * Cameron Bielstein - Building Free CI/CD with GitHub Actions
-* Elizabeth K. Joseph -  Open Source on the Mainframe in 1960, 1999, and Today
+* Elizabeth K. Joseph - Open Source on the Mainframe in 1960, 1999, and Today
 * Aeva Black - Crossing the Gender Divide
 
 #### 10:45am-11:30am block

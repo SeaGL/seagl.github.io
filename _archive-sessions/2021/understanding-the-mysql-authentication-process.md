@@ -16,4 +16,4 @@ presenters:
     He lives in Texas and has the mandated pickup truck, hound dog, and Stetson hat.
 ---
 
-MySQL is a popular database but few understand that sometimes the authentication process actually works, that it can be too permissive, and sometimes too many have dangerous permissions provided to them. This session will cover how the server decides which  accounts are allowed to access the server, password options, how to use roles, set up dual passwords, setting functional limits on accounts, and more.
+MySQL is a popular database but few understand that sometimes the authentication process actually works, that it can be too permissive, and sometimes too many have dangerous permissions provided to them. This session will cover how the server decides which accounts are allowed to access the server, password options, how to use roles, set up dual passwords, setting functional limits on accounts, and more.

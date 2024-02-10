@@ -20,6 +20,6 @@ We're using the extra keynote slots to host people who haven't keynoted before, 
 1. Sort the nominations into two groups: Keynoted and Not Really Keynoted. We did some really quick web searches to figure out who should be in which group. The groups each became a new Google Form.
 1. The most important step: the voting. The entire SeaGL organising staff voted for each candidate in each group, selecting a value from 0 (I have no opinion on this nomination) to 5 (omgyesplz).
 
-That was about it. We then invited the candidates who received the most votes, and got to celebrate when they accepted! 
+That was about it. We then invited the candidates who received the most votes, and got to celebrate when they accepted!
 
 Over the next four days we'll reveal the four brilliant people who've agreed to keynote SeaGL 2018. They'll be revealed one a day in alphabetical order by their last names. We hope once you see who they are you'll be as excited as we are!

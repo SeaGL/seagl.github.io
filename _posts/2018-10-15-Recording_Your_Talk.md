@@ -26,7 +26,7 @@ If you've not recorded your own presentations before, you'll probably want to do
 
 * [Linux](https://opensource.com/business/15/11/how-record-screencasts)
 * [Mac](https://anonymoushash.vmbrasseur.com/2016/12/04/how-to-record-a-presentation-screencast-video-using-quicktime/)
-* [Windows](https://www.howtogeek.com/183231/how-to-record-your-desktop-and-create-a-screencast-on-windows/) 
+* [Windows](https://www.howtogeek.com/183231/how-to-record-your-desktop-and-create-a-screencast-on-windows/)
 
 The Windows instructions also include details for using [Open Broadcaster Software](https://obsproject.com/) (which is Free software) to record your screencast. These instructions will work for _any platform_ where you can run OBS (read: pretty much all of them).
 
@@ -36,7 +36,7 @@ Out of respect for everyone else using the conference wifi, we ask that you not 
 
 ### Sharing your slides, video, etc.
 
-Once you've recorded your talk, what do you do with it? Or with your slides? 
+Once you've recorded your talk, what do you do with it? Or with your slides?
 
 You could upload the video to YouTube and the slides to SlideShare, and if that's your preference that's great. However, we encourage you to upload the video and the slides together to a single item at [Internet Archive](https://archive.org).
 

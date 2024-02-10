@@ -60,7 +60,7 @@ We have several associated social events you can join, if that's how you roll:
 * **When**: 6PM - 9PM
 * **Details**: Light appetizers, a tasty beverage, and a Free Software Social courtesy of our dear friends at the Free Software Foundation!
 
-#####  Diverse SeaGLs Flocking Together
+##### Diverse SeaGLs Flocking Together
 
 * **Where**: [Herb & Bitter Public House](https://www.herbandbitter.com/): 516 Broadway East
 * **When**: 6PM

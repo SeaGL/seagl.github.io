@@ -7,7 +7,7 @@ presenters:
 - name: Athan Spathas
   osem_url: https://osem.seagl.org/users/929
   gravatar_id: 9317e6d13f278aa7f44ae804cbb07657
-  biography: Athan is  an educator, artist and developer who has been a advocate of
+  biography: Athan is an educator, artist and developer who has been a advocate of
     Free / Libre / Open Source ideals since he learned about GNU/Linux in 2015. In
     particular, Athan is focused on the development of accessible music technology
     and community. He is also a Luthier who works on microtonal guitars!

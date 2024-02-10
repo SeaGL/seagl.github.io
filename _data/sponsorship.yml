@@ -29,7 +29,7 @@ sponsors:
     description: |-
       Ada's Technical Books & Cafe is Seattle's technical bookstore. We build
       community through science minded literature, a vegetarian cafe, specialty
-      coffee, coworking, and an intimate event venue. 
+      coffee, coworking, and an intimate event venue.
     sponsorships:
       2016: bronze
       2017: media
@@ -1033,7 +1033,7 @@ sponsors:
       horizontal: /img/sponsors/DestinationLinuxNetwork/dln-logo.png
       square:
     description: |-
-      Destination Linux Network - A Media Network Powered By Linux & Open Source. Check out Destination Linux, Hardware Addicts, Sudo Show, DLN Xtend, Ask Noah Show and the Fedora Podcast. 
+      Destination Linux Network - A Media Network Powered By Linux & Open Source. Check out Destination Linux, Hardware Addicts, Sudo Show, DLN Xtend, Ask Noah Show and the Fedora Podcast.
     sponsorships:
       2021: media
 
@@ -1043,7 +1043,7 @@ sponsors:
       horizontal: /img/sponsors/TuxDigital/tuxdigital-logo-blue-horizontal.png
       square: /img/sponsors/TuxDigital/tuxdigital-logo-blue-stacked.png
     description: |-
-      TuxDigital - A Media Network Powered By Linux & Open Source. Check out Destination Linux, This Week In Linux, Hardware Addicts, Sudo Show, Linux Out Loud, Linux Saloon, Game Sphere and the Fedora Podcast. 
+      TuxDigital - A Media Network Powered By Linux & Open Source. Check out Destination Linux, This Week In Linux, Hardware Addicts, Sudo Show, Linux Out Loud, Linux Saloon, Game Sphere and the Fedora Podcast.
     sponsorships:
       2022: media
       2023: media
@@ -1212,4 +1212,3 @@ sponsors:
       TechHut Media LLC
     sponsorships:
       2023: media
-

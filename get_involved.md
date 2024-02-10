@@ -17,7 +17,6 @@ Would you like to lend a beak or wing to the effort?
 Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") and say hi!
 You can also fill out our [Volunteer Interest Form](/volunteer) to let us know how you'd like to help out.
 
-
 ## Staff Committees
 
 The volunteer work needed to put SeaGL together is roughly organized into the following committees. Specific skill gaps will be added as they are identified.
@@ -31,7 +30,6 @@ The volunteer work needed to put SeaGL together is roughly organized into the fo
 - **Promotion & Outreach**: Spreading the word about SeaGL world wide.
 - **SRE/Technical**: Central nest for SeaGL technical operations.
 - **Volunteers**: Keeping the SeaGL staff happy and recruiting new volunteers to the flock.
-
 
 ## Sponsors and Non-Profit Exhibitors
 

@@ -25,7 +25,7 @@ This should not be!
 
 Security is everyone's responsibility; not just security or operations.
 
-My short talk will focus on a prototype pipeline that demonstrates how to implement automation for basic security tests whenever developers change code. Said pipeline will be built using open source tools, one or more reference applications (SUTs)  and be packaged in a way that makes it easy for attendees to replicate the results onsite in their own environments.
+My short talk will focus on a prototype pipeline that demonstrates how to implement automation for basic security tests whenever developers change code. Said pipeline will be built using open source tools, one or more reference applications (SUTs) and be packaged in a way that makes it easy for attendees to replicate the results onsite in their own environments.
 
 Attendees will come away with better understanding of
  - different types of security tests
