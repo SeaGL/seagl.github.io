@@ -18,7 +18,7 @@ SeaGL, like free software, is for everyone. It's paramount to us that all attend
 
 Please remember that all staff, presenters, and attendees of SeaGL are expected to obey the [Code of Conduct](/code_of_conduct) not only at SeaGL but also in all SeaGL-associated spaces including but not limited to associated social events, the conference party, and the IRC channel.
 
-If you have any concerns at all that are of a Code of Conduct nature, please email `coc AT seagl.org` as soon as possible. If you need immediate help, please locate any SeaGL staffer. We'll be wearing name tags that say **_STAFF_** so hopefully we'll be easy to spot.
+If you have any concerns at all that are of a Code of Conduct nature, please email `coc AT seagl.org` as soon as possible. If you need immediate help, please locate any SeaGL staffer. We'll be wearing name tags that say **_STAFF_** so hopefully we'll be easy to spot.
 
 ### Onsite
 
@@ -42,7 +42,7 @@ We have several associated social events you can join, if that's how you roll:
 
 ##### Totally informal dinner gathering
 
-* **Where**: [La Cocina Oaxaqueña](https://lacocinaoaxaquena.com), 1216 Pine St.
+* **Where**: [La Cocina Oaxaqueña](https://lacocinaoaxaquena.com), 1216 Pine St.
 * **When**: Dinner-ish time (7PM or whenever)
 * **Details**: Feel like getting a bite and maybe running into SeaGL folks? Then come here for dinner. We have no reserved seats and everyone will pay for themselves. If it's a nice night, aim to be seated on the patio out front.
 
@@ -56,7 +56,7 @@ We have several associated social events you can join, if that's how you roll:
 
 ##### Free Software Foundation mixer
 
-* **Where**: [McMenamins Six Arms](https://www.mcmenamins.com/six-arms), 300 E. Pike St.
+* **Where**: [McMenamins Six Arms](https://www.mcmenamins.com/six-arms), 300 E. Pike St.
 * **When**: 6PM - 9PM
 * **Details**: Light appetizers, a tasty beverage, and a Free Software Social courtesy of our dear friends at the Free Software Foundation!
 
@@ -64,7 +64,7 @@ We have several associated social events you can join, if that's how you roll:
 
 * **Where**: [Herb & Bitter Public House](https://www.herbandbitter.com/): 516 Broadway East
 * **When**: 6PM
-* **Details**: Thanks to the generosity of IBM and the assistance of Twilio, this year SeaGL will host its first social event focused around diversity and inclusion. Folks belonging to groups under-represented in technology (and their allies!) are welcome. Arrangements are being finalised now, seating will be limited, and invitations will be handed out at the event on Friday.
+* **Details**: Thanks to the generosity of IBM and the assistance of Twilio, this year SeaGL will host its first social event focused around diversity and inclusion. Folks belonging to groups under-represented in technology (and their allies!) are welcome. Arrangements are being finalised now, seating will be limited, and invitations will be handed out at the event on Friday.
 
 #### Saturday
 
