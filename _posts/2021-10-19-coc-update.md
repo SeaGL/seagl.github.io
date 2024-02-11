@@ -9,7 +9,7 @@ categories: news
 
 SeaGL is proud to be a safe, welcoming, and inclusive space for our community to gather and share ideas.
 We are always working to make sure that our conference is welcoming for people of all backgrounds and skill levels.
-As part of this, we expect all participants to abide by our [Code of Conduct](https://seagl.org/code_of_conduct).
+As part of this, we expect all participants to abide by our [Code of Conduct](/code_of_conduct).
 
 We've recently made some changes to our Code of Conduct to ensure that it continues to meet our goals.
 We added some examples of behavior that is considered harassment so that everyone knows what acceptable behavior looks like.
@@ -26,7 +26,7 @@ In addition to our Code of Conduct, we continue to take active steps to welcome 
 * Holding office hours to help prospective speakers with their proposals as part of our CFP process
 * Reaching out directly to underserved communities to encourage speaking and attendance
 * Actively encouraging new speakers 
-* Conducting the CfP according to our published [Code of Practice](https://seagl.org/code_of_practice)
+* Conducting the CfP according to our published [Code of Practice](/code_of_practice)
 
 All that said, SeaGL is a big-and-little-F free grassroots technical event organized by volunteers.
 It is difficult to express how much we appreciate all of those who have participated in bringing SeaGL into its 9th year (THANK YOU!).

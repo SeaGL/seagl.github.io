@@ -16,6 +16,6 @@ And what a schedule it is! We're really happy with how things worked out as far 
 
 If your talk was one of our waitlisted sessions, there's still a chance that we may need to schedule it. We have four speakers who are still awaiting approval to attend and may have to withdraw their talks. We hope they'll be able to join us, but if they can't then we know we have really good talks waiting in the wings. Thank you for your patience during this process. We know it can be annoying to be put on hold like that and we'll do everything we can to keep you posted and the schedule evolves.
 
-We're really excited for this year's event and can't wait to have you join us for our 🎂 Fifth Birthday 🎂. These [amazing speakers](https://osem.seagl.org/conferences/seagl2017/schedule), you amazing attendees, two [amazing keynotes](https://seagl.org/news/2017/07/25/Keynote_Announce.html), one [amazing award](https://seagl.org/news/2017/08/19/CA_nomsclosing.html)… This is going to be a SeaGL to remember.
+We're really excited for this year's event and can't wait to have you join us for our 🎂 Fifth Birthday 🎂. These [amazing speakers](https://osem.seagl.org/conferences/seagl2017/schedule), you amazing attendees, two [amazing keynotes](/news/2017/07/25/Keynote_Announce.html), one [amazing award](/news/2017/08/19/CA_nomsclosing.html)… This is going to be a SeaGL to remember.
 
 Clear your calendar on October 6-7 and come be a part of the fun!

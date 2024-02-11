@@ -17,7 +17,7 @@ In UTC, that's from Thursday at 19:00 to Friday at 01:00.
 
 SeaGL exists to support the FLOSS community.
 We're starting the career expo to help people find and nurture careers working in and with FLOSS.
-Like other aspects of SeaGL, the career expo is dedicated to providing a harassment-free, inclusive experience that follows our [Code of Conduct](https://seagl.org/code_of_conduct).
+Like other aspects of SeaGL, the career expo is dedicated to providing a harassment-free, inclusive experience that follows our [Code of Conduct](/code_of_conduct).
 
 ##Career Expo Enrollment
 

@@ -12,7 +12,7 @@ We're pleased to announce the SeaGL 2018 schedule!
 
 Two days!
 
-[Four amazing keynotes!](https://seagl.org/news/2018/05/28/our_2018_keynoters.html)
+[Four amazing keynotes!](/news/2018/05/28/our_2018_keynoters.html)
 
 [Fifty six spectacular talks!](https://osem.seagl.org/conferences/seagl2018/schedule)
 

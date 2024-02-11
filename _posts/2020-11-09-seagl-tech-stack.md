@@ -36,7 +36,7 @@ If you want to use your IRC client of choice, you'll be able to do that—all of
 Furthermore, we'll be spending some time after the event to polish up and document the system for anyone who wants to replicate the experience for their own conference.
 In the spirit of free software, we're standing on the shoulders of giants and making contributions to the future.
 
-And, of course, SeaGL's [Code of Conduct](https://seagl.org/code_of_conduct) still applies.
+And, of course, SeaGL's [Code of Conduct](/code_of_conduct) still applies.
 
 ## The Tech
 

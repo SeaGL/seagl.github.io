@@ -8,9 +8,9 @@ categories: news
 tags: '2020'
 ---
 
-Today is our second and FINAL day of SeaGL 2020!  Here is the full [SeaGL 2020 program](https://osem.seagl.org/conferences/seagl2020/schedule), and please read on for today's schedule, for Friday, November 13, 2020.  As a reminder, SeaGL 2020 is completely [virtual](https://seagl.org/news/2020/05/05/virtualconf-2020.html).  SeaGL is also completely free as in tea with no registration required, so everyone is welcome to attend.
+Today is our second and FINAL day of SeaGL 2020!  Here is the full [SeaGL 2020 program](https://osem.seagl.org/conferences/seagl2020/schedule), and please read on for today's schedule, for Friday, November 13, 2020.  As a reminder, SeaGL 2020 is completely [virtual](/news/2020/05/05/virtualconf-2020.html).  SeaGL is also completely free as in tea with no registration required, so everyone is welcome to attend.
 
-You can attend if you go to [attend.seagl.org](https://attend.seagl.org).  Live streams are also available at [seagl.org/watch](https://seagl.org/watch).
+You can attend if you go to [attend.seagl.org](https://attend.seagl.org).  Live streams are also available at [seagl.org/watch](/watch).
 
 Normal talk blocks are 30m - 20m for the talk, 10m for optional Q&A as led by the Room Moderator.  The Moderator will read questions from the text chat audience for the speaker to answer.  There are 15 minute spaces between talks, which means that the talk blocks are listed as 45 minutes long.  There is no Q&A during Keynotes.
 
@@ -47,7 +47,7 @@ All times are listed in Pacific Standard Time, which is UTC -08:00
 * Aaron Wolf - Software Freedom through Collective Action
 * Lisha Sterling - Building Alternative Networks for Fun and Resistance
 
-**2:45pm-3:30pm is [TeaGL](https://seagl.org/news/2020/09/25/teagl-online.html)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!**
+**2:45pm-3:30pm is [TeaGL](/news/2020/09/25/teagl-online.html)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!**
 
 #### 3:30pm-4:15pm block
 * Paris Buttfield-Addison and Tim Nugent - First Steps with Swift for TensorFlow

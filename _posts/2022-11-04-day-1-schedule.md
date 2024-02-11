@@ -8,11 +8,11 @@ categories: news
 tags: '2022'
 ---
 
-Welcome to the first day of SeaGL 2022! Be sure to check out our amazing [lineup of events](https://osem.seagl.org/conferences/seagl2022/schedule). Below, you will find the schedule for today (Friday, November 4, 2022). As a reminder, SeaGL 2022 is completely [virtual](https://seagl.org/news/2022/06/28/Virtual_SeaGL_2022.html) for the third year in a row. The conference is also completely "free as in tea" with no registration required. Everyone is welcome to attend!
+Welcome to the first day of SeaGL 2022! Be sure to check out our amazing [lineup of events](https://osem.seagl.org/conferences/seagl2022/schedule). Below, you will find the schedule for today (Friday, November 4, 2022). As a reminder, SeaGL 2022 is completely [virtual](/news/2022/06/28/Virtual_SeaGL_2022.html) for the third year in a row. The conference is also completely "free as in tea" with no registration required. Everyone is welcome to attend!
 
-You can attend if you go to [seagl.org/attend](https://seagl.org/attend). Live streams are also available at [seagl.org/watch](https://seagl.org/watch).
+You can attend if you go to [seagl.org/attend](/attend). Live streams are also available at [seagl.org/watch](/watch).
 
-As a reminder, our [Code of Conduct](https://seagl.org/code_of_conduct.html) applies during ALL SeaGL interactions. In chat, during one's talk if you are giving one, social events during SeaGL, and on other platforms during or as a result of the conference.
+As a reminder, our [Code of Conduct](/code_of_conduct.html) applies during ALL SeaGL interactions. In chat, during one's talk if you are giving one, social events during SeaGL, and on other platforms during or as a result of the conference.
 
 Normal talk blocks are 30m. There are 20m for the talk, and 10m for optional Q&A as led by the Room Moderator. The Moderator will read questions from the text chat audience for the speaker to answer. There is no Q&A during Keynotes.
 

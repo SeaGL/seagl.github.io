@@ -10,7 +10,7 @@ tags: '2017'
 
 **The SeaGL CFP closes at 23:59:59 PT on August 6th!**
 
-Less than one week remains to submit your talk proposals to the [SeaGL Call For Proposals](https://seagl.org/news/2017/06/19/CFP-open.html), which means it's time to stop procrastinating and put on your favorite thinking cap.
+Less than one week remains to submit your talk proposals to the [SeaGL Call For Proposals](/news/2017/06/19/CFP-open.html), which means it's time to stop procrastinating and put on your favorite thinking cap.
 
 [Click here to propose a talk.](https://osem.seagl.org/conferences/seagl2017/program/proposals)
 
@@ -18,7 +18,7 @@ Less than one week remains to submit your talk proposals to the [SeaGL Call For 
 
 In 2016 we received 149 talk proposals for a total of 50 talk slots. 
 
-So far this year we've received 50 talk proposals. We don't know how many slots there'll be since we've added a new [20 minute talk type](https://seagl.org/news/2017/06/19/CFP-open.html). The number of talk slots will depend on the number of short and long talks we receive.
+So far this year we've received 50 talk proposals. We don't know how many slots there'll be since we've added a new [20 minute talk type](/news/2017/06/19/CFP-open.html). The number of talk slots will depend on the number of short and long talks we receive.
 
 We're really excited at the progress so far. Despite being open for much less time than in 2016, we've already received 1/3 of the number of proposals as we did last year. Most proposals always come in during the last week (the last day, really), so we're well on track to receive a record breaking number of proposals in 2017.
 
@@ -83,7 +83,7 @@ As SeaGL is a **free to attend community-organized conference**, we regret that 
 
 ### Code of Conduct 
 
-All speakers and attendees of SeaGL must agree and adhere to the [Code of Conduct](https://seagl.org/code_of_conduct.html) for the safety and enjoyment of all organizers, volunteers, speakers, and attendees. We ask that all prospective speakers review and confirm their willingness to abide by the Code of Conduct terms and expectations when interacting within SeaGL community spaces. 
+All speakers and attendees of SeaGL must agree and adhere to the [Code of Conduct](/code_of_conduct.html) for the safety and enjoyment of all organizers, volunteers, speakers, and attendees. We ask that all prospective speakers review and confirm their willingness to abide by the Code of Conduct terms and expectations when interacting within SeaGL community spaces. 
 
 ### Propose today!
 

@@ -10,7 +10,7 @@ tags: '2020'
 
 Planning volunteer run conferences such as SeaGL always takes a lot of ongoing work from a dedicated core. It also takes a lot of people to volunteer during the conference itself.
 
-For SeaGL, our focus remains on our community, especially our attendees and speakers. They're why we put on the conference. That is you, you are why we make SeaGL every year. You are our focus as the programming team selects talks and builds the [schedule](https://seagl.org/news/2020/10/26/program-2020.html), also as SeaGL decides what features we're going to offer.
+For SeaGL, our focus remains on our community, especially our attendees and speakers. They're why we put on the conference. That is you, you are why we make SeaGL every year. You are our focus as the programming team selects talks and builds the [schedule](/news/2020/10/26/program-2020.html), also as SeaGL decides what features we're going to offer.
 
 Two years ago that focus led us to add no cost [day care](/news/2018/10/04/Free_Childcare_Free_Lunch.html) ( also thanks to a generous sponsor to pay for it ).
 
@@ -40,6 +40,6 @@ A number of posts will be released in the coming days about our tech stack for d
 
 This year we continued our tea swapping tradition by adding a virtual tea exchange for TeaGL, using a Nextcloud form for the signup. As part of our commitment to privacy we included an anonymi-tea option. We also used Kdenlive to create our [TeaGL toasts](https://mastodon.social/@SeaGL/105049083765428489). Please post one if you'd like to participate. We continue to use FLOSS for our conference planning system (OSEM).
 
-We're using another Nextcloud form for the volunteer signup. See our [call for volunteers](https://seagl.org/news/2020/10/05/call-for-volunteers.html) if you'd like to hlpe. We have two training sessions left.
+We're using another Nextcloud form for the volunteer signup. See our [call for volunteers](/news/2020/10/05/call-for-volunteers.html) if you'd like to hlpe. We have two training sessions left.
 
-We look forward to seeing all of you on Friday and Saturday, November 13th and 14th, to celebrate you, our esteemed guests, at [SeaGL 2020](https://seagl.org/news/2020/10/26/program-2020.html).
+We look forward to seeing all of you on Friday and Saturday, November 13th and 14th, to celebrate you, our esteemed guests, at [SeaGL 2020](/news/2020/10/26/program-2020.html).

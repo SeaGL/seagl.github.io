@@ -80,7 +80,7 @@ custom:
     url:
         irc:
             network:        https://libera.chat/
-            webchat:        https://seagl.org/meet
+            webchat:        /meet
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize

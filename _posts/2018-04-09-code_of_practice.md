@@ -8,7 +8,7 @@ categories: news
 tags: '2018'
 ---
 
-SeaGL 2018 organising is moving along nicely! We're talking about our A/V requirements and what sort of fun stuff we'd like to do onsite. We're also starting to reach out to potential sponsors who want to be a part of our sixth year. We would love it if you would share our [prospectus](https://seagl.org/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2018.pdf) with your company or organisation! 
+SeaGL 2018 organising is moving along nicely! We're talking about our A/V requirements and what sort of fun stuff we'd like to do onsite. We're also starting to reach out to potential sponsors who want to be a part of our sixth year. We would love it if you would share our [prospectus](/sponsors/SeaGL_Exhibitor_Sponsor_Prospectus_2018.pdf) with your company or organisation! 
 
 The Program Committee is the group responsibile for choosing and scheduling all of the great talks you enjoy at SeaGL. This year the committee is:
 
@@ -30,15 +30,15 @@ When should you start sending those talks? Good question! We've decided on dates
 * Close CFP: July 29
 * Notify by: September 3
 
-Like [last year](https://seagl.org/news/2017/06/19/CFP-open.html), we'll have CFP office hours to help people brainstorm talk ideas and craft their proposals. We'll also publish our [review criteria](https://seagl.org/news/2017/08/17/CFP_selection_criteria.html) again, but there probably won't be many changes there from 2017.
+Like [last year](/news/2017/06/19/CFP-open.html), we'll have CFP office hours to help people brainstorm talk ideas and craft their proposals. We'll also publish our [review criteria](/news/2017/08/17/CFP_selection_criteria.html) again, but there probably won't be many changes there from 2017.
 
 What _is_ new in 2018 is the Program Committee Code of Practice. It's inspired by SeaGL's mission of mentoring, collaboration, and openness. We're very happy to share it here publicly for the first time:
 
 ## Code of Practice
 
-This is what we believe in and how we operate as we go about our business of building the best possible program and schedule for [SeaGL](https://seagl.org).
+This is what we believe in and how we operate as we go about our business of building the best possible program and schedule for [SeaGL](/).
 
-As members of the SeaGL program committee and proposal reviewers, aside from the [SeaGL Code of Conduct](https://seagl.org/code_of_conduct.html), we also agree to operate according to these values and statements: 
+As members of the SeaGL program committee and proposal reviewers, aside from the [SeaGL Code of Conduct](/code_of_conduct.html), we also agree to operate according to these values and statements: 
 
 ### Values
 

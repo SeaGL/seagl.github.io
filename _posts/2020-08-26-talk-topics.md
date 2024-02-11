@@ -8,7 +8,7 @@ categories: news
 tags: '2020'
 ---
 
-With the [Call For Proposals extended](https://seagl.org/news/2020/08/20/cfp-extension.html), we thought we'd take a moment to brainstorm a few topics that we'd love to see proposed for the event, but so far haven't seen a large response in the CFP.
+With the [Call For Proposals extended](/news/2020/08/20/cfp-extension.html), we thought we'd take a moment to brainstorm a few topics that we'd love to see proposed for the event, but so far haven't seen a large response in the CFP.
 
 ### Hardware
 
@@ -16,7 +16,7 @@ If you look in the section "About" SeaGL, you'll see right there that freeâ€Š/â€
 
 ### Privacy and social good
 
-With 2020 bringing a lot of change to our lives, and SeaGL's commitment to social good [and causes like Black Lives Matter](https://seagl.org/news/2020/06/12/black-lives-matter.html), many SeaGL attendees are curious about where privacy fits into open technology.
+With 2020 bringing a lot of change to our lives, and SeaGL's commitment to social good [and causes like Black Lives Matter](/news/2020/06/12/black-lives-matter.html), many SeaGL attendees are curious about where privacy fits into open technology.
 
 Whether you know something about open data sets, the intersection of privacy and protesting, or how we can stay safe when we enable contact tracing for COVID-19 on our devices, these are topics that have touched all of our lives this year. We're looking forward to to hearing your expertise.
 
@@ -36,4 +36,4 @@ We have good news, you can submit multiple proposals! But if you're an experienc
 
 ### Still not sure?
 
-Feel free to refer back to our [initial CFP](https://seagl.org/news/2020/07/14/CFP-open.html) for a long list of talk topic suggestions. We will also be continuing to offer CFP Office Hours every Wednesday at noon PDT in #seagl on irc.freenode.net. You can also email <cfp-help@seagl.org> at any time for help/guidance with your proposal. We are here to help.
+Feel free to refer back to our [initial CFP](/news/2020/07/14/CFP-open.html) for a long list of talk topic suggestions. We will also be continuing to offer CFP Office Hours every Wednesday at noon PDT in #seagl on irc.freenode.net. You can also email <cfp-help@seagl.org> at any time for help/guidance with your proposal. We are here to help.
