@@ -6,15 +6,15 @@ layout: none
 	<channel>
 		<title>{{ site.name | xml_escape }}</title>
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
-		<link>{{ site.origin }}</link>
-		<atom:link href="{{ site.origin }}/feed.xml" rel="self" type="application/rss+xml" />
+		<link>{{ '/' | absolute_url }}</link>
+		<atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.content | xml_escape }}</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ site.origin }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.origin }}{{ post.url }}</guid>
+				<link>{{ post.url | absolute_url }}</link>
+				<guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>
