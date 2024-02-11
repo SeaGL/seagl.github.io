@@ -9,7 +9,7 @@ tags: '2020'
 ---
 
 SeaGL is approaching fast, and we need your help! SeaGL is a completely volunteer run conference,
-and with our new new techinical landscape we're going to need some extra hands. Please signup
+and with our new new technical landscape we're going to need some extra hands. Please signup
 using our [Nextcloud webform](https://gnu-cloud.yourownnet.cloud/apps/forms/yHs5d8qmEBedQ72d)
 
 if you're interested in volunteering. We will then send you information about volunteer training sessions (about an hour) and signing up for specific sessions.

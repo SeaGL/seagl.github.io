@@ -24,7 +24,7 @@ A: I know several of you, as sysadmins (or maybe just for fun!), have to deal wi
 Q: Is this your first visit to SeaGL? If so, what are your expectations?
 If not, can you give us your impressions of the event?
 
-A: It is my first visit! I've always heard Seattle has a lot of rain, which I'm looking forward to. We don't have a lot of rain in Lima and I love it when I go somewhere that does. I hope SeaGL will be a great place for learning about new stuff and meeting new people in the Open Source world. I love community-ran conferences since they have a greater outreach to different communities, not only in the area, but all around the world, and bring people from all over together to celerate Open Source. I can't wait to get there!
+A: It is my first visit! I've always heard Seattle has a lot of rain, which I'm looking forward to. We don't have a lot of rain in Lima and I love it when I go somewhere that does. I hope SeaGL will be a great place for learning about new stuff and meeting new people in the Open Source world. I love community-ran conferences since they have a greater outreach to different communities, not only in the area, but all around the world, and bring people from all over together to celebrate Open Source. I can't wait to get there!
 
 Q: Do you have a pet llama in my backyard?
 

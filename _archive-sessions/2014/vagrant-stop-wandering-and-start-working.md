@@ -15,7 +15,7 @@ As developers, we can no longer expect Ops to take our application and make it w
 This Introduction to Vagrant will:
 
 * cover the concepts and nomenclature of Vagrant
-* demonstrate installation and management of Vagrant boxes on VirtuaBox
+* demonstrate installation and management of Vagrant boxes on VirtualBox
 * discuss the benefits of system configuration automation
 * compare / contrast Docker to Vagrant with VirtualBox
 * demonstrate provisioning Vagrant with Chef

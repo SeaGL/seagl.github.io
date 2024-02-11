@@ -41,7 +41,7 @@ I spoke at SeaGL last year, and found it to be a really pleasant, welcoming
 event. I think its size is in the sweet spot for Northwest tech conferences:
 Large enough to offer a wide variety of talks and cater to diverse experience
 levels, yet small enough to mitigate problems with getting lost in the crowd.
-It also fits in a downtown venue surrounded by restaraunts, which you'll
+It also fits in a downtown venue surrounded by restaurants, which you'll
 appreciate if you've ever been to a gathering at a convention center in a
 "food desert"! Socially, I felt like SeaGL was less "cliquey" than some larger
 conferences, as well -- attendees seemed happy to talk to strangers, and

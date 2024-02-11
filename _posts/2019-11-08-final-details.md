@@ -34,7 +34,7 @@ Our keynotes, whom we are so so very honored to welcome to SeaGL, are the follow
 Childcare this year is being sponsored by Indeed!  Please pop by their booth in the Expo Hall, and find the *childcare room in 3199*.  If you'll be bringing kiddos, please give us a heads up to expect them at onsite@seagl.org.
 
 *Food*
-Coffee and tea is sponsored both days by CNCF!  Thank you CNCF for keeping us caffienated!  We will be buying pizza and salad and will be accepting donations if you care to do so, but ALL are welcome to eat.  We were unable to rustle up a food sponsor this year, but if you know a lovely open source adoring company who might want to help us with this for this year or in the future, please email us at sponsors@seagl.org!
+Coffee and tea is sponsored both days by CNCF!  Thank you CNCF for keeping us caffeinated!  We will be buying pizza and salad and will be accepting donations if you care to do so, but ALL are welcome to eat.  We were unable to rustle up a food sponsor this year, but if you know a lovely open source adoring company who might want to help us with this for this year or in the future, please email us at sponsors@seagl.org!
 
 *TeaGL*
 On Saturday afternoon during the afternoon break, for the tea aficionados, please bring your favorite tea to swap and prepare!  We'll have kettles with REAL hot water and milks/sugar, dairy and otherwise.  We may have more on this later :)

@@ -16,6 +16,6 @@ And in case you aren't already familiar with our awesome keynote speaker, here's
 
 Feel free to contact us if you have any questions, either by
 emailing {{ site.custom.a.email.participate }}
-or visting us on IRC on
+or visiting us on IRC on
 [Freenode]({{ site.custom.url.irc.network }}) in
 [#seagl]({{ site.custom.url.irc.webchat }}).

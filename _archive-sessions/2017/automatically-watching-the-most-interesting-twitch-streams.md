@@ -14,14 +14,14 @@ presenters:
 
 It can be tedious to watch multiple twitch streams at once, as streamers are constantly moving in and out of games, reading their subscriber messages, and doing other audience engagement tasks in the downtime. What if a viewer wants to just see the uptime, or the most interesting parts of live streams automatically?
 
-My solution to this problem (for one game at least) is called pubgredzone. It applies the NFL RedZone concept to an incredibly popular battle royale game called PlayerUnknown's BattleGrounds. This game starts with 100 players alive and lets them battle it out until one player remains, while constantly displaying the number of alive players in the top right corner of the screen. pubgredzone will poll Twitch for popular streams of this game, grab a frame from each of these streams, crop each frame down to just the number of players alive, and do OCR on these numbers to determine which stream has the fewest number of players alive. The website will then automatically switch to the determined "best" stream using LiveJS, that way the viewer only sees the interesting parts of the streams (people battling it out at the end to win. analgous to only seeing Touchdowns in NFL RedZone).
+My solution to this problem (for one game at least) is called pubgredzone. It applies the NFL RedZone concept to an incredibly popular battle royale game called PlayerUnknown's BattleGrounds. This game starts with 100 players alive and lets them battle it out until one player remains, while constantly displaying the number of alive players in the top right corner of the screen. pubgredzone will poll Twitch for popular streams of this game, grab a frame from each of these streams, crop each frame down to just the number of players alive, and do OCR on these numbers to determine which stream has the fewest number of players alive. The website will then automatically switch to the determined "best" stream using LiveJS, that way the viewer only sees the interesting parts of the streams (people battling it out at the end to win. analogous to only seeing Touchdowns in NFL RedZone).
 
 I will give a high level overview of the game and the problem solved, how I built the webapp and plans for the future.
 Technologies used:
 
 - ImageMagick (crop images)
 - Tesseract (Object Character recognition)
-- ffmpeg (take a frame from a recorded Twtich stream)
+- ffmpeg (take a frame from a recorded Twitch stream)
 - livestreamer (library for recording Twitch streams)
 - LiveJS (automagically refresh viewers' browser tabs when stream changes)
 - jq (parse json received from Twitch API).

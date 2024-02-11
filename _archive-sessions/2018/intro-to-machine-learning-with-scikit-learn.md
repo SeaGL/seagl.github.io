@@ -32,4 +32,4 @@ In this talk, we'll cover the following topics:
 #### Data Processing
 - A brief overview of the data preprocessing tools available in the scikit-learn platform
 
-Participants will gain the knowledge they need to begin their own course of study into pratical machine learning, and will be introduced to helpful resources to lean on during the learning process. The code used in the talk will also be available on github after the talk.
+Participants will gain the knowledge they need to begin their own course of study into practical machine learning, and will be introduced to helpful resources to lean on during the learning process. The code used in the talk will also be available on github after the talk.

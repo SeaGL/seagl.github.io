@@ -8,9 +8,9 @@ categories: news
 tags: '2020'
 ---
 
-This year, our theme is "[OSI Layer 8: freeing the people](/news/2020/11/10/announcing-SeaGL-2020-theme)" and we intend to provide an open and free space, despite being online. To that end, we've been working dilligently to bring the strong social aspect our attendees expect to SeaGL in 2020.
+This year, our theme is "[OSI Layer 8: freeing the people](/news/2020/11/10/announcing-SeaGL-2020-theme)" and we intend to provide an open and free space, despite being online. To that end, we've been working diligently to bring the strong social aspect our attendees expect to SeaGL in 2020.
 
-[As previously mentioned](/news/2020/11/09/seagl-tech-stack), our tech team has put together a website that features streaming video from the talks alongside Kiwi IRC, providing a web interface to our numerous text chat channels. They've also created a bot which helps orchastrate all of the potential social interactions we hope you help start.
+[As previously mentioned](/news/2020/11/09/seagl-tech-stack), our tech team has put together a website that features streaming video from the talks alongside Kiwi IRC, providing a web interface to our numerous text chat channels. They've also created a bot which helps orchestrate all of the potential social interactions we hope you help start.
 
 A key feature we've tried to emulate is the "hallway track". By asking the bot to create a channel, you can make visible spaces for like-minded folk to join you. Whatsmore, these rooms have a one-click on-demand video/voice option fully integrated utilizing Jitsi. Please feel encouraged to hop around, find your friends, and make some new connections.
 
@@ -23,7 +23,7 @@ Finally, below are a few of our scheduled social events. Please attend them, rem
 
 Friday & Saturday @ 14:45-15:15 PT (22:45-23:15 UTC)
 
-While we don't have an exhibitor hall to wander, there will still be afternoon #TeaGL! This year, as with everything else, we took our [tea swap virtual](/news/2020/09/25/teagl-online). Missed the sign-up? Not to worry! Everyone will still be flocking together during the afternoon break. Bring along some minature treats and a beverage to warm your beak before returning to the final talk block of the day of this Free as in Tea conference. (and psst, the bot may have a special surprise for sharing virtual tea...)
+While we don't have an exhibitor hall to wander, there will still be afternoon #TeaGL! This year, as with everything else, we took our [tea swap virtual](/news/2020/09/25/teagl-online). Missed the sign-up? Not to worry! Everyone will still be flocking together during the afternoon break. Bring along some miniature treats and a beverage to warm your beak before returning to the final talk block of the day of this Free as in Tea conference. (and psst, the bot may have a special surprise for sharing virtual tea...)
 
 New to this year's tea time: **#TeaGLtoasts**. Record a video beginning with your mug to the camera; pull back, take a sip, and cheers software freedom, then bring your mug back to the camera. We will be stitching all of the videos together and overlaying a variety of freely licensed tunes to send around the socials!
 
@@ -41,6 +41,6 @@ Take a peak at the [program listing](https://osem.seagl.org/conferences/seagl202
 
 Saturday, November 14th @ 18:00-22:00 PT (02:00-06:00 UTC)
 
-After the talks have ended, and we've all taken a bit of a break from the screen glow, an evening of fun is ahead. Our IRC Bot will be helping along the mixing and mingling. Start up a special interest "table" to talk around, utilizing the embedded on-demand Jitsi rooms. Join in on a **scavenger hunt**, kicking yourself for all of the quarentine cleaning that means not having that perfect find. Then, at 8pm PT, we will be splitting into randomly assigned teams for **trivia** hosted by none other than Bri Hatch, an every-year SeaGL supporter.
+After the talks have ended, and we've all taken a bit of a break from the screen glow, an evening of fun is ahead. Our IRC Bot will be helping along the mixing and mingling. Start up a special interest "table" to talk around, utilizing the embedded on-demand Jitsi rooms. Join in on a **scavenger hunt**, kicking yourself for all of the quarantine cleaning that means not having that perfect find. Then, at 8pm PT, we will be splitting into randomly assigned teams for **trivia** hosted by none other than Bri Hatch, an every-year SeaGL supporter.
 
 Grab your favorite beverages and finger foods, sign-in to [attend.seagl.org](https://attend.seagl.org), and join the `#seagl-party`!

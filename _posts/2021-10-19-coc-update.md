@@ -14,10 +14,10 @@ As part of this, we expect all participants to abide by our [Code of Conduct](/c
 We've recently made some changes to our Code of Conduct to ensure that it continues to meet our goals.
 We added some examples of behavior that is considered harassment so that everyone knows what acceptable behavior looks like.
 There is now a dedicated email contact for Code of Conduct issues so that we can address incidents quickly while respecting privacy.
-The Code of Conduct now clearly states that it applies to all physical and online spaces associated with the conference, as well as to anyone participating in any role—speaker, attendee, staff, volunteer, or exhibitior.
+The Code of Conduct now clearly states that it applies to all physical and online spaces associated with the conference, as well as to anyone participating in any role—speaker, attendee, staff, volunteer, or exhibitor.
 
 Our Code of Conduct has never been about punishment—we hope that by clearly defining acceptable behavior, all participants will be able to help make our space safe and welcoming.
-However, we recognize that an uneforced Code of Conduct serves no one.
+However, we recognize that an unenforced Code of Conduct serves no one.
 We take the Code of Conduct seriously and will address any violations.
 The SeaGL staff welcome constructive feedback on how we can continue improving our Code of Conduct to serve the needs of the community.
 

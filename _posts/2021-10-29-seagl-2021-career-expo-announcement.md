@@ -12,7 +12,7 @@ SeaGL is excited for the return of our Virtual Career Expo on Friday, November 5
 
 For the career expo, we will provide resume reviews, career guidance, practice interviews, and job seeking assistance via private consultation.
 Counselors will be available for 30 minute jitsi sessions (*video optional*) starting at 10:00 Pacific time Friday morning.
-Conseling sessions will wrap up by 17:00 Friday afternoon.
+Counseling sessions will wrap up by 17:00 Friday afternoon.
 
 SeaGL exists to support the FLOSS community.
 We started the career expo to help people find and nurture careers working in and with FLOSS.

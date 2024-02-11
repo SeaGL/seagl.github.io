@@ -18,6 +18,6 @@ presenters:
     Lead Systems Administration and Architect since 2007.
 ---
 
-Over the past ten to fifteen years, the landscape of FOSS project hosting has evolved quite a bit. Starting with just simple file hosting, to dedicated server hosting and now onto platforms fully featured platforms have changed how FOSS is hosted. Over the past tweleve years the OSU Open Source Lab (OSUOSL) hosting has even shifted towards more cloud-like solutions. But even with these advances, the needs of many FOSS projects still aren’t being met by all of these services.
+Over the past ten to fifteen years, the landscape of FOSS project hosting has evolved quite a bit. Starting with just simple file hosting, to dedicated server hosting and now onto platforms fully featured platforms have changed how FOSS is hosted. Over the past twelve years the OSU Open Source Lab (OSUOSL) hosting has even shifted towards more cloud-like solutions. But even with these advances, the needs of many FOSS projects still aren’t being met by all of these services.
 
 This session will cover a brief history of FOSS project hosting, explain what advances have been made in the past few years, cover what I feel projects are needing that isn’t available and finally discuss what I think FOSS project hosting should look like in the coming years. I also encourage this session to be an open ended discussion with attendees to get a feel for what they feel is needed.

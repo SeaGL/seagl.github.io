@@ -8,7 +8,7 @@ categories: news
 tags: '2020'
 ---
 
-The Program Committee is the group responsibile for choosing and scheduling all of the great talks you enjoy at SeaGL. This year the committee steering the Program consists of:
+The Program Committee is the group responsible for choosing and scheduling all of the great talks you enjoy at SeaGL. This year the committee steering the Program consists of:
 
 * Nathan Handler
 * Rachel Kelly

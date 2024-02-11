@@ -8,7 +8,7 @@ categories: news
 tags: '2020'
 ---
 
-A fun and important part of buiding Free Software communities is working with other groups.
+A fun and important part of building Free Software communities is working with other groups.
 This is especially true for Free Software conferences, which are gathering places for many FOSS projects, communities and advocates.
 Conferences play an important role in sharing ideas, building friendships and sharing enthusiasm.
 SeaGL wishes to work with other organizations to foster broad, welcoming, and diverse communities.

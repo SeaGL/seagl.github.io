@@ -30,7 +30,7 @@ In the meantime, enjoy letting your inner seagull fly!
 ### Matrix instructions
 
 To enable SeaGL stickers in Matrix, follow the instructions below.
-Note that these instrutions are for the Element web client.
+Note that these instructions are for the Element web client.
 If you're using another client, the steps may not be the same.
 
 1. Go to any room that you can access

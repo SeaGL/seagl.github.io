@@ -46,7 +46,7 @@ Schedule: [https://osem.seagl.org/conferences/seagl2023/schedule](https://osem.s
 - [Opening up the World of WebAssembly with Guile Hoot](https://osem.seagl.org/conferences/seagl2023/program/proposals/977) - David Thompson, Robin Templeton
 - [Cyborg Security](https://osem.seagl.org/conferences/seagl2023/program/proposals/999) - Dawn Cooper
 - [Advanced jq: awk for JSON](https://osem.seagl.org/conferences/seagl2023/program/proposals/950) - der.hans
-- [The Future of WebAssemby: Revolutionalizing Computing Across Platforms and Industries](https://osem.seagl.org/conferences/seagl2023/program/proposals/931) - Desmond Obisi
+- [The Future of WebAssembly: Revolutionalizing Computing Across Platforms and Industries](https://osem.seagl.org/conferences/seagl2023/program/proposals/931) - Desmond Obisi
 - [Fortify Your DevOps Castle: Security Considerations and Best Practices for Open-Source Infrastructure](https://osem.seagl.org/conferences/seagl2023/program/proposals/947) - faithkovi
 - [Orchestration with Choria](https://osem.seagl.org/conferences/seagl2023/program/proposals/997) - garrett honeycutt
 - [Lessons learned from growing a Home Lab](https://osem.seagl.org/conferences/seagl2023/program/proposals/975) - Guilherme Carvalho Trindade
@@ -63,7 +63,7 @@ Schedule: [https://osem.seagl.org/conferences/seagl2023/schedule](https://osem.s
 - [Free Software Policy with Semi-Firm Firmware](https://osem.seagl.org/conferences/seagl2023/program/proposals/963) - Kyle Rankin
 - [Secure Coding: Fix from the root](https://osem.seagl.org/conferences/seagl2023/program/proposals/981) - m0n574
 - [The New Cadence: How Production Users Calls Are Helping Drive Open Source Project Development](https://osem.seagl.org/conferences/seagl2023/program/proposals/1006) - Michael Dexter
-- [Literate Documenation with Emacs and Org Mode](https://osem.seagl.org/conferences/seagl2023/program/proposals/952) - Mike Hamrick
+- [Literate Documentation with Emacs and Org Mode](https://osem.seagl.org/conferences/seagl2023/program/proposals/952) - Mike Hamrick
 - [Collaborating Across Difference:](https://osem.seagl.org/conferences/seagl2023/program/proposals/967) - Nicole Sanchez
 - [Open Source Observability with the OpenTelemetry Collector](https://osem.seagl.org/conferences/seagl2023/program/proposals/994) - Nočnica Mellifera
 - [Blender for Beginners](https://osem.seagl.org/conferences/seagl2023/program/proposals/1000) - Oscar Baechler

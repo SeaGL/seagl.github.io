@@ -17,7 +17,7 @@ presenters:
 
 For most people, the idea of .NET development brings to mind a Visual Studio window, laden with toolbars and wizards, driven by a programmer who makes just as much use of her mouse as her keyboard. The idea of learning C# is more daunting than other languages, because in addition to the language itself, it seems like you also have to learn the correct way to make use of the massive Visual Studio IDE.
 
-I was recently very surprised, and pleased, to learn that as part of the processing of Open Sourcing .NET, Microsoft not only made it cross-platform -- it runs on Mac and Linux now, in addition to Windows -- it also added an extremely capable command line tool that completely removes the need to use Visual Studio or any othe IDE.
+I was recently very surprised, and pleased, to learn that as part of the processing of Open Sourcing .NET, Microsoft not only made it cross-platform -- it runs on Mac and Linux now, in addition to Windows -- it also added an extremely capable command line tool that completely removes the need to use Visual Studio or any other IDE.
 
 To prove just how capable the tooling is, in this session, I will code a .NET application, from scratch, on a Macintosh, using only Emacs and the command line. I will not touch a mouse once!
 

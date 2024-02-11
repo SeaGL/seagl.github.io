@@ -22,7 +22,7 @@ title: Attend SeaGL 2024
       <div class="panel-body">
         <p>SeaGL takes place on the University of Washington campus at the Husky Union Building (known as the HUB).
             This is located on the central campus, west of Stevens Way NE.</p>
-        <p>We recommend viewing the indoor map to get familar with the general layout of the conference.</p>
+        <p>We recommend viewing the indoor map to get familiar with the general layout of the conference.</p>
         <p><a class="btn btn-primary btn-large" href="/maps/2024">View Conference Maps</a></p>
       </div>
     </div>

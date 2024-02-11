@@ -18,10 +18,10 @@ A: My name is Gareth Greenaway and I've been an active free & open source user &
 
 Q: Without tipping your hand on the actual talk, can you give us an idea of what we might expect?
 
-A: When I've attended various talks at conferencesin the past, particular those of a technical nature, it can be tempting to take the ideas & concepts in their entirety.  When often times those solutions are crafted to solve a particular problem in a particular environment.  It can also be tempting to think that to order to be successful those presented solutions must be emulated completely.  My hope is that this talk will illustrate that this isn't the case.
+A: When I've attended various talks at conferences in the past, particular those of a technical nature, it can be tempting to take the ideas & concepts in their entirety.  When often times those solutions are crafted to solve a particular problem in a particular environment.  It can also be tempting to think that to order to be successful those presented solutions must be emulated completely.  My hope is that this talk will illustrate that this isn't the case.
 
 Q: Is this your first visit to SeaGL? If so, what are your expectations? If not, can you give us your impressions of the event?
 
 A: This will be my fifth SeaGL and I've really enjoyed attending since the first event.  It's been amazing watching it grow over the years and I always look forward to see everyone each year.
 
-A: Question: What are you most looking forward to about visiting Seattle again?  Answer: One of my favorite parts about travling to different conferences is experiencing the different climates meeting the different people.
+A: Question: What are you most looking forward to about visiting Seattle again?  Answer: One of my favorite parts about traveling to different conferences is experiencing the different climates meeting the different people.

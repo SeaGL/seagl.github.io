@@ -82,7 +82,7 @@ Don't let that stop you from proposing! You can't win a race you don't even run,
 
 ### Lightning talk proposal help and feedback
 
-Want to propose a talk but would like feedback on your idea, proposal wording, talk title or just on how to deal with nerves? The speaker committee will do everything possible to help you be successful with your proposal and presenatation. There are two ways to ask for help:
+Want to propose a talk but would like feedback on your idea, proposal wording, talk title or just on how to deal with nerves? The speaker committee will do everything possible to help you be successful with your proposal and presentation. There are two ways to ask for help:
 
 1. Join us in the `#seagl` IRC channel on Freenode IRC. Don't worry if you're not familiar with IRC. Just [click here for the webchat](https://webchat.freenode.net/?channels=%23seagl), choose a nickname, and you're good to go!
 1. Email us at `speakers AT seagl D0T org`. We'll do our best to get back to you within a day.

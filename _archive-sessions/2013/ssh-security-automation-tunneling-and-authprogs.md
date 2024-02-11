@@ -12,4 +12,4 @@ presenters:
 
 SSH replaced insecure protocols like telnet and ftp ages ago, but it has far more power than simple remote login capabilities. In this talk we'll cover passwordless SSH w/ pubkeys and ssh-agent, locking down access with authorized_keys options, port forwards and SOCKS proxies, ssh 'bouncing', and more.
 
-We'll also introduce Authprogs, an SSH remote command authenticator, which allows you to restrict which commands can be run, thus limiting what access a trusted key is granted. Authprogs will be released under the GPL, an Open Source licenes, at SeaGL.
+We'll also introduce Authprogs, an SSH remote command authenticator, which allows you to restrict which commands can be run, thus limiting what access a trusted key is granted. Authprogs will be released under the GPL, an Open Source license, at SeaGL.

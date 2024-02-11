@@ -18,11 +18,11 @@ Unix hackers, sysadmins, and developers; especially those skeptical of the JVM a
 
 ### Audience Takeaways
 - Basic understanding of Clojure and functional programming
-- Appreciation of sympathetic philosphies between Unix and Clojure
+- Appreciation of sympathetic philosophies between Unix and Clojure
 - Introduction to scripting with Clojurescript
 
 ### Motivation
-Clojure is a modern functional, expressive, and data-oriented lisp. However it runs atop the JVM, CLR, and Javascript runtimes. Sometimes seen as bloated, slow, and "something we have to install for developers", this talk aims to show that not only is Clojure(script) fun, performant, and pragmatic, but it also has a lot in common with Unix and can be a useful tool for scripting, server-side devlepment, UI work, and more!
+Clojure is a modern functional, expressive, and data-oriented lisp. However it runs atop the JVM, CLR, and Javascript runtimes. Sometimes seen as bloated, slow, and "something we have to install for developers", this talk aims to show that not only is Clojure(script) fun, performant, and pragmatic, but it also has a lot in common with Unix and can be a useful tool for scripting, server-side development, UI work, and more!
 
 ### Outline
 #### Intro to Clojure

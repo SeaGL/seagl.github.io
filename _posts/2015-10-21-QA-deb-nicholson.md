@@ -27,7 +27,7 @@ idea of what we might expect?
 Well, we've seen some really big changes to the patent landscape in a short
 amount of time. In the US, we went from almost no software patents to an
 exponential increase in patenting in computing which lead to a huge uptick in
-software patent agression. For a while, it seemed like nothing could be done
+software patent aggression. For a while, it seemed like nothing could be done
 but there's been lots of progress; both in community awareness and
 understanding what can be done. Finally, the Supreme Court addressed the scope
 of patentability twice last year and I'll talk about how that is affecting

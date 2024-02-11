@@ -22,9 +22,9 @@ etckeeper tracks changes in /etc/ with version control. It ties into package man
 
 Use the VCS you know and let etckeeper help you with some of the oddities found in /etc/.
 
-An imporatant feature is detecting inadvertant changes or tracking what someone (maybe even you) did late at night or early in the morning. By tracking changes, you can document them, replicate them elsewhere or even back them out.
+An important feature is detecting inadvertent changes or tracking what someone (maybe even you) did late at night or early in the morning. By tracking changes, you can document them, replicate them elsewhere or even back them out.
 
-Some important metadata such as file permissions and ownership often is not tracked by a VCS. Same for empty directories. Both metadata and empty directories in /etc/ can be crucial, so etckeeper tracks them seperately and keeps that tracking data in the VCS. etckeeper will also issue warnings about special files such as unix sockets, named pipes and hardlinks that are normally not tracked by VCSen.
+Some important metadata such as file permissions and ownership often is not tracked by a VCS. Same for empty directories. Both metadata and empty directories in /etc/ can be crucial, so etckeeper tracks them separately and keeps that tracking data in the VCS. etckeeper will also issue warnings about special files such as unix sockets, named pipes and hardlinks that are normally not tracked by VCSen.
 
 Using version control on /etc/ poses several challenges. etckeeper does a great job of helping you work through them and track changes made to your operating system. The documentation also helps with secure handling of the repositories.
 
