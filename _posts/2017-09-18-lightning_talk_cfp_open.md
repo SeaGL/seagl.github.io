@@ -26,7 +26,7 @@ There are three criteria for a SeaGL lightning talk:
 
 1. The topic is interesting to the SeaGL audience.
 1. You can present it in five minutes.
-1. The presentation does not violate the [code of conduct](/code_of_conduct.html).
+1. The presentation does not violate the [code of conduct](/code_of_conduct).
 
 That's it! Pretty easy, really. 
 
@@ -62,7 +62,7 @@ Technical talks, funny talks, WTF talks… If you can make it interesting, then 
 
 ### Talk selection criteria
 
-The main SeaGL program had nine reviewers and a [well-documented list of selection criteria](/news/2017/08/17/CFP_selection_criteria.html).
+The main SeaGL program had nine reviewers and a [well-documented list of selection criteria](/news/2017/08/17/CFP_selection_criteria).
 
 The lightning talk selection criteria are going to be considerably more casual. The speaker committee will vote on proposals, then the final decisions and schedule will be made by the program chair. It's going to be a fairly laid back process, keeping with the fun but informative nature of lightning talks themselves.
 
@@ -91,6 +91,6 @@ We stand ready to assist, so please don't hesitate to ask us for help!
 
 ### Code of Conduct
 
-All staff, speakers, and attendees of SeaGL must agree and adhere to the [Code of Conduct](/code_of_conduct.html) for the safety and enjoyment of all organizers, volunteers, speakers, and attendees. We ask that all prospective speakers review and confirm their willingness to abide by the Code of Conduct terms and expectations when interacting within SeaGL community spaces.
+All staff, speakers, and attendees of SeaGL must agree and adhere to the [Code of Conduct](/code_of_conduct) for the safety and enjoyment of all organizers, volunteers, speakers, and attendees. We ask that all prospective speakers review and confirm their willingness to abide by the Code of Conduct terms and expectations when interacting within SeaGL community spaces.
 
 What are you waiting for? [Propose a lightning talk now!](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)

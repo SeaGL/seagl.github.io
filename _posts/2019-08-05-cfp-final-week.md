@@ -8,7 +8,7 @@ categories: news
 tags: '2019'
 ---
 
-_The [CFP](/news/2019/06/25/CFP-open.html) closes August 11 at midnight Pacific time!_
+_The [CFP](/news/2019/06/25/CFP-open) closes August 11 at midnight Pacific time!_
 
 Hi folks, a quick update from your Program Committee that we have just SIX DAYS left in 2019's SeaGL Call for Proposals!  We want to hear from you, so please get those submissions in, better sooner than later!
 

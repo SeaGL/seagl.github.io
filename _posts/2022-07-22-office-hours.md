@@ -8,7 +8,7 @@ categories: news
 tags: '2022'
 ---
 
-Our goal is for SeaGL to be a welcoming place for first time (and veteran) speakers. We are therefore pleased to announce the launch of SeaGL 2022 [CFP](/news/2022/07/06/CFP-Live.html) Office Hours! Office Hours are designed to provide an opportunity for prospective speakers to receive real time assistance with their talks and/or CFP submissions.
+Our goal is for SeaGL to be a welcoming place for first time (and veteran) speakers. We are therefore pleased to announce the launch of SeaGL 2022 [CFP](/news/2022/07/06/CFP-Live) Office Hours! Office Hours are designed to provide an opportunity for prospective speakers to receive real time assistance with their talks and/or CFP submissions.
 
 Are you unsure which of your two talk ideas to submit (hint: submit both!)? Do you need help crafting an abstract for your talk? Or perhaps you are interested in adapting a talk you've presented before so that it fits SeaGL's theme. We will have members of the SeaGL Program Committee on hand to help answer these and any other questions you might have.
 

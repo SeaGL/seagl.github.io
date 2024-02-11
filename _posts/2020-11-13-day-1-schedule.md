@@ -8,7 +8,7 @@ categories: news
 tags: '2020'
 ---
 
-Today is the day!  Day 1 of SeaGL begins today! Here is the full [SeaGL 2020 program](https://osem.seagl.org/conferences/seagl2020/schedule), and please read on for today's schedule, for Friday, November 13, 2020.  As a reminder, SeaGL 2020 is completely [virtual](/news/2020/05/05/virtualconf-2020.html).  SeaGL is also completely free as in tea with no registration required, so everyone is welcome to attend.
+Today is the day!  Day 1 of SeaGL begins today! Here is the full [SeaGL 2020 program](https://osem.seagl.org/conferences/seagl2020/schedule), and please read on for today's schedule, for Friday, November 13, 2020.  As a reminder, SeaGL 2020 is completely [virtual](/news/2020/05/05/virtualconf-2020).  SeaGL is also completely free as in tea with no registration required, so everyone is welcome to attend.
 
 You can attend if you go to [attend.seagl.org](https://attend.seagl.org).  Live streams are also available at [seagl.org/watch](/watch).
 
@@ -46,7 +46,7 @@ All times are listed in Pacific Standard Time, which is UTC -08:00
 * Jill Rouleau - Demystifying Contributor Culture: IRC, Mailing Lists, and Netiquette for the 21st Century
 * Elijah C. Voigt - Let's Make Games with Rust
 
-**2:45pm-3:30pm is [TeaGL](/news/2020/09/25/teagl-online.html)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!**
+**2:45pm-3:30pm is [TeaGL](/news/2020/09/25/teagl-online)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!**
 
 #### 3:30pm-4:15pm block
 * Sumana Harihareswara - Stand-up comedy about FLOSS

@@ -7,13 +7,13 @@ published: true
 categories: news
 tags: '2021'
 ---
-Welcome to the second and final day of SeaGL 2021!  Please find the full [SeaGL 2021 program](/news/2021/10/15/schedule.html), and you can read on for just today's schedule, for Saturday, November 6, 2021.  As a reminder, SeaGL 2021 is completely [virtual](/news/2021/06/08/format-2021.html) for the second year in a row.  The conference is also completely "free as in tea" with no registration required.  Everyone is welcome to attend!
+Welcome to the second and final day of SeaGL 2021!  Please find the full [SeaGL 2021 program](/news/2021/10/15/schedule), and you can read on for just today's schedule, for Saturday, November 6, 2021.  As a reminder, SeaGL 2021 is completely [virtual](/news/2021/06/08/format-2021) for the second year in a row.  The conference is also completely "free as in tea" with no registration required.  Everyone is welcome to attend!
 
 You can attend if you go to [attend.seagl.org](https://attend.seagl.org).  Live streams are also available at [seagl.org/watch](/watch).
 
 Normal talk blocks are 30m.  There are 20m for the talk, and 10m for optional Q&A as led by the Room Moderator.  The Moderator will read questions from the text chat audience for the speaker to answer.  There are 5 minute spaces between talks, which means that the talk blocks are listed as 45 minutes long.  There is no Q&A during Keynotes.
 
-As a reminder, our [Code of Conduct](/code_of_conduct.html) applies during ALL SeaGL interactions.  In chat, during one's talk if you are giving one, social events during SeaGL, and on other platforms during or as a result of the conference.
+As a reminder, our [Code of Conduct](/code_of_conduct) applies during ALL SeaGL interactions.  In chat, during one's talk if you are giving one, social events during SeaGL, and on other platforms during or as a result of the conference.
 
 All times are listed in Pacific Daylight Time, which is UTC -07:00.  (note: the US time change happens the evening AFTER the conclusion of the conference on Saturday)
 

@@ -21,7 +21,7 @@ The Program Committee is the group responsibile for choosing and scheduling all 
 
 This is what we believe in and how we operate as we go about our business of building the best possible program and schedule for [SeaGL](/).
 
-As members of the SeaGL program committee and proposal reviewers, aside from the [SeaGL Code of Conduct](/code_of_conduct.html), we also agree to operate according to these values and statements: 
+As members of the SeaGL program committee and proposal reviewers, aside from the [SeaGL Code of Conduct](/code_of_conduct), we also agree to operate according to these values and statements: 
 
 ### Values
 

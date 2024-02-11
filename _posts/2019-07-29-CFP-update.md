@@ -8,9 +8,9 @@ categories: news
 tags: '2019'
 ---
 
-_The [CFP](/news/2019/06/25/CFP-open.html) closes August 11 at midnight Pacific time!_
+_The [CFP](/news/2019/06/25/CFP-open) closes August 11 at midnight Pacific time!_
 
-We are JUST under only two weeks left in the 2019 [CFP](/news/2019/06/25/CFP-open.html) for SeaGL!  We want to hear from YOU!  We are dedicated to supporting newer speakers, and we welcome speakers of **all backgrounds and levels of experience** – even if you’ve never spoken at a technical conference. If you’re excited about Free/Libre/Open technologies or communities, then we want to hear from you!
+We are JUST under only two weeks left in the 2019 [CFP](/news/2019/06/25/CFP-open) for SeaGL!  We want to hear from YOU!  We are dedicated to supporting newer speakers, and we welcome speakers of **all backgrounds and levels of experience** – even if you’ve never spoken at a technical conference. If you’re excited about Free/Libre/Open technologies or communities, then we want to hear from you!
 
 At a Free and Open Source Software conference, the depth and breadth of topics can be overwhelming!  So let us share some of the talks we'd like to see.  Tweet at us at @seagl if you have more ideas you'd like to see and we'll add to this, and be sure to come see us on #seagl on IRC if we can help you develop your ideas!
 

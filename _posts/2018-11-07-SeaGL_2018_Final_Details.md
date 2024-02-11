@@ -16,13 +16,13 @@ Ladies, gentlemen, and geeks of all genders (or no gender at all)! Welcome to th
 
 SeaGL, like free software, is for everyone. It's paramount to us that all attendees feel (and be!) safe and welcome.
 
-Please remember that all staff, presenters, and attendees of SeaGL are expected to obey the [Code of Conduct](/code_of_conduct.html) not only at SeaGL but also in all SeaGL-associated spaces including but not limited to associated social events, the conference party, and the IRC channel.
+Please remember that all staff, presenters, and attendees of SeaGL are expected to obey the [Code of Conduct](/code_of_conduct) not only at SeaGL but also in all SeaGL-associated spaces including but not limited to associated social events, the conference party, and the IRC channel.
 
 If you have any concerns at all that are of a Code of Conduct nature, please email `coc AT seagl.org` as soon as possible. If you need immediate help, please locate any SeaGL staffer. We'll be wearing name tags that say **_STAFF_** so hopefully we'll be easy to spot.
 
 ### Onsite
 
-The SeaGL site includes [maps to and of the venue and surrounding area](/maps/2018.html), including information about parking should you need that sort of thing.
+The SeaGL site includes [maps to and of the venue and surrounding area](/maps/2018), including information about parking should you need that sort of thing.
 
 As the venue is a community college, it's able to support people of all types of accessibility needs. Please see [Seattle Central's accessibility page](https://seattlecentral.edu/campus-life/student-support-and-services/disability-support/accommodations) for complete information.
 
@@ -68,7 +68,7 @@ We have several associated social events you can join, if that's how you roll:
 
 #### Saturday
 
-##### [TeaGL, the SeaGL Tea Swap](/news/2018/10/12/TeaGL.html)
+##### [TeaGL, the SeaGL Tea Swap](/news/2018/10/12/TeaGL)
 
 * **Where**: The SeaGL expo hall
 * **When**: all day, but especially the afternoon break

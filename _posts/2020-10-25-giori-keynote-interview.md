@@ -8,7 +8,7 @@ categories: news
 tags: '2020'
 ---
 
-SeaGL is right around the corner (November 13-14). We've previously announced that [VM (Vicky) Brasseur](/news/2020/09/08/vmbrasseur-keynote-interview.html) and [Máirín Duffy](/news/2020/09/29/duffy-keynote-interview.html) will be keynoting. We are now happy to announce **Kathy Giori** will be part of our keynote lineup this year! We've asked Kathy a few questions to allow SeaGL attendees to get to know her ahead of her talk.
+SeaGL is right around the corner (November 13-14). We've previously announced that [VM (Vicky) Brasseur](/news/2020/09/08/vmbrasseur-keynote-interview) and [Máirín Duffy](/news/2020/09/29/duffy-keynote-interview) will be keynoting. We are now happy to announce **Kathy Giori** will be part of our keynote lineup this year! We've asked Kathy a few questions to allow SeaGL attendees to get to know her ahead of her talk.
 
 > What does equity of access mean to you, and what challenges and strengths have you experienced in making FOSS projects accessible to newcomers?
 

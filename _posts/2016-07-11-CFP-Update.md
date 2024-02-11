@@ -25,7 +25,7 @@ Considering submitting a proposal or two to the SeaGL CFP, but perhaps you aren'
 
 **The CFP deadline is midnight PDT, August 1, 2016.**
 
-If you'd like CFP support, join our team for one of our [CFP office hours](/news/2016/06/24/Office-Hours.html). They want to help you come up with talk ideas and polish your proposals.
+If you'd like CFP support, join our team for one of our [CFP office hours](/news/2016/06/24/Office-Hours). They want to help you come up with talk ideas and polish your proposals.
 
 Our talk format is generally 50 minutes of speaking followed by 10 minutes of questions, so an hour total.
 

@@ -10,7 +10,7 @@ tags: '2023'
 
 Greetings to the SeaGL community! Our list of presentations for next month is finally here. Per usual, there may be some small adjustments, but this should give everyone a good idea of what they'll really really want to attend.
 
-See you in-person or virtually on Friday and Saturday, November 3rd & 4th! As always, SeaGL is completely free to attend and no registration is required. We'd also love for you to [get involved as a volunteer](/news/2023/09/26/Seeking-Volunteers.html).
+See you in-person or virtually on Friday and Saturday, November 3rd & 4th! As always, SeaGL is completely free to attend and no registration is required. We'd also love for you to [get involved as a volunteer](/news/2023/09/26/Seeking-Volunteers).
 
 As a reminder, all speakers, sponsors, volunteers, staff, and anyone else involved in SeaGL are required to abide by the [Code of Conduct](/coc) and any in-person attendees must abide by the [Health and Safety Policy](/health).
 

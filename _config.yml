@@ -26,7 +26,7 @@ repository: SeaGL/seagl.github.io
 # jekyll-redirect-from configuration
 url: *origin
 
-permalink:      /:categories/:year/:month/:day/:title.html
+permalink:      /:categories/:year/:month/:day/:title
 
 collections:
     archive-conferences:

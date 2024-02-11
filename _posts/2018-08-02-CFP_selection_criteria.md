@@ -22,7 +22,7 @@ This is also a much less corporate conference/audience than, say, [SCALE](https:
 
 ## Criteria
 
-* Please remember the [Code of Practice](/news/2018/04/09/code_of_practice.html)
+* Please remember the [Code of Practice](/news/2018/04/09/code_of_practice)
 * Our CFP system can't do blind reviews, but try to do as blind as possible (the abstract/content is more important than the presenter, on first pass at least)
 * Only vote on talks which you feel qualified to judge
     * Leave stars blank else

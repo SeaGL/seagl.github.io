@@ -17,7 +17,7 @@ Submissions will now be accepted until **Friday, June 30 at 11:59 PT**! So head 
 
 Hopefully this will give previous speakers enough time to put something in and lead to a more diverse selection of content for our reviewers to sift through.
 
-Need some suggestions on what to submit? Check our our blog post outlining [this year's categories](/news/2023/03/08/CFP-Details.html) and the initial [Call for Proposals](/news/2023/03/08/CFP-Open.html) post.
+Need some suggestions on what to submit? Check our our blog post outlining [this year's categories](/news/2023/03/08/CFP-Details) and the initial [Call for Proposals](/news/2023/03/08/CFP-Open) post.
 
 Have any questions about your submission or want to volunteer with the conference? You can contact us via email at {{ site.custom.a.email.program }}, [Mastodon](https://mastodon.social/@SeaGL), or [Matrix](https://matrix.to/#/#general:seagl.org).
 

@@ -24,7 +24,7 @@ SeaGL is committed to promoting new voices and helping newer speakers get in fro
 * Wednesday, July 13th, 6-8pm (PDT)
 
 
-We have a great roster of volunteers who will be happy to help you turn your ideas into a proposal. You can find more information about our call for presentations [here.](/news/2016/05/13/CFP-Open.html)
+We have a great roster of volunteers who will be happy to help you turn your ideas into a proposal. You can find more information about our call for presentations [here.](/news/2016/05/13/CFP-Open)
 
 Feel free to contact us if you have any questions, either by
 emailing {{ site.custom.a.email.participate }}

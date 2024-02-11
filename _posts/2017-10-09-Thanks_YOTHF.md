@@ -8,7 +8,7 @@ categories: news
 tags: '2017'
 ---
 
-Thanks to all of our [illustrious sponsors!](/sponsors/2017.html) We especially want to recognize Seattle Central College. They've been amazing each and every one of the five years that they've been our host. This year, though? They went above and beyond and managed to find us five new rooms for our sessions, just one week after a very, messy, no-good HVAC issue drowned out our original rooms. 
+Thanks to all of our [illustrious sponsors!](/sponsors/2017) We especially want to recognize Seattle Central College. They've been amazing each and every one of the five years that they've been our host. This year, though? They went above and beyond and managed to find us five new rooms for our sessions, just one week after a very, messy, no-good HVAC issue drowned out our original rooms. 
 
 We also want to thank all of our fine community sponsors for bringing their enthusiasm, their pals, their kids.. even their very adorable dogs. The expo floor was a thriving hub of friendly activity and excellent new connections this year. We especially want to thank the [Free Software Foundation](https://www.fsf.org/) for helping us with promotion and accounting work as our fiscal sponsor, as well as continuing to send some of their lovely employees to SeaGL each year. 
 

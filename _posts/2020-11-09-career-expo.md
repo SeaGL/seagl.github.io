@@ -67,7 +67,7 @@ We hope that our inaugural career expo will provide value to our community.
 ##Thank Yous
 
 SeaGL wants to thank the career counselors who are volunteering their time for the career expo.
-We also want to thank our volunteers and [sponsors](/sponsors/2020.html) who make SeaGL possible.
+We also want to thank our volunteers and [sponsors](/sponsors/2020) who make SeaGL possible.
 
 Thanks especially to Lori B and her [RaiseMe](https://shellcon.io/raiseme/) program at [ShellCon 2020](https://shellcon.io/) for providing a virtual event model for us to learn from.
 Thanks also to her for volunteering to help with counseling for our first Career Expo!
