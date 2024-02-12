@@ -55,8 +55,6 @@ defaults:
         nav: sponsors
 
 exclude:
-    - backstop
-    - backstop.json
     - Dockerfile
     - Rakefile
 

@@ -75,8 +75,6 @@ title: 2019 Maps
     zoom: 15
   });
 
-  map.on("load", () => console.log("map loaded"));
-
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }));
 
   new maplibregl.Marker({ color: "#1d7193" })

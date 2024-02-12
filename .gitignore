@@ -4,10 +4,6 @@ _site
 .jekyll-metadata
 vendor/
 
-# BackstopJS
-/backstop/reports/
-/backstop/results/
-
 .DS_Store
 
 # IDE stuff
