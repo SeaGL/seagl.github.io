@@ -3,4 +3,4 @@ layout: page
 title: 2024 Posters / Handbills
 ---
 
-<h1>SeaGL 2024 Posters / Handbills</h1>
+# SeaGL 2024 Posters / Handbills
