@@ -5,24 +5,22 @@ body_id: sponsors
 title: Sponsors
 ---
 
-<div class="hero-unit">
-  <h1>SeaGL Sponsors</h1>
+<h1>SeaGL Sponsors</h1>
 
-  <div class="lead text-center">
-    {% capture md %}{% include sponsor_message.md %}{% endcapture %}{{ md | markdownify }}
-  </div>
-
-  {% for sponsor_year in site.sponsor-years reversed %}
-    {% capture year %}{{ sponsor_year.slug }}{% endcapture %}
-
-    <h2><a href="{{ sponsor_year.url }}">SeaGL {{ year }} Sponsors</a></h2>
-
-    {% include sponsor_wall.html heading="h3" levels="platinum gold silver bronze" size="medium" year=year %}
-
-    <p class="text-center">
-      <a class="btn btn-primary" href="{{ sponsor_year.url }}">View All {{ year }} Sponsors</a>
-    </p>
-
-    <hr>
-  {% endfor %}
+<div class="lead text-center">
+  {% capture md %}{% include sponsor_message.md %}{% endcapture %}{{ md | markdownify }}
 </div>
+
+{% for sponsor_year in site.sponsor-years reversed %}
+  {% capture year %}{{ sponsor_year.slug }}{% endcapture %}
+
+  <h2><a href="{{ sponsor_year.url }}">SeaGL {{ year }} Sponsors</a></h2>
+
+  {% include sponsor_wall.html heading="h3" levels="platinum gold silver bronze" size="medium" year=year %}
+
+  <p class="text-center">
+    <a class="btn btn-primary" href="{{ sponsor_year.url }}">View All {{ year }} Sponsors</a>
+  </p>
+
+  <hr>
+{% endfor %}

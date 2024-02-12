@@ -5,15 +5,13 @@ layout: page
 {% capture year %}{{ page.slug }}{% endcapture %}
 {% assign sponsors = site.data.sponsorship.sponsors | sort: "name" %}
 
-<div class="hero-unit">
-  <h1>SeaGL {{ year }} Sponsors</h1>
+<h1>SeaGL {{ year }} Sponsors</h1>
 
-  <div class="lead text-center">
-    {% capture md %}{% include sponsor_message.md %}{% endcapture %}{{ md | markdownify }}
-  </div>
-
-  {{ content }}
+<div class="lead text-center">
+  {% capture md %}{% include sponsor_message.md %}{% endcapture %}{{ md | markdownify }}
 </div>
+
+{{ content }}
 
 {% include sponsor_wall.html heading="h2" size="large" year=year %}
 
