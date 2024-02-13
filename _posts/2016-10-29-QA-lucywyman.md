@@ -14,7 +14,7 @@ Q: Could you please introduce yourself and tell us a little about your backgroun
 
 A:  My name is Lucy Wyman, and I'm a Quality Assurance Engineer for Puppet where I automate tests and develop testing infrastructure for puppet orchestrator, PCP, and PE core.  I graduated from Oregon State University with a BS in Computer Science in June 2016, where I worked as a Front-End Engineer for the OSU Open Source Lab and helped run the OSU Linux Users Group.  In my free time I enjoy hanging out with friends, hiking, experiencing new things, and enjoying a wide variety of podcasts, tv shows, blogs, books, and other media.
 
-You can see more of my work [here](http://lucywyman.me and http://github.com/lucywyman) and conference presentations I've given [here](http://slides.lucywyman.me) or read my thoughts [here.](http://blog.lucywyman.me)
+You can see more of my work [here](http://lucywyman.me) and [here](http://github.com/lucywyman) and conference presentations I've given [here](http://slides.lucywyman.me) or read my thoughts [here.](http://blog.lucywyman.me)
  
 Q: Without tipping your hand on the actual talk, can you give us an idea of what we might expect?
 
