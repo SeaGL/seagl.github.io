@@ -3,6 +3,8 @@ title: Service and Your Career
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/982
 beginning: '2023-11-03T14:50:00.000-07:00'
 end: '2023-11-03T15:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Service_and_Your_Career
 presenters:
 - name: Lori Barfield
   affiliation: RaiseMe IT

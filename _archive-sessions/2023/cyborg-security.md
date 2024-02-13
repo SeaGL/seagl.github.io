@@ -3,6 +3,8 @@ title: Cyborg Security
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/999
 beginning: '2023-11-03T17:10:00.000-07:00'
 end: '2023-11-03T17:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Cyborg_Security
 presenters:
 - name: Dawn Cooper
   osem_url: https://osem.seagl.org/users/1143

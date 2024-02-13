@@ -3,6 +3,8 @@ title: Blender for Beginners
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1000
 beginning: '2023-11-03T16:40:00.000-07:00'
 end: '2023-11-03T17:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Blender_for_Beginners
 presenters:
 - name: Oscar Baechler
   affiliation: Lake Washington Institute of Technology

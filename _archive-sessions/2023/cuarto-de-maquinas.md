@@ -3,6 +3,8 @@ title: "Cuarto de Máquinas: Building a Hack(er)space in Mexico's Bajío Region 
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/988
 beginning: '2023-11-03T14:20:00.000-07:00'
 end: '2023-11-03T14:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Cuarto_de_Maquinas_Building_a_Hackerspace_in_Mexicos_Bajio_Region
 presenters:
 - name: st4t3
   affiliation: kernelpanic.lol

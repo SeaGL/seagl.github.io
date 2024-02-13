@@ -3,6 +3,8 @@ title: Diversity and Allyship isn't Always Easy
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1016
 beginning: '2023-11-03T09:10:00.000-07:00'
 end: '2023-11-03T09:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Diversity_and_Allyship_isnt_Always_Easy
 keynote: true
 presenters:
 - name: Deb Nicholson
