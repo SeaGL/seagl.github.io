@@ -63,7 +63,7 @@ We hope that our 2021 virtual career expo will provide value to our community.
 ## Thank Yous
 
 SeaGL wants to thank the career counselors who are volunteering their time for the career expo.
-We also want to thank our volunteers and [sponsors](sponsors/2020.html) who make SeaGL possible.
+We also want to thank our volunteers and [sponsors](/sponsors/2020.html) who make SeaGL possible.
 
 Thanks especially to Lori B and her [RaiseMe](https://shellcon.io/raiseme/) program at events like ShellCon and LayerOnefor providing a virtual event model for us to learn from.
 Thanks also to her for volunteering to help with counseling for our Career Expos!

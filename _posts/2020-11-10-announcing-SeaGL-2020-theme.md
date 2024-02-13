@@ -12,7 +12,7 @@ Planning volunteer run conferences such as SeaGL always takes a lot of ongoing w
 
 For SeaGL, our focus remains on our community, especially our attendees and speakers. They're why we put on the conference. That is you, you are why we make SeaGL every year. You are our focus as the programming team selects talks and builds the [schedule](https://seagl.org/news/2020/10/26/program-2020.html), also as SeaGL decides what features we're going to offer.
 
-Two years ago that focus led us to add no cost [day care](news/2018/10/04/Free_Childcare_Free_Lunch.html) ( also thanks to a generous sponsor to pay for it ).
+Two years ago that focus led us to add no cost [day care](/news/2018/10/04/Free_Childcare_Free_Lunch.html) ( also thanks to a generous sponsor to pay for it ).
 
 We decided in April go virtual this year as it was the responsible thing. We want a great experience for our community and that doesn't happen if you can't attend or if you have to risk your health to do so.
 
