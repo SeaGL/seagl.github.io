@@ -8,7 +8,7 @@ categories: news
 tags: '2024'
 ---
 
-We're excited to share that the Seattle GNU/Liunx Conference is returning for its _twelvth (12th)_ year on **Friday, November 8th** and **Saturday November 9th, 2024**.
+We're excited to share that the Seattle GNU/Liunx Conference is returning for its _twelfth (12th)_ year on **Friday, November 8th** and **Saturday November 9th, 2024**.
 Our in-person event will again take place in the [Husky Union Building](/maps/2024) at the University of Washington and we are striving to provide a great experience for our remote attendees too (but we need your help, see below).
 
 This year's staff-selected theme is "**Around the Clock**" and we'll be working around the clock to bring you the best SeaGL yet!
