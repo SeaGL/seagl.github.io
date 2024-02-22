@@ -22,11 +22,11 @@ There are a lot of tasks that come together to make a successful conference. If 
 
 - **Attendee Experience**: Focusing on attendee matters and prioritizing the SeaGL community.
 - **A/V & DevOps**: Central nest for SeaGL recording, streaming, and other technical operations.
-- **CoC & Health Policy **: Making sure there are policies and protocols in place keep SeaGL a safe space.
+- **CoC & Health Policy**: Making sure there are policies and protocols in place to keep SeaGL a safer space.
 - **Finance**: Keeping an eye on the SeaGL books and issuing reimbursements.
 - **IDEA**: Promoting inclusion, diversity, equity, and access at SeaGL and beyond.
 - **Partnerships**: Connecting SeaGL with other groups, organizations, and sponsors.
-- **Programming & Flow**: Packing the SeaGL program with amazing content.
+- **Programming & Flow**: Packing the SeaGL schedule with amazing content.
 - **Promotion & Outreach**: Spreading the word about SeaGL world wide.
 - **Volunteers**: Keeping the SeaGL staff happy and recruiting new volunteers to the flock.
 
