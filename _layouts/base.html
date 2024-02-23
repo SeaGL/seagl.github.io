@@ -9,6 +9,10 @@
 
     <link rel="canonical" href="{{ page.url | absolute_url }}" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} RSS" href="/feed.xml" />
+
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <meta property="og:type" content="{{ page.open_graph_type | default: 'website' }}" />
+    <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:image" content="{{ page.image | default: site.image | absolute_url }}" />
 
     <link rel="shortcut icon" href="/icons/favicon.ico">

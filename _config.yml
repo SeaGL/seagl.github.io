@@ -49,6 +49,9 @@ defaults:
       values:
         layout: archive/session
         nav: archive
+    - scope: { type: posts }
+      values:
+        open_graph_type: article
     - scope: { type: sponsor-years }
       values:
         body_id: sponsors
