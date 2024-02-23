@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2022'
+image: /img/posts/2022_Keynote_Sumana.jpg
 ---
 
 We are excited to be able to announce the first of our amazing keynote presenters for SeaGL 2022: Sumana Harihareswara!

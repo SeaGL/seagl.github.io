@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2020'
+image: /img/posts/2020_Keynote_Duffy.jpg
 ---
 
 ![Máirín Duffy](/img/posts/2020_Keynote_Duffy.jpg){:.align-left}

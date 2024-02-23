@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2015'
+image: /img/posts/MichaelDexter.jpg
 ---
 
 ![](/img/posts/MichaelDexter.jpg){:width="25%"}

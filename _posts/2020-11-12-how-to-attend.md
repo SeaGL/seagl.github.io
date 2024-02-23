@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2020'
+image: /img/posts/11-12-2020-HTA-1.png
 ---
 
 We are SO excited for the conference which begins TOMORROW!  Since we're fully online this year, let's talk about actually HOW to get online to watch talks and have a super social experience in your conference-going.

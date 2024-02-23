@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2018'
+image: /img/posts/seagl2018-tracks.png
 ---
 
 All talk proposal notifications went out this morning. While we're still waiting for speakers to confirm they can do the selected talks, we thought it would be interesting to share some more numbers now that the schedule is taking shape.

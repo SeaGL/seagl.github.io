@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2018'
+image: /img/posts/2018_Keynote_Molly.jpg
 ---
 
 ![](/img/posts/2018_Keynote_Molly.jpg){:.align-left}

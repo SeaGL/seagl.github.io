@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2019'
+image: /img/posts/2019_SeaGL_features__Pine_St_crosswalk.jpg
 ---
 
 [SeaGL_2019_schedule]: https://osem.seagl.org/conferences/seagl2019/schedule/

@@ -5,6 +5,7 @@ status: publish
 type: post
 published: true
 categories: news
+image: /img/posts/2020_seagull_naming_contest.jpg
 ---
 
 ![The inflatable seagull](/img/posts/2020_seagull_naming_contest.jpg){:width="50%"}

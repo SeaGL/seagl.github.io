@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2022'
+image: /img/posts/2022_Keynote_Lorena.jpg
 ---
 
 We're SO pumped to announce our next keynote speaker: the amazing Lorena Mesa!

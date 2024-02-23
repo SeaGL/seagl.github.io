@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2018'
+image: /img/posts/2018_Keynote_Lyz.jpg
 ---
 
 ![](/img/posts/2018_Keynote_Lyz.jpg){:.align-left}

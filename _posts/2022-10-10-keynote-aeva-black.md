@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2022'
+image: /img/posts/2022_Keynote_Aeva.jpg
 ---
 
 If you're looking for good news this week, we've got it: Aeva Black will be one of our keynote

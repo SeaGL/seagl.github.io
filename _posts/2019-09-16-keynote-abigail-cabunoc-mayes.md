@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2019'
+image: /img/posts/2019_Keynote_Abigail.jpg
 ---
 
 ![](/img/posts/2019_Keynote_Abigail.jpg){:.align-left}

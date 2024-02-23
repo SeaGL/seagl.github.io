@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2022'
+image: /img/posts/2022_Keynote_Ernie.jpg
 ---
 
 SeaGL is only two weeks away! We are therefore thrilled to be able to share that Ernie Smith

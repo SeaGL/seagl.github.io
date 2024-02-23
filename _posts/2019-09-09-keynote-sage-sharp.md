@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2019'
+image: /img/posts/2019_Keynote_Sage.jpg
 ---
 
 ![](/img/posts/2019_Keynote_Sage.jpg){:.align-left}

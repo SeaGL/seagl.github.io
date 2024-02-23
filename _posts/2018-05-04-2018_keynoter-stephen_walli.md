@@ -6,6 +6,7 @@ type: post
 published: true
 categories: news
 tags: '2018'
+image: /img/posts/2018_Keynote_Stephen.jpg
 ---
 
 ![](/img/posts/2018_Keynote_Stephen.jpg){:.align-left}
