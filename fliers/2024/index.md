@@ -4,3 +4,6 @@ title: 2024 Posters / Handbills
 ---
 
 # SeaGL 2024 Posters / Handbills
+
+- [Save the Date Flyer / Flier / Poster](/fliers/2024/SeaGL_2024_Save-the-Date_flyer_flier_poster.pdf)
+- [Save the Date Handbill / Handout](/fliers/2024/SeaGL_2024_Save-the-Date_handbill_handout.pdf)
