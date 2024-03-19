@@ -33,7 +33,8 @@ The volunteer work needed to put SeaGL together is roughly organized into the fo
 
 ## Sponsors and Non-Profit Exhibitors
 
-We are currently updating the sponsor prospectus for SeaGL 2024.
+We have a limited number of tables available for business and community partners of SeaGL 2024.
+Groups and companies interested in attending should review our [Partnership & Sponsor Prospectus]({{ site.custom.url.prospectus }}) which outlines various fiscal tiers and add-ons.
 
 In-kind contributions are accepted from media and local partners.
 Free space is made available for non-profit and educational organizations.
