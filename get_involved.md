@@ -21,14 +21,14 @@ You can also fill out our [Volunteer Interest Form](/volunteer) to let us know h
 
 The volunteer work needed to put SeaGL together is roughly organized into the following committees. Specific skill gaps will be added as they are identified.
 
-- **Attendee Experience**: Focusing on attendee matters and prioritizing the SeaGL community.
-- **CoC (Code of Conduct)**: Making sure the policies and protocols in place keep SeaGL a safe space.
+- **Attendee Experience**: Focusing on and prioritizing the SeaGL community.
+- **A/V & DevOps**: Central nest for SeaGL technical operations.
 - **Finance**: Keeping an eye on the SeaGL books and issuing reimbursements.
 - **IDEA**: Promoting inclusion, diversity, equity, and access at SeaGL and beyond.
 - **Partnerships**: Connecting SeaGL with other groups, organizations, and sponsors.
+- **Policy & Protocol**: Making sure there are rules place keep SeaGL a safer space.
 - **Programming & Flow**: Packing the SeaGL program with amazing content.
 - **Promotion & Outreach**: Spreading the word about SeaGL world wide.
-- **SRE/Technical**: Central nest for SeaGL technical operations.
 - **Volunteers**: Keeping the SeaGL staff happy and recruiting new volunteers to the flock.
 
 ## Sponsors and Non-Profit Exhibitors
