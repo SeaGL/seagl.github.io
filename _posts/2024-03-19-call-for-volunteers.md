@@ -20,13 +20,13 @@ After the kick-off meeting, committees figure out their meeting cadence and crea
 
 There are a lot of tasks that come together to make a successful conference. If enough tasks are similar, they get bundled together and a committee is formed to focus on them. Our current list of committees can be found on the [Get Involved](/get_involved) page, they are also listed here:
 
-- **Attendee Experience**: Focusing on attendee matters and prioritizing the SeaGL community.
-- **A/V & DevOps**: Central nest for SeaGL recording, streaming, and other technical operations.
-- **CoC & Health Policy**: Making sure there are policies and protocols in place to keep SeaGL a safer space.
+- **Attendee Experience**: Focusing on and prioritizing the SeaGL community.
+- **A/V & DevOps**: Central nest for SeaGL technical operations.
 - **Finance**: Keeping an eye on the SeaGL books and issuing reimbursements.
 - **IDEA**: Promoting inclusion, diversity, equity, and access at SeaGL and beyond.
 - **Partnerships**: Connecting SeaGL with other groups, organizations, and sponsors.
-- **Programming & Flow**: Packing the SeaGL schedule with amazing content.
+- **Policy & Protocol**: Making sure there are rules place keep SeaGL a safer space.
+- **Programming & Flow**: Packing the SeaGL program with amazing content.
 - **Promotion & Outreach**: Spreading the word about SeaGL world wide.
 - **Volunteers**: Keeping the SeaGL staff happy and recruiting new volunteers to the flock.
 
