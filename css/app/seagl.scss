@@ -1,6 +1,9 @@
 ---
 ---
 
+// Workaround for https://github.com/twbs/bootstrap/issues/21060
+summary { display: list-item; }
+
 * {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
