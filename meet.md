@@ -39,9 +39,9 @@ In the past SeaGL’s community chat was [bridged][Matrix bridges] between Matri
 
 ## Video meetings
 
-Some rooms such as [Office Hours] are set up for optional video meetings. In addition to text chat via Matrix and IRC, a shared video call is available via [Jitsi Meet]. To access it:
+Some rooms such as [Office Hours] are set up for optional video meetings. In addition to text chat via Matrix, a shared video call is available via [Jitsi Meet]. To access it:
 
-  - A **link** to the video call will be available in the topic of the Matrix room and IRC channel. You can join the call by opening the link in your web browser or Jitsi Meet app.
+  - A **link** to the video call will be available in the topic of the Matrix room. You can join the call by opening the link in your web browser or Jitsi Meet app.
   - If you’re using [Element], the video call will be **integrated** into your view of the Matrix room.
 
 
