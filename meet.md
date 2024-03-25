@@ -12,7 +12,7 @@ Please join our community space at [#SeaGL:seagl.org] in Matrix.
 
 ## About Matrix
 
-[Matrix] is a modern chat system that is decentralized similarly to email—your account exists at the service provider of your choice, for example `@you:example.com`, but you can communicate seamlessly across providers.
+[Matrix] is a modern chat system that is decentralized similarly to email—your account exists at the service provider of your choice, but you can communicate seamlessly across providers.
 
 ### Getting started
 
