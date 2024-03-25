@@ -18,8 +18,8 @@ Please join our community space at [#SeaGL:seagl.org] in Matrix.
 
 As with email, the first step in using Matrix is choosing a service provider. Many [options][Matrix options] are available, but we recommend:
 
-  - Create your account at [Matrix*.org*][Matrix.org], a public service operated by a non-profit foundation.
-  - Connect using [Element], an open source application for a variety of platforms.
+  - creating your account at [Matrix*.org*][Matrix.org], a public service operated by a non-profit foundation
+  - connecting using [Element], an open source application for a variety of platforms
 
 In practice this means:
 
