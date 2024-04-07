@@ -33,7 +33,7 @@ Please feel free to reach out to <matrix-help@seagl.org> if you have any trouble
 
 <details markdown="1"><summary>What about IRC?</summary>
 
-In the past SeaGL’s community chat was [bridged][Matrix bridges] between Matrix and IRC, but maintaining this was technically challenging and it fell into disuse. If you’d like to help restore it, please get in touch!
+In the past SeaGL’s community chat was [bridged][Matrix bridges] between Matrix and IRC, but maintaining this was technically challenging and it fell into disuse. If you’d like to help restore it, please get in touch! To coordinate without using Matrix, please contact {{ site.custom.a.email.participate }}.
 
 </details>
 
