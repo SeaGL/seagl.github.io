@@ -15,9 +15,7 @@ sponsors:
       horizontal: /img/sponsors/ActiveBuilding/old_logo.png
       square:
     description: |-
-      ActiveBuilding makes everyday apartment life easy. For owners, managers and
-      residents alike. And when a building’s happy, that’s good for relationships,
-      retention and your building’s reputation.
+      ActiveBuilding makes everyday apartment life easy. For owners, managers and residents alike. And when a building’s happy, that’s good for relationships, retention and your building’s reputation.
     sponsorships:
       2013: silver
 
@@ -27,9 +25,7 @@ sponsors:
       horizontal: /img/sponsors/AdasTechnicalBooks/HORIZONTAL_LOGO_WITH_TRADEMARK_CMYK_2.png
       square:
     description: |-
-      Ada's Technical Books & Cafe is Seattle's technical bookstore. We build
-      community through science minded literature, a vegetarian cafe, specialty
-      coffee, coworking, and an intimate event venue.
+      Ada's Technical Books & Cafe is Seattle's technical bookstore. We build community through science minded literature, a vegetarian cafe, specialty coffee, coworking, and an intimate event venue.
     sponsorships:
       2016: bronze
       2017: media
@@ -46,10 +42,7 @@ sponsors:
       horizontal: /img/sponsors/Ansible/ansible_badge.png
       square:
     description: |-
-      Ansible is a powerful automation engine that makes systems and applications
-      simple to deploy. No custom scripting or custom code. No agents. All using
-      an automation language that's easy for anyone to understand and learn. Just
-      get in, get it done, and make some time for other strategic projects.
+      Ansible is a powerful automation engine that makes systems and applications simple to deploy. No custom scripting or custom code. No agents. All using an automation language that's easy for anyone to understand and learn. Just get in, get it done, and make some time for other strategic projects.
     sponsorships:
       2014: bronze
 
@@ -59,16 +52,7 @@ sponsors:
       horizontal: /img/sponsors/CSATS/csats-wide.png
       square: /img/sponsors/CSATS/csats.png
     description: |-
-      Seattle-based CSATS, Inc. is a venture-backed healthcare technology company
-      on a mission to empower the nation's 16 million healthcare workers and
-      institutions to assess and improve their performance continuously,
-      accurately and objectively. Based on technology developed at the University
-      of Washington by a team of surgeons, engineers and biostatisticians, CSATS'
-      performance management system utilizes a unique combination of distributed
-      experts and non-medically trained people available 24/7 from the Internet
-      to assess healthcare professionals' technical performance with accuracy
-      equivalent to current gold standards...but at 80+% savings in cost and time
-      to results.
+      Seattle-based CSATS, Inc. is a venture-backed healthcare technology company on a mission to empower the nation's 16 million healthcare workers and institutions to assess and improve their performance continuously, accurately and objectively. Based on technology developed at the University of Washington by a team of surgeons, engineers and biostatisticians, CSATS' performance management system utilizes a unique combination of distributed experts and non-medically trained people available 24/7 from the Internet to assess healthcare professionals' technical performance with accuracy equivalent to current gold standards...but at 80+% savings in cost and time to results.
     sponsorships:
       2014: thanks
       2015: bronze
@@ -84,14 +68,7 @@ sponsors:
       horizontal: /img/sponsors/ExtraHop/ExtraHop_black_logo_w_tagline.png
       square:
     description: |-
-      ExtraHop is the global leader in real-time wire data analytics. The ExtraHop
-      Operational Intelligence platform analyzes all L2-L7 communications,
-      including full bidirectional transactional payloads. This innovative
-      approach provides the correlated, cross-tier visibility essential for
-      application performance, availability, and security in today's complex and
-      dynamic IT environments. The winner of numerous awards from Interop and
-      others, the ExtraHop platform scales up to 20 Gbps, deploys without agents,
-      and delivers tangible value in less than 15 minutes.
+      ExtraHop is the global leader in real-time wire data analytics. The ExtraHop Operational Intelligence platform analyzes all L2-L7 communications, including full bidirectional transactional payloads. This innovative approach provides the correlated, cross-tier visibility essential for application performance, availability, and security in today's complex and dynamic IT environments. The winner of numerous awards from Interop and others, the ExtraHop platform scales up to 20 Gbps, deploys without agents, and delivers tangible value in less than 15 minutes.
     sponsorships:
       2013: bronze
       2014: bronze
@@ -111,8 +88,8 @@ sponsors:
       square:
     description: |-
       Choose Freedom. Choose Fedora.
-      Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs,
-      and get to work right away.
+
+      Less setup, more innovation. Choose a flavor of Fedora streamlined for your needs, and get to work right away.
     sponsorships:
       2016: bronze
       2018: thanks
@@ -148,11 +125,7 @@ sponsors:
       horizontal: /img/sponsors/HPCloud/HPENew.png
       square:
     description: |-
-      Hewlett-Packard is long term supporter of Linux and of Open Source. HP is a
-      Platinum member of the Linux Foundation and a Founding and Platinum member
-      of the OpenStack Foundation.  HP ships a new Linux server every minute, and
-      operates an OpenStack public cloud at
-      <a href="http://hpcloud.com">http://hpcloud.com</a>
+      Hewlett-Packard is long term supporter of Linux and of Open Source. HP is a Platinum member of the Linux Foundation and a Founding and Platinum member of the OpenStack Foundation.  HP ships a new Linux server every minute, and operates an OpenStack public cloud at <a href="http://hpcloud.com">http://hpcloud.com</a>
     sponsorships:
       2013: bronze
       2014: bronze
@@ -199,10 +172,7 @@ sponsors:
       horizontal: /img/sponsors/PogoLinux/logo_pogolinux.png
       square:
     description: |-
-      Founded in 1999, Pogo Linux, Inc. is an open-source systems integrator based
-      out of Seattle, WA. With a multi-OS focus and in-house technical expertise,
-      we offer a wide range of workstations, servers and network storage solutions
-      for the technology needs of IT departments in organizations of all sizes.
+      Founded in 1999, Pogo Linux, Inc. is an open-source systems integrator based out of Seattle, WA. With a multi-OS focus and in-house technical expertise, we offer a wide range of workstations, servers and network storage solutions for the technology needs of IT departments in organizations of all sizes.
     sponsorships:
       2013: bronze
       2014: bronze
@@ -216,14 +186,7 @@ sponsors:
       horizontal: /img/sponsors/Rackspace/Rackspace_Cloud_Company_Logo_clr.png
       square:
     description: |-
-      Fanatical Support® has made Rackspace the service leader in cloud
-      computing. We deliver enterprise-class hybrid cloud infrastructures to
-      businesses of all sizes and kinds around the world. We started in 1998
-      and we host hundreds of thousands of customers worldwide. Rackspace
-      combines public cloud, private cloud, and dedicated bare metal computing
-      to provide the perfect infrastructure for each customer’s specific
-      needs. And, the Rackspace Hybrid Cloud is powered by OpenStack® and
-      backed by Fanatical Support.
+      Fanatical Support® has made Rackspace the service leader in cloud computing. We deliver enterprise-class hybrid cloud infrastructures to businesses of all sizes and kinds around the world. We started in 1998 and we host hundreds of thousands of customers worldwide. Rackspace combines public cloud, private cloud, and dedicated bare metal computing to provide the perfect infrastructure for each customer’s specific needs. And, the Rackspace Hybrid Cloud is powered by OpenStack® and backed by Fanatical Support.
     sponsorships:
       2013: gold
       2014: gold
@@ -234,12 +197,7 @@ sponsors:
       horizontal: /img/sponsors/SchedulesDirect/sd_long.png
       square: /img/sponsors/SchedulesDirect/sd_square.png
     description: |-
-      Schedules Direct is a non-profit organization whose mission is to
-      educate the public about the benefits of Open Source Software and other
-      free software, provide support functions for such software, and provide
-      funding for research that facilitates the improvement or creation of
-      Open Source Software and other free software for the benefit of the
-      public at large.
+      Schedules Direct is a non-profit organization whose mission is to educate the public about the benefits of Open Source Software and other free software, provide support functions for such software, and provide funding for research that facilitates the improvement or creation of Open Source Software and other free software for the benefit of the public at large.
     sponsorships:
       2013: gold
       2014: gold
@@ -259,14 +217,9 @@ sponsors:
       horizontal: /img/sponsors/SCC/seattle-central-college-logo.png
       square:
     description: |-
-      Seattle Central College is located on Capitol Hill, the vibrant urban
-      center of Seattle life. We are an educational home for our students, a
-      leadership incubator for our community and an economic catalyst for our
-      state and beyond. Since 1966, the college has served the higher
-      education and workforce training needs of more than 500,000 students.
-
-      Seattle Central is committed to creating a learning environment that is
-      accessible, diverse, responsive, and innovative.
+      Seattle Central College is located on Capitol Hill, the vibrant urban center of Seattle life. We are an educational home for our students, a leadership incubator for our community and an economic catalyst for our state and beyond. Since 1966, the college has served the higher education and workforce training needs of more than 500,000 students.
+      
+      Seattle Central is committed to creating a learning environment that is accessible, diverse, responsive, and innovative.
     sponsorships:
       2013: platinum
       2014: platinum
@@ -282,14 +235,7 @@ sponsors:
       horizontal: /img/sponsors/SiliconMechanics/SiMechTrimmed.png
       square:
     description: |-
-      Silicon Mechanics is an industry-leading provider of server, storage, and
-      high-performance computing solutions. Deploying the latest innovations in
-      hardware and software technology, we work in collaboration with our
-      customers to design and build the most efficient, cost-effective technology
-      solution for their needs. Our guiding principle, "Expert included," is our
-      promise that reflects our passion for complete customer satisfaction, from
-      server and component selection to superior installation and ongoing
-      technical support.
+      Silicon Mechanics is an industry-leading provider of server, storage, and high-performance computing solutions. Deploying the latest innovations in hardware and software technology, we work in collaboration with our customers to design and build the most efficient, cost-effective technology solution for their needs. Our guiding principle, "Expert included," is our promise that reflects our passion for complete customer satisfaction, from server and component selection to superior installation and ongoing technical support.
     sponsorships:
       2013: platinum
       2015: silver
@@ -301,17 +247,9 @@ sponsors:
       horizontal: /img/sponsors/GSLUG/logo.png
       square:
     description: |-
-      The Greater Seattle Linux Users Group is a local organization of people in
-      the Seattle Metropolitan area that wish to collaborate on subjects
-      pertaining to Linux and Open Source Software in general. Monthly meetings
-      since 1994 and an active mailing list help to make this possible.
-
-      GSLUG is a Linux Users Group, which means it's mainly comprised of people
-      who use Linux on a day-to-day basis for work and fun, and it is also the
-      premier place for people to come and learn more about Linux and Open Source
-      Software, whether you've never used Linux before, or if you're a seasoned
-      kernel developer, GSLUG is an excellent place to meet new people, learn
-      things you never knew before, and share great ideas.
+      The Greater Seattle Linux Users Group is a local organization of people in the Seattle Metropolitan area that wish to collaborate on subjects pertaining to Linux and Open Source Software in general. Monthly meetings since 1994 and an active mailing list help to make this possible.
+      
+      GSLUG is a Linux Users Group, which means it's mainly comprised of people who use Linux on a day-to-day basis for work and fun, and it is also the premier place for people to come and learn more about Linux and Open Source Software, whether you've never used Linux before, or if you're a seasoned kernel developer, GSLUG is an excellent place to meet new people, learn things you never knew before, and share great ideas.
     sponsorships:
       2013: thanks
       2014: thanks
@@ -326,9 +264,7 @@ sponsors:
       horizontal: /img/sponsors/RainierConnect/logo.png
       square:
     description: |-
-      Rainier Connect is South Puget Sound’s premiere phone, cable TV & high-speed
-      Internet provider. Homes & businesses choose us for quality phone, DSL, cable
-      & TV service in Tacoma, Puyallup, Centralia, Eatonville, Graham & beyond.
+      Rainier Connect is South Puget Sound’s premiere phone, cable TV & high-speed Internet provider. Homes & businesses choose us for quality phone, DSL, cable & TV service in Tacoma, Puyallup, Centralia, Eatonville, Graham & beyond.
     sponsorships:
       2015: bronze
 
@@ -338,20 +274,11 @@ sponsors:
       horizontal: /img/sponsors/LinuxFoundation/OSS-ELC-Black.png
       square:
     description: |-
-      Open Source Summit + Embedded Linux Conference is taking place September
-      27-30, in Seattle, Washington. Register today to join us in-person or
-      virtually.
+      Open Source Summit + Embedded Linux Conference is taking place September 27-30, in Seattle, Washington. Register today to join us in-person or virtually.
       
-      Open Source Summit (OSS) is the leading conference for developers,
-      architects and other technologists – as well as open source community and
-      industry leaders – to collaborate, share information, learn about the latest
-      technologies and gain a competitive advantage by using innovative open
-      solutions.
+      Open Source Summit (OSS) is the leading conference for developers, architects and other technologists – as well as open source community and industry leaders – to collaborate, share information, learn about the latest technologies and gain a competitive advantage by using innovative open solutions.
       
-      Embedded Linux Conference (ELC), the leading, vendor-neutral technical
-      conference for companies and developers using Linux in embedded and
-      industrial IoT products, will once again be held in conjunction with Open
-      Source Summit.
+      Embedded Linux Conference (ELC), the leading, vendor-neutral technical conference for companies and developers using Linux in embedded and industrial IoT products, will once again be held in conjunction with Open Source Summit.
     sponsorships:
       2017: media
       2018: media
@@ -362,7 +289,10 @@ sponsors:
     logo:
       horizontal: /img/sponsors/PyCascades/pycascades.png
       square:
-    description:
+    description: |-
+      PyCascades is a regional PyCon in the Pacific Northwest, celebrating the west coast Python developer and user community. Our organizing team includes members of the Vancouver, Seattle, and Portland Python user groups.
+      
+      Started in 2018, PyCascades has previously been a two-day, single-track Python conference. We're excited to be returning to Seattle for 2024!
     sponsorships:
       2017: thanks
 
@@ -412,10 +342,7 @@ sponsors:
       horizontal: /img/sponsors/LibreOffice/LibreOffice_Initial-Artwork-Logo_ColorLogoBasic_500px.png
       square:
     description: |-
-      LibreOffice is a powerful office suite; Its clean interface and its powerful
-      tools let you unleash your creativity and grow your productivity. LibreOffice
-      embeds several applications that make it the most powerful Free & Open Source
-      Office suite on the market
+      LibreOffice is a powerful office suite; Its clean interface and its powerful tools let you unleash your creativity and grow your productivity. LibreOffice embeds several applications that make it the most powerful Free & Open Source Office suite on the market
     sponsorships:
       2015: thanks
       2016: thanks
@@ -435,9 +362,7 @@ sponsors:
       horizontal:
       square: /img/sponsors/NoStarchPress/nsp_logo_black.png
     description: |-
-      No Starch Press publishes the finest in geek entertainment — distinctive books
-      on computing, such as bestsellers Steal This Computer Book, Hacking -- The Art
-      of Exploitation, Practical Packet Analysis, and The Manga Guides.
+      No Starch Press publishes the finest in geek entertainment — distinctive books on computing, such as bestsellers Steal This Computer Book, Hacking -- The Art of Exploitation, Practical Packet Analysis, and The Manga Guides.
     sponsorships:
       2015: bronze
       2016: media
@@ -466,8 +391,7 @@ sponsors:
       horizontal: /img/sponsors/FSF/logo-fsf.org.png
       square:
     description: |-
-      The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to
-      promote computer user freedom and to defend the rights of all free software users.
+      The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.
     sponsorships:
       2015: thanks
       2016: thanks
@@ -482,9 +406,7 @@ sponsors:
       horizontal:
       square: /img/sponsors/WriteTheDocsSeattle/WriteTheDocs.jpeg
     description: |-
-      A group for Seattle technical writers, software developers, content managers, or
-      editors who want to share ideas about how to produce great software and
-      documentation that creates a positive customer experience.
+      A group for Seattle technical writers, software developers, content managers, or editors who want to share ideas about how to produce great software and documentation that creates a positive customer experience.
     sponsorships:
       2015: thanks
 
@@ -494,8 +416,7 @@ sponsors:
       horizontal: /img/sponsors/SASAG/sasag-top-1.png
       square:
     description: |-
-      Seattle Area System Administrators Guild (SASAG) is a local group for systems
-      administrators in the Seattle and Pacific Northwest areas (North Western Washington).
+      Seattle Area System Administrators Guild (SASAG) is a local group for systems administrators in the Seattle and Pacific Northwest areas (North Western Washington).
     sponsorships:
       2015: thanks
       2016: thanks
@@ -529,11 +450,7 @@ sponsors:
       horizontal:
       square: /img/sponsors/FreeBSD/FREEBSD_Logo_Vert_Pos_RGB.png
     description: |-
-      FreeBSD is an advanced computer operating system used to power modern servers, desktops
-      and embedded platforms. A large community has continually developed it for more than
-      thirty years. Its advanced networking, security and storage features have made FreeBSD
-      the platform of choice for many of the busiest web sites and most pervasive embedded
-      networking and storage devices.
+      FreeBSD is an advanced computer operating system used to power modern servers, desktops and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.
     sponsorships:
       2015: thanks
       2017: thanks
@@ -545,10 +462,7 @@ sponsors:
       horizontal:
       square: /img/sponsors/PNWPHP/pnwphp.png
     description: |-
-      The Pacific Northwest PHP Conference is a 3-day event for PHP developers living in the
-      Pacific Northwest region. We've invited world-renowned speakers from the PHP community
-      to teach about topics ranging from continuous integration to the cloud. Join us for the
-      amazing presentations, catered food, musical numbers, the hackathon, and the live blog.
+      The Pacific Northwest PHP Conference is a 3-day event for PHP developers living in the Pacific Northwest region. We've invited world-renowned speakers from the PHP community to teach about topics ranging from continuous integration to the cloud. Join us for the amazing presentations, catered food, musical numbers, the hackathon, and the live blog.
     sponsorships:
       2015: thanks
       2017: thanks
@@ -560,6 +474,7 @@ sponsors:
       square:
     description: |-
       Anyone who is interested in Linux and talking about it with your neighbors. We have bi-weekly meet-ups and are currently meeting at the West Seattle & Fauntleroy YMCA. (https://www.seattleymca.org/locations/west-seattle-fauntleroy-ymca)
+
       At each meeting we plan to have a 30 minute demonstration of something GNU/Linux related. We are keeping track of these and suggestions on a public Trello board: https://trello.com/b/duBE2Tpr/wsealug
     sponsorships:
       2017: thanks
@@ -577,8 +492,7 @@ sponsors:
       horizontal:
       square: /img/sponsors/APICity/apicity.jpg
     description: |-
-      This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community.
-      We want to support your local tech community, and we want to get to know developers everywhere.
+      This is not about marketing, and it’s not about sales. APIs & IPAs is focused on community. We want to support your local tech community, and we want to get to know developers everywhere.
     sponsorships:
       2017: thanks
 
@@ -673,6 +587,7 @@ sponsors:
       square:
     description: |-
       Techno-Activism Third Mondays (TA3M) is an informal meetup designed to connect software creators and activists who are interested in censorship, surveillance, and open technology. Currently, TA3M are held in various cities throughout the world, with many more launching in the near future.
+
       TA3M is explicitly informal and open. You are invited to hack the process, ask questions, and be critical. You are very welcome to join in if you have something you want to share or discuss.
     sponsorships:
       2016: thanks
@@ -811,10 +726,7 @@ sponsors:
       horizontal:
       square: /img/sponsors/CNCF/cncf-banner.png
     description: |-
-      The Cloud Native Computing Foundation (CNCF) hosts critical components of
-      the global technology infrastructure. CNCF brings together the world's
-      top developers, end users, and vendors and runs the largest open source
-      developer conferences. CNCF is part of the nonprofit Linux Foundation.
+      The Cloud Native Computing Foundation (CNCF) hosts critical components of the global technology infrastructure. CNCF brings together the world's top developers, end users, and vendors and runs the largest open source developer conferences. CNCF is part of the nonprofit Linux Foundation.
     sponsorships:
       2019: thanks
 
@@ -824,20 +736,13 @@ sponsors:
       horizontal:
       square: /img/sponsors/Dragonchain/Jojo+Dragonchaintext-02.png
     description: |-
-      Dragonchain is a U.S.-based technology leader, offering Blockchain as a
-      Service with security and scalability at the forefront of its operations.
-      Dragonchain is an open sourced public/private hybrid blockchain platform
-      combines high performance and comprehensive ease of use, allowing any
-      developer or enterprise to build and deploy a blockchain solution in minutes.
-      As a service provider, Dragonchain empowers developers and businesses with an
-      enterprise-grade blockchain solution. For more information on Dragonchain,
-      please visit https://dragonchain.com/
-
-      Twitter https://twitter.com/dragonchain
-      LinkedIn https://www.linkedin.com/company/dragonchain/
-      Facebook https://facebook.com/Dragonchaingang/
-      YouTube https://www.youtube.com/c/DragonchainOfficial
-      GitHub https://github.com/dragonchain-inc
+      Dragonchain is a U.S.-based technology leader, offering Blockchain as a Service with security and scalability at the forefront of its operations. Dragonchain is an open sourced public/private hybrid blockchain platform combines high performance and comprehensive ease of use, allowing any developer or enterprise to build and deploy a blockchain solution in minutes. As a service provider, Dragonchain empowers developers and businesses with an enterprise-grade blockchain solution. For more information on Dragonchain, please visit https://dragonchain.com/
+      
+      Twitter https://twitter.com/dragonchain  
+      LinkedIn https://www.linkedin.com/company/dragonchain/  
+      Facebook https://facebook.com/Dragonchaingang/  
+      YouTube https://www.youtube.com/c/DragonchainOfficial  
+      GitHub https://github.com/dragonchain-inc  
       Telegram https://t.me/dragontalk
     sponsorships:
       2019: bronze
@@ -865,7 +770,7 @@ sponsors:
     description: |-
       PNWTeam is the Ubuntu user group for the Pacific Northwest region of the United States. If you haven't found a local community (loco) team to call home yet please feel free to jump in and help out.
 
-      Mailing List https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-pnw
+      Mailing List https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-pnw  
       Forum http://pnw.ubuntu-us.org/forum
     sponsorships:
       2018: thanks
@@ -905,8 +810,10 @@ sponsors:
       horizontal:
       square: /img/sponsors/OSI/OSI_Standard_Logo.svg
     description: |-
-      The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.  
-      Open source enables a development method for software that harnesses the power of distributed peer review and transparency of process. The promise of open source is higher quality, better reliability, greater flexibility, lower cost, and an end to predatory vendor lock-in.  
+      The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.
+      
+      Open source enables a development method for software that harnesses the power of distributed peer review and transparency of process. The promise of open source is higher quality, better reliability, greater flexibility, lower cost, and an end to predatory vendor lock-in.
+      
       One of our most important activities is as a standards body, maintaining the Open Source Definition for the good of the community. The Open Source Initiative Approved License trademark and program creates a nexus of trust around which developers, users, corporations and governments can organize open source cooperation.
     sponsorships:
       2020: thanks
@@ -1076,6 +983,7 @@ sponsors:
       square:
     description: |-
       DevOps Party Games takes the idea of "online party games" and tilts it on its head by adding DevOps-inspired content to existing games, and then streams it live via Twitch for a worldwide audience to watch, comment, and hopefully be entertained. In addition, the hosts (Matt Stratton, Jeremy Meiss, and Dan Maher) will provide color commentary, much like a modern day Cotton McKnight and Pepper Brooks (announcers from Dodgeball).
+      
       The goal here is to have fun and not take things too seriously. A live streamed game show that is most definitely a ridiculous idea, but hopefully entertaining.
     sponsorships:
       2021: thanks
