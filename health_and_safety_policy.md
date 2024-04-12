@@ -19,11 +19,11 @@ redirect_from:
 
 SeaGL, the Seattle GNU/Linux Conference, is more than just a gathering; it is a community. As such, we all have a duty to protect one another and keep our community safe.
 
-This year, as we return to hosting in-person activities, SeaGL has added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
+Last year, as we returned to hosting in-person activities, SeaGL added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
 
 Our Health and Safety Policy encourages facial coverings in spaces where distancing cannot be maintained, expects full vaccination and voluntary testing by attendees, and includes mitigations in the form of outdoor ventilation, as suggested by the [Public Health Pledge’s badging standard](https://publichealthpledge.com/badging).
 
-Any policy updates we publish will not be weakened before the 2023 event held on November 3rd and 4th.
+Any policy updates we publish will not be weakened before the 2024 event held on November 8th and 9th.
 
 
 ## Definitions
@@ -38,11 +38,11 @@ Any policy updates we publish will not be weakened before the 2023 event held on
 
 ## Masking
 
-We _encourage_ attendees to wear [facial coverings recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) in all indoor spaces, any spaces where physical distancing cannot be maintained, and any other spaces designated by the conference organizers.
+We _require_ attendees, aside from the active presenter, to wear masks (as described in the "facial coverings" section below) in all presentation spaces, including the keynote auditorium.
 
-We _require_ attendees, aside from the active presenter, to wear [facial coverings recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) in all presentation spaces, including the keynote auditorium.
+We _require_ facial coverings to be made of a tight-knit, non-permeable material that completely covers the nose and mouth. Facial coverings should should be of N95 or equivalent rating, [as recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html). These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that may cause COVID/flu-like symptoms.
 
-We _encourage_ the use of masks with an N95 or similar rating. These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that may cause COVID/flu-like symptoms.
+We _encourage_ attendees to wear masks (as described in the "facial coverings" section above) in all indoor spaces, any spaces where physical distancing cannot be maintained, and any other spaces designated by the conference organizers.
 
 We _commit_ to having a supply of high-quality facial coverings at the event and will supply any attendee who needs one, free of charge.
 
@@ -77,18 +77,18 @@ We _strive_ to offer COVID-19 rapid antigen tests for those with financial need,
 
 ## Ventilation
 
+We _commit_ to using CO₂ monitors as a proxy for ventilation levels throughout the conference.
+
 We _strive_ to prioritize ventilation of event spaces through actions such as keeping doors and windows open.
 
 We _strive_ to maintain attendance that is limited below physical space capacities.
 
-We _commit_ to using CO₂ monitors as a proxy for ventilation levels throughout the conference.
-
 
 ## Physical Distancing
 
-We _encourage_ attendees to maintain six (6) feet of open space between one another where able.
-
 We _expect_ attendees to respect one another's boundaries, especially if a request for distancing is made.
+
+We _encourage_ attendees to maintain six (6) feet of open space between one another where able.
 
 
 ## Sanitation
@@ -127,7 +127,7 @@ We _strive_ to provide remote participation options for social events.
 
 ---
 
-This Health and Safety Policy is based in part on North Bay Python's found here, <https://2023.northbaypython.org/health-and-safety-policy>, and is available under the [Creative Commons Attribution-ShareAlike (CC BY-SA) License](https://creativecommons.org/licenses/by-sa/4.0/).
+This Health and Safety Policy is based in part on North Bay Python's found here, <https://2024.northbaypython.org/health-and-safety-policy>, and is available under the [Creative Commons Attribution-ShareAlike (CC BY-SA) License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 We are eager to consider any additions to this Health and Safety Policy that you might find valuable, to better support you or others, or to clarify our objective.
 
