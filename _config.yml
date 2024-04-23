@@ -115,6 +115,7 @@ custom:
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize</a>
         location:           <a href="/maps/2024">University of Washington</a>
         donate:             <a href="https://opensource.org/civicrm/contribute/transact?reset=1&id=4">Donate to SeaGL</a>
+        status:             <a href="https://status.seagl.org/status/conference">System status</a>
     maps:
       google:
         apikey:             AIzaSyAwVEJ8kLu3tWyuBxZX9_hfMnNLJk7obk8
