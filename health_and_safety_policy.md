@@ -28,8 +28,7 @@ Any policy updates we publish will not be weakened before the 2024 event held on
 
 ## Definitions
 
-- **Require** means that a measure is a strict condition of entry. Violations will be acted on by the organizers, and may result in removal from the conference without recourse.
-- **Expect** means that a measure is considered to be reasonable conduct at the event, and reports of non-compliance will be treated as incidents of Harassment (as referred to in our [Code of Conduct](/coc)).
+- **Expect** means that a measure is a condition of entry and considered to be reasonable conduct at the event. Reports of non-compliance will be treated as incidents of Harassment (as referred to in our [Code of Conduct](/coc)) and may result in removal from the conference without recourse.
 - **Encourage** means that a measure is voluntary, however, compliance will improve the health and safety standards for attendees.
 - **Commit** means that the organizers will ensure that a measure will be in place during the conference.
 - **Strive** means that the organizers will attempt to set a measure in place during the conference.
@@ -38,11 +37,11 @@ Any policy updates we publish will not be weakened before the 2024 event held on
 
 ## Masking
 
-We _require_ attendees, aside from the active presenter, to wear masks (as described in the "facial coverings" section below) in all presentation spaces, including the keynote auditorium.
+We _expect_ attendees, aside from the active presenter, to wear masks (as described in the "facial coverings" paragraph below) in all presentation spaces, including the keynote auditorium.
 
-We _require_ facial coverings to be made of a tight-knit, non-permeable material that completely covers the nose and mouth. Facial coverings should should be of N95 or equivalent rating, [as recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html). These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that may cause COVID/flu-like symptoms.
+We _expect_ facial coverings to be made of a tight-knit, non-permeable material that completely covers the nose and mouth. Facial coverings should should be of N95 or equivalent rating, [as recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html). These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that may cause COVID/flu-like symptoms.
 
-We _encourage_ attendees to wear masks (as described in the "facial coverings" section above) in all indoor spaces, any spaces where physical distancing cannot be maintained, and any other spaces designated by the conference organizers.
+We _encourage_ attendees to wear masks (as described in the "facial coverings" paragraph above) in all indoor spaces, any spaces where physical distancing cannot be maintained, and any other spaces designated by the conference organizers.
 
 We _commit_ to having a supply of high-quality facial coverings at the event and will supply any attendee who needs one, free of charge.
 
@@ -59,7 +58,7 @@ We _expect_ all non-exempt attendees to have received a complete primary series 
 
 We _encourage_ attendees to receive up-to-date COVID-19 and influenza vaccine boosters.
 
-We will **not** _require_ vaccination status verification due to SeaGL's commitment to attendance without identification or registration.
+We will **not** verify vaccination status due to SeaGL's commitment to attendance without identification or registration.
 
 We _commit_ to providing a method for attendees to voluntarily display their vaccination status.
 
@@ -68,7 +67,7 @@ We _encourage_ anyone with concerns about the available COVID-19 vaccines review
 
 ## Testing
 
-We _expect_ attendees to have completed a COVID-19 PCR test within 72 hours or a rapid antigen test within three (3) hours before attending the event.
+We _encourage_ attendees to have completed a COVID-19 PCR test within 72 hours or a rapid antigen test within three (3) hours before attending the event.
 
 We _encourage_ attendees to test daily during the event, during travel days to or from Seattle, and on the fifth (5th) day following the conclusion of the event to account for an incubation period.
 
@@ -100,7 +99,7 @@ We _commit_ to providing hand sanitizer in all conference spaces.
 
 ## Illness
 
-We _require_ attendees not attend the conference if their presence would create an increased risk of exposure to communicable diseases (such as COVID-19) to their fellow attendees.
+We _expect_ attendees will not attend the conference if their presence would create an increased risk of exposure to communicable diseases (such as COVID-19) to their fellow attendees.
 
 Increased risk factors include:
 
