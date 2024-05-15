@@ -19,17 +19,16 @@ redirect_from:
 
 SeaGL, the Seattle GNU/Linux Conference, is more than just a gathering; it is a community. As such, we all have a duty to protect one another and keep our community safe.
 
-This year, as we return to hosting in-person activities, SeaGL has added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
+Last year, as we returned to hosting in-person activities, SeaGL added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
 
 Our Health and Safety Policy encourages facial coverings in spaces where distancing cannot be maintained, expects full vaccination and voluntary testing by attendees, and includes mitigations in the form of outdoor ventilation, as suggested by the [Public Health Pledge’s badging standard](https://publichealthpledge.com/badging).
 
-Any policy updates we publish will not be weakened before the 2023 event held on November 3rd and 4th.
+Any policy updates we publish will not be weakened before the 2024 event held on November 8th and 9th.
 
 
 ## Definitions
 
-- **Require** means that a measure is a strict condition of entry. Violations will be acted on by the organizers, and may result in removal from the conference without recourse.
-- **Expect** means that a measure is considered to be reasonable conduct at the event, and reports of non-compliance will be treated as incidents of Harassment (as referred to in our [Code of Conduct](/coc)).
+- **Expect** means that a measure is a condition of entry and considered to be reasonable conduct at the event. Reports of non-compliance will be treated as incidents of Harassment (as referred to in our [Code of Conduct](/coc)) and may result in removal from the conference without recourse.
 - **Encourage** means that a measure is voluntary, however, compliance will improve the health and safety standards for attendees.
 - **Commit** means that the organizers will ensure that a measure will be in place during the conference.
 - **Strive** means that the organizers will attempt to set a measure in place during the conference.
@@ -38,11 +37,11 @@ Any policy updates we publish will not be weakened before the 2023 event held on
 
 ## Masking
 
-We _encourage_ attendees to wear [facial coverings recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) in all indoor spaces, any spaces where physical distancing cannot be maintained, and any other spaces designated by the conference organizers.
+We _expect_ attendees, aside from the active presenter, to wear masks (as described in the "facial coverings" paragraph below) in all presentation spaces, including the keynote auditorium.
 
-We _require_ attendees, aside from the active presenter, to wear [facial coverings recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html) in all presentation spaces, including the keynote auditorium.
+We _expect_ facial coverings to be made of a tight-knit, non-permeable material that completely covers the nose and mouth. Facial coverings should should be of N95 or equivalent rating, [as recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html). These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that may cause COVID/flu-like symptoms.
 
-We _encourage_ the use of masks with an N95 or similar rating. These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that may cause COVID/flu-like symptoms.
+We _encourage_ attendees to wear masks (as described in the "facial coverings" paragraph above) in all indoor spaces, any spaces where physical distancing cannot be maintained, and any other spaces designated by the conference organizers.
 
 We _commit_ to having a supply of high-quality facial coverings at the event and will supply any attendee who needs one, free of charge.
 
@@ -59,7 +58,7 @@ We _expect_ all non-exempt attendees to have received a complete primary series 
 
 We _encourage_ attendees to receive up-to-date COVID-19 and influenza vaccine boosters.
 
-We will **not** _require_ vaccination status verification due to SeaGL's commitment to attendance without identification or registration.
+We will **not** verify vaccination status due to SeaGL's commitment to attendance without identification or registration.
 
 We _commit_ to providing a method for attendees to voluntarily display their vaccination status.
 
@@ -68,7 +67,7 @@ We _encourage_ anyone with concerns about the available COVID-19 vaccines review
 
 ## Testing
 
-We _expect_ attendees to have completed a COVID-19 PCR test within 72 hours or a rapid antigen test within three (3) hours before attending the event.
+We _encourage_ attendees to have completed a COVID-19 PCR test within 72 hours or a rapid antigen test within three (3) hours before attending the event.
 
 We _encourage_ attendees to test daily during the event, during travel days to or from Seattle, and on the fifth (5th) day following the conclusion of the event to account for an incubation period.
 
@@ -77,18 +76,18 @@ We _strive_ to offer COVID-19 rapid antigen tests for those with financial need,
 
 ## Ventilation
 
+We _commit_ to using CO₂ monitors as a proxy for ventilation levels throughout the conference.
+
 We _strive_ to prioritize ventilation of event spaces through actions such as keeping doors and windows open.
 
 We _strive_ to maintain attendance that is limited below physical space capacities.
 
-We _commit_ to using CO₂ monitors as a proxy for ventilation levels throughout the conference.
-
 
 ## Physical Distancing
 
-We _encourage_ attendees to maintain six (6) feet of open space between one another where able.
-
 We _expect_ attendees to respect one another's boundaries, especially if a request for distancing is made.
+
+We _encourage_ attendees to maintain six (6) feet of open space between one another where able.
 
 
 ## Sanitation
@@ -100,7 +99,7 @@ We _commit_ to providing hand sanitizer in all conference spaces.
 
 ## Illness
 
-We _require_ attendees not attend the conference if their presence would create an increased risk of exposure to communicable diseases (such as COVID-19) to their fellow attendees.
+We _expect_ attendees will not attend the conference if their presence would create an increased risk of exposure to communicable diseases (such as COVID-19) to their fellow attendees.
 
 Increased risk factors include:
 
@@ -127,7 +126,7 @@ We _strive_ to provide remote participation options for social events.
 
 ---
 
-This Health and Safety Policy is based in part on North Bay Python's found here, <https://2023.northbaypython.org/health-and-safety-policy>, and is available under the [Creative Commons Attribution-ShareAlike (CC BY-SA) License](https://creativecommons.org/licenses/by-sa/4.0/).
+This Health and Safety Policy is based in part on North Bay Python's found here, <https://2024.northbaypython.org/health-and-safety-policy>, and is available under the [Creative Commons Attribution-ShareAlike (CC BY-SA) License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 We are eager to consider any additions to this Health and Safety Policy that you might find valuable, to better support you or others, or to clarify our objective.
 
