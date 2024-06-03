@@ -35,6 +35,7 @@ sponsors:
       2021: media
       2022: media
       2023: media
+      2024: media
 
   - name: Ansible
     url: https://www.ansible.com
@@ -118,6 +119,7 @@ sponsors:
       2016: platinum
       2021: gold
       2023: silver
+      2024: gold
 
   - name: Hewlett-Packard
     url: http://hpcloud.com
@@ -501,14 +503,16 @@ sponsors:
       2017: thanks
 
   - name: PostgreSQL
-    url:
+    url: https://postgresql.us/
     logo:
       horizontal:
       square: /img/sponsors/PostGreSQL/PostgreSQL.png
-    description:
+    description: |-
+      US PostgreSQL Association
     sponsorships:
       2017: thanks
       2018: thanks
+      2024: thanks
 
   - name: Software Freedom Conservancy
     url: https://sfconservancy.org/
@@ -526,14 +530,15 @@ sponsors:
   - name: Kubuntu
     url: https://kubuntu.org/
     logo:
-      horizontal: /img/sponsors/Kubuntu/kubuntu-logo-lucid.svg
-      square:
+      horizontal: /img/sponsors/Kubuntu/Kubuntu-HorizOpenShape-Full-Text.svg
+      square: /img/sponsors/Kubuntu/Kubuntu-SquareOpenShape-Full-Text.svg
     description: |-
       Kubuntu is a community developed and supported project. Since its launch in October 2004, Kubuntu has become one of the most highly regarded Linux distributions with millions of users around the world.  Our mission is to provide the latest stable KDE software, which includes the flagship project Plasma, our desktop environment on top of a stable Ubuntu core.  We release in 6 monthly cycles, following the same freezes/milestones as Ubuntu.
     sponsorships:
       2016: thanks
       2017: thanks
       2021: thanks
+      2024: thanks
 
   - name: Lubuntu
     url: https://lubuntu.me/
@@ -827,16 +832,17 @@ sponsors:
       2024: thanks
 
   - name: Electronic Frontier Foundation
-    url: https://www.eff.org/pages/tools
+    url: https://www.eff.org/
     logo:
       horizontal: /img/sponsors/EFF/EFF-logo-lockup-red.png
       square:
     description: |-
-      The Electronic Frontier Foundation (EFF) is the leading organization defending civil liberties in the digital world. We defend free speech on the internet, fight illegal surveillance, support freedom-enhancing technologies, promote the rights of digital innovators, and work to ensure that the rights and freedoms we enjoy are enhanced, rather than eroded, as our use of technology grows.
+      The Electronic Frontier Foundation (EFF) is the leading nonprofit defending digital privacy, free speech, and innovation.
     sponsorships:
       2020: thanks
       2021: thanks
       2023: thanks
+      2024: thanks
 
   - name: Women In Linux
     url: https://www.womeninlinux.org/
@@ -1033,6 +1039,7 @@ sponsors:
     sponsorships:
       2022: thanks
       2023: thanks
+      2024: thanks
 
   - name: DevITjobs.us
     url: https://devitjobs.us/events
@@ -1047,14 +1054,15 @@ sponsors:
       2024: media
 
   - name: FOSSY
-    url: https://2023.fossy.us/
+    url: https://2024.fossy.us/
     logo:
       horizontal: /img/sponsors/FOSSY/fossy23.png
       square: 
     description: |-
-      FOSSY is a new conference dedicated to showcasing how Free and Open Source Software is used around the world to help cultivate community, innovate and let us live freely with technology.
+      Software Freedom Conservancy is so proud to announce that we are hosting a community oriented conference this summer. FOSSY (Free and Open Source Yearly) is focused on the creation and impact of free and open source software, uplifting contributors of all experience.
     sponsorships:
       2023: thanks
+      2024: thanks
 
   - name: Seattle Blender User Group
     url: https://www.meetup.com/seabug
