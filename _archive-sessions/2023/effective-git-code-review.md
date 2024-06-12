@@ -3,6 +3,8 @@ title: Effective git code review - make their job easier and you look smarter
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/957
 beginning: '2023-11-04T10:30:00.000-07:00'
 end: '2023-11-04T10:50:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Effective_git_code_review_make_their_job_easier_and_you_look_smarter
 presenters:
 - name: Bri Hatch
   affiliation: ExtraHop Networks

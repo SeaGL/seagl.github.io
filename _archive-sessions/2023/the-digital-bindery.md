@@ -3,6 +3,8 @@ title: The Digital Bindery
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/955
 beginning: '2023-11-04T13:50:00.000-07:00'
 end: '2023-11-04T14:40:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-The_Digital_Bindery
 presenters:
 - name: Brian Raiter
   pronouns: he/him

@@ -3,6 +3,8 @@ title: Teaching Young Children About Software Freedom
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/987
 beginning: '2023-11-04T16:40:00.000-07:00'
 end: '2023-11-04T17:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Teaching_Young_Children_About_Software_Freedom
 presenters:
 - name: Aaron Wolf
   affiliation: Snowdrift.coop
