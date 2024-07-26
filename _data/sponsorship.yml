@@ -157,6 +157,7 @@ sponsors:
     sponsorships:
       2022: media
       2023: media
+      2024: media
 
   - name: Linux Pro Magazine
     url: https://www.linuxpromagazine.com/
@@ -393,7 +394,7 @@ sponsors:
   - name: Free Software Foundation
     url: https://www.fsf.org/
     logo:
-      horizontal: /img/sponsors/FSF/logo-fsf.org.png
+      horizontal: /img/sponsors/FSF/logo-fsf.org.svg
       square:
     description: |-
       The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.
@@ -404,6 +405,7 @@ sponsors:
       2018: platinum
       2019: platinum
       2020: platinum
+      2024: thanks
 
   - name: Write The Docs Seattle
     url: https://www.meetup.com/Write-The-Docs-Seattle/
@@ -1073,6 +1075,7 @@ sponsors:
       Seattle Blender User Group
     sponsorships:
       2023: thanks
+      2024: thanks
 
   - name: FOSSASIA
     url: https://fossasia.org/
@@ -1093,6 +1096,7 @@ sponsors:
       AlmaLinux, the forever-free enterprise linux, is fully compatible with Red Hat, but community owned and managed.
     sponsorships:
       2023: thanks
+      2024: thanks
 
   - name: Digital Freedom Foundation
     url: https://digitalfreedomfoundation.org/
@@ -1130,6 +1134,17 @@ sponsors:
       horizontal: 
       square: /img/sponsors/TechHutMedia/TechHutBanner.png
     description: |-
-      TechHut Media LLC
+      TechHut Media is dedicated to producing content around consumer technology and open source software.
     sponsorships:
       2023: media
+      2024: media
+
+  - name: /dev/hack
+    url: https://devhack.net
+    logo:
+      horizontal: /img/sponsors/devhack/devhack-s.svg
+      square: 
+    description: |-
+      /dev/hack
+    sponsorships:
+      2024: thanks
