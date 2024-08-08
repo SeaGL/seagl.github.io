@@ -121,7 +121,7 @@ To preview future-dated and unpublished posts, add `--future --unpublished` to t
 
 Dependencies:
 
-  - [Docker](https://docs.docker.com/)
+  - [Docker](https://docs.docker.com/) (or [Podman](https://podman.io/); replace `docker` with `podman`)
 
 One-time setup:
 
