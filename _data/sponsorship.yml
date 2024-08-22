@@ -200,7 +200,7 @@ sponsors:
       horizontal: /img/sponsors/SchedulesDirect/sd_long.png
       square: /img/sponsors/SchedulesDirect/sd_square.png
     description: |-
-      Schedules Direct is a non-profit organization whose mission is to educate the public about the benefits of Open Source Software and other free software, provide support functions for such software, and provide funding for research that facilitates the improvement or creation of Open Source Software and other free software for the benefit of the public at large.
+      Member-supported organization providing support and funding for open source and free (as in beer) software mostly in the TV/media space.
     sponsorships:
       2013: gold
       2014: gold
@@ -213,6 +213,7 @@ sponsors:
       2021: gold
       2022: gold
       2023: gold
+      2024: gold
 
   - name: Seattle Central College
     url: https://seattlecentral.edu
@@ -1148,3 +1149,14 @@ sponsors:
       /dev/hack
     sponsorships:
       2024: thanks
+
+  - name: postmarketOS
+    url: https://postmarketOS.org
+    logo:
+      horizontal: /img/sponsors/postmarketOS/postmarketOS.svg
+      square: 
+    description: |-
+      postmarketOS is a free software mobile OS that is modeled after traditional Linux distributions. It aims to provide updates, security and privacy for phones that are no longer supported by vendors.
+    sponsorships:
+      2024: thanks
+
