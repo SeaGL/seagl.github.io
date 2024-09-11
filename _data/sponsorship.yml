@@ -658,11 +658,13 @@ sponsors:
     logo:
       horizontal:
       square: /img/sponsors/JMP.chat/jmp.svg
-    description:
+    description: |-
+      JMP.chat - fully FOSS phone numbers, for privacy and freedom
     sponsorships:
       2018: thanks
       2021: platinum
       2022: bronze
+      2024: bronze
 
   - name: twilio
     url: https://www.twilio.com/
@@ -1157,6 +1159,16 @@ sponsors:
       square: 
     description: |-
       postmarketOS is a free software mobile OS that is modeled after traditional Linux distributions. It aims to provide updates, security and privacy for phones that are no longer supported by vendors.
+    sponsorships:
+      2024: thanks
+
+  - name: The Calyx Institute
+    url: https://calyxinstitute.org/projects
+    logo:
+      horizontal: 
+      square: /img/sponsors/Calyx/calyx.svg
+    description: |-
+      The Calyx Institute promotes and defends the privacy of internet users by making resources and tools available so everyone can remain safe, secure, and connected. We look forward to connecting with the SeaGL community to share our enthusiasm of FOSS, explore project ideas, and promote employment and collaboration opportunities at Calyx!
     sponsorships:
       2024: thanks
 
