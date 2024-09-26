@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Keynote presenters for SeaGL2024!'
+title: 'Announcing Keynote speakers for SeaGL2024!'
 status: publish
 type: post
 published: true
@@ -8,7 +8,7 @@ categories: news
 tags: '2024'
 ---
 
-We are very pleased to announce our 2024 Seattle GNU/Linux conference keynotes: 
+We are very pleased to announce our 2024 Seattle GNU/Linux conference keynote speakers: 
 
 ## Christopher Neugebauer
 
