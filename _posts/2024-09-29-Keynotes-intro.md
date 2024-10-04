@@ -28,7 +28,7 @@ Find more about Christopher on:
 Duane is the Director of Collaborative Engineering at Capital One. His organization focuses on developing internal and external collaborative development practices through open source and InnerSource. He is the creator of the [FOSS Contributor Fund framework](https://github.com/indeedeng/FOSS-Contributor-Fund), and loves helping organizations get involved in funding and sustaining their open source dependencies. Duane is a force of chaotic good using his high stats in intelligence and charisma to advocate for the open source community. If you encounter him in forested areas, he will share his fire, drink, and philosophy.
 
 Find more about Duane on:
- - Website: https://www.duaneobrien.com/
+ - Website: <https://www.duaneobrien.com/>
  - Fediverse/Mastodon: [@duane@hachyderm.io](https://hachyderm.io/@duane)
 
 ## Aaron Wolf
