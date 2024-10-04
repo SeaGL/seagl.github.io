@@ -44,4 +44,4 @@ Another first time keynote speaker and a senior site reliability engineer in Por
 One of the organizers of the Portland chapter of PyLadies, an international group of women Python coders, and also chaired (with a group of six) a small Python conference here in Portland called PyDX, which has morphed into the wonderful PyCascadia. Past contributor and volunteer to SeaGL in 2020 and probably 2021.
 
 Find more about Rachel on:
- - Website: https://rkode.com/
+ - Website: <https://rkode.com/>
