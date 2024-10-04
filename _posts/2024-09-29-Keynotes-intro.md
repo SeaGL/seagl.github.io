@@ -19,7 +19,7 @@ He serves as a Director of the Python Software Foundation, and is co-organizer o
 Christopher is also a contributor on the open source Pants build system, helping make Python’s testing, correctness, and style tools accessible and fast for developers, no matter how big their codebase.
 
 Find more about Christopher on:
- - Website: https://chrisjrn.com/
+ - Website: <https://chrisjrn.com/>
  - Fediverse/Mastodon: [@chrisjrn@social.coop](https://social.coop/@chrisjrn)
  - Twitter/X: [@chrisjrn](https://x.com/chrisjrn)
 
