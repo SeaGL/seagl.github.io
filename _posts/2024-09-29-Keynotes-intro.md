@@ -8,7 +8,7 @@ categories: news
 tags: '2024'
 ---
 
-We are very pleased to announce our 2024 Seattle GNU/Linux conference keynote speakers: 
+We are very pleased to announce our 2024 Seattle GNU/Linux conference keynote speakers:
 
 ## Christopher Neugebauer
 
