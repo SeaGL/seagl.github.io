@@ -33,15 +33,14 @@ Find more about Duane on:
 
 ## Aaron Wolf
 
-First time keynote speaker, Aaron is a community music teacher, co-founder of [Snowdrift.coop](https://snowdrift.coop/) (a long-struggling and principled platform working to solve economic coordination dilemmas around FLO public goods), and an activist and volunteer in many other areas. Originally from Ann Arbor, MI; he lives now in Oregon City with his wife, dog, and two kids.
+First time keynote speaker, Aaron is a community music teacher, co-founder of [Snowdrift.coop](https://snowdrift.coop/) (a long-struggling and principled platform working to solve economic coordination dilemmas around FLO public goods), and an activist and volunteer in many other areas. Originally from Ann Arbor, MI; he now lives in Oregon City with his wife, dog, and two kids.
 
 Find more about Aaron on:
  - Fediverse/Mastodon: [@wolftune@social.coop](https://social.coop/@wolftune)
 
 ## Rachel Kelly
 
-Another first time keynote speaker and a senior site reliability engineer in Portland, OR.
-One of the organizers of the Portland chapter of PyLadies, an international group of women Python coders, and also chaired (with a group of six) a small Python conference here in Portland called PyDX, which has morphed into the wonderful PyCascadia. Past contributor and volunteer to SeaGL in 2020 and probably 2021.
+Rachel is a long-time nerd and denizen of the internet, learning to form community without social media!  A proud career-switcher, she has worked for tech companies small and large since 2014 and has been happily plugging away at Fastly for the last several years as an SRE on the Certificate Authority project.  A staunch advocate of community and locality, Rachel now uses skills learned from many years of co-organizing Portland's PyLadies chapter and participating in many community-oriented technology user groups toward something completely different.  She and her partner live in Portland, OR, going to too many Burning Man events (not possible) and training for simply too many races of all kinds (also not possible).  You can reach Rachel at her email, rkrk@rkode.com.
 
 Find more about Rachel on:
  - Website: <https://rkode.com/>
