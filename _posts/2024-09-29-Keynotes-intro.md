@@ -33,7 +33,7 @@ Find more about Duane on:
 
 ## Aaron Wolf
 
-First time keynote speaker, Aaron is a community music teacher, co-founder of [Snowdrift.coop](https://snowdrift.coop/) (a long-struggling and principled platform working to solve economic coordination dilemmas around FLO public goods), and an activist and volunteer in many other areas. Originally from Ann Arbor, MI; he lives now in Oregon City with his wife, dog, and two kids. 
+First time keynote speaker, Aaron is a community music teacher, co-founder of [Snowdrift.coop](https://snowdrift.coop/) (a long-struggling and principled platform working to solve economic coordination dilemmas around FLO public goods), and an activist and volunteer in many other areas. Originally from Ann Arbor, MI; he lives now in Oregon City with his wife, dog, and two kids.
 
 Find more about Aaron on:
  - Fediverse/Mastodon: [@wolftune@social.coop](https://social.coop/@wolftune)
