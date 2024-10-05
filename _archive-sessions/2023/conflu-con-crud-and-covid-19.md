@@ -3,6 +3,8 @@ title: Conflu, con crud, and COVID-19
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/968
 beginning: '2023-11-03T11:30:00.000-07:00'
 end: '2023-11-03T12:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Conflu_con_crud_and_COVID-19
 presenters:
 - name: Josh Simmons
   affiliation: Open Chapters

@@ -3,6 +3,8 @@ title: 'GNU Guix: The Other Functional Package Manager'
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1007
 beginning: '2023-11-03T11:00:00.000-07:00'
 end: '2023-11-03T11:20:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-GNU_Guix_The_Other_Functional_Package_Manager
 presenters:
 - name: Timothy Sample
   osem_url: https://osem.seagl.org/users/1667

@@ -3,6 +3,8 @@ title: Opening up the World of WebAssembly with Guile Hoot
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/977
 beginning: '2023-11-03T16:40:00.000-07:00'
 end: '2023-11-03T17:30:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Opening_up_the_World_of_WebAssembly_with_Guile_Hoot
 presenters:
 - name: David Thompson
   affiliation: Spritely Institute
