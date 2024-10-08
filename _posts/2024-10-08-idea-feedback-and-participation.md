@@ -17,6 +17,7 @@ One significant change we have made this year is the promotion of pronoun visibi
 |Pronoun | they/them | she/her | he/him | prefer not to say
 |--- | --- | --- | --- | ---
 | Percent | 12.5 % | 15% | 37.5% | 35% 
+{:.table}
 
 We recognize that fostering an inclusive environment is an ongoing process. Your feedback is important in helping us make continuous improvements. If you have suggestions on how we can further enhance inclusivity and accessibility, especially for underrepresented groups, we encourage you to share your suggestions in our [anonymous feedback form](/IDEA_suggestions). If you would like to discuss your feedback in more detail, there is an option to provide your contact information, and we would be happy to follow up with you.
 
