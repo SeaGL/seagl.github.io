@@ -2,17 +2,17 @@
 layout: page
 redirect_from:
   - /attend-ephemeral
-title: Attend SeaGL 2023 Virtually
-description: How to attend SeaGL 2023 with an ephemeral Matrix account
+title: Attend SeaGL 2024 Virtually
+description: How to attend SeaGL 2024 with an ephemeral Matrix account
 ---
 
 # Attending SeaGL
 
 SeaGL uses a chat system called [Matrix] to run our virtual conference. We've got things set up so Matrix is super easy to use for you - just follow these 3 steps. But if you _do_ run into any trouble, you can email <matrix-help@seagl.org> and we'll help you get it sorted out. <!-- TODO - possibly link to Kiwi IRC too. -->
 
-## Step 1 - get your 2023 account
+## Step 1 - get your 2024 account
 
-The first step is to get a 2023 account! This won't require any of your personal information. Come back to this page after you're signed up.
+The first step is to get a 2024 account! This won't require any of your personal information. Come back to this page after you're signed up.
 
 <div class="text-center">
   <p><a class="btn btn-primary btn-large" href="https://attend.seagl.org/#/register?hs=ephemeral">Get my account</a></p>
@@ -26,7 +26,7 @@ This is the home screen of SeaGL's version of [Element], an open source, free so
 
 <img class="align-center" alt="Screenshot of attend.seagl.org" src="/img/attend-portal.webp" />
 
-Some things to know about Matrix and your 2023 account:
+Some things to know about Matrix and your 2024 account:
 
 1. Matrix is decentralized, which means that your account is “at” the provider of your choice, but you can communicate seamlessly across providers - similar to email.
 2. We're acting as the Matrix provider for the account you just made to attend SeaGL. Because your account is primarily intended for you to attend, it will be deleted on **November 11th** (one week after the end of the conference). Before that day, though, it will function as a full Matrix account. (Try joining the Matrix room of a free software project you hear about at the conference!) <!-- TODO it would be rad if we could actually see how many talks are about projects with Matrix rooms -->
@@ -34,7 +34,7 @@ Some things to know about Matrix and your 2023 account:
 
 ## Step 3 - have fun at SeaGL!
 
-We hope you enjoy hanging out with our flock this year. Our friendly Matrix bot, Patch, will help guide you around the conference. If you have any questions, please bring them up in the ["Welcome"]( https://attend.seagl.org/#/room/#2023-welcome:seagl.org) or ["Info Booth"]( https://attend.seagl.org/#/room/#2023-info-booth:seagl.org) rooms.
+We hope you enjoy hanging out with our flock this year. Our friendly Matrix bot, Patch, will help guide you around the conference. If you have any questions, please bring them up in the ["Welcome"]( https://attend.seagl.org/#/room/#2024-welcome:seagl.org) or ["Info Booth"]( https://attend.seagl.org/#/room/#2024-info-booth:seagl.org) rooms.
 
 As a reminder, participation in any SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
 
