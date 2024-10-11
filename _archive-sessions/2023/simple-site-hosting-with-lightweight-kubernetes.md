@@ -4,6 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/945
 beginning: '2023-11-03T15:20:00.000-07:00'
 end: '2023-11-03T15:40:00.000-07:00'
 resources:
+  internet_archive_identifier: SeaGL2023-Simple_Site_Hosting_with_Lightweight_Kubernetes
   slides_url: https://seagl2023.slides.k8s.jp.net/
 presenters:
 - name: James Pannacciulli

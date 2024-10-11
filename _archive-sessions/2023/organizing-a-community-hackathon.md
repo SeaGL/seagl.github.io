@@ -3,6 +3,8 @@ title: The Art of Organizing a Community Hackathon
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/993
 beginning: '2023-11-03T16:40:00.000-07:00'
 end: '2023-11-03T17:00:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-The_Art_of_Organizing_a_Community_Hackathon
 presenters:
 - name: Christina Zhu
   affiliation: Amazon

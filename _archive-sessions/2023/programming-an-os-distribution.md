@@ -3,6 +3,8 @@ title: Programming an OS distribution
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/941
 beginning: '2023-11-04T13:50:00.000-07:00'
 end: '2023-11-04T14:10:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2023-Programming_an_OS_distribution
 presenters:
 - name: Andrew Tropin
   affiliation: Maintainer and Committer of rde and Guix projects
