@@ -1173,3 +1173,12 @@ sponsors:
     sponsorships:
       2024: thanks
 
+  - name: Tea Tavern
+    url: https://tea-tavern.com/
+    logo:
+      horizontal: 
+      square: /img/sponsors/TeaTavern/teatavern.png
+    description: |-
+      
+    sponsorships:
+      2024: thanks
