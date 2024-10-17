@@ -88,9 +88,9 @@ custom:
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
         location:           /maps/2024
         prospectus:         /sponsors/SeaGL_Partnership_Sponsor_Prospectus_2024.pdf
-        register:           https://osem.seagl.org/conferences/seagl2024/register/new
+        register:           https://pretalx.seagl.org/2024/
         cfp:                /news/2024/06/03/CfP-Open
-        schedule:           https://osem.seagl.org/conferences/seagl2024/schedule/events
+        schedule:           https://pretalx.seagl.org/2024/schedule/
         press_kit:          /press
     a:
         email:
