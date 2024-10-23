@@ -1,4 +1,4 @@
----
+  ---
 layout: page
 nav: home
 body_id: home
@@ -22,7 +22,7 @@ SeaGL strives to be welcoming, enjoyable, and informative for professional techn
 
 SeaGL is **free to attend**, and you **do not need to register**—just show up!
 
-You may attend SeaGL without identifying yourself, and you are encouraged to do so to protect your privacy.
+You can attend [both virtually and in person](/attend). You may also attend SeaGL without identifying yourself, and you are encouraged to do so to protect your privacy.
 
 <!--
 You may optionally [register]({{ site.custom.url.register }}).
