@@ -1,4 +1,4 @@
-  ---
+---
 layout: page
 nav: home
 body_id: home
