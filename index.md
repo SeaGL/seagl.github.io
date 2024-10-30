@@ -22,7 +22,7 @@ SeaGL strives to be welcoming, enjoyable, and informative for professional techn
 
 SeaGL is **free to attend**, and you **do not need to register**—just show up!
 
-You can attend [both virtually and in person](/attend). You may also attend SeaGL without identifying yourself, and you are encouraged to do so to protect your privacy.
+You may also attend SeaGL without identifying yourself, and you are encouraged to do so to protect your privacy.
 
 <!--
 You may optionally [register]({{ site.custom.url.register }}).
@@ -31,6 +31,8 @@ The registration system is free / libre / open source software and we pr
 -->
 
 All attendees must abide by the [Code of Conduct](/coc), and if participating in-person, the [Health and Safety Policy](/health).
+
+More details about how to attend can be found [here](/attend).
 
 ### Stay informed
 
