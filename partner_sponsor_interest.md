@@ -1,0 +1,35 @@
+---
+redirect_from:
+  - /partner_interest
+  - /partner-interest
+  - /Partner_Interest
+  - /Partner-Interest
+  - /partnership_interest
+  - /partnership-interest
+  - /Partnership_Interest
+  - /Partnership-Interest
+  - /sponsor_interest
+  - /sponsor-interest
+  - /Sponsor_Interest
+  - /Sponsor-Interest
+  - /sponsorship_interest
+  - /sponsorship-interest
+  - /Sponsorship_Interest
+  - /Sponsorship-Interest
+  - /partner-sponsor-interest
+  - /Partner_Sponsor_Interest
+  - /Partner-Sponsor-Interest
+  - /partner_sponsorship_interest
+  - /partner-sponsorship-interest
+  - /Partner_Sponsorship_Interest
+  - /Partner-Sponsorship-Interest
+  - /partnership_sponsor_interest
+  - /partnership-sponsor-interest
+  - /Partnership_Sponsor_Interest
+  - /Partnership-Sponsor-Interest
+  - /partnership_sponsorship_interest
+  - /partnership-sponsorship-interest
+  - /Partnership_Sponsorship_Interest
+  - /Partnership-Sponsorship-Interest
+redirect_to: https://cloud.seagl.org/index.php/apps/forms/s/wBLpnamkdjn2kMzDWaKeRSZ4
+---
