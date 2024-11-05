@@ -2,13 +2,13 @@
 layout: page
 redirect_from:
   - /attend-ephemeral
-title: Attend SeaGL 2024 Virtually
+title: Attend SeaGL 2024 Remotely
 description: How to attend SeaGL 2024 with an ephemeral Matrix account
 ---
 
 # Attending SeaGL
 
-SeaGL uses a chat system called [Matrix] to run our virtual conference. We've got things set up so Matrix is super easy to use for you - just follow these 3 steps. But if you _do_ run into any trouble, you can email <matrix-help@seagl.org> and we'll help you get it sorted out. <!-- TODO - possibly link to Kiwi IRC too. -->
+SeaGL uses a chat system called [Matrix] for the remote part of our hybrid conference. We've got things set up so Matrix is super easy to use for you - just follow these 3 steps. But if you _do_ run into any trouble, you can email <matrix-help@seagl.org> and we'll help you get it sorted out. <!-- TODO - possibly link to Kiwi IRC too. -->
 
 ## Step 1 - get your 2024 account
 
