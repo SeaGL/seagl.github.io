@@ -34,6 +34,8 @@ The registration system is free / libre / open source software and we pr
 
 All attendees must abide by the [Code of Conduct](/coc), and if participating in-person, the [Health and Safety Policy](/health).
 
+More details about how to attend can be found [here](/attend).
+
 ### Stay informed
 
 Sign up for our low-traffic [announcement mailing list]({{ site.custom.url.mailing_list.seagl_announce }}) or subscribe to our [RSS news feed](/feed.xml).
