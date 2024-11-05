@@ -48,7 +48,7 @@ title: Attend SeaGL 2024
 <!-- Added these here to add some space between sections -->
 <br><br>
 
-# Attend Virtually
+# Attend Remotely
 {:.text-center}
 
 <div class="row" style="margin-bottom: 1em;margin-top: 2em;">
