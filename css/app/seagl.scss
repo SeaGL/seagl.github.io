@@ -60,6 +60,10 @@ a:not(.btn):not(.label) {
     color: inherit;
   }
 }
+.text-muted code {
+  color: #886063;
+  background-color: #f9f2f444;
+}
 figcaption {
   text-align: center;
 
