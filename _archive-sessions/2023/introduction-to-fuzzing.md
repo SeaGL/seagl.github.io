@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/1004
 beginning: '2023-11-04T11:30:00.000-07:00'
 end: '2023-11-04T12:20:00.000-07:00'
 presenters:
-- name: anaaktge
+- name: Allison Naaktgeboren
   affiliation: Portland State University
   osem_url: https://osem.seagl.org/users/1668
   gravatar_id: e801b0816367305c2ff9498dc36eccd5

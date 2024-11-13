@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/981
 beginning: '2023-11-04T10:30:00.000-07:00'
 end: '2023-11-04T11:20:00.000-07:00'
 presenters:
-- name: m0n574
+- name: Gopika Subramanian
   osem_url: https://osem.seagl.org/users/1659
   gravatar_id: 81722fc19d24aa664139faf93fae5782
 ---
