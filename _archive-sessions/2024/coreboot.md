@@ -3,6 +3,8 @@ title: 'Coreboot: a technospiritual ritual to liberate your computer''s soul'
 pretalx_url: https://pretalx.seagl.org/2024/talk/PLPPVP/
 beginning: '2024-11-09T10:30:00-08:00'
 end: '2024-11-09T10:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Coreboot
 presenters:
 - name: st4t3
   pretalx_url: https://pretalx.seagl.org/2024/speaker/SE9PDN/

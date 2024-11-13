@@ -3,6 +3,8 @@ title: Alpine on LoongArch, the Chinese sovereign ISA
 pretalx_url: https://pretalx.seagl.org/2024/talk/BGDVSU/
 beginning: '2024-11-08T17:00:00-08:00'
 end: '2024-11-08T17:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Alpine_on_LoongArch
 presenters:
 - name: Ariadne Conill
   pretalx_url: https://pretalx.seagl.org/2024/speaker/7RQRSP/

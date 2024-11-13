@@ -4,6 +4,8 @@ title: 'The free software movement: Where it came from, how I came to it, what i
 pretalx_url: https://pretalx.seagl.org/2024/talk/FXZU3Y/
 beginning: '2024-11-08T14:00:00-08:00'
 end: '2024-11-08T14:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-The_free_software_movement
 presenters:
 - name: Craig Topham
   pretalx_url: https://pretalx.seagl.org/2024/speaker/P3ZMUL/

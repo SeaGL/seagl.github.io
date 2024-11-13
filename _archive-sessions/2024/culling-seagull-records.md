@@ -3,6 +3,8 @@ title: 'Culling Seagull Records: Using R to Curate Community Science Checklists'
 pretalx_url: https://pretalx.seagl.org/2024/talk/7QPK9S/
 beginning: '2024-11-09T13:30:00-08:00'
 end: '2024-11-09T13:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Culling_Seagull_Records
 presenters:
 - name: Richard Littauer
   pretalx_url: https://pretalx.seagl.org/2024/speaker/ERC3BF/

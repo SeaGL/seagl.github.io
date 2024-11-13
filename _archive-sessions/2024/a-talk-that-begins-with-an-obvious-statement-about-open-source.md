@@ -4,6 +4,8 @@ pretalx_url: https://pretalx.seagl.org/2024/talk/J8HLAP/
 beginning: '2024-11-08T09:40:00-08:00'
 end: '2024-11-08T10:10:00-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2024-A_talk_that_begins_with_an_obvious_statement_about_Open_Source
 presenters:
 - name: Christopher Neugebauer
   pretalx_url: https://pretalx.seagl.org/2024/speaker/PTUBAX/

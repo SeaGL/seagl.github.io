@@ -3,6 +3,8 @@ title: How do you share your Open-Source Hardware project?
 pretalx_url: https://pretalx.seagl.org/2024/talk/WKPDWZ/
 beginning: '2024-11-09T11:00:00-08:00'
 end: '2024-11-09T11:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-How_do_you_share_your_Open_Source_Hardware_project
 presenters:
 - name: Sean Marquez
   pretalx_url: https://pretalx.seagl.org/2024/speaker/W89VKY/

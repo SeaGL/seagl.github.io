@@ -3,6 +3,8 @@ title: Steadfast Self-Hosting Workshop
 pretalx_url: https://pretalx.seagl.org/2024/talk/SYEUKN/
 beginning: '2024-11-09T11:00:00-08:00'
 end: '2024-11-09T11:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Steadfast_Self_Hosting_Workshop
 presenters:
 - name: Adam Monsen
   pretalx_url: https://pretalx.seagl.org/2024/speaker/ZJ7FYW/

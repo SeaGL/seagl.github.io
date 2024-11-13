@@ -3,6 +3,8 @@ title: 'From Terra-fied to Terra-firm: A Mob''s Quest to Conquer Terraform'
 pretalx_url: https://pretalx.seagl.org/2024/talk/LVFUFV/
 beginning: '2024-11-08T17:00:00-08:00'
 end: '2024-11-08T17:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-From_Terrafied_to_Terrafirm
 presenters:
 - name: Susan Fung
   pretalx_url: https://pretalx.seagl.org/2024/speaker/8JSL88/
