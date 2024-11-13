@@ -12,15 +12,14 @@ presenters:
 
     dh was co-chair of Open Source Career Day (OSCD) at Southern California Linux Expo (SCaLE) and chair of the Finance and Partnership committees for SeaGL.
 
-    dh presents and gives career counseling sessions at large community-led conferences (SCaLE, SeaGL, Tux-Tage, Kielux, GeekBeacon Fest, FOSSASIA, LCA, LFNW, Tübix, OLF ) and many local groups. dh is chairperson of the Phoenix Linux User Group (PLUG) and founder of the Free Software
-    Stammtisch.
+    dh presents and gives career counseling sessions at large community-led conferences (SCaLE, SeaGL, Tux-Tage, Kielux, GeekBeacon Fest, FOSSASIA, LCA, LFNW, Tübix, OLF) and many local groups. dh is chairperson of the Phoenix Linux User Group (PLUG) and founder of the Free Software Stammtisch.
 
     Currently Hans manages a team of database support engineers.
 
-    Find Hans on the Fediverse/Mastodon - https://floss.social/@FLOX_advocate
+    Find Hans on the Fediverse/Mastodon - <https://floss.social/@FLOX_advocate>
 ---
 
-Bash's parameter ( variable ) expansion has several mechanisms to change values as variables are used.
+Bash's parameter (variable) expansion has several mechanisms to change values as variables are used.
 
 Some change the value assigned to the variable, some only change the value substituted when the variable is used.
 

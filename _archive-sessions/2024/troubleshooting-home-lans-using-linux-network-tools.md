@@ -8,7 +8,9 @@ presenters:
   pretalx_url: https://pretalx.seagl.org/2024/speaker/YCKBNB/
   biography: |-
     Jeff Silverman was born in Portland Oregon which was a good thing as his mother was there simultaneously. He wanted to be a stand-up comedian but computers pay better. Jeff has a BS in physics and he likes to BS in physics.
+
     He got his first paying job as a computer programmer in 1975 and retired in 2023. He is currently a grandfather and he is teaching his grandsons calculus, which he estimates will take about 15 years.
+
     Jeff received a black belt certificate in computer security from Coding Dojo in May, 2022.
 abstract: You know the tools you use to troubleshoot LANs, but you probably don't
   know when to use each tool. I will discuss the tools available and how they fit

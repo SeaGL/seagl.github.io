@@ -3,6 +3,7 @@ title: 'We Are All That We Have: Sustainability Is About You, Me, And Us'
 pretalx_url: https://pretalx.seagl.org/2024/talk/QVGUKW/
 beginning: '2024-11-09T16:40:00-08:00'
 end: '2024-11-09T17:10:00-08:00'
+keynote: true
 presenters:
 - name: Duane O’Brien
   pretalx_url: https://pretalx.seagl.org/2024/speaker/Z9HRCC/

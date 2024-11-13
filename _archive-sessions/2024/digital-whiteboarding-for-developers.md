@@ -11,10 +11,6 @@ presenters:
     as an organizer for both the Calgary Software Crafters and the Software Developers
     of Calgary. Additionally, she actively contributes to the weekly mob programming
     sessions with Approval Tests.
-abstract: |-
-  Before the pandemic, whiteboards were everywhere. Now that we are remote, where did they go? Let's talk about how they help us sync and why we still need them. Learn tips and tricks on how to use virtual whiteboards in virtual offices.
-
-  In this talk, we will show techniques to quickly sketch out visualizations of coding problems and complex system architectures using online platforms such as Miro, Mural, and more. These tools aid in understanding problems, solving problems, and most importantly, explaining problems to the rest of your company. Discover the extraordinary power of visualizing your code, a transformative element in tech discussions, presentations, and beyond.
 ---
 
 Before the pandemic, whiteboards were everywhere. Now that we are remote, where did they go? Let's talk about how they help us sync and why we still need them. Learn tips and tricks on how to use virtual whiteboards in virtual offices.

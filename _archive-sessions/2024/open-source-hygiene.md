@@ -16,16 +16,6 @@ presenters:
     as an adjunct professor at the University of Cincinnati School of Law and University
     of Dayton School of Law on subjects including Patent Litigation, Cyberspace Law
     and Open Source Lice
-abstract: Open source compliance used to focus on license obligations. Recent regulatory
-  movements (e.g., EO-14028 and EU-CRA) along with an increasing awareness of the
-  need for stronger security profiles in open source (e.g., XZ vulnerability) have
-  created new obligations for consumers and distributors of open source software.
-  This talk will focus on basic open source compliance and best practices in that
-  space along with the newer SBOM requirements arising out of regulatory efforts in
-  both the United States and Europe. This talk will also touch on the additional considerations
-  such as open source health and how good hygiene is necessary for the sustainability
-  of both individual open source projects as well as for the products which incorporate
-  them
 ---
 
 Open source compliance used to focus on license obligations. Recent regulatory movements (e.g., EO-14028 and EU-CRA) along with an increasing awareness of the need for stronger security profiles in open source (e.g., XZ vulnerability) have created new obligations for consumers and distributors of open source software. This talk will focus on basic open source compliance and best practices in that space along with the newer SBOM requirements arising out of regulatory efforts in both the United States and Europe. This talk will also touch on the additional considerations such as open source health and how good hygiene is necessary for the sustainability of both individual open source projects as well as for the products which incorporate them.

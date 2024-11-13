@@ -9,8 +9,6 @@ presenters:
   pretalx_url: https://pretalx.seagl.org/2024/speaker/P3ZMUL/
   biography: |-
     Craig came to work for the Free Software Foundation as a Copyright and Licensing Associate at the end of 2018. Prior to the FSF, Craig worked as a PC/Network Technician for the City of Eugene, Oregon for twelve years. Besides the desire to see free software thrive, Craig also envisions a world where everyone's inner light shines bright.
-
-    (I would like to update this if possible)
 abstract: |-
   This is talk detailing how I came to the free software movement, what
   it means to me, and why discussing freedom is more important than

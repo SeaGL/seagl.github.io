@@ -21,7 +21,7 @@ abstract: Timmy James Barnett plays FLO music using a GNU/Linux laptop. He plays
 
 GNU/Linux Loves All is an experience that combines microtonal music with FLO technology such as GNU/Linux and other free software licensed under GNU General Public License.
 
-Visit https://gnulinux.love .
+Visit <https://gnulinux.love>.
 
 FLO software is the future of democracy
 Together, we can liberate technology

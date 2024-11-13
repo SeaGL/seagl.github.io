@@ -11,10 +11,6 @@ presenters:
     as an organizer for both the Calgary Software Crafters and the Software Developers
     of Calgary. Additionally, she actively contributes to the weekly mob programming
     sessions with Approval Tests.
-abstract: |-
-  Join us for an engaging and humorous journey into the world of mob programming and Terraform mastery. In this talk, we'll explore how a seemingly simple task turned into a four-month odyssey for Homero, a software developer looking for a simple ticket. Discover how his solo struggle with a two-line code change blossomed into a team-wide learning experience.
-
-  Through the power of mob programming, our team transformed individual expertise into collective knowledge, tackling complex Terraform tasks together. We'll share the highs and lows, the laughs and lessons, and how we condensed months of learning into just one week. If you are looking to enhance your team's collaboration, this talk will provide valuable insights and practical tips.
 ---
 
 Join us for an engaging and humorous journey into the world of mob programming and Terraform mastery. In this talk, we'll explore how a seemingly simple task turned into a four-month odyssey for Homero, a software developer looking for a simple ticket. Discover how his solo struggle with a two-line code change blossomed into a team-wide learning experience.
