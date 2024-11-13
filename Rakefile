@@ -1,7 +1,9 @@
-desc 'Import data from OSEM into Jekyll data'
+desc 'Import data from pretalx into Jekyll data'
 task :import, [:year] do |_t, args|
   require 'active_support/core_ext/hash/deep_transform_values'
-  require 'active_support/core_ext/numeric/time'
+  require 'active_support/core_ext/hash/keys'
+  require 'active_support/core_ext/object/blank'
+  require 'active_support/core_ext/string/inflections'
   require 'json'
   require 'open-uri'
   require 'pathname'
@@ -10,46 +12,46 @@ task :import, [:year] do |_t, args|
   year = args.year
 
   # Retrieve data
-  conference = get("https://osem.seagl.org/api/v1/conferences/seagl#{year}")[:conferences][0]
-  events = get("https://osem.seagl.org/api/v1/conferences/seagl#{year}/events")[:events]
-  speakers = get("https://osem.seagl.org/api/v1/conferences/seagl#{year}/speakers")[:speakers]
+  talks = get("https://pretalx.seagl.org/api/events/#{year}/talks/?limit=1000&state=confirmed")
 
   # Create a file for the conference
   write "_archive-conferences/#{year}.md", {
-    osem_url: conference[:url]
+    pretalx_url: "https://pretalx.seagl.org/#{year}/"
   }
 
-  # Create a file for each scheduled event
-  events.select { |e| e[:scheduled_date] }.each do |event|
-    write "_archive-sessions/#{year}/#{event[:title].parameterize}.md", {
-      title: event[:title],
-      osem_url: event[:url],
-      beginning: event[:scheduled_date],
-      end: (DateTime.iso8601(event[:scheduled_date]) + event[:length].minutes).iso8601(3),
-      presenters: event[:speaker_ids].map do |id|
-        presenter = speakers.find { |s| s[:url].end_with?("/#{id}") }
+  # Create a file for each session
+  talks.each do |talk|
+    write "_archive-sessions/#{year}/#{talk[:title].parameterize}.md", {
+      title: talk[:title],
+      pretalx_url: "https://pretalx.seagl.org/#{year}/talk/#{talk[:code]}/",
+      beginning: talk[:slot][:start],
+      end: talk[:slot][:end],
+      presenters: talk[:speakers].map do |speaker|
         {
-          name: presenter[:name],
-          affiliation: presenter[:affiliation],
-          osem_url: presenter[:url],
-          gravatar_id: presenter[:gravatar_id],
-          biography: presenter[:biography]
-        }.compact
-      end
-    }.compact, event[:abstract]
+          name: speaker[:name],
+          pretalx_url: "https://pretalx.seagl.org/#{year}/speaker/#{speaker[:code]}/",
+          biography: speaker[:biography]
+        }
+      end,
+      abstract: talk[:description] ? talk[:abstract] : nil
+    }.compact, talk[:description] || talk[:abstract]
   end
 end
 
 def get(url)
   puts "Retrieving #{url}"
-  JSON.parse(URI.open(url).read).deep_symbolize_keys!.deep_transform_values! { |v| normalize(v) }
+  response = JSON.parse(URI.open(url).read).deep_symbolize_keys!.deep_transform_values! { |v| normalize(v) }
+  raise "Not implemented for paginated responses" if response[:next]
+  response[:results]
 end
 
 def normalize(value)
-  value = value.presence
-
   case value
-  when String then value.gsub("\t", ' ' * 4).gsub(/(?:(?<=[^ ]) )?(?:^ +)?\r?\n/, "\n").strip
+  when String then value
+    .gsub(/(?<=[.!?,;:] ) +(?=\w)/, "")
+    .gsub(/(?:(?<=[^ ]) )?(?:^ +)?\r?\n/, "\n")
+    .strip
+    .presence
   else value
   end
 end

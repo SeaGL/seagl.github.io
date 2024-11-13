@@ -195,7 +195,7 @@ Past conferences are statically archived as [Jekyll collections](https://jekyllr
   - [`archive-conferences`](./_archive-conferences)
   - [`archive-sessions`](./_archive-sessions)
 
-To create the archive of a given year, first import the data from OSEM—
+To create the archive of a given year, first import the data from the schedule—
 
 ```bash
 bundle exec rake import[2020]

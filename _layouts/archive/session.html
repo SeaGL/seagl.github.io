@@ -48,6 +48,10 @@ layout: page
           <time class="label label-default" datetime="{{ session.beginning }}">{{ session.beginning | date: '%b %-d at %H:%M' }}</time>
         </p>
 
+        {% if session.abstract %}
+        <div class="lead">{{ session.abstract | markdownify }}</div>
+        {% endif %}
+
         {{ content }}
       </div>
 
