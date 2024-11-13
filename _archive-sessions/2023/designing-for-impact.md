@@ -4,7 +4,7 @@ osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/935
 beginning: '2023-11-03T12:00:00.000-07:00'
 end: '2023-11-03T12:05:00.000-07:00'
 presenters:
-- name: Ibi
+- name: Ibi Fiberesima
   affiliation: Gruve Tickets
   osem_url: https://osem.seagl.org/users/1632
   gravatar_id: b68e5889e6241630fcbb042f824f263b
