@@ -3,8 +3,6 @@ title: FLOSSing Your Way to Success
 osem_url: https://osem.seagl.org/conferences/seagl2023/program/proposals/985
 beginning: '2023-11-04T16:40:00.000-07:00'
 end: '2023-11-04T17:30:00.000-07:00'
-resources:
-  internet_archive_identifier: SeaGL2023-FLOSSing_Your_Way_to_Success
 presenters:
 - name: Bryna Kirzner
   affiliation: COO & Co-Founder, STAAJ Solutions
