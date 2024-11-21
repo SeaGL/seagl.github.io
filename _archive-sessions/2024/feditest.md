@@ -4,6 +4,8 @@ title: 'FediTest: Testing decentralized, heterogeneous systems with complex prot
 pretalx_url: https://pretalx.seagl.org/2024/talk/ZU7MDV/
 beginning: '2024-11-09T09:00:00-08:00'
 end: '2024-11-09T09:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-FediTest
 presenters:
 - name: Johannes Ernst
   pretalx_url: https://pretalx.seagl.org/2024/speaker/G9LTEV/

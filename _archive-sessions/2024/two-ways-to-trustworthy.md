@@ -3,6 +3,8 @@ title: Two Ways to Trustworthy
 pretalx_url: https://pretalx.seagl.org/2024/talk/W73ACM/
 beginning: '2024-11-08T11:30:00-08:00'
 end: '2024-11-08T12:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Two_Ways_to_Trustworthy
 presenters:
 - name: Vagrant Cascadian
   pretalx_url: https://pretalx.seagl.org/2024/speaker/NCYCD9/

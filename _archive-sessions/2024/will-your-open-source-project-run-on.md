@@ -3,6 +3,8 @@ title: Will your open source project run on a mainframe? Or on a smartwatch?
 pretalx_url: https://pretalx.seagl.org/2024/talk/WVCC9R/
 beginning: '2024-11-09T13:30:00-08:00'
 end: '2024-11-09T13:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Will_your_open_source_project_run_on
 presenters:
 - name: Elizabeth K. Joseph
   pretalx_url: https://pretalx.seagl.org/2024/speaker/RKQRZH/
