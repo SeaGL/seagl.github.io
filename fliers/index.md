@@ -5,6 +5,7 @@ title: Fliers / Posters / Handbills
 
 # SeaGL Fliers / Posters / Handbills
 
+- [2025](/fliers/2025/)
 - [2024](/fliers/2024/)
 - [2023](/fliers/2023/)
 - [2020](/fliers/2020/)
