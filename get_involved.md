@@ -34,7 +34,7 @@ The volunteer work needed to put SeaGL together is roughly organized into the fo
 ## Sponsors and Non-Profit Exhibitors
 
 We have a limited number of tables available for business and community partners of SeaGL 2025.
-Groups and companies interested in attending should review our [Partnership & Sponsor Prospectus]({{ site.custom.url.prospectus }}) which outlines various fiscal tiers and add-ons.
+{%- if site.custom.url.prospectus %} Groups and companies interested in attending should review our [Partnership & Sponsor Prospectus]({{ site.custom.url.prospectus }}) which outlines various fiscal tiers and add-ons.{% endif %}
 
 In-kind contributions are accepted from media and local partners.
 Free space is made available for non-profit and educational organizations.
