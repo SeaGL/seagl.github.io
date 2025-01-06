@@ -1,7 +1,7 @@
 {% assign heading = include.heading | default: "h3" %}
 {% assign size = include.size | default: "medium" %}
 {% assign sponsors = site.data.sponsorship.sponsors | sort: "name" %}
-{% assign year = include.year | plus: 0 %}
+{% assign year = include.year | to_integer %}
 
 {% for level in site.data.sponsorship.levels %}
   {% if include.levels %}{% unless include.levels contains level[0] %}{% continue %}{% endunless %}{% endif %}
