@@ -19,7 +19,9 @@ redirect_from:
 
 SeaGL, the Seattle GNU/Linux Conference, is more than just a gathering; it is a community. As such, we all have a duty to protect one another and keep our community safe.
 
-Last year, as we returned to hosting in-person activities, SeaGL added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
+As we returned to hosting in-person activities in 2023, SeaGL added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
+
+***NOTICE:*** This was the **2024** policy. We will release an update for 2025 no later than six (6) months prior to the event.
 
 Our Health and Safety Policy encourages facial coverings in spaces where distancing cannot be maintained, expects full vaccination and voluntary testing by attendees, and includes mitigations in the form of outdoor ventilation, as suggested by the [Public Health Pledge’s badging standard](https://publichealthpledge.com/badging).
 
