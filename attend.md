@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Attend SeaGL 2024
+title: Attend SeaGL 2025
 ---
 
 <div class="row"><div class="col col-md-10 col-md-offset-1" markdown="1">
@@ -23,7 +23,7 @@ title: Attend SeaGL 2024
         <p>SeaGL takes place on the University of Washington campus at the Husky Union Building (known as the HUB).
             This is located on the central campus, west of Stevens Way NE.</p>
         <p>We recommend viewing the indoor map to get familiar with the general layout of the conference.</p>
-        <p><a class="btn btn-primary btn-large" href="/maps/2024">View Conference Maps</a></p>
+        <p><a class="btn btn-primary btn-large" href="/maps/2025">View Conference Maps</a></p>
       </div>
     </div>
   </div>
@@ -55,7 +55,7 @@ title: Attend SeaGL 2024
 <div class="row" style="margin-bottom: 1em;margin-top: 2em;">
   <div class="col col-sm-6 col-md-5 col-md-offset-1 col-lg-4 col-lg-offset-2">
     <div class="panel panel-primary text-center">
-      <div class="panel-heading"><h2 class="panel-title">SeaGL 2024 Account</h2></div>
+      <div class="panel-heading"><h2 class="panel-title">SeaGL 2025 Account</h2></div>
       <div class="panel-body">
         <p>We'll set you up with a Matrix account to attend. Your account will go away when the conference is over.</p>
         <p><a class="btn btn-primary btn-large" href="/attend/ephemeral">Take me to the conference</a></p>

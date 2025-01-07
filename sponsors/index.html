@@ -4,6 +4,7 @@ nav: sponsors
 body_id: sponsors
 title: Sponsors
 ---
+{% assign visible_levels = "platinum gold silver bronze" %}
 
 <h1>SeaGL Sponsors</h1>
 
@@ -12,15 +13,18 @@ title: Sponsors
 </div>
 
 {% for sponsor_year in site.sponsor-years reversed %}
-  {% capture year %}{{ sponsor_year.slug }}{% endcapture %}
+  {% capture year %}{{ sponsor_year.slug }}{% endcapture %}{% assign year = year | to_integer %}
+  {% assign visible = site.data.sponsorship.sponsors | where_exp: "sponsor", "visible_levels contains sponsor.sponsorships[year]" %}
 
-  <h2><a href="{{ sponsor_year.url }}">SeaGL {{ year }} Sponsors</a></h2>
+  {% unless visible == empty %}
+    <h2><a href="{{ sponsor_year.url }}">SeaGL {{ year }} Sponsors</a></h2>
 
-  {% include sponsor_wall.html heading="h3" levels="platinum gold silver bronze" size="medium" year=year %}
+    {% include sponsor_wall.html heading="h3" levels=visible_levels size="medium" year=year %}
 
-  <p class="text-center">
-    <a class="btn btn-primary" href="{{ sponsor_year.url }}">View All {{ year }} Sponsors</a>
-  </p>
+    <p class="text-center">
+      <a class="btn btn-primary" href="{{ sponsor_year.url }}">View All {{ year }} Sponsors</a>
+    </p>
 
-  <hr>
+    <hr>
+  {% endunless %}
 {% endfor %}

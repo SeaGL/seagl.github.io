@@ -10,7 +10,7 @@ body_id: get-involved
 
 ## Volunteer for SeaGL
 
-2024 marks our 12th year as an all-volunteer staffed FLOSS conference.
+2025 marks our 13th year as an all-volunteer staffed FLOSS conference.
 With three virtual events and a hybrid one under our belt, the plan is to continue improving on an in-person experience in Seattle and online.
 
 Would you like to lend a beak or wing to the effort?
@@ -33,8 +33,8 @@ The volunteer work needed to put SeaGL together is roughly organized into the fo
 
 ## Sponsors and Non-Profit Exhibitors
 
-We have a limited number of tables available for business and community partners of SeaGL 2024.
-Groups and companies interested in attending should review our [Partnership & Sponsor Prospectus]({{ site.custom.url.prospectus }}) which outlines various fiscal tiers and add-ons.
+We have a limited number of tables available for business and community partners of SeaGL 2025.
+{%- if site.custom.url.prospectus %} Groups and companies interested in attending should review our [Partnership & Sponsor Prospectus]({{ site.custom.url.prospectus }}) which outlines various fiscal tiers and add-ons.{% endif %}
 
 In-kind contributions are accepted from media and local partners.
 Free space is made available for non-profit and educational organizations.
