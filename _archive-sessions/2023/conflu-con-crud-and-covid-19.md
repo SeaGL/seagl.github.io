@@ -6,16 +6,16 @@ end: '2023-11-03T12:20:00.000-07:00'
 resources:
   internet_archive_identifier: SeaGL2023-Conflu_con_crud_and_COVID-19
 presenters:
-- name: Josh Simmons
+- name: Robin Riley
   affiliation: Open Chapters
   osem_url: https://osem.seagl.org/users/332
   gravatar_id: 414c854a002a4999315ee1f1b68caf7f
   biography: |-
-    Josh Simmons is a community organizer, open source strategist, and civic engagement geek with a passion for building up people, partnerships, programs, and organizations around the commons. He has worked as a freelancer and startup CEO, in corporate open source, helped start an OSPO, served on boards and as a campaign manager.
+    Robin Riley is a community organizer, open source strategist, and civic engagement geek with a passion for building up people, partnerships, programs, and organizations around the commons. They have worked as a freelancer and startup CEO, in corporate open source, helped start an OSPO, served on boards and as a campaign manager.
 
-    Josh is a partner in Open Chapters, where he focuses on open source, organizational development, and inclusive organizing, is the author of the Public Health Pledge, Operations Lead of Petaluma Pride, and is involved in several new nonprofits around labor organizing and trust and safety on the Fediverse.
+    Robin is a partner in Open Chapters, where they focus on open source, organizational development, and inclusive organizing, is the author of the Public Health Pledge, Operations Lead of Petaluma Pride, and is involved in several new nonprofits around labor organizing and trust and safety on the Fediverse.
 
-    However, Josh is best known for his six-year tenure with Open Source Initiative, which he led out of cascading crises and through to a new stage of maturity as the most senior member of the board. He concluded his time with OSI as its President and then Chair in 2022.
+    However, Robin is best known for their six-year tenure with Open Source Initiative, which they led out of cascading crises and through to a new stage of maturity as the most senior member of the board. They concluded their time with OSI as its President and then Chair in 2022.
 ---
 
 “Conflu” and “con crud” are nothing new to people who attend in-person conferences, and the tendency to come home sick has long been treated as unavoidable, and as an acceptable risk. The COVID-19 pandemic put a finer point on the health risks of in-person events, and presents executives, leaders, and organizers with a choice:

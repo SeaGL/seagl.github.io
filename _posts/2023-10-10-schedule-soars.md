@@ -57,7 +57,7 @@ Schedule: [https://osem.seagl.org/conferences/seagl2023/schedule](https://osem.s
 - [What's REALLY going on when you use your browser to access something on the web](https://osem.seagl.org/conferences/seagl2023/program/proposals/978) - Jeff Silverman
 - [Distributed Authorization with CAProck](https://osem.seagl.org/conferences/seagl2023/program/proposals/969) - Jens Finkhaeuser
 - [Linux like it was 50 years ago](https://osem.seagl.org/conferences/seagl2023/program/proposals/998) - Jim Hall
-- [Conflu, con crud, and COVID-19](https://osem.seagl.org/conferences/seagl2023/program/proposals/968) - Josh Simmons
+- [Conflu, con crud, and COVID-19](https://osem.seagl.org/conferences/seagl2023/program/proposals/968) - Robin Riley
 - [Back to the open source future](https://osem.seagl.org/conferences/seagl2023/program/proposals/962) - julia ferraioli, amcasari
 - [FOSS Social Norms and World Affairs](https://osem.seagl.org/conferences/seagl2023/program/proposals/1010) - Katheryn Sutter
 - [Free Software Policy with Semi-Firm Firmware](https://osem.seagl.org/conferences/seagl2023/program/proposals/963) - Kyle Rankin
