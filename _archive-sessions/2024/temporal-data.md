@@ -3,6 +3,8 @@ title: 'Temporal Data: Theory and Postgres'
 pretalx_url: https://pretalx.seagl.org/2024/talk/9EWZJV/
 beginning: '2024-11-08T10:30:00-08:00'
 end: '2024-11-08T11:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Temporal_Data
 presenters:
 - name: Paul A. Jungwirth
   pretalx_url: https://pretalx.seagl.org/2024/speaker/G89SKM/

@@ -5,6 +5,8 @@ pretalx_url: https://pretalx.seagl.org/2024/talk/TLTGUG/
 beginning: '2024-11-08T09:10:00-08:00'
 end: '2024-11-08T09:40:00-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2024-FLO_Conscience
 presenters:
 - name: Aaron Wolf
   pretalx_url: https://pretalx.seagl.org/2024/speaker/VZYNWS/

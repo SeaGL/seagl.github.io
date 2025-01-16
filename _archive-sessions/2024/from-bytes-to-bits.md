@@ -3,6 +3,8 @@ title: 'From bytes to "bits": design and fabrication from Linux'
 pretalx_url: https://pretalx.seagl.org/2024/talk/DNH8PY/
 beginning: '2024-11-09T10:30:00-08:00'
 end: '2024-11-09T10:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-From_bytes_to_bits
 presenters:
 - name: Andrew Beyer
   pretalx_url: https://pretalx.seagl.org/2024/speaker/CXFCLA/

@@ -4,6 +4,8 @@ title: According to my research.....The latest insights on building, leading, an
 pretalx_url: https://pretalx.seagl.org/2024/talk/HYTBUE/
 beginning: '2024-11-08T14:30:00-08:00'
 end: '2024-11-08T15:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-According_to_my_research
 presenters:
 - name: Kaylea Champion
   pretalx_url: https://pretalx.seagl.org/2024/speaker/F9W3RW/
