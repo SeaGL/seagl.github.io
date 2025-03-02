@@ -7,7 +7,7 @@ title: Community Chat
 
 # Community Chat
 
-Please join our community space at [#SeaGL:seagl.org] in Matrix.
+Please join our community space at [#SeaGL:seagl.org] in Matrix, then join the "SeaGL Participate" room.
 {: .lead}
 
 ## About Matrix
