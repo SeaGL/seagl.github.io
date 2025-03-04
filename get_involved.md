@@ -17,9 +17,11 @@ Would you like to lend a beak or wing to the effort?
 Please email us at {{ site.custom.a.email.participate }} or hop into our [Matrix channel](https://matrix.to/#/#SeaGL:seagl.org "Link directly to SeaGL Matrix channel") and say hi!
 You can also fill out our [Volunteer Interest Form](/volunteer) to let us know how you'd like to help out.
 
-## Staff Committees
+### Staff Committees
 
-The volunteer work needed to put SeaGL together is roughly organized into the following committees. Specific skill gaps will be added as they are identified.
+The volunteer work needed to put SeaGL together is roughly organized into the following committees.
+Specific skill gaps will be added as they are identified.
+You can read more about the roles and process in this [2024 blog post](/news/2024/03/19/call-for-volunteers).
 
 - **Attendee Experience**: Focusing on and prioritizing the SeaGL community.
 - **A/V & DevOps**: Central nest for SeaGL technical operations.
@@ -40,6 +42,14 @@ In-kind contributions are accepted from media and local partners.
 Free space is made available for non-profit and educational organizations.
 Please see our [sponsors page](/sponsors/{{ site.custom.year }}) for a list of current supporters and email us at {{ site.custom.a.email.sponsor }} to discuss further partnership opportunities!
 
+## Presenting at SeaGL
+
+Over the years, we have given a stage to hundreds of speakers. If you're interested in joining them, keep an eye out for our call for proposals (CFP) which usually opens in May and runs for approximately a month.
+
+We make a point of welcoming presenters of all experience levels, especially those bringing uncommonly heard perspectives. So if you're a first time speaker or member of an under-represented group in tech, please consider applying!
+
+That said, **we are not looking for sponsored talks**; while our partners are welcome to submit presentations, we do not guarentee they will be accepted.
+
 </div><div class="col-md-4" markdown="1">
 
 ## Stay in touch
@@ -48,18 +58,31 @@ Please see our [sponsors page](/sponsors/{{ site.custom.year }}) for a list of c
 
 ### Chat
 
-Please join us in [Matrix](/meet).
-
-### Organizer List
-
-Please join our {{ site.custom.a.mailing_list.seagl_organize }} group.
+Participate in year-round discussions on [Matrix](/meet).
 
 ### Announcements
 
-Please join our {{ site.custom.a.mailing_list.seagl_announce }}.
+Subscribe to our low-traffic {{ site.custom.a.mailing_list.seagl_announce }}.
+
+### Organizer List
+
+Get notified when we call for volunteers via our {{ site.custom.a.mailing_list.seagl_organize }}.
+
+### Social Media
+
+Follow and share our posts on:
+
+- {{ site.custom.a.social.mastodon}}
+- {{ site.custom.a.social.pixelfed}}
+- {{ site.custom.a.social.bluesky}}
+- {{ site.custom.a.social.twitter}}
+- {{ site.custom.a.social.facebook}}
+- {{ site.custom.a.social.linkedin}}
+
+or keep an eye on the overview of SeaGL’s social media activity via Matrix in [`#social-media:seagl.org`](https://matrix.to/#/#social-media:seagl.org).
 
 ### GitHub
 
-Website changes can be proposed via pull request [on GitHub]({{ site.github.repository_url }}).
+Propose changes to the website by opening a pull request on [GitHub]({{ site.github.repository_url }}).
 
 </div></div>

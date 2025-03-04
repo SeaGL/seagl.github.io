@@ -60,6 +60,7 @@ Please join us in [Matrix](/meet).
 | {{ site.custom.a.social.bluesky}}
 | {{ site.custom.a.social.twitter}}
 | {{ site.custom.a.social.facebook}}
+| {{ site.custom.a.social.linkedin}}
 | {{ site.custom.a.social.youtube}}
 
 An overview of SeaGL’s social media activity is available in [`#social-media:seagl.org`](https://matrix.to/#/#social-media:seagl.org).
