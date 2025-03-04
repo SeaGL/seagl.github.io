@@ -57,6 +57,7 @@ Please join us in [Matrix](/meet).
 
 {{ site.custom.a.social.mastodon}}
 | {{ site.custom.a.social.pixelfed}}
+| {{ site.custom.a.social.bluesky}}
 | {{ site.custom.a.social.twitter}}
 | {{ site.custom.a.social.facebook}}
 | {{ site.custom.a.social.youtube}}
