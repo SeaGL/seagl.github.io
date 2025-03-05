@@ -28,7 +28,7 @@ You can read more about the roles and process in this [2024 blog post](/news/202
 - **Finance**: Keeping an eye on the SeaGL books and issuing reimbursements.
 - **IDEA**: Promoting inclusion, diversity, equity, and access at SeaGL and beyond.
 - **Partnerships**: Connecting SeaGL with other groups, organizations, and sponsors.
-- **Policy & Protocol**: Making sure there are rules place keep SeaGL a safer space.
+- **Policy & Protocol**: Making sure there are rules in place to keep SeaGL a safer space.
 - **Programming & Flow**: Packing the SeaGL program with amazing content.
 - **Promotion & Outreach**: Spreading the word about SeaGL world wide.
 - **Volunteers**: Keeping the SeaGL staff happy and recruiting new volunteers to the flock.
