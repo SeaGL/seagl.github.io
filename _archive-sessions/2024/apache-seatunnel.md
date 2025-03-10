@@ -3,6 +3,8 @@ title: 'Apache SeaTunnel: The High-Performance Maestro of Batch and Stream Data 
 pretalx_url: https://pretalx.seagl.org/2024/talk/9SPYL8/
 beginning: '2024-11-08T16:30:00-08:00'
 end: '2024-11-08T16:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Apache_SeaTunnel
 presenters:
 - name: William Guo
   pretalx_url: https://pretalx.seagl.org/2024/speaker/F9EL9V/

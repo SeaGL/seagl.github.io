@@ -3,6 +3,8 @@ title: 'MicroMirror CDN: Mirroring FOSS as a Managed Appliance'
 pretalx_url: https://pretalx.seagl.org/2024/talk/LCXDEX/
 beginning: '2024-11-09T14:00:00-08:00'
 end: '2024-11-09T14:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-MicroMirror_CDN
 presenters:
 - name: Kenneth Finnegan
   pretalx_url: https://pretalx.seagl.org/2024/speaker/J3YTQA/

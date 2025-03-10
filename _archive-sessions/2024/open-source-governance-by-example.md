@@ -3,6 +3,8 @@ title: Open Source Governance By Example
 pretalx_url: https://pretalx.seagl.org/2024/talk/DFDMNA/
 beginning: '2024-11-09T09:00:00-08:00'
 end: '2024-11-09T09:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Open_Source_Governance_By_Example
 presenters:
 - name: VM (Vicky) Brasseur
   pretalx_url: https://pretalx.seagl.org/2024/speaker/BGMCKQ/

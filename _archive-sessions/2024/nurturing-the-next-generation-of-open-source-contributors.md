@@ -3,6 +3,8 @@ title: Nurturing the Next Generation of Open Source Contributors
 pretalx_url: https://pretalx.seagl.org/2024/talk/KBTDGY/
 beginning: '2024-11-08T10:30:00-08:00'
 end: '2024-11-08T11:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Nurturing_the_Next_Generation_of_Open_Source_Contributors
 presenters:
 - name: Tyler Menezes
   pretalx_url: https://pretalx.seagl.org/2024/speaker/KBAQXJ/
