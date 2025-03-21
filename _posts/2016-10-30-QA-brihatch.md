@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Bri gives his alliteratively titled talk, "Serving Secrets Securely" on [Saturday.](https://osem.seagl.org/conference/seagl2016/program/proposal/231)
+Bri gives his alliteratively titled talk, "Serving Secrets Securely" on [Saturday.](https://osem.seagl.org/conferences/seagl2016/program/proposal/231)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 

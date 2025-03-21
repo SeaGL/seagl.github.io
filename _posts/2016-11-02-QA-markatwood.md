@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Mark gives his talk titled, "How to get one of those Open Source jobs" on [Friday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/227)
+Mark gives his talk titled, "How to get one of those Open Source jobs" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/227)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 

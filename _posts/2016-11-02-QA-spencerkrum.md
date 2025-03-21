@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Spencer gives his talk titled, "OpenStack for Humans" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/110)
+Spencer gives his talk titled, "OpenStack for Humans" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/110)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 

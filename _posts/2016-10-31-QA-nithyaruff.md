@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Nithya gives her talk titled, "Many ways of Contributing to Open Source without Coding" on [Friday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/225)
+Nithya gives her talk titled, "Many ways of Contributing to Open Source without Coding" on [Friday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/225)
 
 Q: Could you introduce yourself and tell us a little about your background?
 

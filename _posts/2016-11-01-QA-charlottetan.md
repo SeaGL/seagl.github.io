@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Charlotte gives her talk titled, "SSL/TLS Primer" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/142)
+Charlotte gives her talk titled, "SSL/TLS Primer" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/142)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 

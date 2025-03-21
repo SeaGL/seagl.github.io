@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Donald gives his talk titled, "Free Software Foundation: Volunteer Empire" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/186)
+Donald gives his talk titled, "Free Software Foundation: Volunteer Empire" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/186)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 

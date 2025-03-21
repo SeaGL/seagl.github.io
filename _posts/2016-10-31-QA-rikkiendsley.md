@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Rikki gives her talk titled, "The proper care and feeding of communities and carnivorous plants" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/172)
+Rikki gives her talk titled, "The proper care and feeding of communities and carnivorous plants" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/172)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 

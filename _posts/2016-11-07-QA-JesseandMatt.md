@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Jesse and Matt give their talk titled, "i3-wm: Tiling never felt so good" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/155)
+Jesse and Matt give their talk titled, "i3-wm: Tiling never felt so good" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/155)
 
 Q: Could you please introduce yourselves and tell us a little about your background?
 

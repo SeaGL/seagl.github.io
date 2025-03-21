@@ -10,7 +10,7 @@ tags: '2016'
 
 José speaks on Saturday. His talk is titled, "Juju: No more staying awake overnight, your cloud in just a couple taps (or clicks!): Learn how to deploy your own cloud in minutes
 
-More details on his talk are [here!](https://osem.seagl.org/conference/seagl2016/program/proposal/145)
+More details on his talk are [here!](https://osem.seagl.org/conferences/seagl2016/program/proposal/145)
 
 Q: Could you please introduce yourself and tell us a little about your
 background?

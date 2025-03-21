@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-Brian gives his talk titled, "Bare Metal Programming: Introduction to Writing Assembly in Linux" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/250)
+Brian gives his talk titled, "Bare Metal Programming: Introduction to Writing Assembly in Linux" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/250)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 

@@ -8,7 +8,7 @@ categories: news
 tags: '2016'
 ---
 
-der.hans gives his talk titled, "MySQL for the system administrator: !DBA MySQL goodness" on [Saturday afternoon.](https://osem.seagl.org/conference/seagl2016/program/proposal/242)
+der.hans gives his talk titled, "MySQL for the system administrator: !DBA MySQL goodness" on [Saturday afternoon.](https://osem.seagl.org/conferences/seagl2016/program/proposal/242)
 
 Q: Could you please introduce yourself and tell us a little about your background?
 
