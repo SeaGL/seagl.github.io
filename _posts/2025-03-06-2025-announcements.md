@@ -32,7 +32,7 @@ Our [website](https://seagl.org) will still be the primary place to look for all
 
 ## Keynote Nominations
 
-One of the *many things* that sets SeaGL apart from other conferences is that the community helps us select our keynote speakers. In prior years we've asked for suggestions over a two-week period, but moving forward we'll keep [the form]((/keynote_suggestions)) open year-round.
+One of the *many things* that sets SeaGL apart from other conferences is that the community helps us select our keynote speakers. In prior years we've asked for suggestions over a two-week period, but moving forward we'll keep [the form](/keynote_suggestions) open year-round.
 
 Nominees need not have prior keynote experience; we are interested in both new and veteran presenters. In fact, [since 2018](/news/2018/04/30/keynote_selection_process), we've been reserving half of our keynote slots to amplify the voices of speakers who may be presenting on the main stage for the first time.
 
