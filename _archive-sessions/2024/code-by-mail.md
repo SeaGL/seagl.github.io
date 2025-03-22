@@ -3,6 +3,8 @@ title: 'Code-by-Mail: A rough and tumble guide to submitting to mailing lists'
 pretalx_url: https://pretalx.seagl.org/2024/talk/FEVXYA/
 beginning: '2024-11-08T14:00:00-08:00'
 end: '2024-11-08T14:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Code_by_Mail
 presenters:
 - name: Sen Hastings
   pretalx_url: https://pretalx.seagl.org/2024/speaker/RE9DVT/

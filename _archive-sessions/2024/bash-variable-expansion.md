@@ -3,6 +3,8 @@ title: 'Bash Variable Expansion: String Operators and More'
 pretalx_url: https://pretalx.seagl.org/2024/talk/QMJYWJ/
 beginning: '2024-11-08T11:30:00-08:00'
 end: '2024-11-08T12:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Bash_Variable_Expansion
 presenters:
 - name: der.hans
   pretalx_url: https://pretalx.seagl.org/2024/speaker/E8BXFK/
