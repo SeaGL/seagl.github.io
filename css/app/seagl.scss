@@ -352,6 +352,7 @@ p img {
     height: 170px;
     max-width: 30%;
     width: auto;
+    object-fit: contain;
   }
   #main-content {
     clear: both;
