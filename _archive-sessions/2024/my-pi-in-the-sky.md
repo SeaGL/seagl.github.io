@@ -4,6 +4,8 @@ title: My Pi in the Sky - Running MySQL on a Raspberry Pi and Replicating Data t
 pretalx_url: https://pretalx.seagl.org/2024/talk/8BP3MN/
 beginning: '2024-11-09T14:00:00-08:00'
 end: '2024-11-09T14:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-My_Pi_in_the_Sky
 presenters:
 - name: Scott Stroz
   pretalx_url: https://pretalx.seagl.org/2024/speaker/TT9X9A/

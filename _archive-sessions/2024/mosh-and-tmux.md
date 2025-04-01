@@ -3,6 +3,8 @@ title: Mosh and tmux - Remote Nirvana
 pretalx_url: https://pretalx.seagl.org/2024/talk/8HWTFU/
 beginning: '2024-11-08T16:30:00-08:00'
 end: '2024-11-08T16:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Mosh_and_tmux
 presenters:
 - name: Bri Hatch
   pretalx_url: https://pretalx.seagl.org/2024/speaker/KJLA7X/

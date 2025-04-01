@@ -3,6 +3,8 @@ title: How to Solve Brand New Problems!
 pretalx_url: https://pretalx.seagl.org/2024/talk/AXHJ7S/
 beginning: '2024-11-09T10:30:00-08:00'
 end: '2024-11-09T10:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-How_to_Solve_Brand_New_Problems
 presenters:
 - name: Deb Nicholson
   pretalx_url: https://pretalx.seagl.org/2024/speaker/MLTTZZ/

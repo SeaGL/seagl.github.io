@@ -3,6 +3,8 @@ title: Presentation Roulette
 pretalx_url: https://pretalx.seagl.org/2024/talk/EQXCUM/
 beginning: '2024-11-09T17:30:00-08:00'
 end: '2024-11-09T18:30:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Presentation_Roulette
 presenters:
 - name: Bri Hatch
   pretalx_url: https://pretalx.seagl.org/2024/speaker/KJLA7X/

@@ -3,6 +3,8 @@ title: Who chooses the requirements
 pretalx_url: https://pretalx.seagl.org/2024/talk/LD8UA7/
 beginning: '2024-11-08T16:30:00-08:00'
 end: '2024-11-08T16:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Who_chooses_the_requirements
 presenters:
 - name: Jeremiah Paige
   pretalx_url: https://pretalx.seagl.org/2024/speaker/BY78H8/

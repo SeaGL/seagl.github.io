@@ -3,6 +3,8 @@ title: Troubleshooting home local area networks (LANs) using Linux Network Tools
 pretalx_url: https://pretalx.seagl.org/2024/talk/E8VYQ7/
 beginning: '2024-11-08T11:30:00-08:00'
 end: '2024-11-08T12:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Troubleshooting_home_LANs_using_Linux_Network_Tools
 presenters:
 - name: Jeff H Silverman
   pretalx_url: https://pretalx.seagl.org/2024/speaker/YCKBNB/

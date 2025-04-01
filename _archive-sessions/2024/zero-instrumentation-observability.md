@@ -3,6 +3,8 @@ title: Zero-instrumentation observability based on eBPF
 pretalx_url: https://pretalx.seagl.org/2024/talk/ZUZURG/
 beginning: '2024-11-09T09:00:00-08:00'
 end: '2024-11-09T09:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Zero_instrumentation_observability_based_on_eBPF
 presenters:
 - name: Nikolay Sivko
   pretalx_url: https://pretalx.seagl.org/2024/speaker/MRTFHM/

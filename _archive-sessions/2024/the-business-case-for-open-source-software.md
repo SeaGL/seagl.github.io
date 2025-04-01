@@ -3,6 +3,8 @@ title: The Business Case for Open Source Software for IT Leadership Skeptics
 pretalx_url: https://pretalx.seagl.org/2024/talk/NRMYBL/
 beginning: '2024-11-09T10:00:00-08:00'
 end: '2024-11-09T10:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-The_Business_Case_for_Open_Source_Software_for_IT_Leadership_Skeptics
 presenters:
 - name: Keegan Justis
   pretalx_url: https://pretalx.seagl.org/2024/speaker/JQFLEX/

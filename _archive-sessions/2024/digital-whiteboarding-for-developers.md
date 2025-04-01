@@ -3,6 +3,8 @@ title: Digital Whiteboarding for Developers
 pretalx_url: https://pretalx.seagl.org/2024/talk/ZKBDYR/
 beginning: '2024-11-08T14:00:00-08:00'
 end: '2024-11-08T14:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Digital_Whiteboarding_for_Developers
 presenters:
 - name: Susan Fung
   pretalx_url: https://pretalx.seagl.org/2024/speaker/8JSL88/

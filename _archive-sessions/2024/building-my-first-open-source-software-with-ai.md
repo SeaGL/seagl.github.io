@@ -4,6 +4,8 @@ title: 'Building my first open source software with AI: A teenager’s journey i
 pretalx_url: https://pretalx.seagl.org/2024/talk/JQTWQ9/
 beginning: '2024-11-09T10:00:00-08:00'
 end: '2024-11-09T10:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Building_my_first_open_source_software_with_AI
 presenters:
 - name: Allison Cao
   pretalx_url: https://pretalx.seagl.org/2024/speaker/VCSMXN/

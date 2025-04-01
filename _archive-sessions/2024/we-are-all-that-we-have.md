@@ -4,6 +4,8 @@ pretalx_url: https://pretalx.seagl.org/2024/talk/QVGUKW/
 beginning: '2024-11-09T16:40:00-08:00'
 end: '2024-11-09T17:10:00-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2024-We_Are_All_That_We_Have
 presenters:
 - name: Duane O’Brien
   pretalx_url: https://pretalx.seagl.org/2024/speaker/Z9HRCC/
