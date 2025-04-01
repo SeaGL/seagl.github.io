@@ -39,3 +39,10 @@
     width: auto;
   }
 }
+@media (prefers-color-scheme: dark) {
+    .logo-wall {
+         display: flex;
+         border-radius: 4px;
+         background-color: #B3B3B3;
+    }
+}
