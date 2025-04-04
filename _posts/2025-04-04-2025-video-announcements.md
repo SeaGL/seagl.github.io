@@ -1,4 +1,12 @@
-# Exciting News: SeaGL 2024 Videos Now Available!
+---
+layout: post
+title: 'SeaGL 2024 Videos Now Available!'
+status: publish
+type: post
+published: true
+categories: news
+tags: '2024'
+---
 
 We are thrilled to announce that the videos from last year's conference, are now live on the [Internet Archive](https://archive.org/details/seagl?and[]=year%3A%222024%22)! Or, directly from the [Seagl.Org 2024 Archive](https://seagl.org/archive/2024). This milestone marks a significant achievement for our volunteer-run organization, and we couldn't be more grateful to finally share these valuable resources with the open source community.
 
