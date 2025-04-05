@@ -14,7 +14,7 @@ As a volunteer-driven conference, we rely on the dedication and hard work of our
 
 A special shout-out to the Internet Archive for being our host. Your platform has allowed us to share the wealth of knowledge created by our community, and for that, we are incredibly grateful.
 
-Regrettably, we encountered some technical issues during last year's conference, which resulted in a couple of videos not being recorded properly. We apologize for any inconvenience this may ave caused and appreciate the understanding of our attendees and speakers.
+Regrettably, we encountered some technical issues during last year's conference, which resulted in a couple of videos not being recorded properly. We apologize for any inconvenience this may have caused and appreciate the understanding of our attendees and speakers.
 
 However, we're committed to learning from these experiences and improving our processes. This year, we'll be addressing these technical issues to ensure that all presentations are recorded and available for everyone to enjoy.
 
