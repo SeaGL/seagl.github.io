@@ -18,6 +18,6 @@ Regrettably, we encountered some technical issues during last year's conference,
 
 However, we're committed to learning from these experiences and improving our processes. This year, we'll be addressing these technical issues to ensure that all presentations are recorded and available for everyone to enjoy.
 
-As we look ahead, we're excited to announce that the Call for Presentations (CfP) for SeaGL 2025 will be opening soon! If you're interested in sharing your knowledge and expertise with the open source community, stay tuned for the CfP announcement. We welcome submissions from industry experts and enthiusiasts alike, and we can't wait to see what exciting topics and ideas you'll be sharing with us.
+As we look ahead, we're excited to announce that the Call for Presentations (CfP) for SeaGL 2025 will be opening soon! If you're interested in sharing your knowledge and expertise with the open source community, stay tuned for the CfP announcement. We welcome submissions from industry experts and enthusiasts alike, and we can't wait to see what exciting topics and ideas you'll be sharing with us.
 
 Once again, thank you to our volunteers, the Internet Archive, and everyone who attended SeaGL last year. Your support and participation are what make this conference possible, and we're honored to be a part of the free/libre/open source community.
