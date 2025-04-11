@@ -3,6 +3,8 @@ title: Open Source Hygiene
 pretalx_url: https://pretalx.seagl.org/2024/talk/BWFP3C/
 beginning: '2024-11-08T10:30:00-08:00'
 end: '2024-11-08T11:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Open_Source_Hygiene
 presenters:
 - name: Ria Farrell Schalnat
   pretalx_url: https://pretalx.seagl.org/2024/speaker/C8VCAV/

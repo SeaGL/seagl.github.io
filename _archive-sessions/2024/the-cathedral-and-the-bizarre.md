@@ -4,6 +4,8 @@ title: 'The Cathedral and the Bizarre, or Dual-Booting for Fun and Prophet: Usin
 pretalx_url: https://pretalx.seagl.org/2024/talk/XTTSUF/
 beginning: '2024-11-08T14:30:00-08:00'
 end: '2024-11-08T15:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-The_Cathedral_and_the_Bizarre
 presenters:
 - name: Toby Betts
   pretalx_url: https://pretalx.seagl.org/2024/speaker/W88XVL/

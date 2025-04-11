@@ -4,6 +4,8 @@ pretalx_url: https://pretalx.seagl.org/2024/talk/MAZDSY/
 beginning: '2024-11-09T16:10:00-08:00'
 end: '2024-11-09T16:40:00-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2024-Its_About_Time_to_talk_to_your_loved_ones_about_personal_data_management
 presenters:
 - name: Rachel Kelly
   pretalx_url: https://pretalx.seagl.org/2024/speaker/TYMPCT/

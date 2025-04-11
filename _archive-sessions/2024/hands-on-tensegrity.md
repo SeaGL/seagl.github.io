@@ -3,6 +3,8 @@ title: Hands-On Tensegrity
 pretalx_url: https://pretalx.seagl.org/2024/talk/MXUQX3/
 beginning: '2024-11-08T17:00:00-08:00'
 end: '2024-11-08T17:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Hands_On_Tensegrity
 presenters:
 - name: E. Dunham
   pretalx_url: https://pretalx.seagl.org/2024/speaker/C3BCYG/

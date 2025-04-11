@@ -3,6 +3,8 @@ title: Can large language models double the number of open source developers?
 pretalx_url: https://pretalx.seagl.org/2024/talk/98UCLW/
 beginning: '2024-11-09T13:30:00-08:00'
 end: '2024-11-09T13:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2024-Can_LLMs_double_the_number_of_open_source_developers
 presenters:
 - name: Helin Cao
   pretalx_url: https://pretalx.seagl.org/2024/speaker/8FDRAS/
