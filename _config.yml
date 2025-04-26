@@ -89,7 +89,7 @@ custom:
         location:           /maps/2025
         prospectus:         /sponsors/SeaGL_Partnership_Sponsor_Prospectus_2025.pdf
         register:           
-        cfp:                
+        cfp:                https://pretalx.seagl.org/2025/cfp
         schedule:           
         press_kit:          /press
     a:
