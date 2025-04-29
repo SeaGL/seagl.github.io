@@ -39,8 +39,6 @@ We encourage you to nominate someone who has been doing exciting work in the Fre
 
 Nominees need not have prior keynote experience; we are interested in both new and experienced presenters. In fact, two of our four keynote slots are dedicated to speakers who may be presenting on the main stage for the first time.
 
-
-
 ## Sponsors and Non-Profit Exhibitors
 
 We have a limited number of tables available for business and community partners of SeaGL 2025.
