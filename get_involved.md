@@ -33,7 +33,7 @@ You can read more about the roles and process in this [2024 blog post](/news/202
 - **Promotion & Outreach**: Spreading the word about SeaGL world wide.
 - **Volunteers**: Keeping the SeaGL staff happy and recruiting new volunteers to the flock.
 
-## Sponsors and Non-Profit Exhibitors
+## Partner with SeaGL
 
 We have a limited number of tables available for business and community partners of SeaGL 2025.
 {%- if site.custom.url.prospectus %} Groups and companies interested in attending should review our [Partnership & Sponsor Prospectus]({{ site.custom.url.prospectus }}) which outlines various fiscal tiers and add-ons.{% endif %}
@@ -42,13 +42,29 @@ In-kind contributions are accepted from media and local partners.
 Free space is made available for non-profit and educational organizations.
 Please see our [sponsors page](/sponsors/{{ site.custom.year }}) for a list of current supporters and email us at {{ site.custom.a.email.sponsor }} to discuss further partnership opportunities!
 
-## Presenting at SeaGL
+## Present at SeaGL
 
 Over the years, we have given a stage to hundreds of speakers. If you're interested in joining them, keep an eye out for our call for proposals (CFP) which usually opens in May and runs for approximately a month.
 
 We make a point of welcoming presenters of all experience levels, especially those bringing uncommonly heard perspectives. So if you're a first time speaker or member of an under-represented group in tech, please consider applying!
 
 That said, **we are not looking for sponsored talks**; while our partners are welcome to submit presentations, we do not guarentee they will be accepted.
+
+## Suggest a SeaGL Keynote
+
+We encourage you to nominate someone who has been doing exciting work in the Free / Libre / Open (FLO) community! Keynote presenters may be suggested through our [Keynote Nomination Form](/keynote_suggestions) which is now open year round.
+
+Nominees need not have prior keynote experience; we are interested in both aspiring and veteran presenters. In fact, [since 2018](/news/2018/04/30/keynote_selection_process) half of our keynote slots have been dedicated to amplifying the voices of speakers who may be presenting on the main stage for the first time.
+
+While you are welcome to nominate yourself, we encourage you to take some time to think about people you have seen present, who you think have an important message to share.
+
+We are looking for individuals who:
+
+- Have done work to empower others and challenge social norms
+- You go out of your way to read all of their Open Source posts on social media
+- Might only have a small following, but are doing amazing work in their own little corner
+- Are always tinkering with new and exciting projects that inspire others to try new things
+- Are slowly, but steadily, working to make the FLO community and world a better place, for everyone
 
 </div><div class="col-md-4" markdown="1">
 
