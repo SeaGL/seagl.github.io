@@ -33,6 +33,14 @@ You can read more about the roles and process in this [2024 blog post](/news/202
 - **Promotion & Outreach**: Spreading the word about SeaGL world wide.
 - **Volunteers**: Keeping the SeaGL staff happy and recruiting new volunteers to the flock.
 
+## Keynote Nomination
+
+We encourage you to nominate someone who has been doing exciting work in the Free / Libre / Open (FLO) community! Keynote presenters are nominated through our [Keynote Nomination Form](https://cloud.seagl.org/index.php/apps/forms/s/fb2K987pBp4Fm7ANFAZr84EK) open to the public year round. 
+
+Nominees need not have prior keynote experience; we are interested in both new and experienced presenters. In fact, two of our four keynote slots are dedicated to speakers who may be presenting on the main stage for the first time.
+
+
+
 ## Sponsors and Non-Profit Exhibitors
 
 We have a limited number of tables available for business and community partners of SeaGL 2025.
