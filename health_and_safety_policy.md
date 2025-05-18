@@ -21,11 +21,9 @@ SeaGL, the Seattle GNU/Linux Conference, is more than just a gathering; it is a 
 
 As we returned to hosting in-person activities in 2023, SeaGL added a Health and Safety Policy. This policy acts as a framework for us to respect the health of our fellow attendees during the event, and to ensure that we can continue meeting safely at events into the future.
 
-***NOTICE:*** This was the **2024** policy. We will release an update for 2025 no later than six (6) months prior to the event.
-
 Our Health and Safety Policy encourages facial coverings in spaces where distancing cannot be maintained, expects full vaccination and voluntary testing by attendees, and includes mitigations in the form of outdoor ventilation, as suggested by the [Public Health Pledge’s badging standard](https://publichealthpledge.com/badging).
 
-Any policy updates we publish will not be weakened before the 2024 event held on November 8th and 9th.
+Any policy updates we publish will not be weakened before the 2025 event held on November 8th and 9th.
 
 
 ## Definitions
@@ -39,11 +37,11 @@ Any policy updates we publish will not be weakened before the 2024 event held on
 
 ## Masking
 
-We _expect_ attendees, aside from the active presenter, to wear masks (as described in the "facial coverings" paragraph below) in all presentation spaces, including the keynote auditorium.
+We _expect_ attendees to wear masks (as described in the "facial coverings" paragraph below) in any presentation space where the scheduled presenter has requested masks be required; this may include the keynote auditorium.
+
+We _encourage_ attendees to wear masks (as described in the "facial coverings" paragraph below) in all indoor spaces, any spaces where physical distancing cannot be maintained, and any other spaces designated by the conference organizers.
 
 We _expect_ facial coverings to be made of a tight-knit, non-permeable material that completely covers the nose and mouth. Facial coverings should should be of N95 or equivalent rating, [as recommended by the United States Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html). These are particularly effective at reducing exposure to viruses, allergens, and other pollutants that may cause COVID/flu-like symptoms.
-
-We _encourage_ attendees to wear masks (as described in the "facial coverings" paragraph above) in all indoor spaces, any spaces where physical distancing cannot be maintained, and any other spaces designated by the conference organizers.
 
 We _commit_ to having a supply of high-quality facial coverings at the event and will supply any attendee who needs one, free of charge.
 
@@ -128,7 +126,7 @@ We _strive_ to provide remote participation options for social events.
 
 ---
 
-This Health and Safety Policy is based in part on North Bay Python's found here, <https://2024.northbaypython.org/health-and-safety-policy>, and is available under the [Creative Commons Attribution-ShareAlike (CC BY-SA) License](https://creativecommons.org/licenses/by-sa/4.0/).
+This Health and Safety Policy is based in part on North Bay Python's found here, <https://2025.northbaypython.org/health-and-safety-policy>, and is available under the [Creative Commons Attribution-ShareAlike (CC BY-SA) License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 We are eager to consider any additions to this Health and Safety Policy that you might find valuable, to better support you or others, or to clarify our objective.
 
