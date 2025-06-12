@@ -19,16 +19,6 @@ Esther's projects tend to center around DIY, empowerment, and pedagogy. For exam
 Find more about Esther on:
  - Website: <https://estherjang.com/>
 
-## Allison Randal
-
-Dr. Allison Randal is a free software and open hardware developer and strategist. She is chair of the board at Software Freedom Conservancy, board member at LLVM Foundation, governing board member at CHERI Alliance and OpenInfra Foundation, and co-founder of the FLOSS Foundations group.
-
-In the past three decades, she has served as president of Open Source Initiative, board chair at OpenInfra Foundation, president at Perl Foundation, board member at Python Software Foundation, board chair at Parrot Foundation, and technical architect of Ubuntu. She collaborates in the Debian, RISC-V, and CHERI projects, has a PhD from the University of Cambridge, and currently works on Linux and open hardware at Capabilities Limited.
-
-Find more about Allison on:
- - Website: <https://allisonrandal.com/>
- - Fediverse/Mastodon: [@allison@muon.social](https://muon.social/@allison)
-
 ## Nadya Peek
 
 Dr. Nadya Peek is an associate professor in the department of Human Centered Design & Engineering (HCDE) where she directs the Machine Agency. Her work focuses on unconventional digital fabrication tools, small scale automation, networked control systems, and advanced manufacturing. Spanning electronics, firmware, software, and mechanics, her research focuses on harnessing the precision of machines for the creativity of individuals.
@@ -48,6 +38,15 @@ Find more about Evan on:
  - Blog: <https://evanp.me/>
  - Fediverse/Mastodon: [@evan@cosocial.ca](https://cosocial.ca/@evan)
 
+## Allison Randal
+
+Dr. Allison Randal is a free software and open hardware developer and strategist. She is chair of the board at Software Freedom Conservancy, board member at LLVM Foundation, governing board member at CHERI Alliance and OpenInfra Foundation, and co-founder of the FLOSS Foundations group.
+
+In the past three decades, she has served as president of Open Source Initiative, board chair at OpenInfra Foundation, president at Perl Foundation, board member at Python Software Foundation, board chair at Parrot Foundation, and technical architect of Ubuntu. She collaborates in the Debian, RISC-V, and CHERI projects, has a PhD from the University of Cambridge, and currently works on Linux and open hardware at Capabilities Limited.
+
+Find more about Allison on:
+ - Website: <https://allisonrandal.com/>
+ - Fediverse/Mastodon: [@allison@muon.social](https://muon.social/@allison)
 
 ## CfP extended to June 30th
 
