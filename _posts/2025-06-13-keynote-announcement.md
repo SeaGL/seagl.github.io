@@ -17,7 +17,7 @@ Esther is a newly graduated PhD turned postdoc in Computer Science at the Univer
 Esther's projects tend to center around DIY, empowerment, and pedagogy. For example- building communities of practice to sustain technical infrastructures, and vice versa.
 
 Find more about Esther on:
- - Website: <a href="https://estherjang.com/" target="_blank"> https://estherjang.com/ </a>
+ - Website: <https://estherjang.com/>
 
 ## Nadya Peek
 
@@ -26,7 +26,7 @@ Dr. Nadya Peek is an associate professor in the department of Human Centered Des
 Before joining the HCDE faculty in February 2018, Peek was a postdoctoral research scientist at the MIT Center for Bits and Atoms. She is VP of the Open Source Hardware Association, half of the design studio James and the Giant Peek, and plays drum machines and synths in the band Construction.
 
 Find more about Nadya on:
- - Website: <a href="https://www.hcde.washington.edu/peek/" target="_blank"> https://www.hcde.washington.edu/peek/ </a>
+ - Website: <https://www.hcde.washington.edu/peek/>
 
 ## Evan Prodromou
 
@@ -35,8 +35,8 @@ Originally based in San Francisco, hacker and entrepreneur Evan Prodromou now li
 A passionate advocate of Open Source and Open Content, Evan is best known for founding the Free travel guide project, Wikitravel.  He is the Chair of the W3C Social Web Working Group and the author of ActivityPub: Programming for the Social Web (O’Reilly Media).  Evan has also been an active member of Open Source projects like MediaWiki, Freenet, and Debian GNU/Linux.
 
 Find more about Evan on:
- - Blog: <a href="https://evanp.me/" target="_blank"> https://evanp.me/ </a>
- - Fediverse/Mastodon: <a href="https://cosocial.ca/@evan" target="_blank"> @evan@cosocial.ca </a>
+ - Blog: <https://evanp.me/>
+ - Fediverse/Mastodon: [@evan@cosocial.ca](https://cosocial.ca/@evan)
 
 ## Allison Randal
 
@@ -45,8 +45,8 @@ Dr. Allison Randal is a free software and open hardware developer and strategist
 In the past three decades, she has served as president of Open Source Initiative, board chair at OpenInfra Foundation, president at Perl Foundation, board member at Python Software Foundation, board chair at Parrot Foundation, and technical architect of Ubuntu. She collaborates in the Debian, RISC-V, and CHERI projects, has a PhD from the University of Cambridge, and currently works on Linux and open hardware at Capabilities Limited.
 
 Find more about Allison on:
- - Website: <a href="https://allisonrandal.com/" target="_blank"> https://allisonrandal.com/ </a>
- - Fediverse/Mastodon: <a href="https://muon.social/@allison" target="_blank"> @allison@muon.social </a>
+ - Website: <https://allisonrandal.com/>
+ - Fediverse/Mastodon: [@allison@muon.social](https://muon.social/@allison)
 
 ## CfP extended thru June 30th
 
