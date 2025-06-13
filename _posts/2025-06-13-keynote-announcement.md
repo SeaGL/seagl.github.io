@@ -8,7 +8,7 @@ categories: news
 tags: '2025'
 ---
 
-Happy Friday the 13th! We are thrilled to announce our keynote speakers for the 13th Seattle GNU/Linux conference:
+Happy Friday the 13th! We are thrilled to announce our keynote speakers for the 13th Seattle GNU/Linux Conference:
 
 ## Esther Jang
 
@@ -48,9 +48,9 @@ Find more about Allison on:
  - Website: <a href="https://allisonrandal.com/" target="_blank"> https://allisonrandal.com/ </a>
  - Fediverse/Mastodon: <a href="https://muon.social/@allison" target="_blank"> @allison@muon.social </a>
 
-## CfP extended to June 30th
+## CfP extended thru June 30th
 
-We are pleased to announce an extension to the Call for Proposals! To ensure a broad and inclusive range of voices, we are keeping the submission portal open until June 30th.
+We are pleased to announce an extension of this year's [Call for Presentations](/news/2025/05/05/CfP-Open)! To ensure a broad and inclusive range of voices, we are keeping the [submission portal](https://seagl.org/cfp) open until **June 30th**.
 
-If you’ve been considering submitting a talk, workshop, or performance, you now have a couple more weeks to submit your proposal!
+If you’ve been considering submitting a talk, workshop, or performance, you now have a couple more weeks to send in your proposal! Please don't delay; **submit early, submit often!**
 
