@@ -468,10 +468,13 @@ img.align-center {
   font-family: 'Dosis', sans-serif;
   font-weight: 600;
   letter-spacing: 0.05em;
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.4);
+  transition: box-shadow 0.2s;
 }
 
 .links button:hover {
   background: #205060;
   color: #f9b225;
-  border-color: #f9b225;
+  border-color: #f9b225; 
+  box-shadow: 0 8px 24px 0 rgba(0,0,0,0.5);
 }
