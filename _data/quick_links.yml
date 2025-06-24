@@ -1,0 +1,16 @@
+- url: /cfp
+  label: Submit a SeaGL talk
+- url: https://chat.seagl.org
+  label: Chat with the SeaGL community
+- url: https://groups.google.com/g/seagl_announce
+  label: Join the low-traffic mailing list
+- url: /sponsors
+  label: Check out our sponsors!
+# - url: /blog
+#   label: Read SeaGL blog posts
+# - url: /maps/2025
+#   label: Getting to the SeaGL venue
+- url: /get_involved
+  label: Volunteer with SeaGL
+- url: /keynote-suggestions
+  label: Suggest a SeaGL Keynote

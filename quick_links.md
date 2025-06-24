@@ -7,45 +7,18 @@ body_id: links
 redirect_from:
   - /links
 ---
-
+<!-- links are stored in _data/quick_links.yml -->
 {% include header.html %}
 <div class="links-list">
-
-{% include socials.html %}
-
-<div class="links">
-<a href="/get_involved">
-<div>
-Volunteer!
+  {% include socials.html %}
+  <div class="links">
+  {% for link in site.data.quick_links %}
+    <button onclick="window.open('{{ link.url }}', '_blank')">
+      {{ link.label }}
+    </button>
+  {% endfor %}
+  </div>
 </div>
-</a>
-
-<a href="/">
-<div>
-Announcements on Blog Post
-</div>
-</a>
-
-<a href="/maps/2025">
-<div>
-Directions to the Venue
-</div>
-</a>
-
-<a href="/sponsors">
-<div>
-Meet our sponsors
-</div>
-</a>
-
-<a href="/archive">
-<div>
-Previous Conferences
-</div>
-</a>
-
-
-
 
 
 
