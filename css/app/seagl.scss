@@ -420,12 +420,18 @@ img.align-center {
   padding-right: 4px;
   padding-left: 4px;
   height: auto;
-  filter: brightness(100%);
+  fill: #205060;
+  transition: filter 0.2s;
 }
 
-.quicklink div svg:hover {
-  filter: brightness(125%);
+// .quicklink div svg:hover {
+//   filter: brightness(80%);
+// }
+
+.quicklink div svg:hover path {
+  fill: #eea107;
 }
+
 
 .quicklink {
   display: flex;
