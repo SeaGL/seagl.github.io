@@ -396,3 +396,92 @@ img.align-center {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+
+
+
+@media screen and (max-width: 910px) {
+  .quicklink div {
+    z-index: 2;
+    margin-top: -15%;
+  }
+}
+
+.quicklink div {
+  float: left;
+  background-color: #efefef;
+  border-radius: 1rem;
+  border: 0.5rem solid;
+  border-color: #f9b225;
+  padding: 1rem 1rem 0.5rem 1rem;
+  justify-content: center;
+}
+
+.quicklink div svg {
+  width: 45px;
+  padding-right: 4px;
+  padding-left: 4px;
+  height: auto;
+  fill: #205060;
+  transition: filter 0.2s;
+}
+
+// .quicklink div svg:hover {
+//   filter: brightness(80%);
+// }
+
+.quicklink div svg:hover path {
+  fill: #eea107;
+}
+
+
+.quicklink {
+  display: flex;
+  padding: 2rem 0 0;
+}
+
+.links-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  justify-content: center;
+  list-style: none;
+  min-height: 60vh;
+  background-color: white;
+  gap: 1.9rem;
+  padding: 2rem 0;
+}
+
+.links button {
+  width: 80%; 
+  max-width: 500px;
+  padding: 2rem 2rem; 
+  border: 2px solid #0C5A73;
+  border-radius: 24px;
+  color: white;
+  background: #0C5A73;
+  min-height: 5rem;
+  font-size: 1.6rem;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.4);
+  transition: box-shadow 0.2s;
+}
+
+.links button:hover {
+  background: #205060;
+  color: #f9b225;
+  border-color: #f9b225; 
+  box-shadow: 0 8px 24px 0 rgba(0,0,0,0.5);
+}
