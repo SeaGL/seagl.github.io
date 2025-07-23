@@ -40,7 +40,7 @@ Although Cloud and Dev tools led the way, part of SeaGL's magic is made by the w
 
 The SeaGL team continues to take health and safety concerns seriously and we are proud of our community’s care for one another.  This year we asked for speaker preferences and with only 3 out of 90 proposals requesting a masked room, we've decided to lift our mandatory room masking requirement.  However, we will continue to support sessions where the speaker request masks and we will continue to provide masks to anyone requesting them.
 
-More details about our health and safety policy can be found [here](https://seagl.org/health_and_safety_policy).  Please note that we will continue to monitor risk levels and any policy updates we publish before the event will not be less-restrictive.
+More details about our health and safety policy can be found [here](https://seagl.org/health_and_safety_policy).  Please note that we will continue to monitor risk levels.  Any policy updates that we publish before the event will not be less-restrictive.
 
 ## FOSSY
 
