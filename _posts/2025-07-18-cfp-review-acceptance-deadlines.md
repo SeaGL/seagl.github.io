@@ -30,7 +30,7 @@ Although Cloud and Dev tools led the way, the magic was in the diversity of idea
 
 ## Mask Policy
 
-We’ve taken masking seriously and are proud of our community’s care for one another. This year, with only 3 out of 90 proposals requesting a masked room, we’ve decided to lift our general mask policy while we will continuing to support those specific sessions with masking.
+We’ve taken masking seriously and are proud of our community’s care for one another. This year, with only 3 out of 90 proposals requesting a masked room, we’ve decided to lift our general mask policy while continuing to support speakers' sessions with their masking preferences.
 
 ## Looking ahead
 
