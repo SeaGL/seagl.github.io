@@ -8,7 +8,7 @@ categories: news
 tags: '2025'
 ---
 
-Thank you to all who submitted a proposal for SeaGL 2025!  We're so delighted at the caliber of ideas we recieved this year!
+Thank you to all who submitted a proposal for SeaGL 2025!  We're so delighted at the caliber of ideas we received this year!
 
 ## Looking Ahead
 
@@ -26,9 +26,9 @@ Here is a peek behind the curtain at the distribution of topics proposed this ye
 * Languages and Tools (14)
 * Open-source AI and Data Science (10)
 * Community and Culture (8)
+* Systems and Platforms (8)
 * Security and Privacy (7)
 * Open-source Careers (6)
-* Systems and Platforms (8)
 * Education (5)
 * Performance Art (2)
 * Everything Else (2)
@@ -40,7 +40,7 @@ Although Cloud and Dev tools led the way, part of SeaGL's magic is made by the w
 
 The SeaGL team continues to take health and safety concerns seriously and we are proud of our community’s care for one another.  This year we asked for speaker preferences and with only 3 out of 90 proposals requesting a masked room, we've decided to lift our mandatory room masking requirement.  However, we will continue to support sessions where the speaker request masks and we will continue to provide masks to anyone requesting them.
 
-More details about our health and safety policy can be found [here](https://seagl.org/health_and_safety_policy).  Please note that we will continue to monitor risk levels.  Any policy updates that we publish before the event will not be less-restrictive.
+Details can be found on the [health and safety policy](https://seagl.org/health_and_safety_policy) page of our website.  Please note that we will continue to monitor risk levels.  Any policy updates that we publish before the event will not be less-restrictive.
 
 ## FOSSY
 
