@@ -11,9 +11,9 @@ body_id: links
   {% include socials.html %}
   <div class="links">
   {% for link in site.data.links %}
-    <button onclick="window.open('{{ link.url }}', '_blank')">
+    <a href="{{ link.url }}" target="_blank" rel="noopener" class="btn btn-primary btn-lg btn-block">
       {{ link.label }}
-    </button>
+    </a>
   {% endfor %}
   </div>
 </div>

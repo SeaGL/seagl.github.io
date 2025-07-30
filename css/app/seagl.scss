@@ -465,29 +465,35 @@ img.align-center {
   justify-content: center;
   list-style: none;
   min-height: 60vh;
-  background-color: white;
   gap: 1.9rem;
   padding: 2rem 0;
 }
 
-.links button {
-  width: 80%; 
-  max-width: 500px;
-  padding: 2rem 2rem; 
+.links a {
+  // box
+  width: 70%; 
   border: 2px solid #0C5A73;
   border-radius: 24px;
-  color: white;
-  background: #0C5A73;
-  min-height: 5rem;
-  font-size: 1.6rem;
+  min-height: 6rem;
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.4);
+  transition: box-shadow 0.2s;
+
+  // font
+  font-size: 1.8rem;
   font-family: 'Dosis', sans-serif;
   font-weight: 600;
   letter-spacing: 0.05em;
-  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.4);
-  transition: box-shadow 0.2s;
+
+  // vertically center
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  // wrap text
+  white-space: normal;
 }
 
-.links button:hover {
+.links a:hover {
   background: #205060;
   color: #f9b225;
   border-color: #f9b225; 
