@@ -10,6 +10,13 @@ summary { display: list-item; }
   box-sizing: border-box;
 }
 body {
+  --main-nav-border-width: 9px;
+  --main-nav-extra-padding-bottom: 0px;
+  --quicklink-border-width: 0.5rem;
+  --quicklink-gap: 1rem;
+  --quicklink-height: calc(var(--quicklink-icon-height) + 2 * var(--quicklink-gap) + 2 * var(--quicklink-border-width));
+  --quicklink-icon-height: 4rem;
+
   font-family: 'Lato', sans-serif;
   background-color: #FFFCF7;
   border-bottom: 12px solid #0C5A73;
@@ -148,9 +155,10 @@ ol > li > ol {
 }
 #main-nav {
   position: relative;
-  height: 170px;
+  height: calc(170px + var(--main-nav-extra-padding-bottom));
   background-color: #074558;
-  border-bottom: 9px solid #FCB320;
+  border-bottom: var(--main-nav-border-width) solid #FCB320;
+  
   border-left: none;
   border-radius: 0;
   border-right: none;
@@ -359,7 +367,7 @@ p img {
     margin-top: 0;
   }
   #main-nav {
-    height: 270px;
+    height: calc(270px + var(--main-nav-extra-padding-bottom));
   }
   #main-nav .main-nav-links li {
     width: 100%;
@@ -397,40 +405,27 @@ img.align-center {
   margin-bottom: 15px;
 }
 
-
-
-@media screen and (max-width: 910px) {
-  .quicklink div {
-    z-index: 2;
-    margin-top: -15%;
-  }
-}
-
-.quicklink div {
-  float: left;
+.quicklink {
   background-color: #efefef;
-  border-radius: 1rem;
-  border: 0.5rem solid;
-  border-color: #f9b225;
-  padding: 1rem 1rem 0.5rem 1rem;
   justify-content: center;
+  border-radius: calc(2 * var(--quicklink-border-width));
+  border: var(--quicklink-border-width) solid #f9b225;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--quicklink-gap);
+  justify-content: center;
+  margin-top: 2rem;
+  padding: var(--quicklink-gap);
 }
 
-.quicklink div svg {
-  width: 45px;
-  padding-right: 4px;
-  padding-left: 4px;
-  height: auto;
+.quicklink svg {
+  width: auto;
+  display: block;
+  height: var(--quicklink-icon-height);
 }
 
 .quicklink a:not(.btn):not(.label):hover {
   color: #eea107;
-}
-
-
-.quicklink {
-  display: flex;
-  padding: 2rem 0 0;
 }
 
 .links-list {
@@ -445,6 +440,14 @@ img.align-center {
   display: flex;
   flex-direction: column;
   min-height: 100svh;
+
+  @media (max-width: 910px) {
+    --main-nav-extra-padding-bottom: calc((var(--quicklink-height) - var(--main-nav-border-width)) * 0.5);
+    .quicklink {
+      margin-top: calc(-1 * (var(--quicklink-height) + var(--main-nav-border-width)) * 0.5);
+      z-index: 1;
+    }
+  }
 }
 
 
