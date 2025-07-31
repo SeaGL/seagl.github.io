@@ -36,7 +36,7 @@ More details about how to attend can be found [here](/attend).
 
 ### Stay informed
 
-Sign up for our low-traffic [announcement mailing list]({{ site.custom.url.mailing_list.seagl_announce }}) or subscribe to our [RSS news feed](/feed.xml).
+We just launched a new [links](/links) page as a one-stop shop for all your SeaGL needs. If you only want periodic updates, sign up for our low-traffic [announcement mailing list]({{ site.custom.url.mailing_list.seagl_announce }}) or subscribe to our [RSS news feed](/feed.xml).
 
 ---
 {:.hidden-md .hidden-lg}
