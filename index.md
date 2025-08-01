@@ -4,8 +4,6 @@ nav: home
 body_id: home
 title: Seattle GNU/Linux Conference
 description: SeaGL is a grassroots technical conference dedicated to spreading awareness and knowledge about the GNU/Linux community and free/libre/open-source software/hardware.
-redirect_from:
- - /links
 ---
 
 <div class="row"><div class="col-md-4 col-md-push-8" markdown="1">
@@ -38,7 +36,9 @@ More details about how to attend can be found [here](/attend).
 
 ### Stay informed
 
-Sign up for our low-traffic [announcement mailing list]({{ site.custom.url.mailing_list.seagl_announce }}) or subscribe to our [RSS news feed](/feed.xml).
+Sign up for our low-traffic [announcement mailing list]({{ site.custom.url.mailing_list.seagl_announce }}) or subscribe to our [RSS news feed](/feed.xml) for updates from the SeaGL organizers.
+
+Looking for a quick list of important pages? Discover and share our [links list](/links)!
 
 ---
 {:.hidden-md .hidden-lg}
