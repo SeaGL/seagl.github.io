@@ -17,10 +17,3 @@ body_id: links
   {% endfor %}
   </div>
 </div>
-
-
-
-
-
-
-
