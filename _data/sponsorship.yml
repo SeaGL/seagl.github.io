@@ -24,12 +24,15 @@ sponsors:
   - name: Ada's Technical Books
     url: https://www.adasbooks.com/
     logo:
-      horizontal: /img/sponsors/AdasTechnicalBooks/HORIZONTAL_LOGO_WITH_TRADEMARK_CMYK_2.png
-      square:
+      horizontal: /img/sponsors/AdasTechnicalBooks/HORIZONTAL-LOGO_WITH-TRADEMARK_CMYK.png
+      square: /img/sponsors/AdasTechnicalBooks/AdasLogoNew_Flourish.png
     description: |-
-      Ada's Technical Books & Cafe is Seattle's technical bookstore. We build
-      community through science minded literature, a vegetarian cafe, specialty
-      coffee, coworking, and an intimate event venue.
+      Ada’s Technical Books & Café is where the technical mind finds what it
+      craves--and where a bookstore becomes a community. Our vegetarian cafe &
+      bookshop sits in Capitol Hill, Seattle and is home to the kinds of books,
+      gifts, workshops and events that beckon to the geek in all of us. At
+      Ada's you can find the knowledge you seek, feed your curiosity among
+      friends, and always feel in your element.
     sponsorships:
       2016: bronze
       2017: media
@@ -40,6 +43,7 @@ sponsors:
       2022: media
       2023: media
       2024: media
+      2025: media
 
   - name: Ansible
     url: https://www.ansible.com
