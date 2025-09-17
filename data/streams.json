@@ -1,0 +1,15 @@
+---
+---
+{% comment %}
+This data is used by Birdhouse to render stream monitoring controls at runtime.
+This data gets removed in the off-season, so in this case we simply render
+empty array (for no streams).
+
+See https://github.com/SeaGL/birdhouse
+{% endcomment %}
+
+{% if site.data.schedule.streams %}
+  {{ site.data.schedule.streams | jsonify }}
+{% else %}
+  []
+{% endif %}
