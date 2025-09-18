@@ -95,6 +95,6 @@ Our fiscal sponsor, [**Open Source Initiative**](https://opensource.org), set up
 These contributions may be tax deductible as OSI is a 501(c)(3) non-profit organization.
 Thank you for your support!
 
-{{ site.custom.a.donate }}
+[Donate to SeaGL](/donate)
 
 </div></div>
