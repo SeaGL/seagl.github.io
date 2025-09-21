@@ -48,9 +48,3 @@ Find more about Allison on:
  - Website: <https://allisonrandal.com/>
  - Fediverse/Mastodon: [@allison@muon.social](https://muon.social/@allison)
 
-## CfP extended thru June 30th
-
-We are pleased to announce an extension of this year's [Call for Presentations](/news/2025/05/05/CfP-Open)! To ensure a broad and inclusive range of voices, we are keeping the [submission portal](https://seagl.org/cfp) open until **June 30th**.
-
-If you’ve been considering submitting a talk, workshop, or performance, you now have a couple more weeks to send in your proposal! Please don't delay; **submit early, submit often!**
-
