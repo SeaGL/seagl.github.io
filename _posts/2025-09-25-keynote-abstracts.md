@@ -11,7 +11,7 @@ tags: '2025'
 SeaGL is only 46 days away!  Yup, we're starting the countdown.
 As a treat this week, we have conjured up some keynote descriptions sent to us by our lovely keynoters!
 
-Keynotes will take place starting at 9am on both Friday and Saturday in the [Lyceum at the University of Washington HUB](/maps/2025).
+Keynotes will take place starting at 9am on both Friday and Saturday in the [Room 145 University of Washington HUB](/maps/2025).
 They will also be streamed live online for our remote attendees!
 
 ## **Nadya Peek** presents: “Challenges When Building Open Source Hardware”
