@@ -133,10 +133,10 @@ All design materials are available in the [design folder](https://github.com/Sea
 
 Specific materials and other quick reference files:
 
-- [Logo (png)](#)
-- [Logo (svg)](https://github.com/SeaGL/outreach/blob/main/design/logo/seagl_logo.svg)
-- [Logo with mic (png)](#)
-- [Logo with mic (svg)](#)
+- [Logo (png)](https://github.com/SeaGL/outreach/tree/main/design/logo/seagl_avatar_profile_pic.png)
+- [Logo (svg)](https://github.com/SeaGL/outreach/blob/main/design/logo/seagl_avatar_profile_pic.svg)
+- [Logo with mic (png)](https://github.com/SeaGL/outreach/tree/main/design/logo/seagl_avatar_profile_pic_mic.png)
+- [Logo with mic (svg)]((https://github.com/SeaGL/outreach/tree/main/design/logo/seagl_avatar_profile_pic_mic.svg))
 - [Color Palette file](#)
 - [Templates](#)
 
