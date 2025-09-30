@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shining a spotlight onto the SeaGL keynote sessions'
+title: 'The schedule revealed!'
 status: publish
 type: post
 published: true
@@ -8,13 +8,23 @@ categories: news
 tags: '2025'
 ---
 
-SeaGL is only 46 days away!  Yup, we're starting the countdown.
-As a treat this week, we have conjured up some keynote descriptions sent to us by our lovely keynoters!
+## Schedule Published
+
+We're turning over our cards and revealing the schedule for SeaGL 2025! 
+
+There may be a little bit of shifting around in the next week or so, but this is the fairly finalized schedule!
+
+We'll see you Friday November 7 & Saturday November 8 for SeaGL 2025, both virtually and in-person at the University of Washington.  As always, SeaGL is completely free to attend and no registration is required.  All speakers, sponsors, volunteers, staff, and anyone else involved in SeaGL are required to abide by the [Code of Conduct](/code_of_conduct).
+
+Schedule: [https://pretalx.seagl.org/2025/schedule/](https://pretalx.seagl.org/2025/schedule/)
+
+
+## Keynote Details
 
 Keynotes will take place starting at 9am on both Friday and Saturday in the [Room 145 University of Washington HUB](/maps/2025).
 They will also be streamed live online for our remote attendees!
 
-## **Evan Prodromou** presents: “Free the Social Web”
+### **Evan Prodromou** presents: “Free the Social Web”
 
 _Friday, November 7th, 2025. 9:10 am_
 
@@ -23,7 +33,7 @@ As Free and Open Source Software enthusiasts, we sometimes concentrate on our ow
 _About the speaker:_ **Evan Prodromou** [@evan@cosocial.ca](https://cosocial.ca/@evan), he is the Research Director at the Social Web Foundation, where he helps develop and promote the ActivityPub standard.
 
 
-## **Nadya Peek** presents: “Challenges When Building Open Source Hardware”
+### **Nadya Peek** presents: “Challenges When Building Open Source Hardware”
 
 _Friday, November 7th, 2025. 9:40 am_
 
@@ -32,7 +42,7 @@ In this talk, I will describe how digital fabrication like 3D printing, CNC mill
 
 _About the speaker:_ **Nadya Peek** (<https://www.hcde.washington.edu/peek/>), is an associate professor in the department of Human Centered Design & Engineering (HCDE) at the University of Washington.
 
-## **Esther Jang** presents: “The Seattle Community Network Stack”
+### **Esther Jang** presents: “The Seattle Community Network Stack”
 
 _Saturday, November 8th, 2025. 9:10 am_
 
@@ -40,7 +50,7 @@ The Seattle Community Network is a volunteer-based, grassroots, nonprofit commun
 
 _About the speaker:_ **Esther Jang** (https://estherjang.com/), she is the Director at the Local Connectivity Lab and founded the Seattle Community Network.
 
-## **Allison Randal** presents: “The River Has Roots: Lessons in Open Source”
+### **Allison Randal** presents: “The River Has Roots: Lessons in Open Source”
 
 _Saturday, November 8th, 2025. 9:40 am_
 
