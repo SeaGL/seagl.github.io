@@ -8,20 +8,18 @@ categories: news
 tags: '2025'
 ---
 
-## Schedule Published
-
 We're turning over our cards and revealing the schedule for SeaGL 2025! 
 
 There may be a little bit of shifting around in the next week or so, but this is the fairly finalized schedule!
 
-We'll see you Friday November 7 & Saturday November 8 for SeaGL 2025, both virtually and in-person at the University of Washington.  As always, SeaGL is completely free to attend and no registration is required.  All speakers, sponsors, volunteers, staff, and anyone else involved in SeaGL are required to abide by the [Code of Conduct](/code_of_conduct).
+We hope to see you Friday November 7 & Saturday November 8 for SeaGL 2025, both virtually and in-person at the University of Washington.  As always, SeaGL is completely free to attend and no registration is required.  All speakers, sponsors, volunteers, staff, and anyone else involved in SeaGL are required to abide by the [Code of Conduct](/code_of_conduct).
 
-Schedule: [https://pretalx.seagl.org/2025/schedule/](https://pretalx.seagl.org/2025/schedule/)
+You can view the full schedule at: [https://seagl.org/schedule](https://seagl.org/schedule)
 
 
 ## Keynote Details
 
-Keynotes will take place starting at 9am on both Friday and Saturday in the [Room 145 University of Washington HUB](/maps/2025).
+Keynotes will take place starting at 9am on both Friday and Saturday in [Room 145 at the University of Washington HUB](/maps/2025).
 They will also be streamed live online for our remote attendees!
 
 ### **Evan Prodromou** presents: “Free the Social Web”
