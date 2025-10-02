@@ -18,7 +18,7 @@ With that, we hope to see you Friday, November 7th & Saturday, November 8th for 
 
 As always, SeaGL is completely free to attend and no registration is required. However, if you would like to let us know that you're coming, please fill out this brief [attendance form](/register). Also, if your company would like help to keep SeaGL's mission going, we have a limited number of exhibition hall spots and would welcome their support. Reach out to {{ site.custom.a.email.sponsor }} for more details.
 
-All speakers, sponsors, volunteers, staff, and anyone else involved in SeaGL are required to abide by the [Code of Conduct](/code_of_conduct).
+All speakers, sponsors, volunteers, staff, and anyone else involved in SeaGL are required to abide by the [Code of Conduct](/code_of_conduct), as well as the [Health and Safety Policy](/health_and_safety_policy).
 
 
 ## Keynote Details
