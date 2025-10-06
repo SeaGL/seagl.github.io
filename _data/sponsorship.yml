@@ -1484,3 +1484,13 @@ sponsors:
       create an independently-verifiable path from source to binary code.
     sponsorships:
       2025: thanks
+
+  - name: Linux Prepper Podcast
+    url: https://podcast.james.network/
+    logo:
+      horizontal: /img/sponsors/LinuxPrepperPodcast/LinuxPrepper_podcast_logo.png
+      square:
+    description: |-
+       Linux Prepper Podcast is a FOSS podcast which is created, and self-hosted, by Living Cartoon Company and https://james.network, dedicated to learning and using fully open tooling wherever possible. Let's learn together!
+    sponsorships:
+      2025: media
