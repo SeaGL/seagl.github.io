@@ -263,8 +263,8 @@ sponsors:
       horizontal: /img/sponsors/SchedulesDirect/sd_long.png
       square: /img/sponsors/SchedulesDirect/sd_square.png
     description: |-
-      Member-supported organization providing support and funding for open
-      source and free (as in beer) software mostly in the TV/media space.
+      Schedules Direct is a non-profit providing support and resources to
+      media-related free and open source projects since 2007.
     sponsorships:
       2013: gold
       2014: gold
@@ -278,6 +278,7 @@ sponsors:
       2022: gold
       2023: gold
       2024: gold
+      2025: silver
 
   - name: Seattle Central College
     url: https://seattlecentral.edu
@@ -1491,6 +1492,9 @@ sponsors:
       horizontal: /img/sponsors/LinuxPrepperPodcast/LinuxPrepper_podcast_logo.png
       square:
     description: |-
-       Linux Prepper Podcast is a FOSS podcast which is created, and self-hosted, by Living Cartoon Company and https://james.network, dedicated to learning and using fully open tooling wherever possible. Let's learn together!
+       Linux Prepper Podcast is a FOSS podcast which is created, and
+       self-hosted, by Living Cartoon Company and https://james.network,
+       dedicated to learning and using fully open tooling wherever possible.
+       Let's learn together!
     sponsorships:
       2025: media
