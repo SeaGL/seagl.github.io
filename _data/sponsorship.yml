@@ -263,8 +263,8 @@ sponsors:
       horizontal: /img/sponsors/SchedulesDirect/sd_long.png
       square: /img/sponsors/SchedulesDirect/sd_square.png
     description: |-
-      Member-supported organization providing support and funding for open
-      source and free (as in beer) software mostly in the TV/media space.
+      Schedules Direct is a non-profit providing support and resources to
+      media-related free and open source projects since 2007.
     sponsorships:
       2013: gold
       2014: gold
@@ -278,6 +278,7 @@ sponsors:
       2022: gold
       2023: gold
       2024: gold
+      2025: silver
 
   - name: Seattle Central College
     url: https://seattlecentral.edu
@@ -513,9 +514,8 @@ sponsors:
       horizontal: /img/sponsors/FSF/logo-fsf.org.svg
       square:
     description: |-
-      The Free Software Foundation (FSF) is a nonprofit with a worldwide mission
-      to promote computer user freedom and to defend the rights of all free
-      software users.
+      The Free Software Foundation defends and promotes computer users' freedom
+      worldwide.
     sponsorships:
       2015: thanks
       2016: thanks
@@ -524,6 +524,7 @@ sponsors:
       2019: platinum
       2020: platinum
       2024: thanks
+      2025: thanks
 
   - name: Write The Docs Seattle
     url: https://www.meetup.com/Write-The-Docs-Seattle/
@@ -1141,7 +1142,7 @@ sponsors:
       2021: thanks
 
   - name: HuskyFOSS
-    url: https://huskylink.washington.edu/organization/huskyfoss
+    url: https://huskyfoss.github.io/
     logo:
       horizontal:
       square: /img/sponsors/HuskyFOSS/husky_foss_fixed.png
@@ -1434,6 +1435,7 @@ sponsors:
       privacy for phones that are no longer supported by vendors.
     sponsorships:
       2024: thanks
+      2025: thanks
 
   - name: The Calyx Institute
     url: https://calyxinstitute.org/projects
@@ -1461,3 +1463,38 @@ sponsors:
     sponsorships:
       2024: thanks
       2025: thanks
+
+  - name: Local Connectivity Lab
+    url: https://seattlecommunitynetwork.org/aboutUs.html
+    logo:
+      horizontal:
+      square: /img/sponsors/LocalConnectivityLab/lcl-logo-print-purplegold.svg
+    description: |-
+      Seattle Community Network, a local non-profit ISP based on open source
+      technologies serving homeless shelters.
+    sponsorships:
+      2025: thanks
+
+  - name: Reproducible Builds
+    url: https://reproducible-builds.org/
+    logo:
+      horizontal:
+      square: /img/sponsors/ReproducibleBuilds/rb.svg
+    description: |-
+      Reproducible builds are a set of software development practices that
+      create an independently-verifiable path from source to binary code.
+    sponsorships:
+      2025: thanks
+
+  - name: Linux Prepper Podcast
+    url: https://podcast.james.network/
+    logo:
+      horizontal: /img/sponsors/LinuxPrepperPodcast/LinuxPrepper_podcast_logo.png
+      square:
+    description: |-
+       Linux Prepper Podcast is a FOSS podcast which is created, and
+       self-hosted, by Living Cartoon Company and https://james.network,
+       dedicated to learning and using fully open tooling wherever possible.
+       Let's learn together!
+    sponsorships:
+      2025: media
