@@ -1468,7 +1468,7 @@ sponsors:
     url: https://seattlecommunitynetwork.org/aboutUs.html
     logo:
       horizontal:
-      square: /img/sponsors/LocalConnectivityLab/lcl-logo-print-purplegold.svg
+      square: /img/sponsors/LocalConnectivityLab/LocalConnectivityLab-logo.png
     description: |-
       Seattle Community Network, a local non-profit ISP based on open source
       technologies serving homeless shelters.
@@ -1496,5 +1496,23 @@ sponsors:
        self-hosted, by Living Cartoon Company and https://james.network,
        dedicated to learning and using fully open tooling wherever possible.
        Let's learn together!
+    sponsorships:
+      2025: media
+
+  - name: Linux Professional Institute
+    url: https://www.lpi.org/
+    logo:
+      horizontal: /img/sponsors/LinuxProfessionalInstitute/LPI_Logo-Colour.png
+      square:
+    description: |-
+       Linux Professional Institute (LPI) is the global certification standard
+       and career support organization for open source professionals. With more
+       than 350,000 certification holders, it’s the world’s first and largest
+       vendor-neutral Linux and open source certification body. LPI has
+       certified professionals in over 180 countries, delivers exams in
+       multiple languages, and has hundreds of training partners.
+
+       Our mission is to promote the use of open source by supporting the
+       people who work with it.
     sponsorships:
       2025: media
