@@ -72,6 +72,7 @@ exclude:
     - vendor/ruby/
 
 custom:
+    # For various reasons, `year` isn't used in decent swaths of the relevant text - so make sure to still grep around for the old year
     year:                   2025
     dates:                  November 7th & 8th
     location:               In-Person & Remote
