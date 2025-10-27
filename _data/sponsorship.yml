@@ -1516,3 +1516,15 @@ sponsors:
        people who work with it.
     sponsorships:
       2025: media
+
+  - name: Boon Boona Coffee
+    url: https://www.boonboonacoffee.com/
+    logo:
+      horizontal: /img/sponsors/BoonBoona/boon-boona-logo.png
+      square: /img/sponsors/BoonBoona/logo-stroke_410x.svg
+    description: |-
+       Boon Boona Coffee based in Renton, WA. An exclusively African sourcing
+       roaster and your destination for vibrant cafes, and fresh roast to order
+       brews.
+    sponsorships:
+      2025: thanks
