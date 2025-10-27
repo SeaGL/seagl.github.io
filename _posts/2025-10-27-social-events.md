@@ -22,3 +22,5 @@ This year will be SeaGL's biggest in terms of social events since returning to a
 - 15:30 - 16:30 **TeaGL + Tea-Swap**: You have until Friday, October 31st to register for the tea swap. A SeaGL tradition making its return. [Sign-up NOW](https://cloud.seagl.org/index.php/apps/forms/s/bqYcZqQCYB7b5pH3RPeX6ZGk) 
 - 17:00 - 18:00 **Social Hour**: Games?
 - 19:00 - ... **Big Time Brewery**: Walking distance from the UW.
+
+And don;t forget this is a 100% volunteer ran conference, and we are still looking for more volunteers. If you are interested in helping by becoming a room monitor, or other activity on the day of the event, you can sign up [here](https://seagl.org/voliunteer)
