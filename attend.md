@@ -58,7 +58,11 @@ title: Attend SeaGL 2025
       <div class="panel-heading"><h2 class="panel-title">SeaGL {{ site.custom.year }} Account</h2></div>
       <div class="panel-body">
         <p>We'll set you up with a Matrix account to attend. Your account will go away when the conference is over.</p>
-        <p><a class="btn btn-primary btn-large" href="/attend/ephemeral">Take me to the conference</a></p>
+        {%- if site.custom.readiness.attend_portal_launched -%}
+          <p><a class="btn btn-primary btn-large" href="/attend/ephemeral">Take me to the conference</a></p>
+        {%- else -%}
+          <p><span class="btn btn-primary btn-large" disabled>Take me to the conference (soon!)</span></p>
+        {%- endif -%}
         <p>Pick this if you've never used Matrix before.</p>
       </div>
     </div>
@@ -68,14 +72,24 @@ title: Attend SeaGL 2025
       <div class="panel-heading"><h2 class="panel-title">Any Matrix Account</h2></div>
       <div class="panel-body">
         <p>We'll give you instructions to get into our Matrix space and help you navigate the conference.</p>
-        <p><a class="btn btn-primary btn-large" href="/attend/existing">Join with my Matrix account</a></p>
+        {%- if site.custom.readiness.matrix_space_created -%}
+          <p><a class="btn btn-primary btn-large" href="/attend/existing">Join with my Matrix account</a></p>
+        {%- else -%}
+          <p><span class="btn btn-primary btn-large" disabled>Join with my Matrix account (soon!)</span></p>
+        {%- endif -%}
         <p>Pick this if you already have a Matrix account.</p>
       </div>
     </div>
   </div>
 </div>
 
-<div class="text-center">Click <a href="/watch">here</a> to just watch and not participate in chat.</div>
+<div class="text-center">
+  {%- if site.custom.readiness.matrix_space_created and site.custom.readiness.attend_portal_launched -%}
+    Click <a href="/watch">here</a> to just watch and not participate in chat.
+  {%- else -%}
+    Closer to the conference, we will also provide a link here to just watch and not participate in chat.
+  {%- endif -%}
+</div>
 
 <!-- class="row" -->
 </div>

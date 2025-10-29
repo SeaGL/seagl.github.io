@@ -80,6 +80,9 @@ custom:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
 
         site_code:          <a href="https://github.com/SeaGL/seagl.github.io/blob/main/LICENSE">GPL v3.0</a>
+    readiness:
+        attend_portal_launched: false
+        matrix_space_created: false
     url:
         irc:
             network:        https://libera.chat/
