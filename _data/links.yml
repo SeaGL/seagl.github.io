@@ -3,7 +3,14 @@
 - url: /schedule
   label: View the SeaGL schedule
 - url: /maps/2025
-  label: Getting to the SeaGL venue
+  label: Get to the SeaGL venue
+- url: /register
+  label: Let us know you're coming to SeaGL
+- url: /feedback
+  label: Leave feedback about SeaGL
+- url: /volunteer
+  label: Volunteer with SeaGL
+
 - url: https://chat.seagl.org
   label: Chat with the SeaGL community
 - url: https://groups.google.com/g/seagl_announce
@@ -11,8 +18,6 @@
 
 # - url: /blog
 #   label: Read SeaGL blog posts
-- url: /get_involved
-  label: Volunteer with SeaGL
 - url: /donate
   label: Donate to SeaGL
 - url: /sponsors

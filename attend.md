@@ -10,8 +10,8 @@ title: Attend SeaGL 2025
 
 <div class="text-center">
     <p>SeaGL is <b>free to attend</b>, and <b>registration is optional</b>—just show up!</p>
-    <p>You may attend (and register for) SeaGL without identifying yourself, and you are encouraged to do so to protect your privacy.
-        If you do choose to register, which helps us estimate attendance, you may do so <a href="/register">here</a>.</p>
+    <p>You may attend (<em>and register for</em>) SeaGL without identifying yourself, and you are encouraged to do so to protect your privacy.</p>
+    <p>If you do choose to register, which helps us estimate attendance, you may do so <a href="/register">here</a>.</p>
     <p>All attendees must abide by the <a href="/code_of_conduct">Code of Conduct</a>, and if participating in-person,
     <a href="/health_and_safety_policy">the Health and Safety Policy</a>.</p>
 </div>
