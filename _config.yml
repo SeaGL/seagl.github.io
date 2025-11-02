@@ -76,6 +76,8 @@ custom:
     year:                   2025
     dates:                  November 7th & 8th
     location:               In-Person & Remote
+    theme:                  Freedom Is In the Cards
+    nth_year_text:          thirteenth # As in, "nth annual event"
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
 
