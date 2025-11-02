@@ -85,6 +85,7 @@ custom:
     readiness:
         attend_portal_launched: false
         matrix_space_created: false
+        jumbotron_enabled: false
     url:
         irc:
             network:        https://libera.chat/
