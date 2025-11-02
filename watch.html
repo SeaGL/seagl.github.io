@@ -1,0 +1,62 @@
+---
+layout: default
+nav: watch
+page_supports_jumbotron: true
+---
+
+<div class="row">
+  <div class="col-md-12">
+  <noscript>
+    <div class="alert alert-danger" role="alert">
+      Sorry, we're using client-side scripting to load everything. If you'd like
+      that to change, please consider volunteering next year.
+    </div>
+  </noscript>
+
+  <div id="messages"></div>
+
+  <div>
+    <ul class="nav nav-tabs" role="tablist">
+      {% for stream in site.data.schedule.streams %}
+      <li role="presentation" {% if forloop.first %}class="active"{% endif %}>
+        <a href="#{{ stream.name | slugify }}" aria-controls="{{ stream.name | slugify }}" role="tab" data-toggle="tab"
+          >{{ stream.name }}</a
+        >
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div class="tab-content">
+      {% for stream in site.data.schedule.streams %}
+      <div role="tabpanel" class="tab-pane{% if forloop.first %} active{% endif %}" id="{{ stream.name | slugify }}">
+        <figure>
+          <div class="embed-responsive embed-responsive-16by9">
+            <div class="embed-responsive-item embed-placeholder">
+              <p>This video is hosted on YouTube.</p>
+
+              <div class="text-center text-muted" style="position: absolute;bottom: 0;margin: 1em;">
+                <p>Interested in helping us do better? Please consider <a href="/get_involved">volunteering</a>!</p>
+                <p class="hidden-xs">
+                  As an alternative to YouTube’s propriety player, you might be able to use:
+                  <code style="white-space: nowrap;"><a href="https://mpv.io/">mpv</a> https://youtu.be/<span style="user-select: all;">{{ stream.youtube_id }}</span></code>
+                </p>
+              </div>
+
+              <p><a class="btn btn-danger embed-placeholder-continue" href="https://youtu.be/{{ stream.youtube_id }}">View</a></p>
+
+              <template>
+                <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/{{ stream.youtube_id }}?autoplay=0&cc_load_policy=1&cc_lang_pref=en&modestbranding=1&rel=0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+              </template>
+            </div>
+          </div>
+        </figure>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% capture attend_source %}{% include_relative attend.md %}{% endcapture %}
+  {{ attend_source | split: "---" | last | markdownify }}
+</div>
+
+<script defer src="/js/embed-placeholder.js"></script>
