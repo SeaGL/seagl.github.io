@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 redirect_from:
   - /chat
 title: Community Chat

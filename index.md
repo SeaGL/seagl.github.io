@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 nav: home
 body_id: home
 title: Seattle GNU/Linux Conference

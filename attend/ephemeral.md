@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 redirect_from:
   - /attend-ephemeral
 title: Attend SeaGL 2025 Remotely

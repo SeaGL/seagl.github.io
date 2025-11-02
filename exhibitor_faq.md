@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Exhibitor Info and FAQ
 description: Exhibitor Information and Frequently Asked Questions
 nav: exhibitor_faq

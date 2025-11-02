@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Press Kit
 description: SeaGL Press Kit
 nav: press

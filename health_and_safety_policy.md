@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Health and Safety Policy
 description: Health and Safety Policy
 nav: health_and_safety

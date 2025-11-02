@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Code of Conduct
 description: Code of Conduct
 nav: code_of_conduct

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 2024 Posters / Handbills
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Program Committee Code of Practice
 description: Code of Practice
 nav: code_of_practice

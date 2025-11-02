@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Get Involved
 description: Get Involved with SeaGL
 nav: get_involved

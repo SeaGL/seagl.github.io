@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Style Guide
 description: SeaGL Style Guide
 nav: style_guide
