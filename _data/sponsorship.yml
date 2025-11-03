@@ -1529,3 +1529,14 @@ sponsors:
        brews.
     sponsorships:
       2025: thanks
+
+  - name: January
+    url: https://www.january.com/
+    logo:
+      horizontal: /img/sponsors/January/January_Wordmark_RGB_Blue.png
+      square:
+    description: |-
+       January helps consumers take control of their debt with flexible payment
+       options, settlements, and easy online account management.
+    sponsorships:
+      2025: bronze
