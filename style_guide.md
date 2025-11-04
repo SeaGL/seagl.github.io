@@ -113,7 +113,7 @@ Any used colors should be taken either directly from the palette or be derived f
 
 ## Color Usage {#ColorUsage}
 
-The color usage must respect others elements rules, like the logo. Mainly, the blue and white variations are used for backgrounds.
+The color usage must respect others elements' rules, like the logo. Mainly, the blue and white variations are used for backgrounds.
 
 The *White 2* color is used in digital material with focus on text, such as the website, for better reading.
 
