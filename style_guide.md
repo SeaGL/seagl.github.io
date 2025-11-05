@@ -138,7 +138,6 @@ Specific materials and other quick reference files:
 - [Logo with mic (png)](https://github.com/SeaGL/outreach/blob/main/design/logo/seagl_avatar_profile_pic_mic.png)
 - [Logo with mic (svg)](https://github.com/SeaGL/outreach/blob/main/design/logo/seagl_avatar_profile_pic_mic.svg)
 - [Monochrome logos](https://github.com/SeaGL/outreach/tree/main/design/logo/monocrome)
-- [Color Palette file](#)
 - [Document templates](https://github.com/SeaGL/outreach/tree/main/design/templates)
 
 This repository also contains [Patch stickers](https://github.com/SeaGL/outreach/tree/main/design/stickers), [branded QR codes](https://github.com/SeaGL/outreach/tree/main/design/qr-codes), and lots of year-specific assets (e.g., [maps](https://github.com/SeaGL/outreach/tree/main/design/maps), [flyers](https://github.com/SeaGL/outreach/tree/main/design/flyers), the [program booklet](https://github.com/SeaGL/outreach/tree/main/design/program), etc.).
