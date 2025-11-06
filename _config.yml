@@ -83,9 +83,9 @@ custom:
 
         site_code:          <a href="https://github.com/SeaGL/seagl.github.io/blob/main/LICENSE">GPL v3.0</a>
     readiness:
-        attend_portal_launched: false
+        attend_portal_launched: true
         matrix_space_created: true
-        jumbotron_enabled: false
+        jumbotron_enabled: true
     url:
         irc:
             network:        https://libera.chat/
