@@ -4,6 +4,7 @@ title: Get Involved
 description: Get Involved with SeaGL
 nav: get_involved
 body_id: get-involved
+page_supports_jumbotron: true
 ---
 
 <div class="row"><div class="col-md-8" markdown="1">
