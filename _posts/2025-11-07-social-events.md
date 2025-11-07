@@ -34,7 +34,7 @@ Saturday night’s social will begin with an hour long _security mixer and keysi
 
 Additional detail can be found in the [schedule](/schedule).
 
-_Please note_, both of the evening socials have a capacity of approximately **80 people**. If you find it too crowded, check-out the [Hallway Matrix room](https://matrix.to/#/#seagl2025-hallway:seattlematrix.org) to connect with other attendees who may be flocking to nearby venues.
+_Please note_, both of the evening socials have a capacity of approximately **80 people**. If you find it too crowded, check-out the [Hallway Matrix room](https://matrix.to/#/#SeaGL2025-Hallway:seattlematrix.org) to connect with other attendees who may be flocking to nearby venues.
 
 ## Social Media
 
