@@ -1493,10 +1493,10 @@ sponsors:
       horizontal: /img/sponsors/LinuxPrepperPodcast/LinuxPrepper_podcast_logo.png
       square:
     description: |-
-       Linux Prepper Podcast is a FOSS podcast which is created, and
-       self-hosted, by Living Cartoon Company and https://james.network,
-       dedicated to learning and using fully open tooling wherever possible.
-       Let's learn together!
+      Linux Prepper Podcast is a FOSS podcast which is created, and
+      self-hosted, by Living Cartoon Company and https://james.network,
+      dedicated to learning and using fully open tooling wherever possible.
+      Let's learn together!
     sponsorships:
       2025: media
 
@@ -1506,15 +1506,15 @@ sponsors:
       horizontal: /img/sponsors/LinuxProfessionalInstitute/LPI_Logo-Colour.png
       square:
     description: |-
-       Linux Professional Institute (LPI) is the global certification standard
-       and career support organization for open source professionals. With more
-       than 350,000 certification holders, it’s the world’s first and largest
-       vendor-neutral Linux and open source certification body. LPI has
-       certified professionals in over 180 countries, delivers exams in
-       multiple languages, and has hundreds of training partners.
+      Linux Professional Institute (LPI) is the global certification standard
+      and career support organization for open source professionals. With more
+      than 350,000 certification holders, it’s the world’s first and largest
+      vendor-neutral Linux and open source certification body. LPI has
+      certified professionals in over 180 countries, delivers exams in
+      multiple languages, and has hundreds of training partners.
 
-       Our mission is to promote the use of open source by supporting the
-       people who work with it.
+      Our mission is to promote the use of open source by supporting the
+      people who work with it.
     sponsorships:
       2025: media
 
@@ -1524,9 +1524,9 @@ sponsors:
       horizontal: /img/sponsors/BoonBoona/boon-boona-logo.png
       square: /img/sponsors/BoonBoona/logo-stroke_410x.svg
     description: |-
-       Boon Boona Coffee based in Renton, WA. An exclusively African sourcing
-       roaster and your destination for vibrant cafes, and fresh roast to order
-       brews.
+      Boon Boona Coffee based in Renton, WA. An exclusively African sourcing
+      roaster and your destination for vibrant cafes, and fresh roast to order
+      brews.
     sponsorships:
       2025: thanks
 
@@ -1536,7 +1536,17 @@ sponsors:
       horizontal: /img/sponsors/January/January_Wordmark_RGB_Blue.png
       square:
     description: |-
-       January helps consumers take control of their debt with flexible payment
-       options, settlements, and easy online account management.
+      January helps consumers take control of their debt with flexible payment
+      options, settlements, and easy online account management.
     sponsorships:
       2025: bronze
+
+  - name: y2k38
+    url:
+    logo:
+      horizontal:
+      square: /img/sponsors/y2k38/y2k38-512.png
+    description: |-
+      y2k38
+    sponsorships:
+      2025: thanks
