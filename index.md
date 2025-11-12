@@ -72,7 +72,7 @@ or join the {{ site.custom.a.mailing_list.seagl_announce }}.
 
 ## Exhibitors
 
-We will have a centralized hall available for in-person exhibitors at SeaGL 2025.
+We will have a centralized hall available for in-person exhibitors at SeaGL 2026.
 Free/libre/open-source software/hardware projects and non-profit organizations may request gratis space.
 There are also several paid sponsorship levels and add-ons for other relevant entities.
 If your group would like to exhibit at SeaGL, please

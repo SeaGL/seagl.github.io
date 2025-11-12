@@ -73,11 +73,12 @@ exclude:
 
 custom:
     # For various reasons, `year` isn't used in decent swaths of the relevant text - so make sure to still grep around for the old year
-    year:                   2025
-    dates:                  November 7th & 8th
+    year:                   2026
+    dates:                  November 6th & 7th
     location:               In-Person & Remote
     theme:                  Freedom Is In the Cards
-    nth_year_text:          thirteenth # As in, "nth annual event"
+    nth_year_text:          fourteenth # As in, "nth annual event"
+    nth_year_text_numeric:  14th
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Attend SeaGL 2025
+title: Attend SeaGL 2026
 ---
 
 <div class="row"><div class="col col-md-10 col-md-offset-1" markdown="1">
