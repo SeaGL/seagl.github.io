@@ -2,8 +2,8 @@
 layout: default
 redirect_from:
   - /attend-ephemeral
-title: Attend SeaGL 2025 Remotely
-description: How to attend SeaGL 2025 with an ephemeral Matrix account
+title: Attend SeaGL 2026 Remotely
+description: How to attend SeaGL 2026 with an ephemeral Matrix account
 ---
 
 # Attending SeaGL
@@ -34,7 +34,7 @@ Some things to know about Matrix and your {{ site.custom.year }} account:
 
 ## Step 3 - have fun at SeaGL!
 
-We hope you enjoy hanging out with our flock this year. Our friendly Matrix bot, Patch, will help guide you around the conference. If you have any questions, please bring them up in the ["Hallway"](https://attend.seagl.org/#/room/#2025-Hallway:seagl.org) or ["Info Booth"](https://attend.seagl.org/#/room/#2025-InfoBooth:seagl.org) rooms.
+We hope you enjoy hanging out with our flock this year. Our friendly Matrix bot, Patch, will help guide you around the conference. If you have any questions, please bring them up in the ["Hallway"](https://attend.seagl.org/#/room/#2026-Hallway:seagl.org) or ["Info Booth"](https://attend.seagl.org/#/room/#2026-InfoBooth:seagl.org) rooms.
 
 As a reminder, participation in any SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
 
