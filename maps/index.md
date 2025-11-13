@@ -7,6 +7,7 @@ title: Maps
 
 # SeaGL Maps
 
+- [SeaGL 2026 Maps](/maps/2026)
 - [SeaGL 2025 Maps](/maps/2025)
 - [SeaGL 2024 Maps](/maps/2024)
 - [SeaGL 2023 Maps](/maps/2023)

@@ -36,7 +36,7 @@ You can read more about the roles and process in this [2024 blog post](/news/202
 
 ## Partner with SeaGL
 
-We have a limited number of tables available for business and community partners of SeaGL 2026.
+We have a limited number of tables available for business and community partners of SeaGL {{ site.custom.year }}.
 {%- if site.custom.url.prospectus %} Groups and companies interested in attending should review our [Partnership & Sponsor Prospectus]({{ site.custom.url.prospectus }}) which outlines various fiscal tiers and add-ons.{% endif %}
 
 In-kind contributions are accepted from media and local partners.
