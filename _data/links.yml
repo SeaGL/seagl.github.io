@@ -1,11 +1,11 @@
 # - url: /cfp
 #   label: Submit a SeaGL talk
-- url: /schedule
-  label: View the SeaGL schedule
-- url: /maps/2025
-  label: Get to the SeaGL venue
-- url: /register
-  label: Let us know you're coming to SeaGL
+# - url: /schedule
+#   label: View the SeaGL schedule
+# - url: /maps/2026
+#   label: Get to the SeaGL venue
+# - url: /register
+#   label: Let us know you're coming to SeaGL
 - url: /feedback
   label: Leave feedback about SeaGL
 - url: /volunteer

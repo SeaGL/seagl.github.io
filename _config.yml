@@ -73,11 +73,12 @@ exclude:
 
 custom:
     # For various reasons, `year` isn't used in decent swaths of the relevant text - so make sure to still grep around for the old year
-    year:                   2025
-    dates:                  November 7th & 8th
+    year:                   2026
+    dates:                  November 6th & 7th
     location:               In-Person & Remote
     theme:                  Freedom Is In the Cards
-    nth_year_text:          thirteenth # As in, "nth annual event"
+    nth_year_text:          fourteenth # As in, "nth annual event"
+    nth_year_text_numeric:  14th
     license:
         content:            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
 
@@ -93,8 +94,8 @@ custom:
         mailing_list:
             seagl_announce: https://groups.google.com/forum/#!forum/seagl_announce
             seagl_organize: https://groups.google.com/forum/#!forum/seagl_organize
-        location:           /maps/2025
-        prospectus:         /sponsors/SeaGL_Partnership_Sponsor_Prospectus_2025.pdf
+        location:           /maps/2026
+        prospectus:         /sponsors/SeaGL_Partnership_Sponsor_Prospectus_2026.pdf
     a:
         email:
             award:          <a href="mailto:&#097;&#119;&#097;&#114;&#100;&#064;&#115;&#101;&#097;&#103;&#108;&#046;&#111;&#114;&#103;">&#097;&#119;&#097;&#114;&#100;&#064;&#115;&#101;&#097;&#103;&#108;&#046;&#111;&#114;&#103;</a>
@@ -117,7 +118,7 @@ custom:
         mailing_list:
             seagl_announce: <a href="https://groups.google.com/forum/#!forum/seagl_announce">announcement mailing list</a>
             seagl_organize: <a href="https://groups.google.com/forum/#!forum/seagl_organize">seagl_organize mailing list</a>
-        location:           <a href="/maps/2025">University of Washington</a>
+        location:           <a href="/maps/2026">University of Washington</a>
         status:             <a href="https://status.seagl.org/status/conference">System status</a>
     maps:
       google:

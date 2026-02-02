@@ -2,8 +2,8 @@
 layout: default
 redirect_from:
   - /attend-existing
-title: Attend SeaGL 2025 Remotely
-description: How to attend SeaGL 2025 with an existing Matrix account
+title: Attend SeaGL 2026 Remotely
+description: How to attend SeaGL 2026 with an existing Matrix account
 ---
 
 # Attend with your Matrix account
@@ -13,10 +13,10 @@ The remote part of SeaGL's hybrid conference uses a Matrix homeserver operated b
 Here's a button to get into the main conference space:
 
 <div class="text-center">
-  <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#SeaGL2025:seattlematrix.org">Join the SeaGL {{ site.custom.year }} space</a></p>
+  <p><a class="btn btn-primary btn-large" href="https://matrix.to/#/#SeaGL2026:seattlematrix.org">Join the SeaGL {{ site.custom.year }} space</a></p>
 </div>
 
-Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org> or find us in the [Info Booth](https://matrix.to/#/#2025-info-booth:seagl.org) room.
+Below are some tips on navigating the conference in Element. If you run into any trouble, you can always email <matrix-help@seagl.org> or find us in the [Info Booth](https://matrix.to/#/#2026-info-booth:seagl.org) room.
 
 As a reminder, participation in any SeaGL space is subject to our [Code of Conduct](/code_of_conduct).
 

@@ -1,3 +1,3 @@
 ---
-redirect_to: https://pretalx.seagl.org/2025/talk/
+redirect_to: /archive
 ---
