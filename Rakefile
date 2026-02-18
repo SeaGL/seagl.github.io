@@ -12,7 +12,7 @@ task :import, [:year] do |_t, args|
   year = args.year
 
   # Retrieve data
-  talks = get("https://pretalx.seagl.org/api/events/#{year}/talks/?state=confirmed")
+  submissions = get("https://pretalx.seagl.org/api/events/#{year}/submissions/?expand=slots,speakers&pending_state=confirmed")
 
   # Create a file for the conference
   write "_archive-conferences/#{year}.md", {
@@ -20,21 +20,23 @@ task :import, [:year] do |_t, args|
   }
 
   # Create a file for each session
-  talks.each do |talk|
-    write "_archive-sessions/#{year}/#{talk[:title].parameterize}.md", {
-      title: talk[:title],
-      pretalx_url: "https://pretalx.seagl.org/#{year}/talk/#{talk[:code]}/",
-      beginning: talk[:slot][:start],
-      end: talk[:slot][:end],
-      presenters: talk[:speakers].map do |speaker|
+  submissions.each do |submission|
+    raise 'Not implemented for multiple slots' unless submission[:slots].count == 1
+
+    write "_archive-sessions/#{year}/#{submission[:title].parameterize}.md", {
+      title: submission[:title],
+      pretalx_url: "https://pretalx.seagl.org/#{year}/talk/#{submission[:code]}/",
+      beginning: submission[:slots][0][:start],
+      end: submission[:slots][0][:end],
+      presenters: submission[:speakers].map do |speaker|
         {
           name: speaker[:name],
           pretalx_url: "https://pretalx.seagl.org/#{year}/speaker/#{speaker[:code]}/",
           biography: speaker[:biography]
         }
       end,
-      abstract: talk[:description] ? talk[:abstract] : nil
-    }.compact, talk[:description] || talk[:abstract]
+      abstract: submission[:description] ? submission[:abstract] : nil
+    }.compact, submission[:description] || submission[:abstract]
   end
 end
 
