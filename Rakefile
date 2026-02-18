@@ -12,7 +12,7 @@ task :import, [:year] do |_t, args|
   year = args.year
 
   # Retrieve data
-  talks = get("https://pretalx.seagl.org/api/events/#{year}/talks/?limit=1000&state=confirmed")
+  talks = get("https://pretalx.seagl.org/api/events/#{year}/talks/?state=confirmed")
 
   # Create a file for the conference
   write "_archive-conferences/#{year}.md", {
@@ -39,10 +39,12 @@ task :import, [:year] do |_t, args|
 end
 
 def get(url)
-  puts "Retrieving #{url}"
-  response = JSON.parse(URI.open(url).read).deep_symbolize_keys!.deep_transform_values! { |v| normalize(v) }
-  raise "Not implemented for paginated responses" if response[:next]
-  response[:results]
+  Enumerator.produce({ next: url, results: [] }) { |response|
+    puts "Retrieving #{response[:next]}"
+    JSON.parse(URI.open(response[:next]).read).deep_symbolize_keys!.deep_transform_values! { |v| normalize(v) }
+  }
+    .take_while { |response| response[:next] and sleep 1 }
+    .flat_map { |response| response[:results] }
 end
 
 def normalize(value)
