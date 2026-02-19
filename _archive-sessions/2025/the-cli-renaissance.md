@@ -1,6 +1,5 @@
 ---
-title: 'The CLI Renaissance: Why Command Lines Matter in the Age of AI and the Promise
-  of MCP'
+title: 'The CLI Renaissance: Why Command Lines Matter in the Age of AI and the Promise of MCP'
 pretalx_url: https://pretalx.seagl.org/2025/talk/9PWA3Q/
 beginning: '2025-11-08T11:30:00-08:00'
 end: '2025-11-08T12:20:00-08:00'

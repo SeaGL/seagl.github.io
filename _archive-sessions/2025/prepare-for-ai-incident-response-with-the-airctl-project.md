@@ -1,6 +1,5 @@
 ---
-title: Learn practical skills TODAY to prepare for AI Incident Response with the AIRCTL
-  Project
+title: Learn practical skills TODAY to prepare for AI Incident Response with the AIRCTL Project
 pretalx_url: https://pretalx.seagl.org/2025/talk/DFQ38B/
 beginning: '2025-11-07T14:00:00-08:00'
 end: '2025-11-07T14:50:00-08:00'

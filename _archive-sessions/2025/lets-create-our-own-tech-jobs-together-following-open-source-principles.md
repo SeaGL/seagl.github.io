@@ -13,6 +13,9 @@ presenters:
 ---
 
 I just moved to Seattle. I came from Los Angeles, a city of freelancers, whether by choice or necessity.
+
 In Seattle, I've met lots of techies who are either unhappily unemployed or unhappily employed. Individually, most can’t build a consultancy or take on the risk of a startup.
+
 But tech workers do collectively have the skills and resources to create more and better jobs for themselves. What if we treated job creation (tech and non-tech) as a community project, just like software creation?
+
 I propose for Seattle a community-driven job-creation project based on the United Nations Open Source Principles. My thoughts draw on what the open-source community has learned about making software projects welcoming, scalable, and sustainable.

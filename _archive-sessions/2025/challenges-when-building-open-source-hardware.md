@@ -3,6 +3,7 @@ title: Challenges When Building Open Source Hardware
 pretalx_url: https://pretalx.seagl.org/2025/talk/8KSBXV/
 beginning: '2025-11-07T09:40:00-08:00'
 end: '2025-11-07T10:10:00-08:00'
+keynote: true
 presenters:
 - name: Nadya Peek
   pretalx_url: https://pretalx.seagl.org/2025/speaker/VTWPXZ/
@@ -13,4 +14,5 @@ presenters:
 ---
 
 Manufacturing hardware (devices, machines, objects) is a challenging task. High-volume sales can offset costs of production, but niche products struggle with viability. Distributed production of open source designs---having people build their own niche products---is a possible alternative.
+
 In this talk, I will describe how digital fabrication like 3D printing, CNC milling, etc. can be used for distributed production and contrast that approach with centralized production. Through example open source hardware projects I will highlight design features that work well and less well, how community support is crucial for replication, and give recommendations for how to make more distributed production possible.

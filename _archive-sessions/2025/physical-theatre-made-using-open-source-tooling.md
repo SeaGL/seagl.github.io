@@ -4,7 +4,8 @@ pretalx_url: https://pretalx.seagl.org/2025/talk/EWCUGD/
 beginning: '2025-11-07T17:00:00-08:00'
 end: '2025-11-07T17:50:00-08:00'
 presenters:
-- name: James Sundquist (Living Cartoon Company)
+- name: James Sundquist
+  affiliation: Living Cartoon Company
   pretalx_url: https://pretalx.seagl.org/2025/speaker/3GF9A8/
   biography: Founder of Living Cartoon Company, making and touring [original theatrical
     shows](https://james.network/about/) around the USA. Started [Linux Prepper podcast](https://podcast.james.network)

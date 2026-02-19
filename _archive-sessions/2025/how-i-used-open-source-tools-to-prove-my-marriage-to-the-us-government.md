@@ -1,6 +1,5 @@
 ---
-title: How I used open-source tools to prove my marriage to the US Government (No
-  Streaming)
+title: How I used open-source tools to prove my marriage to the US Government
 pretalx_url: https://pretalx.seagl.org/2025/talk/PSBSUU/
 beginning: '2025-11-08T16:30:00-08:00'
 end: '2025-11-08T16:50:00-08:00'

@@ -10,8 +10,8 @@ presenters:
     builder, producer, debugger, architect, leader, manager, lecturer, author, administrator,
     CISO, and CTO. He has logged professional successes in markets of all maturities,
     sizes, and scales, from startups to big enterprise. He's most proud of his family,
-    growing Mifos (mifos.org), founding SeaGL (seagl.org), selling C-SATS (csats.com),
-    and self-publishing his book about self-hosting (selfhostbook.com).
+    growing Mifos ([mifos.org](https://mifos.org/)), founding SeaGL ([seagl.org](https://seagl.org/)), selling C-SATS ([csats.com](https://csats.com/)),
+    and self-publishing his book about self-hosting ([selfhostbook.com](https://selfhostbook.com/)).
 ---
 
 Join Adam's talk to learn how to stand up offline AI models for powerful and privacy-friendly advanced interactions with your own data. Chat with your documents, generate ideas, and pair with a virtual programmer. Take these techniques to the workplace to supercharge your business without sacrificing its data. Together we'll explore several methods for setting up models and interacting with them through both end-user and developer-level interfaces.

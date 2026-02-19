@@ -3,6 +3,7 @@ title: The Seattle Community Network Stack
 pretalx_url: https://pretalx.seagl.org/2025/talk/NZUCYJ/
 beginning: '2025-11-08T09:10:00-08:00'
 end: '2025-11-08T09:40:00-08:00'
+keynote: true
 presenters:
 - name: Esther Jang
   pretalx_url: https://pretalx.seagl.org/2025/speaker/JPJYWT/

@@ -1,6 +1,5 @@
 ---
-title: 'The Cathedral and the Bizarre II: Branches of Faith or, Committing Code Not
-  Sins'
+title: 'The Cathedral and the Bizarre II: Branches of Faith or, Committing Code Not Sins'
 pretalx_url: https://pretalx.seagl.org/2025/talk/SVTBXG/
 beginning: '2025-11-07T14:00:00-08:00'
 end: '2025-11-07T14:50:00-08:00'

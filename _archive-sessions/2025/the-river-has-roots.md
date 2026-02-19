@@ -3,6 +3,7 @@ title: 'The River Has Roots: Lessons in Open Source'
 pretalx_url: https://pretalx.seagl.org/2025/talk/9JEFYQ/
 beginning: '2025-11-08T09:40:00-08:00'
 end: '2025-11-08T10:10:00-08:00'
+keynote: true
 presenters:
 - name: Allison Randal
   pretalx_url: https://pretalx.seagl.org/2025/speaker/NTLZA3/

@@ -1,5 +1,5 @@
 ---
-title: "“Hidden in Plain Sight: Addressing Data Bias in AI-Driven Systems”"
+title: 'Hidden in Plain Sight: Addressing Data Bias in AI-Driven Systems'
 pretalx_url: https://pretalx.seagl.org/2025/talk/ETZQ8V/
 beginning: '2025-11-08T14:00:00-08:00'
 end: '2025-11-08T14:50:00-08:00'
@@ -8,6 +8,7 @@ presenters:
   pretalx_url: https://pretalx.seagl.org/2025/speaker/YS3FXW/
   biography: |-
     Autumn is a Software Engineer at Microsoft Azure specializing in Linux security. In her previous role at AWS as a software engineer, she focused on the development and release of Amazon Corretto (Java) while actively engaging in the OpenJDK community; before that, she worked as an AWS NoSQL Database Solutions Architect and created educational content in Python and Java.
+
     Autumn co-hosts the exciting new "Fork Around and Find Out" podcast, sharing stories on tech lessons learned, with her previous co-host of the popular "Ship It!" podcast. A proud mom and "Rewriting the Code" alumni, Autumn serves as the Board Chair of Education at MilSpouse Coders.
 ---
 

@@ -28,4 +28,4 @@ abstract: 'In an era where data privacy and security are paramount, self-hosting
 
 Reclaim your email with a self-hosted Debian GNU/Linux server! This presentation demystifies self-hosting email, proving it’s neither overly complex nor impractical for individuals, families, or small businesses. Learn how to achieve privacy through data ownership, secure your server with encryption (TLS) and authentication (SPF, DKIM, DMARC), optimize delivery with clean DNS management and spam filtering (SpamAssassin, sieve), and provide user-friendly access via Roundcube webmail. We’ll cover server/VPS hardening, autodiscovery, and server policies, offering practical, step-by-step guidance based on proven Debian tools like Postfix and Dovecot. Whether a hobbyist or small business sysadmin, walk away empowered to reclaim your email with confidence!
 
-Post-conference Matrix support (https://matrix.to/#/#pubglug:gnulinux.club) is available for attendees eager to set up their own self-hosted server.
+Post-conference Matrix support (<https://matrix.to/#/#pubglug:gnulinux.club>) is available for attendees eager to set up their own self-hosted server.

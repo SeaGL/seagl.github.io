@@ -1,5 +1,5 @@
 ---
-title: Evaluating FOSS Projects; applying Habermas' Theory of Communicative Action'
+title: "Evaluating FOSS Projects; applying Habermas' Theory of Communicative Action"
 pretalx_url: https://pretalx.seagl.org/2025/talk/QR89R9/
 beginning: '2025-11-07T12:00:00-08:00'
 end: '2025-11-07T12:20:00-08:00'
