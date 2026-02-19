@@ -3,6 +3,8 @@ title: 'Intro to OpenTofu: Open Source IaC Overview'
 pretalx_url: https://pretalx.seagl.org/2025/talk/8KQGXX/
 beginning: '2025-11-08T15:00:00-08:00'
 end: '2025-11-08T15:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Intro_to_OpenTofu
 presenters:
 - name: Ted Matsumura
   pretalx_url: https://pretalx.seagl.org/2025/speaker/ZSTZSD/

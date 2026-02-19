@@ -3,6 +3,8 @@ title: What's a Data Lake and What Does It Mean For My Open Source Analytics Sta
 pretalx_url: https://pretalx.seagl.org/2025/talk/D7VANS/
 beginning: '2025-11-07T11:30:00-08:00'
 end: '2025-11-07T11:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Whats_a_Data_Lake_and_What_Does_It_Mean_For_My_Open_Source_Analytics_Stack
 presenters:
 - name: Robert Hodges
   pretalx_url: https://pretalx.seagl.org/2025/speaker/CP7PJE/
