@@ -3,6 +3,8 @@ title: 'Full Circle: From Programmer to Lawyer to Open Program Office Manager'
 pretalx_url: https://pretalx.seagl.org/2025/talk/KFGUTN/
 beginning: '2025-11-07T11:30:00-08:00'
 end: '2025-11-07T12:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Full_Circle
 presenters:
 - name: Ria Farrell Schalnat
   pretalx_url: https://pretalx.seagl.org/2025/speaker/C8VCAV/

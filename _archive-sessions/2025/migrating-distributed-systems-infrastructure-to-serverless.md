@@ -3,6 +3,8 @@ title: 'Migrating Distributed Systems Infrastructure to Serverless: Methodology 
 pretalx_url: https://pretalx.seagl.org/2025/talk/EDV7EZ/
 beginning: '2025-11-08T10:30:00-08:00'
 end: '2025-11-08T11:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Migrating_Distributed_Systems_Infrastructure_to_Serverless
 presenters:
 - name: Priya Ananthasankar
   pretalx_url: https://pretalx.seagl.org/2025/speaker/GAE3EN/

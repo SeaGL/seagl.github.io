@@ -3,6 +3,8 @@ title: "Evaluating FOSS Projects; applying Habermas' Theory of Communicative Act
 pretalx_url: https://pretalx.seagl.org/2025/talk/QR89R9/
 beginning: '2025-11-07T12:00:00-08:00'
 end: '2025-11-07T12:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Evaluating_FOSS_Projects
 presenters:
 - name: Delib
   pretalx_url: https://pretalx.seagl.org/2025/speaker/PTSMJP/

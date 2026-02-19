@@ -3,6 +3,8 @@ title: 'Coop-Cloud: Democratically built and governed cloud'
 pretalx_url: https://pretalx.seagl.org/2025/talk/BXX88L/
 beginning: '2025-11-08T11:30:00-08:00'
 end: '2025-11-08T12:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Coop-Cloud
 presenters:
 - name: Ammar
   pretalx_url: https://pretalx.seagl.org/2025/speaker/N7M9VB/
