@@ -8,7 +8,7 @@ categories: news
 tags: '2026'
 ---
 
-SeaGL is an all-volunteer conference, and we are looking for more organizers to help make SeaGL 2026 happen. Our biggest need right now is for coordinators on three committees: Attendee Experience, IDEA, and Policy & Protocol.
+SeaGL runs on volunteer energy, shared effort, and a lot of care, and we are looking for more organizers to help bring SeaGL 2026 to life. If you have been thinking about lending a wing, our biggest need right now is for coordinators on three committees: Attendee Experience, IDEA, and Policy & Protocol.
 
 ## Coordinator openings
 
