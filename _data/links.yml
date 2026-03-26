@@ -1,5 +1,7 @@
 - url: /get_involved
   label: Get involved with SeaGL 2026
+- url: /sponsors
+  label: Become a SeaGL sponsor
 # - url: /cfp
 #   label: Submit a SeaGL talk
 # - url: /schedule
@@ -8,21 +10,15 @@
 #   label: Get to the SeaGL venue
 # - url: /register
 #   label: Let us know you're coming to SeaGL
-- url: /feedback
-  label: Leave feedback about SeaGL
-- url: /volunteer
-  label: Volunteer with SeaGL
-
+# - url: /blog
+#   label: Read SeaGL blog posts
 - url: https://chat.seagl.org
   label: Chat with the SeaGL community
 - url: https://groups.google.com/g/seagl_announce
   label: Join the low-traffic SeaGL mailing list
-
-# - url: /blog
-#   label: Read SeaGL blog posts
-- url: /donate
-  label: Donate to SeaGL
-- url: /sponsors
-  label: Become a SeaGL sponsor
 - url: /keynote-suggestions
   label: Suggest a SeaGL Keynote
+- url: /donate
+  label: Donate to SeaGL
+- url: /feedback
+  label: Leave feedback about SeaGL
