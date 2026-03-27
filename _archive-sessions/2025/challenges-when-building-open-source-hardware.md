@@ -4,6 +4,8 @@ pretalx_url: https://pretalx.seagl.org/2025/talk/8KSBXV/
 beginning: '2025-11-07T09:40:00-08:00'
 end: '2025-11-07T10:10:00-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2025-Challenges_When_Building_Open_Source_Hardware
 presenters:
 - name: Nadya Peek
   pretalx_url: https://pretalx.seagl.org/2025/speaker/VTWPXZ/

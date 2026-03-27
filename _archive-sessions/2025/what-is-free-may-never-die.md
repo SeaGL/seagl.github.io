@@ -3,6 +3,8 @@ title: What Is Free May Never Die
 pretalx_url: https://pretalx.seagl.org/2025/talk/FNRU7M/
 beginning: '2025-11-07T11:00:00-08:00'
 end: '2025-11-07T11:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-What_Is_Free_May_Never_Die
 presenters:
 - name: Romeo S
   pretalx_url: https://pretalx.seagl.org/2025/speaker/RYYEKJ/

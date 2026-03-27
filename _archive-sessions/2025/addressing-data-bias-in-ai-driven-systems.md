@@ -3,6 +3,8 @@ title: 'Hidden in Plain Sight: Addressing Data Bias in AI-Driven Systems'
 pretalx_url: https://pretalx.seagl.org/2025/talk/ETZQ8V/
 beginning: '2025-11-08T14:00:00-08:00'
 end: '2025-11-08T14:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Hidden_in_Plain_Sight
 presenters:
 - name: Autumn Nash
   pretalx_url: https://pretalx.seagl.org/2025/speaker/YS3FXW/
