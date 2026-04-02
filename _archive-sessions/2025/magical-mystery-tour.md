@@ -3,6 +3,8 @@ title: 'Magical Mystery Tour: A Roundup of Observability Datastores'
 pretalx_url: https://pretalx.seagl.org/2025/talk/3GKV8X/
 beginning: '2025-11-07T15:00:00-08:00'
 end: '2025-11-07T15:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Magical_Mystery_Tour
 presenters:
 - name: Joshua Lee
   pretalx_url: https://pretalx.seagl.org/2025/speaker/SYVWDX/
