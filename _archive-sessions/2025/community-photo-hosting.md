@@ -3,6 +3,8 @@ title: 'Resist Tech Monopolies: Community Photo Hosting'
 pretalx_url: https://pretalx.seagl.org/2025/talk/XE8TL3/
 beginning: '2025-11-07T16:00:00-08:00'
 end: '2025-11-07T16:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Community_Photo_Hosting
 presenters:
 - name: Linnea
   pretalx_url: https://pretalx.seagl.org/2025/speaker/MAWUWN/

@@ -3,6 +3,8 @@ title: "Developing on Nextcloud in 2025: What's New?"
 pretalx_url: https://pretalx.seagl.org/2025/talk/3ZJJA3/
 beginning: '2025-11-07T14:00:00-08:00'
 end: '2025-11-07T14:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Developing_on_Nextcloud_in_2025
 presenters:
 - name: Edward Ly
   pretalx_url: https://pretalx.seagl.org/2025/speaker/J8GBFV/
