@@ -193,7 +193,7 @@ sponsors:
   - name: Linux Magazine
     url: https://www.Linux-Magazine.com/
     logo:
-      horizontal: /img/sponsors/LinuxMagazine/LMI_Logo_Transparent.png
+      horizontal: /img/sponsors/LinuxMagazine/LM_25year_Logo_600x300.png
       square:
     description: |-
       Linux Magazine is your guide to the world of Linux and open source. Each
@@ -207,6 +207,7 @@ sponsors:
       2023: media
       2024: media
       2025: media
+      2026: media
 
   - name: Linux Pro Magazine
     url: https://www.linuxpromagazine.com/
@@ -508,6 +509,7 @@ sponsors:
       2022: thanks
       2024: thanks
       2025: thanks
+      2026: thanks
 
   - name: Free Software Foundation
     url: https://www.fsf.org/
@@ -567,6 +569,7 @@ sponsors:
       2023: thanks
       2024: thanks
       2025: thanks
+      2026: thanks
 
   - name: Northeastern University Seattle
     url: https://www.northeastern.edu/seattle/
@@ -1036,6 +1039,7 @@ sponsors:
       2023: thanks
       2024: thanks
       2025: thanks
+      2026: thanks
 
   - name: Electronic Frontier Foundation
     url: https://www.eff.org/
@@ -1156,6 +1160,7 @@ sponsors:
       2023: thanks
       2024: thanks
       2025: thanks
+      2026: thanks
 
   - name: Ubuntu Community Fund
     url: https://ubuntu.com/community
@@ -1283,6 +1288,7 @@ sponsors:
       2023: thanks
       2024: thanks
       2025: thanks
+      2026: thanks
 
   - name: DevOpsDays Seattle
     url: https://devopsdays.org/events/2024-seattle/
