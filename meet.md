@@ -3,6 +3,7 @@ layout: default
 redirect_from:
   - /chat
 title: Community Chat
+page_supports_jumbotron: true
 ---
 
 # Community Chat

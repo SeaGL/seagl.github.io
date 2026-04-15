@@ -483,6 +483,47 @@ img.align-center {
   align-items: center;
 }
 
+.links-event {
+  width: min(88%, 30rem);
+  margin: 0.75rem auto 0;
+  padding: 1.2rem 1.4rem;
+  border: 2px solid #0C5A73;
+  border-radius: 24px;
+  background: rgba(247, 245, 239, 0.96);
+  box-shadow: 0 8px 22px 0 rgba(0,0,0,0.18);
+  text-align: center;
+}
+
+.links-event-date,
+.links-event-location {
+  margin: 0;
+}
+
+.links-event-date {
+  color: #d48a00;
+  font-family: 'Dosis', sans-serif;
+  font-size: 2.2rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1.2;
+}
+
+.links-event-location {
+  margin-top: 0.7rem;
+  color: #0C5A73;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.links-event-location a {
+  color: #0C5A73;
+  text-decoration: underline;
+  text-decoration-color: #f9b225;
+  text-decoration-thickness: 0.12rem;
+  text-underline-offset: 0.15rem;
+}
+
 #links {
   display: flex;
   flex-direction: column;
@@ -506,11 +547,11 @@ img.align-center {
   width: 100%;
   max-width: 600px;
   margin: 0 auto;
-  justify-content: center;
+  justify-content: flex-start;
   list-style: none;
-  min-height: 60vh;
+  min-height: 0;
   gap: 1.9rem;
-  padding: 2rem 0;
+  padding: 1.5rem 0 2rem;
 }
 
 .links a {
@@ -542,4 +583,23 @@ img.align-center {
   color: #f9b225;
   border-color: #f9b225; 
   box-shadow: 0 8px 24px 0 rgba(0,0,0,0.5);
+}
+
+@media (max-width: 560px) {
+  .links-event {
+    width: min(92%, 30rem);
+    padding: 1rem 1.2rem;
+  }
+
+  .links-event-date {
+    font-size: 1.9rem;
+  }
+
+  .links-event-location {
+    font-size: 1.5rem;
+  }
+
+  .links a {
+    width: 82%;
+  }
 }

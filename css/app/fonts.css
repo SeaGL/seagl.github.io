@@ -2,13 +2,13 @@
   font-family: 'Dosis';
   font-style: normal;
   font-weight: 400;
-  src: local('Dosis Regular'), local('Dosis-Regular'), url(/fonts/doris_regular.ttf) format('truetype');
+  src: local('Dosis Regular'), local('Dosis-Regular'), url(/fonts/dosis_regular_v1.007.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Dosis';
   font-style: normal;
   font-weight: 700;
-  src: local('Dosis Bold'), local('Dosis-Bold'), url(/fonts/doris_bold.ttf) format('truetype');
+  src: local('Dosis Bold'), local('Dosis-Bold'), url(/fonts/dosis_bold_v1.007.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Lato';
