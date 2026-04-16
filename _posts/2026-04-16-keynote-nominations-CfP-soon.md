@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SeaGL 2026: Call for Proposal Opens Soon"
+title: "SeaGL 2026: Keynote Nominations and CfP Opens Soon"
 status: publish
 type: post
 published: true
@@ -8,11 +8,11 @@ categories: news
 tags: "2026"
 ---
 
-SeaGL 2026 is coming together, and we have a handful of exciting updates to share with the community. We are so excited to let you know that our Call for Proposals is opening next week! 🎉
+SeaGL 2026 is coming together, and we have a handful of exciting updates to share with the community. 🎉
 
 ## 🔑 Help us choose our keynote speakers
 
-Keynotes set the tone for the entire conference, and we think the SeaGL community is in the best position to help us get them right. This year, we are asking attendees, past speakers, volunteers, and anyone who cares about SeaGL to nominate someone they think would make a meaningful and inspiring keynote speaker.
+Keynote speakers are a vital part of our conference, and we'd love the SeaGL community's help in finding voices to highlight on the main stage! If you're an attendee, past speaker, volunteer, or simply someone who cares about SeaGL, we'd really appreciate it if you'd nominate someone who would make a meaningful and inspiring keynote speaker.
 
 Consider nominating people whose work you admire, advocacy has made a difference, or perspective you think would challenge and energize an audience of free and open source software enthusiasts.
 
