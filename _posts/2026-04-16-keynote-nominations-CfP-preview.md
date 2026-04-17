@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Keynote Nominations and CfP Preview"
-status: publish
+status: draft
 type: post
-published: true
+published: false
 categories: news
 tags: "2026"
 ---
