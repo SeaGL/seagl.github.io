@@ -23,7 +23,7 @@ As we returned to hosting in-person activities in 2023, SeaGL added a Health and
 
 Our Health and Safety Policy encourages facial coverings in spaces where distancing cannot be maintained, expects full vaccination and voluntary testing by attendees, and includes mitigations in the form of outdoor ventilation, as suggested by the [Public Health Pledge’s badging standard](https://publichealthpledge.com/badging).
 
-Any policy updates we publish will not be weakened before the 2026 event held on November 6th and 7th.
+Any policy updates we publish will not be weakened before the {{ site.custom.year }} event held on {{ site.custom.dates }}.
 
 
 ## Definitions
