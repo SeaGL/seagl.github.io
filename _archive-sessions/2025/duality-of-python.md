@@ -3,6 +3,8 @@ title: Duality of Python
 pretalx_url: https://pretalx.seagl.org/2025/talk/DU8YUQ/
 beginning: '2025-11-07T17:30:00-08:00'
 end: '2025-11-07T17:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Duality_of_Python
 presenters:
 - name: Jeremiah Paige
   pretalx_url: https://pretalx.seagl.org/2025/speaker/BY78H8/

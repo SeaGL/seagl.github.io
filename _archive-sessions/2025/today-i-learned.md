@@ -3,6 +3,8 @@ title: Today I Learned.... The 2025 FLOSS Research Roundup
 pretalx_url: https://pretalx.seagl.org/2025/talk/QAZYWP/
 beginning: '2025-11-08T14:00:00-08:00'
 end: '2025-11-08T14:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Today_I_Learned
 presenters:
 - name: Kaylea Champion
   pretalx_url: https://pretalx.seagl.org/2025/speaker/F9W3RW/
