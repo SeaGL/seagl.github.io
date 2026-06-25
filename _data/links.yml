@@ -2,8 +2,8 @@
   label: Volunteer with SeaGL
 - url: /sponsor
   label: Become a SeaGL sponsor
-# - url: /cfp
-#   label: Submit a SeaGL talk
+- url: /cfp
+  label: Submit a SeaGL talk
 # - url: /schedule
 #   label: View the SeaGL schedule
 # - url: /maps/2026
