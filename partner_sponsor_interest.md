@@ -31,5 +31,5 @@ redirect_from:
   - /partnership-sponsorship-interest
   - /Partnership_Sponsorship_Interest
   - /Partnership-Sponsorship-Interest
-redirect_to: https://cloud.seagl.org/index.php/apps/forms/s/CPnMEygADFipQJcXGrTZkWXZ
+redirect_to: https://cloud.seagl.org/apps/forms/s/ebx9AGnn7KQcgmrfMJ5yfFnZ
 ---
