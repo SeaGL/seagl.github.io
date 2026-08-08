@@ -3,6 +3,8 @@ title: 'No More Mystery Brownies: SBOMs, security errata, and the recipe for saf
 pretalx_url: https://pretalx.seagl.org/2025/talk/HM7MSP/
 beginning: '2025-11-08T17:00:00-08:00'
 end: '2025-11-08T17:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-No_More_Mystery_Brownies
 presenters:
 - name: Brady Dibble
   pretalx_url: https://pretalx.seagl.org/2025/speaker/FBFPUE/

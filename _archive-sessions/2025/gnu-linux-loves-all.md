@@ -3,6 +3,8 @@ title: GNU/Linux Loves All
 pretalx_url: https://pretalx.seagl.org/2025/talk/LSJMPH/
 beginning: '2025-11-08T17:00:00-08:00'
 end: '2025-11-08T17:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-GNU_Linux_Loves_All
 presenters:
 - name: Timmy James Barnett
   pretalx_url: https://pretalx.seagl.org/2025/speaker/GS8GGN/

@@ -3,6 +3,8 @@ title: 'Open training for Open research: the Digital Research Academy'
 pretalx_url: https://pretalx.seagl.org/2025/talk/BV33RQ/
 beginning: '2025-11-07T10:30:00-08:00'
 end: '2025-11-07T10:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Digital_Research_Academy
 presenters:
 - name: Laura Carter
   pretalx_url: https://pretalx.seagl.org/2025/speaker/PXZBWX/

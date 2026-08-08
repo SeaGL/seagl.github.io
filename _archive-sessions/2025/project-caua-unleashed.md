@@ -3,6 +3,8 @@ title: Project Caua Unleashed!
 pretalx_url: https://pretalx.seagl.org/2025/talk/CVEEAA/
 beginning: '2025-11-08T10:30:00-08:00'
 end: '2025-11-08T11:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Project_Caua_Unleashed
 presenters:
 - name: maddog
   pretalx_url: https://pretalx.seagl.org/2025/speaker/WYYHP8/

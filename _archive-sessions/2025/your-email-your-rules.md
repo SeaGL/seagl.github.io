@@ -3,6 +3,8 @@ title: 'Your Email, Your Rules: Self-Hosting Simplified'
 pretalx_url: https://pretalx.seagl.org/2025/talk/VLM7AS/
 beginning: '2025-11-07T17:00:00-08:00'
 end: '2025-11-07T17:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Your_Email_Your_Rules
 presenters:
 - name: Jonathan Haack
   pretalx_url: https://pretalx.seagl.org/2025/speaker/CFKEEE/

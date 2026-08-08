@@ -4,6 +4,8 @@ pretalx_url: https://pretalx.seagl.org/2025/talk/88THX7/
 beginning: '2025-11-07T09:10:00-08:00'
 end: '2025-11-07T09:40:00-08:00'
 keynote: true
+resources:
+  internet_archive_identifier: SeaGL2025-Free_the_Social_Web
 presenters:
 - name: Evan Prodromou
   pretalx_url: https://pretalx.seagl.org/2025/speaker/MLRPVG/

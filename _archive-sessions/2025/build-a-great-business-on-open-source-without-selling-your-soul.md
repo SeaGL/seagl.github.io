@@ -3,6 +3,8 @@ title: Build a Great Business on Open Source without Selling Your Soul
 pretalx_url: https://pretalx.seagl.org/2025/talk/DYCBJX/
 beginning: '2025-11-07T10:30:00-08:00'
 end: '2025-11-07T10:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Build_a_Great_Business_on_Open_Source_without_Selling_Your_Soul
 presenters:
 - name: Robert Hodges
   pretalx_url: https://pretalx.seagl.org/2025/speaker/CP7PJE/

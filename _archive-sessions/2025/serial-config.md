@@ -3,6 +3,8 @@ title: 'Serial Config: Compiling Applications for Embedded Interactivity'
 pretalx_url: https://pretalx.seagl.org/2025/talk/PY8QLS/
 beginning: '2025-11-07T12:00:00-08:00'
 end: '2025-11-07T12:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Serial_Config
 presenters:
 - name: Simon
   pretalx_url: https://pretalx.seagl.org/2025/speaker/TUSHLL/

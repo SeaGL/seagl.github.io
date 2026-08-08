@@ -3,6 +3,8 @@ title: Local Offline AI
 pretalx_url: https://pretalx.seagl.org/2025/talk/VD9V3K/
 beginning: '2025-11-08T15:00:00-08:00'
 end: '2025-11-08T15:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Local_Offline_AI
 presenters:
 - name: Adam Monsen
   pretalx_url: https://pretalx.seagl.org/2025/speaker/ZJ7FYW/

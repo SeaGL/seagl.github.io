@@ -3,6 +3,8 @@ title: 'The Cathedral and the Bizarre II: Branches of Faith or, Committing Code 
 pretalx_url: https://pretalx.seagl.org/2025/talk/SVTBXG/
 beginning: '2025-11-07T14:00:00-08:00'
 end: '2025-11-07T14:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-The_Cathedral_and_the_Bizarre_II
 presenters:
 - name: Toby Betts
   pretalx_url: https://pretalx.seagl.org/2025/speaker/W88XVL/

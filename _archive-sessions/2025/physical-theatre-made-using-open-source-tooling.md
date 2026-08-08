@@ -3,6 +3,8 @@ title: Physical Theatre, made using open source tooling
 pretalx_url: https://pretalx.seagl.org/2025/talk/EWCUGD/
 beginning: '2025-11-07T17:00:00-08:00'
 end: '2025-11-07T17:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Physical_Theatre_made_using_open_source_tooling
 presenters:
 - name: James Sundquist
   affiliation: Living Cartoon Company

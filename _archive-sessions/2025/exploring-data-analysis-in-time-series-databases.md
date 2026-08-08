@@ -3,6 +3,8 @@ title: Exploring Data Analysis in Time Series Databases
 pretalx_url: https://pretalx.seagl.org/2025/talk/JCCBUJ/
 beginning: '2025-11-07T11:00:00-08:00'
 end: '2025-11-07T11:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Exploring_Data_Analysis_in_Time_Series_Databases
 presenters:
 - name: DIma Lazerka
   pretalx_url: https://pretalx.seagl.org/2025/speaker/U8ZLXL/

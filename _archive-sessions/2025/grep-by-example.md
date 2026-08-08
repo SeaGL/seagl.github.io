@@ -3,6 +3,8 @@ title: grep by example
 pretalx_url: https://pretalx.seagl.org/2025/talk/9DPTWS/
 beginning: '2025-11-08T10:30:00-08:00'
 end: '2025-11-08T11:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-grep_by_example
 presenters:
 - name: lufthans
   pretalx_url: https://pretalx.seagl.org/2025/speaker/GXPWFF/
