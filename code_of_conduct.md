@@ -17,7 +17,7 @@ SeaGL is dedicated to providing a harassment-free conference experience for ever
 
 This Code of Conduct (CoC) applies during the entire conference and in any conference associate space, online or otherwise. Which includes, but is not limited to: the conference venue, presentation spaces, exhibition hall, evening gatherings, social media, Google groups, email lists, and online channels (Matrix or IRC).
 
-**Harassment includes any of the following and/or any action that discriminates against an individual based on gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, nationality, race, citizenship and/or refugee status, religion, or employment status:**
+**Harassment includes any of the following and/or any action that discriminates against an individual based on gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, citizenship and/or refugee status, or employment status:**
 
   - Offensive verbal, written, or chat comments
   - Sustained disruption of talks or events
