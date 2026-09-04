@@ -46,4 +46,4 @@ Toby has been a dedicated speaker at SeaGL for several years, regaling audiences
 
 ## CFP Review Results
 
-Thank you so much for those of you who have submitted proposals! Stay patiently perched and watch the skies 🕊️ because our review results will be sent out to you shortly.
+Thank you so much for those of you who have submitted proposals! Watch the skies 🕊️ or check your emails because our review results have been sent out.
