@@ -1560,10 +1560,10 @@ sponsors:
       2026: thanks
 
   - name: ExpressVPN
-    url:
+    url: https://github.com/expressvpn/lightway
     logo:
       horizontal:
-      square: /img/sponsors/y2k38/y2k38-512.png
+      square: /img/sponsors/ExpressVPN/ExpressVPN-logo.svg
     description: |-
       Since 2009, ExpressVPN has empowered millions of users to take control of
       their internet experience. The company’s award-winning consumer VPN
