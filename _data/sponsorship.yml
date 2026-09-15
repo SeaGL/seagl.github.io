@@ -1427,10 +1427,11 @@ sponsors:
       horizontal: /img/sponsors/devhack/devhack-s.svg
       square:
     description: |-
-      /dev/hack
+      /dev/hack seattle hackerspace!
     sponsorships:
       2024: thanks
       2025: thanks
+      2026: thanks
 
   - name: postmarketOS
     url: https://postmarketOS.org
@@ -1556,3 +1557,19 @@ sponsors:
       y2k38
     sponsorships:
       2025: thanks
+      2026: thanks
+
+  - name: ExpressVPN
+    url:
+    logo:
+      horizontal:
+      square: /img/sponsors/y2k38/y2k38-512.png
+    description: |-
+      Since 2009, ExpressVPN has empowered millions of users to take control of
+      their internet experience. The company’s award-winning consumer VPN
+      service is backed by its open-source VPN protocol, Lightway,
+      delivering user privacy in just a few clicks. ExpressVPN’s products have
+      been extensively vetted by third-party experts, including PwC, Cure53,
+      KPMG, and others.
+    sponsorships:
+      2026: thanks
