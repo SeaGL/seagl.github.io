@@ -1,13 +1,13 @@
 - url: /register
   label: Let us know you're coming to SeaGL
+- url: /schedule
+  label: View the SeaGL schedule
 - url: /maps/2026
   label: Get to the SeaGL venue
 - url: /volunteer
   label: Volunteer with SeaGL
 # - url: /cfp
 #   label: Submit a SeaGL talk
-# - url: /schedule
-#   label: View the SeaGL schedule
 # - url: /blog
 #   label: Read SeaGL blog posts
 - url: /donate
