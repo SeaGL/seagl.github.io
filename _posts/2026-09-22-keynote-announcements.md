@@ -8,7 +8,7 @@ categories: news
 tags: "2026"
 ---
 
-A little squawk to get y'all checking your calendars 🗓️ and thinking about migrating north to Seattle in October 23rd and 24th! Keep an eye out — the full conference schedule will be released soon.
+A little squawk to get y'all checking your calendars 🗓️ and thinking about migrating north to Seattle on October 23rd and 24th! Keep an eye out — the full conference schedule will be released soon.
 
 We're so happy to announce 🥁 the keynote speakers for our 14th annual SeaGL conference!
 
@@ -48,8 +48,12 @@ Toby has been a dedicated speaker at SeaGL for several years, regaling audiences
 
 ## CFP Review Results
 
-Thank you to everyone who has submitted proposals! Watch the skies or check your email because our first round of acceptances has been sent out.
+Thank you to everyone who submitted proposals! Our first round of acceptances have been sent out and most speakers have confirmed their attendance, but if you haven't heard anything in a while, please reach out *ASAP*.
+
+## Coming to SeaGL? Want to let us know?
+
+Attending SeaGL has always been **free/gratis** and **registration is optional**—just show up! However, last year we created a [registration form](/register) to gather information without identification. This has been helpful when estimating our attendance numbers and attendee makeup. If you know that you'll be coming and are comfortable, please consider filling out this year's [attendance form](/register).
 
 ## We Need You! Volunteer at SeaGL 2026
 
-As an all-volunteer conference, SeaGL simply can't happen without folks like you pitching in on the day of the event. We're looking for volunteers to help with tasks like staffing the registration desk, running A/V for sessions, guiding attendees, and generally keeping the flock flying smoothly on October 23rd and 24th. No experience necessary — just a friendly attitude and a willingness to help! If you're interested in lending a hand, fill out our [volunteer application form](/volunteer), reach out to us on [Matrix](https://matrix.to/#/#participate:seagl.org), or send an e-mail to {{ site.custom.a.email.participate }}. We'd love to have you join us!
+As an all-volunteer conference, SeaGL simply can't happen without folks like you pitching in on the day of the event. We're looking for volunteers to help with tasks like staffing the registration desk, running A/V for sessions, guiding attendees, and generally keeping the flock flying smoothly on October 23rd and 24th. *No experience necessary* — just a friendly attitude and a willingness to help! If you're interested in lending a hand, fill out our [volunteer application form](/volunteer), reach out to us on [Matrix](https://matrix.to/#/#participate:seagl.org), or send an e-mail to {{ site.custom.a.email.participate }}. We'd love to have you join the team!
