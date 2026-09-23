@@ -1562,8 +1562,8 @@ sponsors:
   - name: ExpressVPN
     url: https://github.com/expressvpn/lightway
     logo:
-      horizontal:
-      square: /img/sponsors/ExpressVPN/ExpressVPN-logo.svg
+      horizontal: /img/sponsors/ExpressVPN/ExpressVPN-logo-Horizontal.png
+      square: /img/sponsors/ExpressVPN/ExpressVPN-logo-Vertical.png
     description: |-
       Since 2009, ExpressVPN has empowered millions of users to take control of
       their internet experience. The company’s award-winning consumer VPN
@@ -1572,4 +1572,4 @@ sponsors:
       been extensively vetted by third-party experts, including PwC, Cure53,
       KPMG, and others.
     sponsorships:
-      2026: thanks
+      2026: bronze
