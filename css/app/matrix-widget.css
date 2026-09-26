@@ -1,0 +1,146 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background: transparent;
+  margin: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+body {
+  align-items: center;
+  background-color: #f2f5f8;
+  color: #17191c;
+  display: flex;
+  flex-flow: column nowrap;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  line-height: 1.5;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #20252b;
+    color: #fff;
+  }
+}
+
+body > iframe {
+  border: none;
+  height: 100vh;
+  width: 100%;
+}
+
+.page {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.page {
+  align-items: center;
+  background-color: #fffcf7;
+  border-top: 6pt solid #0c5a73;
+  color: #000;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  padding: 2rem;
+  text-align: center;
+}
+@media (prefers-color-scheme: dark) {
+  .page:not(.light) {
+    background-color: #111;
+    color: #bbb;
+  }
+}
+
+.page ol,
+.page p,
+.page table,
+.page ul {
+  margin: 0 0 1em 0;
+}
+
+.page a {
+  color: #0c5a73;
+}
+@media (prefers-color-scheme: dark) {
+  .page:not(.light) a {
+    color: #2690b9;
+  }
+}
+
+.page code {
+  background-color: #b1742a22;
+  border-radius: 3pt;
+  color: #e77f00;
+  padding: 0.1em 0.3em;
+}
+@media (prefers-color-scheme: dark) {
+  .page:not(.light) code {
+    background-color: #b1742a22;
+    color: #b66c12;
+  }
+}
+
+.page h1 {
+  color: #fcb320;
+  font-family: "Dosis", sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+@media (prefers-color-scheme: dark) {
+  .page:not(.light) h1 {
+    color: #ddd;
+  }
+}
+
+.page h2 {
+  color: #0c5a73;
+  font-family: "Dosis", sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+@media (prefers-color-scheme: dark) {
+  .page:not(.light) h2 {
+    color: #bbb;
+  }
+}
+
+.page ol,
+.page ul {
+  text-align: left;
+}
+
+.page ul {
+  list-style-type: square;
+}
+
+.page .text-muted {
+  color: #666;
+}
+@media (prefers-color-scheme: dark) {
+  .page:not(.light) .text-muted {
+    color: #777;
+  }
+}
+
+table.timetable {
+  & td {
+    padding: 0.25em;
+    vertical-align: top;
+
+    &:nth-child(1) {
+      text-align: right;
+    }
+    &:nth-child(2) {
+      text-align: left;
+    }
+  }
+}

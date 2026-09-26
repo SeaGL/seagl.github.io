@@ -1,0 +1,13 @@
+---
+layout: matrix-widget/base
+title: Live Stream
+---
+
+{% if page.stream %}{% assign stream = site.data.schedule.streams | where: "name", page.stream | first %}{% endif %}
+
+{% if stream.youtube_id -%}
+  <iframe allow="encrypted-media; picture-in-picture" allowfullscreen src="https://www.youtube-nocookie.com/embed/{{ stream.youtube_id }}?modestbranding=1&rel=0"></iframe>
+{%- else %}
+  <p>Offline</p>
+  <script>setTimeout(() => window.location.reload(true), 1000 * 60);</script>
+{%- endif %}
