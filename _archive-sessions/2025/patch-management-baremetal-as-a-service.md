@@ -3,6 +3,8 @@ title: Patch management / BareMetal as a service on Linux ( RedHat / Suse / tbd 
 pretalx_url: https://pretalx.seagl.org/2025/talk/VZMBEW/
 beginning: '2025-11-07T16:30:00-08:00'
 end: '2025-11-07T16:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Patch_management_BareMetal_as_a_service
 presenters:
 - name: Andrew Puch
   pretalx_url: https://pretalx.seagl.org/2025/speaker/3ALUWH/

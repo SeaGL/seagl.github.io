@@ -3,6 +3,8 @@ title: Learn practical skills TODAY to prepare for AI Incident Response with the
 pretalx_url: https://pretalx.seagl.org/2025/talk/DFQ38B/
 beginning: '2025-11-07T14:00:00-08:00'
 end: '2025-11-07T14:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Prepare_for_AI_Incident_Response_with_the_AIRCTL_Project
 presenters:
 - name: Emily Soward
   pretalx_url: https://pretalx.seagl.org/2025/speaker/ZMDKHX/
