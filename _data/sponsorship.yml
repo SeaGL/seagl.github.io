@@ -519,8 +519,9 @@ sponsors:
       horizontal: /img/sponsors/FSF/logo-fsf.org.svg
       square:
     description: |-
-      The Free Software Foundation defends and promotes computer users' freedom
-      worldwide.
+      The Free Software Foundation is a nonprofit with a worldwide mission to
+      promote computer user freedom and to defend the rights of all software
+      users.
     sponsorships:
       2015: thanks
       2016: thanks
@@ -530,6 +531,7 @@ sponsors:
       2020: platinum
       2024: thanks
       2025: thanks
+      2026: thanks
 
   - name: Write The Docs Seattle
     url: https://www.meetup.com/Write-The-Docs-Seattle/
