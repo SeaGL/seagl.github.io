@@ -390,10 +390,10 @@ sponsors:
       2024: thanks
 
   - name: PyCascades
-    url: https://www.pycascades.com/
+    url: https://2027.pycascades.com/
     logo:
-      horizontal: /img/sponsors/PyCascades/PyCascades_logo_Portland_2025-full-color.svg
-      square:
+      horizontal: 
+      square: /img/sponsors/PyCascades/PyCascades2027_Logo_ElliottBay_COLOR_DARK BG.png
     description: |-
       PyCascades is a regional PyCon in the Pacific Northwest, celebrating the
       west coast Python developer and user community. Our organizing team
