@@ -1592,3 +1592,14 @@ sponsors:
       KPMG, and others.
     sponsorships:
       2026: bronze
+
+  - name: Flox
+    url: https://github.com/flox/flox
+    logo:
+      horizontal: /img/sponsors/Flox/flox_logotype_transparent.png
+      square: /img/sponsors/Flox/flox_symbol_transparent.png
+    description: |-
+      The software environment platform: one manifest, every environment, from
+      laptop to production. All the power of Nix, none of the learning curve.
+    sponsorships:
+      2026: bronze
