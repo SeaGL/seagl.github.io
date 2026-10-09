@@ -1,19 +1,11 @@
 {% assign sponsor_year = site.sponsor-years | last %}
 
 <nav class="navbar navbar-default" role="navigation" id="main-nav">
-  <!-- Brand and toggle get grouped for better mobile display -->
-  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".top-nav-collapse">
-    <span class="sr-only">Toggle navigation</span>
-    <span class="icon-bar"></span>
-    <span class="icon-bar"></span>
-    <span class="icon-bar"></span>
-  </button>
-
   <a class="" href="/">
     <img src="/img/logo.svg" id="logo" alt="Logo" width="184" height="200">
   </a>
 
-  <div id="main-nav-container" class="collapse navbar-collapse top-nav-collapse">
+  <div id="main-nav-container">
     <ul class="nav pull-left navbar-nav main-nav-links inline-list">
       <li {% if page.nav == "home" %} class="active" {% endif %} ><a href="/">Home</a></li>
       <li {% if page.nav == "schedule" %} class="active" {% endif %} ><a href="/schedule">{{ site.custom.year }} schedule</a></li>
@@ -23,5 +15,5 @@
       <li {% if page.nav == "sponsors" %} class="active" {% endif %} ><a href="/sponsors/2026">Sponsors</a></li>
       <li {% if page.nav == "archive" %} class="active" {% endif %} ><a href="/archive">Archive</a></li>
     </ul>
-  </div><!-- /.navbar-collapse -->
+  </div>
 </nav>

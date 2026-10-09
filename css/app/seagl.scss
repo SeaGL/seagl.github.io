@@ -322,10 +322,6 @@ p img {
   left: 50%;
   margin-left: -60px;
 }
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-  background-color: #0C5A73;
-}
 #footer-nav {
   margin-bottom: 4em;
   margin-top: 2em;
@@ -420,9 +416,6 @@ p img {
     width: 100%;
     margin: 0 0 4px 0;
   }
-  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    border:none;
-  }
   h1 {
     font-size: 60px;
   }
@@ -430,11 +423,9 @@ p img {
 @media (max-width: 765px) {
   #main-nav-container {
     width: 60%;
-    margin: 48px -44px 0 0;
-    float: right;
   }
 }
-@media (max-width: 560px) {
+@media (max-width: 640px) {
   #main-nav-container {
     width: 50%;
   }
@@ -442,6 +433,14 @@ p img {
 
 .navbar {
   margin: 0;
+}
+.navbar-nav {
+  margin: 0;
+
+  & > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
 }
 
 img.align-center {
