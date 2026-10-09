@@ -3,6 +3,8 @@ title: Let's create our own tech jobs together following open source principles
 pretalx_url: https://pretalx.seagl.org/2025/talk/KMCCEQ/
 beginning: '2025-11-08T17:00:00-08:00'
 end: '2025-11-08T17:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Lets_create_our_own_tech_jobs_together_following_open_source_principles
 presenters:
 - name: Jocelyn Graf
   pretalx_url: https://pretalx.seagl.org/2025/speaker/PYV3ZK/

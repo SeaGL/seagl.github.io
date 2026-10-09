@@ -3,6 +3,8 @@ title: Kernel backport automation and validation in CentOS/RHEL
 pretalx_url: https://pretalx.seagl.org/2025/talk/HMNXFY/
 beginning: '2025-11-07T16:00:00-08:00'
 end: '2025-11-07T16:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Kernel_backport_automation_and_validation_in_CentOS_and_RHEL
 presenters:
 - name: Jarod Wilson
   pretalx_url: https://pretalx.seagl.org/2025/speaker/YBDWMG/

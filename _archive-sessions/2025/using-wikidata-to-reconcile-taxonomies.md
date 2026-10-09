@@ -3,6 +3,8 @@ title: 'Words, words, words, you fishmonger: Using Wikidata to Reconcile Taxonom
 pretalx_url: https://pretalx.seagl.org/2025/talk/P8SE9B/
 beginning: '2025-11-07T15:00:00-08:00'
 end: '2025-11-07T15:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Using_Wikidata_to_Reconcile_Taxonomies
 presenters:
 - name: Richard Littauer
   pretalx_url: https://pretalx.seagl.org/2025/speaker/ERC3BF/

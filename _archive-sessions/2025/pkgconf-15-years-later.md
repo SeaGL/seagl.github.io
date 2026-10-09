@@ -3,6 +3,8 @@ title: 'pkgconf: 15 years later'
 pretalx_url: https://pretalx.seagl.org/2025/talk/T7Q7QN/
 beginning: '2025-11-08T11:30:00-08:00'
 end: '2025-11-08T12:20:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-pkgconf_15_years_later
 presenters:
 - name: Ariadne Conill
   pretalx_url: https://pretalx.seagl.org/2025/speaker/7RQRSP/

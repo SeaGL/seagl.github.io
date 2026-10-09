@@ -3,6 +3,8 @@ title: Observability is for the Frontend, Too!
 pretalx_url: https://pretalx.seagl.org/2025/talk/FE3E7R/
 beginning: '2025-11-07T16:00:00-08:00'
 end: '2025-11-07T16:50:00-08:00'
+resources:
+  internet_archive_identifier: SeaGL2025-Observability_is_for_the_Frontend_Too
 presenters:
 - name: Justin Castilla
   pretalx_url: https://pretalx.seagl.org/2025/speaker/D3HSEQ/
