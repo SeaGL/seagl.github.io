@@ -57,7 +57,7 @@ The logo images may be used without advance permission, subject to the following
 
 ## Font Styles {#FontStyles}
 
-The SeaGL typography is one of the core elements that defines the conference design style. We use two fonts, [Dosis](https://github.com/impallari/Dosis) and [Lato](https://www.latofonts.com/), according to the following:
+The SeaGL typography is one of the core elements that defines the conference design style. We use two fonts, [Dosis](https://github.com/impallari/Dosis) (v1.007) and [Lato](https://www.latofonts.com/), according to the following:
 
 - Dosis (Regular): Applied on headers / titles; capitals only.
 - Lato: Other text elements, like text body.
