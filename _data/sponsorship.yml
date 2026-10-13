@@ -1327,7 +1327,7 @@ sponsors:
   - name: DevITjobs.us
     url: https://devitjobs.com/jobs/Linux/all/all
     logo:
-      horizontal:/img/sponsors/DevITjobs.us/devitus-rectangle.png
+      horizontal: /img/sponsors/DevITjobs.us/devitus-rectangle.png
       square: /img/sponsors/DevITjobs.us/devitus-square-rounded.png
     description: |-
       DevITJobs is the first job board built with Software Engineers in mind.
