@@ -58,6 +58,9 @@ defaults:
         body_id: sponsors
         layout: sponsors
         nav: sponsors
+    - scope: { path: "matrix-widgets" }
+      values:
+        layout: matrix-widget/video
 
 exclude:
     - Dockerfile
