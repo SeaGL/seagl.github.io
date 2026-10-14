@@ -1,10 +1,13 @@
 streams:
   - name: Room 250
+    pretalx_id: 15
     youtube_id: B9zlUHtFc5A
     peertube_id: oDEbbogPw5xBRkpnfuajEZ
   - name: Room 332
+    pretalx_id: 14
     youtube_id: hqgSh2XtOjA
     peertube_id: poqiufsQFtcympNJE8b9uK
   - name: Room 340
+    pretalx_id: 50
     youtube_id: eCmQ6ZPSFtU
     peertube_id: gNHB1f3QP11kkacnHK1Rpb

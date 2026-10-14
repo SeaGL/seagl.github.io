@@ -3,7 +3,11 @@ layout: matrix-widget/base
 title: Live Stream
 ---
 
-{% if page.stream %}{% assign stream = site.data.schedule.streams | where: "name", page.stream | first %}{% endif %}
+{% comment %}
+For some godforsaken reason page.slug isn't defined on this page so we have to do this hack with what we have
+{% endcomment %}
+{% capture room_id %}{{ page.name | remove_first: "room-" | remove_first: ".md" }}{% endcapture %}
+{% assign stream = site.data.schedule.streams | where: "pretalx_id", room_id | first %}
 
 {% if stream.youtube_id -%}
   <iframe allow="encrypted-media; picture-in-picture" allowfullscreen src="https://www.youtube-nocookie.com/embed/{{ stream.youtube_id }}?modestbranding=1&rel=0"></iframe>
