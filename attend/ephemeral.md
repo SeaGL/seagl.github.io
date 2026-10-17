@@ -15,7 +15,7 @@ SeaGL uses a chat system called [Matrix] for the remote part of our hybrid confe
 The first step is to get a {{ site.custom.year }} account! This won't require any of your personal information. Come back to this page after you're signed up.
 
 <div class="text-center">
-  <p><a class="btn btn-primary btn-large" href="https://attend.seagl.org/#/register?hs=ephemeral">Get my account</a></p>
+  <p><a class="btn btn-primary btn-large" href="https://attend.seagl.org/#/register">Get my account</a></p>
 </div>
 
 This account will be deleted after the conference is over, but for the duration of the conference it will be a full Matrix account and will let you do everything a regular, permanent Matrix account would.
@@ -24,7 +24,7 @@ This account will be deleted after the conference is over, but for the duration 
 
 This is the home screen of SeaGL's version of [Element], an open source, free software client that you can use to get onto Matrix. Our Element is slightly modified to give you an even better conference experience.
 
-<img class="align-center" alt="Screenshot of attend.seagl.org" src="/img/attend-portal.webp" />
+<img class="align-center" alt="Screenshot of attend.seagl.org" width="1418" height="1026" src="/img/attend.seagl.org-welcome.avif" />
 
 Some things to know about Matrix and your {{ site.custom.year }} account:
 
