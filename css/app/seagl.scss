@@ -265,6 +265,12 @@ p img {
   h1 > & { font-size: 3rem; }
   h2 > & { font-size: 2.25rem; }
 }
+.display-inline {
+  display: inline;
+}
+.subtitle.display-inline {
+  padding-left: 10px;
+}
 .well {
   $bootstrap-padding: 20px;
 

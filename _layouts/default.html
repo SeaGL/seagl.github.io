@@ -6,6 +6,8 @@ layout: base
 
 {%- if site.custom.readiness.conference_within_24h and page.page_supports_jumbotron -%}
   {% include jumbotron_24h.html %}
+{%- elsif site.custom.readiness.attend_portal_launched and site.custom.readiness.matrix_space_created -%}
+  {% include jumbotron_week_of.html %}
 {%- else -%}
   {% include ribbon.html %}
 {%- endif -%}
