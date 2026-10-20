@@ -5,7 +5,7 @@ layout: base
 {% include header.html %}
 
 {%- if site.custom.readiness.conference_within_24h and page.page_supports_jumbotron -%}
-  {% include jumbotron.html %}
+  {% include jumbotron_24h.html %}
 {%- else -%}
   {% include ribbon.html %}
 {%- endif -%}
