@@ -1,21 +1,28 @@
 <div class="jumbotron">
   <div class="container">
-    <h1 class="display-inline">SeaGL {{ site.custom.year }}</h1>
-
-    <p class="subtitle display-inline">{{ site.custom.theme }}</p>
-
-    <div class="message">
-      <p>
-        <strong>Our virtual conference space is open!</strong>
-        Whether you're attending in-person or online, come chat with fellow attendees and get excited for keynotes, sessions, social events and more!
-     </p>
-
-      <p>As always, SeaGL is free to attend and registration is not required.</p>
+    <div class="row">
+      <div class="col-md-8">
+        <h1 class="display-inline">SeaGL {{ site.custom.year }}</h1>
+    
+        <p class="subtitle display-inline">{{ site.custom.theme }}</p>
+    
+        <div class="message">
+          <p>
+            <strong>Our virtual conference space is open!</strong>
+            Whether you're attending in-person or online, come chat with fellow attendees and get excited for keynotes, sessions, social events and more!
+         </p>
+    
+          <p>As always, SeaGL is free to attend and registration is not required.</p>
+        </div>
+    
+        {% if page.nav != "watch" %}<p>
+          <a class="btn btn-primary btn-lg" href="/attend#attend-remotely" role="button">Join Virtual Conference</a>
+          <a class="btn btn-primary btn-lg" href="/attend#attend-in-person" role="button">In-Person Information</a>
+        </p>{% endif %}
+      </div>
+      <div class="col-md-4">
+        {% include civicrm.html %}
+      </div>
     </div>
-
-    {% if page.nav != "watch" %}<p>
-      <a class="btn btn-primary btn-lg" href="/attend#attend-remotely" role="button">Join Virtual Conference</a>
-      <a class="btn btn-primary btn-lg" href="/attend#attend-in-person" role="button">In-Person Information</a>
-    </p>{% endif %}
   </div>
 </div>
