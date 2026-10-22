@@ -1359,8 +1359,8 @@ sponsors:
   - name: Seattle Blender User Group
     url: https://www.facebook.com/groups/322788634593566
     logo:
-      horizontal: /img/sponsors/SeaBUG/seabug.webp
-      square:
+      horizontal:
+      square: /img/sponsors/SeaBUG/seabug.jpg
     description: |-
       Seattle Blender User Group
     sponsorships:
@@ -1641,5 +1641,21 @@ sponsors:
       CultRepo documents the people building world-shaping tech. Long-form
       films about the people behind open source, infrastructure, and emerging
       systems.
+    sponsorships:
+      2026: thanks
+
+  - name: FurryTel
+    url: https://furrytel.net/
+    logo:
+      horizontal:
+      square: /img/sponsors/FurryTel/ftlogo_mono.png
+    description: |-
+      FurryTel is somewhere between a tech demo, an interpretive art project,
+      and a traveling interactive exhibit. We may occasionally be found in the
+      real world tabling at events, or online in community spaces. On paper,
+      Pacific Northwest FurryTel is a 501(c)(3) non-profit organization based
+      in Washington state run by volunteers. Our goal is to share the joy,
+      knowledge and experiences with telecommunications equipment with fan
+      groups and the public.
     sponsorships:
       2026: thanks
