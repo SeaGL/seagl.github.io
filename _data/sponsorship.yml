@@ -971,6 +971,7 @@ sponsors:
       2023: thanks
       2024: thanks
       2025: thanks
+      2026: thanks
 
   - name: Ubuntu-PNW
     url: https://wiki.ubuntu.com/PNWTeam
@@ -1356,7 +1357,7 @@ sponsors:
       2024: thanks
 
   - name: Seattle Blender User Group
-    url: https://www.meetup.com/seabug
+    url: https://www.facebook.com/groups/322788634593566
     logo:
       horizontal: /img/sponsors/SeaBUG/seabug.webp
       square:
@@ -1365,6 +1366,7 @@ sponsors:
     sponsorships:
       2023: thanks
       2024: thanks
+      2026: thanks
 
   - name: FOSSASIA
     url: https://fossasia.org/
@@ -1608,3 +1610,24 @@ sponsors:
       laptop to production. All the power of Nix, none of the learning curve.
     sponsorships:
       2026: bronze
+
+  - name: BELUG
+    url: http://belug.herber.us/
+    logo:
+      horizontal:
+      square: /img/sponsors/BELUG/BELUG-logo.png
+    description: |-
+      BELUG is dedicated to promoting an interest in and an understanding of
+      Linux and other open source software.
+    sponsorships:
+      2026: thanks
+
+  - name: Godot Seattle
+    url: https://godotseattle.club/
+    logo:
+      horizontal:
+      square: /img/sponsors/GodotSeattle/godot-seattle.svg
+    description: |-
+      Godot Seattle
+    sponsorships:
+      2026: thanks
