@@ -268,8 +268,8 @@ p img {
 .display-inline {
   display: inline;
 }
-.subtitle.display-inline {
-  padding-left: 10px;
+.jumbotron > h1 {
+  padding-right: 10px;
 }
 .well {
   $bootstrap-padding: 20px;
