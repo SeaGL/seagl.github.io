@@ -1631,3 +1631,15 @@ sponsors:
       Godot Seattle
     sponsorships:
       2026: thanks
+
+  - name: CultRepo
+    url: https://www.cultrepo.com/
+    logo:
+      horizontal:
+      square: /img/sponsors/CultRepo/cultrepo.png
+    description: |-
+      CultRepo documents the people building world-shaping tech. Long-form
+      films about the people behind open source, infrastructure, and emerging
+      systems.
+    sponsorships:
+      2026: thanks
