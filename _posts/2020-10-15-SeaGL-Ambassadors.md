@@ -14,7 +14,7 @@ Conferences play an important role in sharing ideas, building friendships and sh
 SeaGL wishes to work with other organizations to foster broad, welcoming, and diverse communities.
 That's why SeaGL created an Ambassador initiative to invest in those connections among free and open groups.
 
-#### Would you like to help?
+## Would you like to help?
 
 Volunteers are needed to serve as SeaGL Ambassadors.
 Ambassadors will provide communication between SeaGL and other organizations.

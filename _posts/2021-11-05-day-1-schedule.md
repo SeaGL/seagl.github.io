@@ -18,44 +18,46 @@ Normal talk blocks are 30m.  There are 20m for the talk, and 10m for optional Q&
 
 All times are listed in Pacific Daylight Time, which is UTC -07:00.  (note: the US time change happens the evening AFTER the conclusion of the conference on Saturday)
 
-* 9:00am Opening announcements and welcome by Wm Salt Hale
-* 9:10am Keynote by Elana Hashman
-* 9:35am Keynote by Marie Nordin
+**9:00am** Opening announcements and welcome by Wm Salt Hale
 
-#### 10:10am-10:40am block
+**9:10am** Keynote by Elana Hashman
+
+**9:35am** Keynote by Marie Nordin
+
+**10:10am-10:40am block**
 * Aaron Wolf, Athan Spathas, Wm Salt Hale - FLOSS daily - but FLO all the time
 * Deb Nicholson - Responding Thoughtfully to a Crisis
 * Bri Hatch - SSH from your DevOps CI/CD securely
 
-#### 10:50am-11:20am block
+**10:50am-11:20am block**
 * Mark Wong - PostgreSQL Participation in Google's Summer of Code
 * der.hans - Intro to jq: grep for JSON
 * M. de Blanc - Predictive Modeling and Privacy
 
-#### 11:30-12pm Lightning Block!
+**11:30-12pm Lightning Block!**
 * Athan Spathas - GLass Beatstation Updates
 * Aaron Wolf - Preach Only What You Practice
 * Kaylea Champion - TIL... 10+ Findings from 2021 Global FLOSS Research in Five Minutes
 
-#### 1:15pm-1:45pm block
+**1:15pm-1:45pm block**
 * David M Stokes - JSON Document Validation in MySQL 8.0
 * Ski - Lessons Learned from a Ransomware Attack
 * der.hans - Introduction to Nextcloud
 
-#### 2pm-2:30 block
+**2pm-2:30 block**
 * Dawn Cooper - The Stories We Don't Tell
 * Elior Sterling - Developing on Nextcloud
 
-#### 2:45pm-3:15pm break block
+**2:45pm-3:15pm break block**
 * Friday Booth Crawl!
 
-#### 3:30pm-4pm block
+**3:30pm-4pm block**
 * Bri Hatch - Good Shell Patterns
 * Shauna Gordon-McKeon - Software Tools for Collective Self-Governance
 * Georg Link - Building and Supporting Open Source Communities Through Metrics
 
-#### 4:30pm-5:30pm party block
+**4:30pm-5:30pm party block**
 * Devops Party Games!
 
-#### 5:45pm-7:15pm party block
+**5:45pm-7:15pm party block**
 * Cocktails and Mocktails with Mako!

@@ -13,7 +13,7 @@ Over on Twitter [we mentioned](https://twitter.com/seagl/status/1046541713458823
 ![](/img/posts/2018-twilio_logo.png){:width="200"}
 Thanks to the generosity of our friends at [Twilio](https://twilio.com), this year SeaGL is thrilled to provide…
 
-### 🎉 Free Lunch! 🎉
+## 🎉 Free Lunch! 🎉
 
 In past years we've been able to provide lunch (pizza) on the second day of the event, but in 2018, thanks to Twilio, we'll have _full, catered lunch_ on each day of the event!
 
@@ -27,7 +27,7 @@ Even if you don't have special dietary needs, that's still good information for 
 
 OK, so, that's a pretty great announcement, but we're not done yet because (also thanks to Twilio, wowzers!) now we get to announce…
 
-### 🎉 Free Childcare! 🎉
+## 🎉 Free Childcare! 🎉
 
 Never before in the history of SeaGL have we been able to offer childcare to our attendees. We're over the moon that we can do so in 2018 and we can't wait to welcome more people to our community because of it. We'll be offering childcare each day of the event, so you don't have to worry about choosing one day or the other; you can attend them both!
 
@@ -37,7 +37,7 @@ To make sure we have enough coverage to support everyone who needs childcare to 
 
 [Please fill out this form](https://goo.gl/forms/yaMqfTy2jAIT34OZ2)
 
-### 🎉 Free Is Best! 🎉
+## 🎉 Free Is Best! 🎉
 
 With these incredibly generous benefits thanks to Twilio, we're able to continue our dedication to providing the best Free and open source learning to the community. In 2018 SeaGL offers…
 

@@ -27,7 +27,7 @@ Please credit [alexlexi on Fiverr](https://www.fiverr.com/alexlexi) when providi
 We'll add more stickers to the pack in the future, so let us know what should be in the next round.
 In the meantime, enjoy letting your inner seagull fly!
 
-### Matrix instructions
+## Matrix instructions
 
 To enable SeaGL stickers in Matrix, follow the instructions below.
 Note that these instructions are for the Element web client.

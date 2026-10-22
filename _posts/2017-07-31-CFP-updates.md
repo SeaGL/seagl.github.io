@@ -14,7 +14,7 @@ Less than one week remains to submit your talk proposals to the [SeaGL Call For 
 
 [Click here to propose a talk.](https://osem.seagl.org/conferences/seagl2017/program/proposals)
 
-### CFP by the numbers
+## CFP by the numbers
 
 In 2016 we received 149 talk proposals for a total of 50 talk slots.
 
@@ -26,7 +26,7 @@ We're really excited at the progress so far. Despite being open for much less ti
 
 [Click here to propose a talk.](https://osem.seagl.org/conferences/seagl2017/program/proposals)
 
-### Topic gaps
+## Topic gaps
 
 As we skim over the proposals received so far, we notice that there are some topics which could use more love. Maybe you're the one to provide it for one (or more!) of these?
 
@@ -40,7 +40,7 @@ These are just a few of the many different topics. If you don't see anything ins
 
 [Click here to propose a talk.](https://osem.seagl.org/conferences/seagl2017/program/proposals)
 
-### New speakers welcome!
+## New speakers welcome!
 
 SeaGL is a friendly, low-stress, low-pressure environment. A large percent of our attendees are community college students, just starting their software dev and free/open source software journeys.
 
@@ -52,7 +52,7 @@ While we love all of our experienced speakers, SeaGL is a great place for new sp
 
 [Click here to propose a talk.](https://osem.seagl.org/conferences/seagl2017/program/proposals)
 
-### Extended CFP office hours this week
+## Extended CFP office hours this week
 
 As this is the final week of the CFP, not only will we be doing our regular Wednesday afternoon office hours, we'll also be adding extra time on the weekend to help you with any and all questions relating to the CFP. Our office hours this week will be:
 
@@ -62,13 +62,13 @@ As this is the final week of the CFP, not only will we be doing our regular Wedn
 
 All office hours are held in the `#seagl` IRC channel on Freenode IRC. Don't worry if you're not familiar with IRC. Just [click here for the webchat](https://webchat.freenode.net/?channels=%23seagl), choose a nickname, and you're good to go!
 
-### Assistance via email
+## Assistance via email
 
 If you can't make it to CFP office hours in IRC, or if you feel more comfortable with a less public venue, you can email the SeaGL program committee with any questions about the CFP or for help with your proposal.
 
 Just drop us a line at s-p-e-a-k-e-r-s (remove the dashes) at seagl.org. We're excited to help you and to answer your questions!
 
-### Target dates
+## Target dates
 
 Here's our target timeline for proposal review, notification, and schedule publication:
 
@@ -77,15 +77,15 @@ Here's our target timeline for proposal review, notification, and schedule publi
 * Speaker Notifications: August 28th 2017
 * Schedule Published: September 4th, 2017
 
-### Speaker travel support
+## Speaker travel support
 
 As SeaGL is a **free to attend community-organized conference**, we regret that at this time we are unable to help with the cost of travel and accommodation for speakers.
 
-### Code of Conduct
+## Code of Conduct
 
 All speakers and attendees of SeaGL must agree and adhere to the [Code of Conduct](/code_of_conduct) for the safety and enjoyment of all organizers, volunteers, speakers, and attendees. We ask that all prospective speakers review and confirm their willingness to abide by the Code of Conduct terms and expectations when interacting within SeaGL community spaces.
 
-### Propose today!
+## Propose today!
 
 So what are you waiting for? [Propose a talk today](https://osem.seagl.org/conferences/seagl2017/program/proposals) and join our flock in October!
 

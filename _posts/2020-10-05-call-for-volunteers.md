@@ -15,12 +15,12 @@ using our [Nextcloud webform](https://gnu-cloud.yourownnet.cloud/apps/forms/yHs5
 if you're interested in volunteering. We will then send you information about volunteer training sessions (about an hour) and signing up for specific sessions.
 Here's what we need help with:
 
-### Help Desk
+## Help Desk
 Be in our Help Desk IRC channel to answer common questions about registration, recording, talk
 tracks, etc. We will provide FAQ fact sheet that will hopefully answer most questions, and give you
 direct contact info for SeaGL staff in case a question comes up you can't answer.
 
-### Talk Emcee
+## Talk Emcee
 Host the talk!
 
 - Be in a dedicated video call with the speaker

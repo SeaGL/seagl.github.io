@@ -18,42 +18,42 @@ Normal talk blocks are 30m. There are 20m for the talk, and 10m for optional Q&A
 
 All times are listed in Pacific Daylight Time, which is UTC-07:00. (Note: The US time change happens the evening AFTER the conclusion of the conference early on Sunday morning)
 
-### 9:30am-10:00am
+**9:30am-10:00am**
 * 9:30am Opening Announcements
 * 9:35am Keynote by Lorena Mesa
 
-#### 10:00am-10:30am
+**10:00am-10:30am**
 * Alanna Burke - The struggle of getting an open-source community off the ground
 * Atinuke Kayode - On Growth: Tips to Grow a Healthy Open Source Community
 
-#### 10:45am-11:15am
+**10:45am-11:15am**
 * Aarti Ramkrishna - The Leaky Pipeline
 * Kaylea Champion - What's Anonymity Worth?
 
-#### 11:30am-12:00pm
+**11:30am-12:00pm**
 * Wm Salt Hale - Ten years of SeaGL
 
-#### 12:10pm-12:40pm
+**12:10pm-12:40pm**
 * No-Cook Lunch Hour
 
-#### 1:25pm-1:55pm
+**1:25pm-1:55pm**
 * Deb Nicholson - Grow Your FOSS Project with this One Weird Trick
 * Bob Murphy - A brief introduction to the Fediverse
 
-#### 2:10pm-2:40pm
+**2:10pm-2:40pm**
 * Brian Peters - VDO - Virtual Data Optimizer
 * Brian Raiter - Programmer Culture: The Odd Phenomenon of Recreational Programming
 
-### 2:55pm-3:25pm
+**2:55pm-3:25pm**
 * Bri Hatch - Tab completion for your custom commands
 * Adrian Cochrane - The Small Web
 
-#### 3:40pm-4:10pm
+**3:40pm-4:10pm**
 * Matt McGraw - Self-hosting Simple Web Apps With Traefik and Docker Compose
 * Kaylea Champion - TIL 2022: FLOSS Research Roundup
 
-### 4:30pm-4:50pm
+**4:30pm-4:50pm**
 * Keynote by Sumana Harihareswara
 
-### 5:30pm-6:00pm
+**5:30pm-6:00pm**
 * Evening mock/cocktails

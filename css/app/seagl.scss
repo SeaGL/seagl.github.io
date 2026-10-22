@@ -29,15 +29,14 @@ body {
   -o-transition: all .25s ease-in-out;
   transition: all .25s ease-in-out;
 }
-h1, h2, h3, h5, h6 {
+h1, h2, h3 {
+  color: #0C5A73;
   font-family: 'Dosis', sans-serif;
-}
-h1 {
-  font-size: 5rem;
   text-transform: uppercase;
   text-wrap: balance;
-  color: #FCB320;
-  text-shadow: 0 1px 1px #fff;
+}
+h1 {
+  font-size: 4.5rem;
   margin-bottom: 2rem;
 }
 h2 {
@@ -45,7 +44,20 @@ h2 {
   margin-bottom: 2rem;
 }
 h3 {
+  color: #666;
   font-size: 2.5rem;
+}
+h4, h5, h6 {
+  color: #666;
+  font-size: inherit;
+  font-weight: bold;
+}
+h4 {
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+h6 {
+  font-size: smaller;
 }
 .with-heading {
   h2 + & { margin: -1em 0 2em; }
@@ -63,6 +75,11 @@ a:not(.btn):not(.label) {
   div > &, p &, .text-muted & {
     text-decoration: underline;
   }
+  h1 > &, h2 > &, h3 > &, h4 > &, h5 > &, h6 > & {
+    &, &:active, &:visited, &:hover {
+      color: inherit;
+    }
+  }
   .text-muted &:not(:active):not(:focus):not(:hover) {
     color: inherit;
   }
@@ -77,18 +94,6 @@ figcaption {
   &.text-muted {
     font-size: 10pt;
   }
-}
-h2, h3, h5, h6 {
-  text-transform: uppercase;
-  color: #0C5A73;
-  text-shadow: 0 1px 1px #fff;
-}
-h4 {
-  color: #666;
-  font-size: inherit;
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
 }
 figure {
   margin-bottom: 10px;
@@ -350,7 +355,6 @@ p img {
 
   h1 {
     color: inherit;
-    text-shadow: none;
   }
 
   .btn-primary {
@@ -421,9 +425,6 @@ p img {
   #main-nav .main-nav-links li {
     width: 100%;
     margin: 0 0 4px 0;
-  }
-  h1 {
-    font-size: 60px;
   }
 }
 @media (max-width: 765px) {

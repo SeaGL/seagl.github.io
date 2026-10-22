@@ -11,11 +11,11 @@ redirect_from:
     <div class="col-xs-12 col-md-10 col-md-push-1 col-lg-8 col-lg-push-2">
         <h1>News</h1>
         {% for post in paginator.posts %}
-            <div class="post">
-                <h2><a href="{{ post.url }}">{{ post.title }}</a><br>
-                    <small>{{ post.date | date: '%B %d, %Y' }}</small></h2>
+            <article class="post">
+                <h1><a href="{{ post.url }}">{{ post.title }}</a><br>
+                    <small>{{ post.date | date: '%B %d, %Y' }}</small></h1>
                 {{ post.content }}
-            </div>
+            </article>
         {% endfor %}
 
         <hr>

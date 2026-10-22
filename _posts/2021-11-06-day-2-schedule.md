@@ -17,47 +17,48 @@ As a reminder, our [Code of Conduct](/code_of_conduct) applies during ALL SeaGL 
 
 All times are listed in Pacific Daylight Time, which is UTC -07:00.  (note: the US time change happens the evening AFTER the conclusion of the conference on Saturday)
 
-* 9:15am Morning Announcements and Costume Contest
-* 9:30am Keynote by Christine Lemmer-Webber and Dr. Morgan Lemmer-Webber
+**9:15am** Morning Announcements and Costume Contest
 
-#### 10am-10:30am block
+**9:30am** Keynote by Christine Lemmer-Webber and Dr. Morgan Lemmer-Webber
+
+**10am-10:30am block**
 * Dawn Cooper - Free Security for Open-Source Projects
 * David M. Stokes - Understanding the MySQL Authentication Process
 * Shauna Gordon-McKeon - Know Your Rights as a Tech Worker
 
-#### 10:45am-11:15am block
+**10:45am-11:15am block**
 * François Caen - Building cloud networks: Terraform or Ansible?
 * Tobie Langel - Does Open Source need its own Priority of Constituencies?
 * Aeva Black - Walking the Cultural Tightrope
 
-#### 11:30-12pm block
+**11:30-12pm block**
 * Dmitrii - Sounds of Open Source Archaeology: Processing Sound with Sox
 * Aeva Black - Computing Confidentially in the Clouds
 
-#### 1:15pm-1:45pm block
+**1:15pm-1:45pm block**
 * Brian Callahan - Stories from Reviving and Extending a University's Information Security Program
 * Josh Berkus - Open Source Governance: Six Types and Three Models
 * Thierry Bultel - Cross debugging on Linux : A history, current state of the art and coming improvements
 
-#### 2pm-2:30 block
+**2pm-2:30 block**
 * Vagrant Cascadian - Debugging Reproducible Builds One Day at a Time
 * Jim Hall - Open Source Business Practices
 * Richard Littauer - Birds by Starlight: Tracking Nocturnal Flight Calls Using Open Source Software
 
-#### 2:45pm-3:15pm break block
+**2:45pm-3:15pm break block**
 * Winner announced from this morning's Costume Contest!
 * Saturday TeaGL!
 
-#### 3:30pm-4pm block
+**3:30pm-4pm block**
 * Katie McLaughlin - Expressive Security
 * Stephen Michel - Technically Biased: Taking Free Software's Niche Appeal Mainstream
 * Ben Cotton - Your Bug Tracker and You
 
-#### 4:30pm-4:50pm Closing Keynote block
+**4:30pm-4:50pm Closing Keynote block**
 * Cory Doctorow - Seize the Means of Computation!
 
-#### 5:30pm-6:30pm party block
+**5:30pm-6:30pm party block**
 * Make Tea Sandwiches with Molly and Sri!
 
-#### 6:30pm-8pm party block
+**6:30pm-8pm party block**
 * Trivia Contest with Remy and Elana for fun and prizes!

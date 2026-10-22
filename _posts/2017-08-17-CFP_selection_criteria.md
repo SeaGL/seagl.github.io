@@ -12,7 +12,7 @@ Our team of external reviewers (one of whom just returned from seeing the [🚀 
 
 So here it is! What follows is more or less exactly the guidance we sent our reviewers for how to rate proposals. Hopefully it's helpful for you, our reader and potential speaker, and perhaps even for future conferences looking to direct their review process.
 
-### Audience profile
+## Audience profile
 
 The audience runs the gamut from experienced FOSS technologists to the uninitiated/students, leaning quite heavily to the latter rather than the former.
 
@@ -22,7 +22,7 @@ Which isn't to say there's no space for unicorn scaling type talks, just that th
 
 This is also a much less corporate conference/audience than, say, [SCALE](https://www.socallinuxexpo.org)/[OSCON](http://oscon.com)/[ATO](https://www.allthingsopen.org/)/etc. The event is free to attend, so it attracts those who are interested in or passionate about technology more than those who are getting their company to pay for them to attend for training purposes. This also means that most of the audience will be very local to the Seattle region.
 
-### Reviewing/voting criteria
+## Reviewing/voting criteria
 
 * Our CFP system can't do blind reviews, but try to do as blind as possible (the abstract/content is more important than the presenter, on first pass at least)
 * Only vote on talks which you feel qualified to judge
@@ -48,7 +48,7 @@ This is also a much less corporate conference/audience than, say, [SCALE](https:
     * For instance, last year we had a very well received talk about WW1 technologies
 * Naturally, if you proposed something, please don't vote on your own talks
 
-### Final selection process
+## Final selection process
 
 Once everyone has reviewed all of the talks, we'll be getting together on a call to discuss them. The topics of discussion are currently up in the air (because we're still voting on talks right now) but will probably include things like, "We received 5 good container talks and can't accept them all. Which one(s) do we prefer?" and "This talk got voted down but I'd like to make a case for it to be included in the program."
 
@@ -56,7 +56,7 @@ After the call it's up to the program chair, leaning on the feedback from the ex
 
 We're aiming to notify all proposers on August 28th. Here's hoping we can hit that target!
 
-### Feedback
+## Feedback
 
 If, on or around August 28th, you receive notification that your proposals were not selected, there are a few things you can do…
 

@@ -18,44 +18,45 @@ Please note that as of 6:30pm PST Friday Nov 13, a few of these have changed.  L
 
 All times are listed in Pacific Standard Time, which is UTC -08:00
 
-* 9:20am Opening announcements by Wm Salt Hale, Nathan Handler, and Rachel Kelly
-* 9:35am Keynote by Kathy Giori
+**9:20am** Opening announcements by Wm Salt Hale, Nathan Handler, and Rachel Kelly
 
-#### 10:00am-10:45am block
+**9:35am** Keynote by Kathy Giori
+
+**10:00am-10:45am block**
 * Cameron Bielstein - Building Free CI/CD with GitHub Actions
 * Elizabeth K. Joseph - Open Source on the Mainframe in 1960, 1999, and Today
 * Aeva Black - Crossing the Gender Divide
 
-#### 10:45am-11:30am block
+**10:45am-11:30am block**
 * Molly deBlanc - Introduction to Ethics from an Ethicist-in-Training
 * Justin W. Flory and Bhagyashree (Bee) - Time for Action: How to Build D&I in your Project
 * Bri Hatch - 10 Vim Tricks
 
-#### 11:30am-12:15pm block
+**11:30am-12:15pm block**
 * Ask Me Anything (AMA) about Kubernetes with Elana Hashman!
 * Kara Sowles - Alcohol and Inclusivity in Tech
 
-**12:15pm-1:15pm block - go eat some lunch, come back at 1:15pm PST :)**
+**12:15pm-1:15pm block** - go eat some lunch, come back at 1:15pm PST :)
 
-#### 1:15pm-2:00pm block
+**1:15pm-2:00pm block**
 * Deb Nicholson - Move Slow and Try Not to Break Each Other
 * Ian Kelling - When does a Service Take Away your Freedom?
 * Wm Salt Hale - Contacts to Connections: CRM Funneling for Projects and People
 
-#### 2:00pm-2:45pm block
+**2:00pm-2:45pm block**
 * Amanda Sopkin - The United States' History with Free Software and what we can do to improve the Future
 * Aaron Wolf - Software Freedom through Collective Action
 * Lisha Sterling - Building Alternative Networks for Fun and Resistance
 
-**2:45pm-3:30pm is [TeaGL](/news/2020/09/25/teagl-online)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!**
+**2:45pm-3:30pm** is [TeaGL](/news/2020/09/25/teagl-online)!  Bring the tea your TeaGL buddy sent you, and come enjoy the company of tea lovers even if you didn't sign up for the Tea Swap!
 
-#### 3:30pm-4:15pm block
+**3:30pm-4:15pm block**
 * Paris Buttfield-Addison and Tim Nugent - First Steps with Swift for TensorFlow
 * Ben Cotton - Scheduling your Open Source Project
 * Nočnica Fee - Data Liberation: Open Source Observability
 
-**4:30pm Closing Keynote by VM Brasseur**
+**4:30pm** Closing Keynote by VM Brasseur
 
-**6:00pm Closing Virtual Party!**
+**6:00pm** Closing Virtual Party!
 
 If you have any questions about any of these, please pop into [attend.seagl.org](https://attend.seagl.org) and we'll get you set right up!

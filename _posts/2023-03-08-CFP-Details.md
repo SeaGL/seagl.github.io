@@ -10,7 +10,7 @@ tags: '2023'
 
 If you're thinking of submitting to SeaGL 2023, you've come to the right place to learn more!  For details on how to submit, go [here](/news/2023/03/08/CFP-Open).
 
-### Talk Categories
+## Talk Categories
 
 We're looking for talks related to open-source which fall broadly into the ten categories below.  We've added examples of past talks for each to give you an idea of what we might be looking for.
 
@@ -52,7 +52,7 @@ If you have a great idea for a talk on open-source which doesn't fit into these 
   * [The internet is unusable: the disabled view](https://archive.org/details/SeaGL2022-Nicolas_Steenhout-The_internet_is_unusable_The_disabled_view), by Nicolas Steenhout at SeaGL 2022
   * [Patently Obvious](https://archive.org/details/SeaGL2020-Neil_McGovern-Patently_Obvious), by Neil McGovern at SeaGL 2020
 
-### What we are and aren't looking for
+## What we are and aren't looking for
 
 SeaGL is a community-focused Free/Libre/Open-Source annual event in Seattle.  Since 2020, we also broadcast all over the world virtually!  We're an independent bunch, but we still like to take care of each other.
 

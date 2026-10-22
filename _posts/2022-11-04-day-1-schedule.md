@@ -18,43 +18,43 @@ Normal talk blocks are 30m. There are 20m for the talk, and 10m for optional Q&A
 
 All times are listed in Pacific Daylight Time, which is UTC-07:00. (Note: The US time change happens the evening AFTER the conclusion of the conference early on Sunday morning)
 
-### 9:10am-9:35am
+**9:10am-9:35am**
 * 9:10am Opening Announcements
 * 9:15am Keynote by Aeva Black
 
-#### 9:40am-10:10am
+**9:40am-10:10am**
 * Alexander Krizhanovsky - Building a CDN edge using open source
 * Neslihan Turan - Struggles and possible solutions of a local free software movement
 
-#### 10:25am-10:55am
+**10:25am-10:55am**
 * justinribeiro - Free-Riders and the Motivations that Keep OSS Developers Writing Code
 * der.hans - Intermediate jq: sed for json
 
-#### 11:10am-11:40am
+**11:10am-11:40am**
 * Alanna Burke - The struggle of getting an open-source community off the ground (Re-Scheduled to Saturday, November 5 at 10:00am)
 * jberkus - The Cloud Native Burrito
 
-#### 11:55am-12:25pm
+**11:55am-12:25pm**
 * TheyofHIShirts - The Fediverse @ Your Library
 * vavroom - The internet is unusable: The disabled view.
 
-#### 1:30pm-2:00pm
+**1:30pm-2:00pm**
 * Deb Nicholson - Cross-Pollinate Your Volunteering
 * Bradley Molinaro - Accessible Data Visualization
 
-#### 2:15pm-2:45pm
+**2:15pm-2:45pm**
 * Dawn Cooper - Finding the right tools for your new job
 * Richard Littauer - Gulls do gull: Using Node, D3, React and occasionally grep to get insight into bird subspecies distribution
 
-### 3:00pm-3:30pm
+**3:00pm-3:30pm**
 * Afternoon TeaGL!
 
-#### 3:45pm-4:15pm
+**3:45pm-4:15pm**
 * jberkus - Choose Your Candidate
 * der.hans - Firefox: Multi-Account Containers
 
-### 4:30pm-4:50pm
+**4:30pm-4:50pm**
 * Keynote by Ernie Smitch
 
-### 5:30pm-6:00pm
+**5:30pm-6:00pm**
 * Afternoon Trivia

@@ -12,13 +12,13 @@ SeaGL 2018 is approaching quickly and we're starting to put the finishing touche
 
 This year, due to technical constraints, we are **not** recording talks. However, all speakers are—as always—encouraged to record their own and share them with the world.
 
-### A/V connection details
+## A/V connection details
 
 All rooms will have HDMI connectors (though a few may also have VGA). Please come prepared with whatever adapters you'll need to hook up your laptop to the HDMI connector. If you forget your adapter, don't worry: we'll have a few on hand, just in case.
 
 Do try to test out your laptop in your presentation room during one of the breaks or lunch times before your talk is scheduled. Two minutes before your talk is not a good time to learn that you forgot your video adapter.
 
-### 🎥 Recording your talk 🎥
+## 🎥 Recording your talk 🎥
 
 Regardless of your preferred platform, we have recording instructions for you.
 
@@ -34,7 +34,7 @@ The room moderator for your talk may not be familiar with the recording instruct
 
 Out of respect for everyone else using the conference wifi, we ask that you not attempt to live stream your presentation.
 
-### Sharing your slides, video, etc.
+## Sharing your slides, video, etc.
 
 Once you've recorded your talk, what do you do with it? Or with your slides?
 

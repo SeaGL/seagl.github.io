@@ -10,11 +10,11 @@ tags: '2017'
 
 Hello, SeaGL (or other conference!) speakers! Our big event is only a week away, so here's some information to help you prepare and be ready to go when you arrived.
 
-### A/V details
+## A/V details
 
 All rooms will have HDMI connectors (though a few may also have VGA). Please come prepared with whatever adapters you'll need to hook up your laptop to the HDMI connector. If you forget your adapter, don't worry. We'll have a few on hand, just in case.
 
-### Recording your talk
+## Recording your talk
 
 Due to some administrative changes, we got a later start on organising the event than usual this year. Because of that we're unable to record the 2017 SeaGL sessions. We don't want to lose all of that great content, though.
 
@@ -30,7 +30,7 @@ The room moderator for your talk may not be familiar with the recording instruct
 
 Out of respect for everyone else using the conference wifi, we ask that you not attempt to live stream your presentation.
 
-### Sharing your slides, video, etc.
+## Sharing your slides, video, etc.
 
 Once you've recorded your talk, what do you do with it? Or with your slides?
 
@@ -40,12 +40,12 @@ Here are [instructions for uploading a video to the Archive](https://anonymousha
 
 If you upload your video and/or slides to Internet Archive, please include `seagl2017` as a subject tag. That will make it easier for us to locate your material and share it around.
 
-### Presentation tips
+## Presentation tips
 
 Our friends at [opensource.com](https://opensource.com) have just published an article titled [7 best practices for giving a conference talk](https://opensource.com/article/17/9/7-best-practices-giving-conference-talk).
 
 If you've never presented at a conference before, or even if you have but are looking to improve your presentation performance, this article will help you out.
 
-### Contact us!
+## Contact us!
 
 If you have any questions about these topics or anything else related to presenting at SeaGL, don't hesitate to contact the program committee. Drop us a line at speakers AT seagl DOT org and let us know how we can help.

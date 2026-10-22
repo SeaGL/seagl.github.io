@@ -16,7 +16,7 @@ This year the SeaGL lightning talks will take place during the conference party 
 
 [Propose a lightning talk now!](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 
-### About lightning talks
+## About lightning talks
 
 Lighting talks are five minute talks. You may use as many (or as few) slides as you wish.
 
@@ -32,7 +32,7 @@ That's it! Pretty easy, really.
 
 [Propose a lightning talk now](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 
-### Topic ideas
+## Topic ideas
 
 Lightning talks can be about anything which you think would hold the interest of the audience for a max of five minutes. For instance:
 
@@ -51,7 +51,7 @@ Technical talks, funny talks, WTF talks… If you can make it interesting, then 
 
 [Propose a lightning talk now](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 
-### Target dates
+## Target dates
 
 * CFP Opens: Monday, September 18
 * CFP Closes: Sunday, September 24
@@ -60,13 +60,13 @@ Technical talks, funny talks, WTF talks… If you can make it interesting, then 
 
 [Propose a lightning talk now](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 
-### Talk selection criteria
+## Talk selection criteria
 
 The main SeaGL program had nine reviewers and a [well-documented list of selection criteria](/news/2017/08/17/CFP_selection_criteria).
 
 The lightning talk selection criteria are going to be considerably more casual. The speaker committee will vote on proposals, then the final decisions and schedule will be made by the program chair. It's going to be a fairly laid back process, keeping with the fun but informative nature of lightning talks themselves.
 
-### Proposal and public speaking resources
+## Proposal and public speaking resources
 
 Never presented at a conference or meetup before? Presented but still not feeling confident? It's OK, even the most experienced conference presenters aren't necessarily confident at this stuff.
 
@@ -80,7 +80,7 @@ Pay particular attention to the [Proposing talks](https://github.com/vmbrasseur/
 
 Don't let that stop you from proposing! You can't win a race you don't even run, so [click here to propose a lightning talk.](https://docs.google.com/forms/d/e/1FAIpQLSfsTiGpEw3de8V9ZkEt6qcNqBf_YXAUgi8cLqTLIgRTLY4ODg/viewform?usp=sf_link)
 
-### Lightning talk proposal help and feedback
+## Lightning talk proposal help and feedback
 
 Want to propose a talk but would like feedback on your idea, proposal wording, talk title or just on how to deal with nerves? The speaker committee will do everything possible to help you be successful with your proposal and presentation. There are two ways to ask for help:
 
@@ -89,7 +89,7 @@ Want to propose a talk but would like feedback on your idea, proposal wording, t
 
 We stand ready to assist, so please don't hesitate to ask us for help!
 
-### Code of Conduct
+## Code of Conduct
 
 All staff, speakers, and attendees of SeaGL must agree and adhere to the [Code of Conduct](/code_of_conduct) for the safety and enjoyment of all organizers, volunteers, speakers, and attendees. We ask that all prospective speakers review and confirm their willingness to abide by the Code of Conduct terms and expectations when interacting within SeaGL community spaces.
 

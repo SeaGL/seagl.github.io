@@ -10,7 +10,7 @@ tags: '2017'
 
 Thank you, everyone, for participating in and sharing our CFP. It closed this past Monday, which means now is a good time for an update. So, how have we done so far this year?
 
-### CFP by the numbers
+## CFP by the numbers
 
 This year we received a grand total of 138 proposals. This is slightly fewer than last year's 149, but we suspect that what we've lost in quantity we're making up in quality.
 
@@ -35,7 +35,7 @@ This year for the first time the CFP form included checkboxes for whether the pr
 
 Overall though, we're really pleased with how the CFP went and how it ended. So far 2017 is a success!
 
-### So what's next?
+## So what's next?
 
 Now what? Well, for starters we're starting to work with our reviewers to organise that process. Next week we start reviewing talks and… Wait, this is probably easier if I just give you a timeline:
 
@@ -50,7 +50,7 @@ So if you're waiting to hear back about your proposal: hang tight. You should he
 
 Last year we had 50 50-minute speaking slots. We don't know how many speaking slots we'll have this year since it will depend on how many of the new 20-minute proposals the reviewers accept. But at 138 proposals, even at the fewest number of time slots (50) we'll still probably be accepting a nice proportion of them. Will yours be one? We'll find out on August 28th!
 
-### Registration is now open
+## Registration is now open
 
 SeaGL is a free-to-attend conference. No registration is required to join us on October 6th and 7th. That said, it's really handy when people register. It allows us to do better planning for our catering, coffee, and conference party.
 
