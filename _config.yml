@@ -90,7 +90,7 @@ custom:
     readiness:
         attend_portal_launched: true
         matrix_space_created: true
-        conference_within_24h: false
+        conference_within_24h: true
     url:
         irc:
             network:        https://libera.chat/
