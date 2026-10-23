@@ -37,112 +37,104 @@
 	border-radius: 4px;
 	/* border: 1px solid #96c0e7; */
 	/* width: 222px; */
-}
-.crm-contribute-widget h5 {
-	font-size: 14px;
-	padding: 3px;
-	margin: 0px;
-	text-align: center;
-	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
-	border-radius: 4px;
-}
-.crm-contribute-widget .crm-amounts {
-	height: 1em;
-	margin: 0.8em 0px;
-	font-size: 13px;
-}
-.crm-contribute-widget .crm-amount-low {
-	float: left;
-}
-.crm-contribute-widget .crm-amount-high {
-	float: right;
-}
-.crm-contribute-widget .crm-percentage {
-	margin: 0px 30%;
-	text-align: center;
-}
-.crm-contribute-widget .crm-amount-bar {
-	background-color: #fff;
-	width: 100%;
-	display: block;
-	/* border: 1px solid #cecece; */
-	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
-	border-radius: 4px;
-	margin-bottom: 0.8em;
-	text-align: left;
-}
-.crm-contribute-widget .crm-amount-fill {
-	background-color: #2786c2;
-	height: 1em;
-	display: block;
-	-moz-border-radius: 4px 0px 0px 4px;
-	-webkit-border-radius: 4px 0px 0px 4px;
-	border-radius: 4px 0px 0px 4px;
-	text-align: left;
-}
-.crm-contribute-widget .crm-amount-raised-wrapper {
-	margin-bottom: 0.8em;
-}
-.crm-contribute-widget .crm-amount-raised {
-	font-weight: bold;
-}
-.crm-contribute-widget .crm-logo {
-	text-align: center;
-}
-.crm-contribute-widget .crm-comments,
-.crm-contribute-widget .crm-donors,
-.crm-contribute-widget .crm-campaign {
-	font-size: 11px;
-	margin-bottom: 0.8em;
-}
-.crm-contribute-widget .crm-contribute-button {
-	display: block;
-	/* background-color:#CECECE; */
-	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
-	border-radius: 4px;
-	text-align: center;
-	margin: 0px 10% 0.8em 10%;
-	text-decoration: none;
-	/* color:#556C82; */
-	padding: 2px;
-	font-size: 13px;
-}
-.crm-contribute-widget .crm-home-url {
-	text-decoration: none;
-	border: 0px;
-}
-.crm-contribute-widget {
 	/* background-color: #96c0e7; /* background color */
 	/* border-color: #96c0e7; /* border color */
-}
-.crm-contribute-widget h5 {
-	color: #2786c2;
-	background-color: #b7e2ff;
-} /* title */
-.crm-contribute-widget .crm-amount-raised {
-	/* color: #000; */
-}
-.crm-contribute-widget .crm-amount-fill {
-	background-color: #fcb320;
-}
-.crm-contribute-widget a.crm-contribute-button {
-	/* button color */
-	/* background-color:#ffffff; */
-}
-.crm-contribute-widget .crm-contribute-button-inner {
-	/* button text color */
-	padding: 2px;
-	display: block;
-	/* color:#556c82; */
-}
-.crm-contribute-widget .crm-comments,
-/* .crm-contribute-widget .crm-donors, */
-.crm-contribute-widget .crm-campaign {
-	color: #ffffff; /* other color*/
-}
-.crm-contribute-widget .crm-home-url {
-	color: #ffffff; /* home page link color*/
+
+    h5 {
+        font-size: 14px;
+        padding: 3px;
+        margin: 0px;
+        text-align: center;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        color: #2786c2;
+        background-color: #b7e2ff;
+    } /* title */
+
+    .crm-amounts {
+        height: 1em;
+        margin: 0.8em 0px;
+        font-size: 13px;
+    }
+    .crm-amount-low {
+        float: left;
+    }
+    .crm-amount-high {
+        float: right;
+    }
+    .crm-percentage {
+        margin: 0px 30%;
+        text-align: center;
+    }
+    .crm-amount-bar {
+        background-color: #fff;
+        width: 100%;
+        display: block;
+        /* border: 1px solid #cecece; */
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        margin-bottom: 0.8em;
+        text-align: left;
+    }
+    .crm-amount-fill {
+        /* background-color: #2786c2;  */
+        height: 1em;
+        display: block;
+        -moz-border-radius: 4px 0px 0px 4px;
+        -webkit-border-radius: 4px 0px 0px 4px;
+        border-radius: 4px 0px 0px 4px;
+        text-align: left;
+        background-color: #fcb320;
+    }
+    .crm-amount-raised-wrapper {
+        margin-bottom: 0.8em;
+    }
+    .crm-amount-raised {
+        font-weight: bold;
+        /* color: #000; */
+    }
+    .crm-logo {
+        text-align: center;
+    }
+    .crm-comments,
+    .crm-donors,
+    .crm-campaign {
+        font-size: 11px;
+        margin-bottom: 0.8em;
+    }
+    .crm-contribute-button {
+        display: block;
+        /* background-color:#CECECE; */
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        text-align: center;
+        margin: 0px 10% 0.8em 10%;
+        text-decoration: none;
+        /* color:#556C82; */
+        padding: 2px;
+        font-size: 13px;
+        /* button color */
+        /* background-color:#ffffff; */
+    }
+    .crm-home-url {
+        text-decoration: none;
+        border: 0px;
+    }
+    .crm-contribute-button-inner {
+        /* button text color */
+        padding: 2px;
+        display: block;
+        /* color:#556c82; */
+    }
+    .crm-comments,
+    /* .crm-donors, */
+    .crm-campaign {
+        color: #ffffff; /* other color*/
+    }
+    .crm-home-url {
+        color: #ffffff; /* home page link color*/
+    }
 }
