@@ -24,6 +24,7 @@ Here for the social rooms? <a href="https://meet.seagl.org/SeaGL_2026_Social" cl
 ## Special Events
 
 | Fri & Sat 15:30 | Relax with a cuppa delicious, and not so common tea, each afternoon at TeaGL |
+| Sat 18:00 | [KDE movie screening](https://pretalx.seagl.org/2026/talk/VRLA9S/)
 | Sat 19:30 | [Post-conference Social](https://pretalx.seagl.org/2026/talk/BLMHFL/) @ Big Time Brewery |
 {:.timetable}
 
