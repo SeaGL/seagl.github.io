@@ -37,15 +37,15 @@ h1, h2, h3 {
 }
 h1 {
   font-size: 4.5rem;
-  margin-bottom: 2rem;
+  .level-2 & { font-size: 3.5rem; }
 }
 h2 {
   font-size: 3.5rem;
-  margin-bottom: 2rem;
+  .level-2 & { font-size: 2.75rem; }
 }
 h3 {
-  color: #666;
   font-size: 2.5rem;
+  .level-2 & { color: #666; font-size: 2.25rem; }
 }
 h4, h5, h6 {
   color: #666;
@@ -60,7 +60,7 @@ h6 {
   font-size: smaller;
 }
 .with-heading {
-  h2 + & { margin: -1em 0 2em; }
+  h2 + & { margin: -0.5em 0 2em; }
 }
 a:not(.btn):not(.label) {
   &, &:active {
