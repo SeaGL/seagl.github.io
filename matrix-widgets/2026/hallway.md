@@ -16,7 +16,7 @@ Here for the social rooms? <a href="https://meet.seagl.org/SeaGL_2026_Social" cl
 ## Keynotes
 
 | Fri 9:10 | [Toby Betts](https://pretalx.seagl.org/2026/talk/TGRTZU/) <i>The mv Command Doesn't Move Things & Other Stuff New Users Don't Know</i> |
-| Fri 9:40 | [Mariatta](https://pretalx.seagl.org/2026/talk/JTFWJK/) <i>Building my own infrastructure when free is costing more than you think</i>
+| Fri 9:40 | [Mariatta](https://pretalx.seagl.org/2026/talk/JTFWJK/) <i>When Free Costs More Than You Think: Open Source Infrastructure for All </i>
 | Sat 17:00 | [Luis Felipe Rosado Murillo](https://pretalx.seagl.org/2026/talk/J3DHQX/) <i>Common Circuits: Hacking Alternative Technological Futures</i> |
 | Sat 17:30 | [Denver Gingerich](https://pretalx.seagl.org/2026/talk/HTMWCX/) <i>The LLM-gen-AI Elephant in Our FOSS Room</i> |
 {:.timetable}
