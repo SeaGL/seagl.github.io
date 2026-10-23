@@ -144,3 +144,19 @@ table.timetable {
     }
   }
 }
+
+:hover {
+  transition: all .25s ease-in-out;
+}
+
+.page .btn-primary {
+  background-color: #FCB320;
+  border-color: #fcaa07;
+  color: #000;
+  margin-left: 5px;
+  margin-right: 5px;
+
+  &:active, &:focus, &:hover {
+    filter: brightness(90%);
+  }
+}

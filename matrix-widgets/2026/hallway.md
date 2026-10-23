@@ -11,6 +11,8 @@ Welcome to SeaGL 2026!
 
 Our [Code of Conduct](https://seagl.org/code_of_conduct) is in effect in all SeaGL spaces.
 
+Here for the social rooms? <a href="https://meet.seagl.org/SeaGL_2026_Social" class="btn btn-primary">Click here to join Jitsi</a>
+
 ## Keynotes
 
 | Fri 9:10 | [Toby Betts](https://pretalx.seagl.org/2026/talk/TGRTZU/) <i>The mv Command Doesn't Move Things & Other Stuff New Users Don't Know</i> |
