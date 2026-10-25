@@ -9,6 +9,14 @@ page_supports_jumbotron: true
 
 <div class="row"><div class="col-md-4 col-md-push-8" markdown="1">
 
+## Help fund SeaGL 2027!
+
+{%- unless site.custom.readiness.conference_within_24h -%}
+{% unless site.custom.readiness.attend_portal_launched and site.custom.readiness.matrix_space_created %}
+{% include civicrm.html %}
+{% endunless %}
+{%- endunless -%}
+
 ## About
 
 Founded in 2013, SeaGL (the *Seattle GNU/Linux Conference*) is a free—as in freedom and tea—grassroots technical summit dedicated to spreading awareness and knowledge about free / libre / open source software, hardware, and culture.
