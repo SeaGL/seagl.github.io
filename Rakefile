@@ -12,7 +12,7 @@ task :import, [:year] do |_t, args|
   year = args.year
 
   # Retrieve data
-  submissions = get("https://pretalx.seagl.org/api/events/#{year}/submissions/?expand=answers.question,slots,speakers&lang=en&state=confirmed")
+  submissions = get("https://pretalx.seagl.org/api/events/#{year}/submissions/?expand=answers.question,slots,speakers,submission_type&lang=en&state=confirmed")
 
   # Create a file for the conference
   write "_archive-conferences/#{year}.md", {
@@ -28,6 +28,7 @@ task :import, [:year] do |_t, args|
       pretalx_url: "https://pretalx.seagl.org/#{year}/talk/#{submission[:code]}/",
       beginning: submission[:slots][0][:start],
       end: submission[:slots][0][:end],
+      keynote: submission[:submission_type][:name] == "Keynote" ? true : nil,
       resources: {
         project_url: submission[:answers].find { |a| a[:question][:question] == 'Project URL' }&.[](:answer)
       }.compact.presence,
