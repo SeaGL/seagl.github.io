@@ -12,7 +12,7 @@ task :import, [:year] do |_t, args|
   year = args.year
 
   # Retrieve data
-  submissions = get("https://pretalx.seagl.org/api/events/#{year}/submissions/?expand=slots,speakers&pending_state=confirmed")
+  submissions = get("https://pretalx.seagl.org/api/events/#{year}/submissions/?expand=slots,speakers&state=confirmed")
 
   # Create a file for the conference
   write "_archive-conferences/#{year}.md", {
