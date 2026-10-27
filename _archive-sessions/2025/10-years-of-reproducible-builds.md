@@ -3,6 +3,8 @@ title: 10 years of Reproducible Builds
 pretalx_url: https://pretalx.seagl.org/2025/talk/PETMRE/
 beginning: '2025-11-08T14:00:00-08:00'
 end: '2025-11-08T14:50:00-08:00'
+resources:
+  project_url: https://reproducible-builds.org
 presenters:
 - name: Chris Lamb
   pretalx_url: https://pretalx.seagl.org/2025/speaker/AQGWFQ/

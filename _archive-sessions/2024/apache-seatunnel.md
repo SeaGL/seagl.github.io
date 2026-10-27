@@ -5,6 +5,7 @@ beginning: '2024-11-08T16:30:00-08:00'
 end: '2024-11-08T16:50:00-08:00'
 resources:
   internet_archive_identifier: SeaGL2024-Apache_SeaTunnel
+  project_url: https://seatunnel.apache.org/
 presenters:
 - name: William Guo
   pretalx_url: https://pretalx.seagl.org/2024/speaker/F9EL9V/

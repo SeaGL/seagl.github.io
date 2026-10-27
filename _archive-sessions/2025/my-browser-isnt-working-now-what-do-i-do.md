@@ -3,6 +3,8 @@ title: My browser isn't working! Now what do I do?
 pretalx_url: https://pretalx.seagl.org/2025/talk/HT9NCW/
 beginning: '2025-11-07T17:00:00-08:00'
 end: '2025-11-07T17:50:00-08:00'
+resources:
+  project_url: https://github.com/jeffsilverm/nbmdt/tree/development/bf
 presenters:
 - name: Jeff H Silverman
   pretalx_url: https://pretalx.seagl.org/2025/speaker/YCKBNB/

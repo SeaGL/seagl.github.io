@@ -5,6 +5,7 @@ beginning: '2024-11-08T10:30:00-08:00'
 end: '2024-11-08T11:20:00-08:00'
 resources:
   internet_archive_identifier: SeaGL2024-Morias_Race_Libre_Movie_made_with_Libre_Software
+  project_url: https://blenderdumbass.codeberg.page/MoriasRace/
 presenters:
 - name: BlenderDumbass
   pretalx_url: https://pretalx.seagl.org/2024/speaker/7TXRZN/

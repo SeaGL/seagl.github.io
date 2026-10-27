@@ -3,6 +3,8 @@ title: Building a Chromebook replacement with NixOS
 pretalx_url: https://pretalx.seagl.org/2025/talk/YCPRXG/
 beginning: '2025-11-07T11:30:00-08:00'
 end: '2025-11-07T12:20:00-08:00'
+resources:
+  project_url: https://github.com/mkellyxp/nixbook
 presenters:
 - name: Mike Kelly
   pretalx_url: https://pretalx.seagl.org/2025/speaker/8N83CL/

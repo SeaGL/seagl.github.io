@@ -76,6 +76,10 @@ layout: default
         <h3>Resources</h3>
 
         <ul>
+          {% if session.resources.project_url %}
+          <li><a href="{{ session.resources.project_url }}">Project</a></li>
+          {% endif %}
+
           {% if session.resources.resources_url %}
           <li><a href="{{ session.resources.resources_url }}">Resources</a></li>
           {% endif %}

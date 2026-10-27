@@ -3,6 +3,8 @@ title: 'FediPact: Why?'
 pretalx_url: https://pretalx.seagl.org/2025/talk/QANHFC/
 beginning: '2025-11-08T16:30:00-08:00'
 end: '2025-11-08T16:50:00-08:00'
+resources:
+  project_url: https://fedipact.online/
 presenters:
 - name: Vanta Rainbow Black
   pretalx_url: https://pretalx.seagl.org/2025/speaker/VJFK7R/

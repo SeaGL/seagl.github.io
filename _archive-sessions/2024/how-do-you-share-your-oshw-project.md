@@ -5,6 +5,7 @@ beginning: '2024-11-09T11:00:00-08:00'
 end: '2024-11-09T11:50:00-08:00'
 resources:
   internet_archive_identifier: SeaGL2024-How_do_you_share_your_Open_Source_Hardware_project
+  project_url: https://dof-initiative.github.io/oshw-pm-user-stories
 presenters:
 - name: Sean Marquez
   pretalx_url: https://pretalx.seagl.org/2024/speaker/W89VKY/

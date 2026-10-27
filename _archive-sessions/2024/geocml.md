@@ -6,6 +6,7 @@ beginning: '2024-11-09T14:00:00-08:00'
 end: '2024-11-09T14:50:00-08:00'
 resources:
   internet_archive_identifier: SeaGL2024-geoCML
+  project_url: https://geocml.github.io
 presenters:
 - name: Tristan Damron
   pretalx_url: https://pretalx.seagl.org/2024/speaker/BYDY9J/

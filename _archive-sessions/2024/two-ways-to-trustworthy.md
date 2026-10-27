@@ -5,6 +5,7 @@ beginning: '2024-11-08T11:30:00-08:00'
 end: '2024-11-08T12:20:00-08:00'
 resources:
   internet_archive_identifier: SeaGL2024-Two_Ways_to_Trustworthy
+  project_url: https://reproducible-builds.org
 presenters:
 - name: Vagrant Cascadian
   pretalx_url: https://pretalx.seagl.org/2024/speaker/NCYCD9/

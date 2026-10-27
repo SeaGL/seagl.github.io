@@ -3,6 +3,8 @@ title: Productive parallel programming from laptops to supercomputers with Chape
 pretalx_url: https://pretalx.seagl.org/2025/talk/WDYNZF/
 beginning: '2025-11-07T10:30:00-08:00'
 end: '2025-11-07T11:20:00-08:00'
+resources:
+  project_url: https://chapel-lang.org/
 presenters:
 - name: Brad Chamberlain
   pretalx_url: https://pretalx.seagl.org/2025/speaker/HF7F9E/

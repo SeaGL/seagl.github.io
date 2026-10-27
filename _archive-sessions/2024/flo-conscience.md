@@ -7,6 +7,7 @@ end: '2024-11-08T09:40:00-08:00'
 keynote: true
 resources:
   internet_archive_identifier: SeaGL2024-FLO_Conscience
+  project_url: https://codeberg.org/FLO-Conscience/Conscious-Living
 presenters:
 - name: Aaron Wolf
   pretalx_url: https://pretalx.seagl.org/2024/speaker/VZYNWS/
