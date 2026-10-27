@@ -42,10 +42,12 @@ end
 
 def get(url)
   Enumerator.produce({ next: url, results: [] }) { |response|
+    raise StopIteration unless response[:next]
+    sleep 1 unless response[:results].empty?
+
     puts "Retrieving #{response[:next]}"
     JSON.parse(URI.open(response[:next]).read).deep_symbolize_keys!.deep_transform_values! { |v| normalize(v) }
   }
-    .take_while { |response| response[:next] and sleep 1 }
     .flat_map { |response| response[:results] }
 end
 
