@@ -4,7 +4,7 @@ pretalx_url: https://pretalx.seagl.org/2026/talk/9WFVJB/
 beginning: '2026-10-24T10:30:00-07:00'
 end: '2026-10-24T11:20:00-07:00'
 resources:
-  project_url: htttps://paintedwolf.ai
+  project_url: https://paintedwolf.ai
 presenters:
 - name: ChrisBeckman
   pretalx_url: https://pretalx.seagl.org/2026/speaker/UXKQU7/
@@ -26,23 +26,28 @@ What it is
 - Local first, totally customizable. Built in Go.
 
 Why another agent?
+
 - To be frank, I built it for myself. I wanted greater transparency than SaaS products, but couldn't find an OSS project that was quite what I wanted, though many excellent options do exist.
 - Painted Wolf Code is a workflow engine: everyday coding runs a workflow manifest; catalog flows share the same phases, gates, and proofs.
 
 Customization
+
 - Composable templates for agent personas, coordinator surfaces, and structured tool guidance.
 - Declarative YAML: extend bundled recipes, compose from templates, or author your own.
 - Reusable primitives (intake, review loops, human approval, fan-out) — engine furniture, not prompt luck.
 
 Evidence & grounding
+
 - Durable evidence ledger captures tool output at commit time.
 - Typed citations verified against observed results.
 - Gates require proof before advance; scan and worker findings feed the same ledger.
 
 Security scanning
+
 - Built-in SCA, secrets detection, and SAST.
 - Runs at project open; wired into workflow gates and closeout.
 
 Takeaways
+
 - Customize deeply, verify claims, gate on evidence and scans — orchestration tuned for open source models.
 - Local-first, open source AI coding has arrived.

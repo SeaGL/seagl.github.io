@@ -23,14 +23,16 @@ abstract: |-
 ---
 
 You'll hear about the most recent findings from the systematic study of topics that are key to our community, such as:
-        * What can academia tell us about solving our real-world problems in FLOSS?
-        * Which engineering, cybersecurity, design, and management practices really make a difference?
-        * How can we work together to build more awesome communities to sustain open source projects?
+
+* What can academia tell us about solving our real-world problems in FLOSS?
+* Which engineering, cybersecurity, design, and management practices really make a difference?
+* How can we work together to build more awesome communities to sustain open source projects?
 
 You'll walk away from this beginner-friendly talk with:
-        * evidence about what works and what doesn't
-        * analysis about the size and scope of the challenges we face
-        * new ideas for taking action personally and inside organizations
-        * plus all the insights from data, quick tips, and news you can use I can pack into my timeslot.
+
+* evidence about what works and what doesn't
+* analysis about the size and scope of the challenges we face
+* new ideas for taking action personally and inside organizations
+* plus all the insights from data, quick tips, and news you can use I can pack into my timeslot.
 
 See you soon!

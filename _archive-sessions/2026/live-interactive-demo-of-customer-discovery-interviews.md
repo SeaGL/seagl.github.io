@@ -31,6 +31,6 @@ So how do you find out what people will really buy or use? Customer discovery is
 
 The presenter has been coaching a team of local techies interested in starting a worker-owned cooperative in Seattle. The group has recently conducted dozens of customer discovery interviews. Members of this team will play the role of customer in the live demo interviews. Audience members will also have the option to volunteer to be interviewed.
 
-This demo session will start with a hypothesis about a customer need: “If [product/service] solves [problem] then [specific type of customer] will adopt the solution.” The audience will learn how to document and analyze the interview data to support or disprove the hypothesis.
+This demo session will start with a hypothesis about a customer need: “If \[product/service\] solves \[problem\] then \[specific type of customer\] will adopt the solution.” The audience will learn how to document and analyze the interview data to support or disprove the hypothesis.
 
 The customer discovery process takes practice, but is not particularly complex, and audience members should leave the session with the knowledge to conduct and analyze their own interviews.

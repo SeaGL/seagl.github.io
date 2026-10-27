@@ -3,8 +3,6 @@ title: 'Chasing perfection: websites that pass all the tests'
 pretalx_url: https://pretalx.seagl.org/2026/talk/WADZHG/
 beginning: '2026-10-23T14:30:00-07:00'
 end: '2026-10-23T14:50:00-07:00'
-resources:
-  project_url: https://guideline-journey.com/, https://wsg-o-matic.com/, https://whatcompublichospital.org/
 presenters:
 - name: airbr
   pretalx_url: https://pretalx.seagl.org/2026/speaker/SX7FAU/
@@ -14,7 +12,7 @@ presenters:
     and New Zealand citizen, and passionate about that too. I am excited to potentially
     present at SeaGL!
 abstract: |-
-  ### Have you ever wanted to achieve website perfection?
+  Have you ever wanted to achieve website perfection?
 
   Ever wanted to get (and maintain) four 100/100 scores in Lighthouse? Make automated accessibility tests like Axe DevTools pass completely? ... Even tame the most verbose and difficult of checkers, the W3C Validator?
 

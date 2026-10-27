@@ -8,14 +8,14 @@ resources:
 presenters:
 - name: mmar
   pretalx_url: https://pretalx.seagl.org/2026/speaker/N7M9VB/
-  biography: |-
-    they/them
-    software engineer, open source contributor, and tech organizer
+  pronouns: they/them
+  biography: software engineer, open source contributor, and tech organizer
 - name: Linnea
   pretalx_url: https://pretalx.seagl.org/2026/speaker/S3YX93/
   biography: Linnea is a tech worker and a member of the Resist Tech Monopolies collective.
 abstract: |-
   Resist Tech Monopolies (RTM) runs a game called Mapbattle, at which participants use public transportation to go around the city and make Open Street Map (OSM) contributions to gain territory.
+
   The presentation will go over the idea of the game and what inspired it (spoiler: SeaGL 2025 is part of that story), the technology behind the game's website, and the observed community benefits of running this game as well as other benefits we hope the game achieves as it keeps running.
 ---
 

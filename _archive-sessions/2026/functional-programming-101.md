@@ -24,4 +24,5 @@ abstract: Functional programming is often seen as difficult or only relevant to 
 ---
 
 Have you ever wondered why so many experienced developers recommend learning Haskell or functional programming, even if you never plan to use it at work? This session answers that question by introducing the core principles of functional programming in a practical, approachable way. We'll cover pure functions, immutability, function composition, higher-order functions, and how strong type systems can catch bugs before your code runs. Rather than focusing on theory, we'll connect these ideas to problems every developer faces.
+
 By the end of the talk, you'll understand why functional programming has influenced nearly every modern language and how adopting its mindset can help you write simpler, more reliable, and more maintainable software—whether you're contributing to open source, building production systems, or just looking to become a better thinker.

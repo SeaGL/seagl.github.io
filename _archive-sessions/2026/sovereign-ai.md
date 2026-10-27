@@ -4,7 +4,7 @@ pretalx_url: https://pretalx.seagl.org/2026/talk/MAJNGL/
 beginning: '2026-10-23T11:30:00-07:00'
 end: '2026-10-23T12:20:00-07:00'
 resources:
-  project_url: www.bradydibble.com/ai-sovereignty-modest-hardware
+  project_url: https://www.bradydibble.com/ai-sovereignty-modest-hardware
 presenters:
 - name: Brady Dibble
   pretalx_url: https://pretalx.seagl.org/2026/speaker/FBFPUE/
@@ -26,8 +26,9 @@ abstract: AI assistants like Claude and ChatGPT are powerful, convenient, and a 
 Cloud AI assistants are convenient, and they come with strings: metered pricing that changes, rate limits, models deprecated out from under your workflows, terms of service you don't set, and all your data leaving your premises.
 
 This is a practical tour of the alternative: an agentic AI stack you host and own.
+
 - We start honestly, with the tradeoffs. Open-weight LLM models give up some reasoning quality, some context length, and the polished tooling the big vendors ship. If you don't have crazy hardware, speed is also an issue. But for many agentic use cases, speed isn't necessary. Knowing what you actually lose is what lets you decide when local is enough and when a cloud call earns its keep.
- - Then we rebuild capability with open tools. Consumer hardware can run modern open-weight models with fast enough for real, useful work. From there we borrow from HPC. We'll show how to make a beowulf cluster with cheap secondhand mini-PCs, turning hardware most people would recycle into useful compute. A small routing layer puts every backend behind one OpenAI-compatible endpoint, so the agent tools you already run target your hardware instead of a vendor.
+- Then we rebuild capability with open tools. Consumer hardware can run modern open-weight models with fast enough for real, useful work. From there we borrow from HPC. We'll show how to make a beowulf cluster with cheap secondhand mini-PCs, turning hardware most people would recycle into useful compute. A small routing layer puts every backend behind one OpenAI-compatible endpoint, so the agent tools you already run target your hardware instead of a vendor.
 - The missing piece is that once you have an LLM running locally, the hard part is the harness.
 - We close on the reason that matters most: sovereignty. Your data stays on your network, the model you validated behaves the same next month, you can run fully offline, and the cloud becomes an option you choose rather than a foundation you depend on.
 

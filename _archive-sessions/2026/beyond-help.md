@@ -9,9 +9,8 @@ presenters:
   biography: I'm Joni! I'm a computer programmer from Seattle. For work, I do Embedded
     Linux things for robotic tractors and other farm equipment. I'm a SCUBA diver,
     Wilderness First Responder, banjo player, and open source aficionado.
+abstract: Learn how to use the `man` command on Linux to read documentation!
 ---
-
-**Learn how to use the `man` command on Linux to read documentation!**
 
 Man pages have a reputation for being cryptic, intimidating, and written for people who already know the answer. However, they're available offline, pre-installed in most places, and consistently structured. Once you can "RTFM" (read the friendly manual), you'll never go back!
 

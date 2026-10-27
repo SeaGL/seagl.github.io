@@ -35,5 +35,5 @@ This talk is deeply referenced by the scenarios we faced in the last one year. T
 But again, How do we know our strategies have worked around? After taking 100+ interviews with our stakeholders as part of NSF-Pose Program we say clarity for 2 things. First what challenges has the OS community faced in the last few years after AI became huge. Second, How our strategies sustained this shift to provide its users with the best-experience and Technology used actively by 10,000+ users world-wide
 
 This talk is referenced by a year worth of effort from the stdlib community which we expressed through our blogs:-
-- https://blog.stdlib.io
-- https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/
+- <https://blog.stdlib.io>
+- <https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/>

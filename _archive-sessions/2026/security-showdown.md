@@ -6,13 +6,13 @@ end: '2026-10-24T15:20:00-07:00'
 presenters:
 - name: Gordon Messmer
   pretalx_url: https://pretalx.seagl.org/2026/speaker/GQDEU3/
-  biography: 'I''ve been developing software for GNU/Linux systems and managing production
-    networks since 1997. I''ve worked in small businesses and very large scale networks
+  biography: "I've been developing software for GNU/Linux systems and managing production
+    networks since 1997. I've worked in small businesses and very large scale networks
     like Google. After the XZ Utils attack, I wrote a debugger that analyzed a running
     process to look for signs of namespace tampering, and Fedora uses that tool to
     protect some of its critical packages. Security is an important factor in my work.
     I work on Fedora and occasionally contribute to the package management infrastructure
-    itself: dnf, rpm, PackageKit.'
+    itself: dnf, rpm, PackageKit."
 abstract: |-
   The security characteristics of LTS vs regular release models haven't fundamentally changed over the last 30 years, but the general community sentiment toward them has. As adversaries develop and adopt better tools, it becomes increasingly important to understand the difference between LTS and regular release models.
   This talk will explore the basic challenges that exist in keeping LTS systems secure, especially as they continue to ship code that is no longer maintained upstream.

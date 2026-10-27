@@ -8,7 +8,7 @@ presenters:
   pretalx_url: https://pretalx.seagl.org/2026/speaker/RYYEKJ/
   biography: Romeo is a sysadmin and conference speaker. He does cool stuff with the
     computer. You can find his website with links to talk recordings and long-winded
-    writeups of occasionally technical topics at https://punkto.org.
+    writeups of occasionally technical topics at <https://punkto.org>.
 abstract: It's larger than you can comfortably fit in your head.
 ---
 

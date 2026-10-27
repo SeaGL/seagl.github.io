@@ -11,7 +11,8 @@ presenters:
   biography: |-
     Kasanwa-Solane "KaSo" Aster-Hope is an ace autistic panromantic polyamorous tonsi with a background in tech.
     Originally from Miami, FL, KaSo are happy to have moved to Seattle approximately 28 months ago, in June 2024 (relative timestamp is relative to conference date).
-    It are the sole admin of the OctoFriends.Garden set of services, which operates from its apartment.
+
+    It are the sole admin of the [OctoFriends.Garden](https://octofriends.garden/) set of services, which operates from its apartment.
 ---
 
 I find that it's difficult for me to transform the words in my head into the audio that people can hear. Sometimes, even the right words sound wrong due to the auditory properties of how I say them.

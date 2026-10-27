@@ -9,9 +9,8 @@ presenters:
 - name: Maho Pacheco
   pretalx_url: https://pretalx.seagl.org/2026/speaker/YES9GR/
   biography: |-
-    **Maho Pacheco**
-    _Senior Software Engineer, Microsoft_
-    [linkedin.com](https://www.linkedin.com/in/mahomedalid/)
+    _Senior Software Engineer, Microsoft_  
+    [linkedin.com](https://www.linkedin.com/in/mahomedalid/)  
     [mastodon](https://hachyderm.io/@mapache)
 
     With 20+ years of code, open-source passion since 1999, and a commitment to community-powered tech, I build and mentor systems that scale and empower. CTO at SOMOS.tech, where I help bring technology to underserved communities.
@@ -31,16 +30,16 @@ BadgeFed emerged from that gap.
 
 BadgeFed is an open-source, federated badge system that combines:
 
-Open Badges for standard, portable credentials
-ActivityPub for federation and distribution
+Open Badges for standard, portable credentials  
+ActivityPub for federation and distribution  
 A self-hostable .NET application designed to run on Linux
 
 Instead of issuing badges from a centralized platform, BadgeFed treats credentials as federated objects. They can be created, shared, discovered, and verified across independent instances—similar to how Mastodon federates social content.
 
 This unlocks new possibilities:
 
-Organizations fully own their credential infrastructure
-Badges persist beyond any single platform or issuer
+Organizations fully own their credential infrastructure  
+Badges persist beyond any single platform or issuer  
 Recognition becomes part of the social web, not a silo
 
 We’ll also look at real-world applications through community-driven credentialing efforts, where nonprofits can deploy their own instances and participate in a shared, federated ecosystem

@@ -7,8 +7,8 @@ presenters:
 - name: Shawn W Dunn
   pretalx_url: https://pretalx.seagl.org/2026/speaker/E8SX8Y/
   biography: |-
-    Lead Developer, Kalpa Desktop
-    openSUSE Board Member
+    Lead Developer, Kalpa Desktop  
+    openSUSE Board Member  
     LXQt Maintainer, Fedora and openSUSE
 - name: Neal Gompa
   pretalx_url: https://pretalx.seagl.org/2026/speaker/AH3D3G/
